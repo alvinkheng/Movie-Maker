@@ -34,6 +34,8 @@ View3DWindow::View3DWindow(GuiMultiKinectController& controller, QWidget *parent
 {  
     ui->setupUi(this);
     ui->mesh_view->window = this;
+    ui->mesh_view->enableLighting();
+	ui->mesh_view->initializeCameraView();
 }
 
 View3DWindow::~View3DWindow()
@@ -229,3 +231,22 @@ void View3DWindow::on_pauseButton_clicked() {
 void View3DWindow::on_timeSlider_valueChanged(int value) {
     m_controller.replayScanner().setCurrentReplayFrame(value * m_controller.replayScanner().getNumRecordedFrames() / 100);
 }
+
+void View3DWindow::on_setCamera_clicked() {
+	printf("set camera\n");
+	int cameraIndex = ui->camera_selector->currentIndex();
+	ui->mesh_view->saveCameraView(cameraIndex);
+}
+
+void View3DWindow::on_viewCamera_clicked() {
+	printf("view camera\n");
+	int cameraIndex = ui->camera_selector->currentIndex();
+	ui->mesh_view->setCameraView(cameraIndex);
+}
+
+void View3DWindow::on_addCamera_clicked() {
+	printf("new camera\n");
+	ui->mesh_view->newCameraView();
+	ui->camera_selector->addItem(ui->camera_name->text(), QVariant::Char);
+}
+

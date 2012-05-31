@@ -16,7 +16,94 @@
   <widget class="QWidget" name="centralwidget">
    <layout class="QVBoxLayout" name="verticalLayout">
        
-       
+       <item>
+           <widget class="QFrame" name="frame_6">
+               <property name="sizePolicy">
+                   <sizepolicy hsizetype="Preferred" vsizetype="Fixed">
+                       <horstretch>0</horstretch>
+                       <verstretch>0</verstretch>
+                   </sizepolicy>
+               </property>
+               <property name="frameShape">
+                   <enum>QFrame::StyledPanel</enum>
+               </property>
+               <property name="frameShadow">
+                   <enum>QFrame::Raised</enum>
+               </property>
+               <layout class="QHBoxLayout" name="horizontalLayout0">
+                   <item>
+                       <widget class="QLabel" name="label">
+                           <property name="text">
+                               <string>New Camera:</string>
+                           </property>
+                       </widget>
+                   </item>
+                   <item>
+                       <widget class="QLineEdit" name="camera_name">
+                           <property name="minimumSize">
+                               <size>
+                                   <width>70</width>
+                                   <height>0</height>
+                               </size>
+                           </property>
+                           <property name="focusPolicy">
+                               <enum>Qt::ClickFocus</enum>
+                           </property>
+                           <property name="text">
+                               <string>Camera Label</string>
+                           </property>
+                       </widget>
+                   </item>
+                   <item>
+                       <widget class="QPushButton" name="addCamera">
+                           <property name="text">
+                               <string>Add Camera</string>
+                           </property>
+                       </widget>
+                   </item>
+                   <item>
+                       <widget class="QComboBox" name="camera_selector">
+                           <item>
+                               <property name="text">
+                                   <string>Default Camera</string>
+                               </property>
+                           </item>
+                       </widget>
+                   </item>
+                   <item>
+                       <layout class="QHBoxLayout" name="horizontalLayout_camera1">
+                           <item>
+                               <widget class="QPushButton" name="setCamera">
+                                   <property name="text">
+                                       <string>Save</string>
+                                   </property>
+                               </widget>
+                           </item>
+                           <item>
+                               <widget class="QPushButton" name="viewCamera">
+                                   <property name="text">
+                                       <string>View</string>
+                                   </property>
+                               </widget>
+                           </item>
+                       </layout>
+                   </item>
+                   <item>
+                       <spacer name="horizontalSpacer">
+                           <property name="orientation">
+                               <enum>Qt::Horizontal</enum>
+                           </property>
+                           <property name="sizeHint" stdset="0">
+                               <size>
+                                   <width>40</width>
+                                   <height>20</height>
+                               </size>
+                           </property>
+                       </spacer>
+                   </item>
+               </layout>
+           </widget>
+       </item>
        
        <item>
            <widget class="QFrame" name="frame0">

@@ -71,6 +71,10 @@ public slots:
     void closeEvent(QCloseEvent *event);
 
 private slots:
+    void on_setCamera_clicked();
+	void on_viewCamera_clicked();
+	void on_addCamera_clicked();
+    
     void on_trianglePushButton_clicked();
     void on_surfelsPushButton_clicked();
     void on_pointCloudPushButton_clicked();
