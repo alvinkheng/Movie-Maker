@@ -1,7 +1,0 @@
-//
-// Prefix header for all source files of the 'Movie-Maker' target in the 'Movie-Maker' project
-//
-
-#ifdef __OBJC__
-    #import <Cocoa/Cocoa.h>
-#endif
