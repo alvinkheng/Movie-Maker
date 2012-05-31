@@ -1,0 +1,430 @@
+TnimCommon
+v5
+r1
+cCheck dependencies
+cCompileC build/nestk/deps/openni/Source/Modules/Common/RGBDemo.build/Debug/nimCommon.build/Objects-normal/x86_64/DataRecords.o /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/Common/DataRecords.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+cLd /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libnimCommon.dylib normal x86_64
+cPhaseScriptExecution "CMake PostBuild Rules" /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni/Source/Modules/Common/RGBDemo.build/Debug/nimCommon.build/Script-F3303A36EEEC47ADB192E580.sh
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk
+c000000004F29C61A00000000000000EE
+t1328137754
+s238
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/assert.h
+c000000004F6A243F0000000000000F6E
+t1332356159
+s3950
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/fcntl.h
+c000000004F6A244000000000000003EA
+t1332356160
+s1002
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/pthread.h
+c000000004F6A24410000000000003CF0
+t1332356161
+s15600
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/stdio.h
+c000000004F6A24410000000000004763
+t1332356161
+s18275
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/stdlib.h
+c000000004F6A244100000000000030A7
+t1332356161
+s12455
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/string.h
+c000000004F6A24410000000000001A3A
+t1332356161
+s6714
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/sys/stat.h
+c000000004F6A24410000000000004B2F
+t1332356161
+s19247
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/sys/time.h
+c000000004F6A24410000000000001E64
+t1332356161
+s7780
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/sys/types.h
+c000000004F6A24410000000000002905
+t1332356161
+s10501
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/time.h
+c000000004F6A2441000000000000178E
+t1332356161
+s6030
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/unistd.h
+c000000004F6A24410000000000006662
+t1332356161
+s26210
+
+N/Applications/Xcode.app/Contents/Developer/usr/llvm-gcc-4.2/lib/gcc/i686-apple-darwin11/4.2.1/include/float.h
+c000000004F6A24460000000000001538
+t1332356166
+s5432
+
+N/Applications/Xcode.app/Contents/Developer/usr/llvm-gcc-4.2/lib/gcc/i686-apple-darwin11/4.2.1/include/stdarg.h
+c000000004F6A244600000000000010DD
+t1332356166
+s4317
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libnimCommon.dylib
+t2
+s0
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni/Source/Modules/Common/RGBDemo.build/Debug/nimCommon.build/Objects-normal/x86_64/DataRecords.o
+t2
+s0
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni/Source/Modules/Common/RGBDemo.build/Debug/nimCommon.build/Objects-normal/x86_64/nimCommon.LinkFileList
+c000000004FA45D3C00000000000000A9
+t1336171836
+s169
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni/Source/Modules/Common/RGBDemo.build/Debug/nimCommon.build/Script-F3303A36EEEC47ADB192E580.sh
+c000000004FA45D3C0000000000000114
+t1336171836
+s276
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/ARC/XnOSARC.h
+c000000004FA45A750000000000001A28
+t1336171125
+s6696
+i<sys/types.h>
+i<stdarg.h>
+i<time.h>
+i<stdio.h>
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/ARC/XnPlatformARC.h
+c000000004FA45A750000000000001B4F
+t1336171125
+s6991
+i<unistd.h>
+i<stdlib.h>
+i<stdio.h>
+i<string.h>
+i<assert.h>
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/Android-Arm/XnPlatformAndroid-Arm.h
+c000000004FA45A7500000000000009F2
+t1336171125
+s2546
+i"../Linux-x86/XnPlatformLinux-x86.h"
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/Linux-Arm/XnPlatformLinux-Arm.h
+c000000004FA45A750000000000000892
+t1336171125
+s2194
+i"../Linux-x86/XnPlatformLinux-x86.h"
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/Linux-x86/XnOSLinux-x86.h
+c000000004FA45A750000000000001A10
+t1336171125
+s6672
+i<sys/types.h>
+i<stdarg.h>
+i<time.h>
+i<pthread.h>
+i<sys/stat.h>
+i<fcntl.h>
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/Linux-x86/XnPlatformLinux-x86.h
+c000000004FA45A750000000000001C30
+t1336171125
+s7216
+i<unistd.h>
+i<stdlib.h>
+i<stdio.h>
+i<string.h>
+i<assert.h>
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/MacOSX/XnPlatformMacOSX.h
+c000000004FA45A7500000000000008B6
+t1336171125
+s2230
+i"../Linux-x86/XnPlatformLinux-x86.h"
+i<sys/time.h>
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/Win32/XnOSWin32.h
+c000000004FA45A750000000000001D16
+t1336171125
+s7446
+i<windows.h>
+i<time.h>
+i<stdlib.h>
+i<stdio.h>
+i<malloc.h>
+i<io.h>
+i<assert.h>
+i<float.h>
+i<crtdbg.h>
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/Win32/XnPlatformWin32.h
+c000000004FA45A75000000000000225F
+t1336171125
+s8799
+i<windows.h>
+i<stdlib.h>
+i<stdio.h>
+i<malloc.h>
+i<io.h>
+i<time.h>
+i<assert.h>
+i<float.h>
+i<crtdbg.h>
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnContext.h
+c000000004FA45A750000000000005A4B
+t1336171125
+s23115
+i<XnTypes.h>
+i<XnQueries.h>
+i<XnPrdNodeInfoList.h>
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnDump.h
+c000000004FA45A7500000000000019CC
+t1336171125
+s6604
+i"XnOS.h"
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnEnumerationErrors.h
+c000000004FA45A7500000000000015CE
+t1336171125
+s5582
+i<XnTypes.h>
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnLicensing.h
+c000000004FA45A750000000000000C03
+t1336171125
+s3075
+i<XnTypes.h>
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnLog.h
+c000000004FA45A75000000000000334C
+t1336171125
+s13132
+i"XnOS.h"
+i"XnLogTypes.h"
+i"XnDump.h"
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnLogTypes.h
+c000000004FA45A750000000000000D5D
+t1336171125
+s3421
+i"XnPlatform.h"
+i"XnTypes.h"
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnMacros.h
+c000000004FA45A750000000000001027
+t1336171125
+s4135
+i"XnStatusCodes.h"
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnModuleInterface.h
+c000000004FA45A75000000000000F5DB
+t1336171125
+s62939
+i<XnTypes.h>
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnOS.h
+c000000004FA45A75000000000000A332
+t1336171125
+s41778
+i"XnPlatform.h"
+i"XnMacros.h"
+i"XnStatusCodes.h"
+i"XnOSStrings.h"
+i"XnOSMemory.h"
+i"Win32/XnOSWin32.h"
+i"Linux-x86/XnOSLinux-x86.h"
+i"ARC/XnOSARC.h"
+i<new>
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnOSMemory.h
+c000000004FA45A750000000000000C7E
+t1336171125
+s3198
+i"XnPlatform.h"
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnOSStrings.h
+c000000004FA45A750000000000000D88
+t1336171125
+s3464
+i"XnPlatform.h"
+i<stdarg.h>
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnOpenNI.h
+c000000004FA45A750000000000000A1F
+t1336171125
+s2591
+i"XnTypes.h"
+i"XnContext.h"
+i"XnLicensing.h"
+i"XnUtils.h"
+i"XnPrdNodeInfo.h"
+i"XnQueries.h"
+i"XnPrdNode.h"
+i"XnEnumerationErrors.h"
+i"XnVersion.h"
+i"XnStatusCodes.h"
+i"XnStatus.h"
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnPlatform.h
+c000000004FA45A750000000000001291
+t1336171125
+s4753
+i"Win32/XnPlatformWin32.h"
+i"Android-Arm/XnPlatformAndroid-Arm.h"
+i"Linux-x86/XnPlatformLinux-x86.h"
+i"Linux-Arm/XnPlatformLinux-Arm.h"
+i"ARC/XnPlatformARC.h"
+i"MacOSX/XnPlatformMacOSX.h"
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnPrdNode.h
+c000000004FA45A75000000000001B094
+t1336171125
+s110740
+i<XnTypes.h>
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnPrdNodeInfo.h
+c000000004FA45A75000000000000156E
+t1336171125
+s5486
+i<XnTypes.h>
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnPrdNodeInfoList.h
+c000000004FA45A750000000000002225
+t1336171125
+s8741
+i<XnTypes.h>
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnQueries.h
+c000000004FA45A750000000000001A83
+t1336171125
+s6787
+i"XnTypes.h"
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnStatus.h
+c000000004FA45A750000000000001198
+t1336171125
+s4504
+i"XnPlatform.h"
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnStatusCodes.h
+c000000004FA45A750000000000001591
+t1336171125
+s5521
+i"XnStatus.h"
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnTypes.h
+c000000004FA45A750000000000008EEF
+t1336171125
+s36591
+i<XnStatus.h>
+i<XnOS.h>
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnUtils.h
+c000000004FA45A7500000000000039C6
+t1336171125
+s14790
+i<XnTypes.h>
+i<XnModuleInterface.h>
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnVersion.h
+c000000004FA45A750000000000000C59
+t1336171125
+s3161
+i"XnPlatform.h"
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/Common/DataRecords.cpp
+c000000004FA45A760000000000006E57
+t1336171126
+s28247
+i"DataRecords.h"
+i<XnLog.h>
+i<XnOpenNI.h>
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/Common/DataRecords.h
+c000000004FA45A7600000000000029EE
+t1336171126
+s10734
+i<XnPlatform.h>
+i<XnStatus.h>
+i<XnTypes.h>
+
+CBuild AST from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/Common/DataRecords.cpp
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies48a33abc9454b541^780b44bc9454b541^---0#1#0#--18"Check dependencies36"5D6911E3-47FF-4BBB-9337-E6E956CC4123-
+
+CCompileC build/nestk/deps/openni/Source/Modules/Common/RGBDemo.build/Debug/nimCommon.build/Objects-normal/x86_64/DataRecords.o /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/Common/DataRecords.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+s357864636.267612
+e357864636.647200
+r1
+xCompileC
+xbuild/nestk/deps/openni/Source/Modules/Common/RGBDemo.build/Debug/nimCommon.build/Objects-normal/x86_64/DataRecords.o
+x/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/Common/DataRecords.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvmgcc42
+o/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/Common/DataRecords.h: In constructor 'Record::Record(XnUInt8*, XnUInt32)':
+o/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/Common/DataRecords.h:124: warning: 'Record::m_nMaxSize' will be initialized after
+o/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/Common/DataRecords.h:123: warning:   'XnUInt32 Record::m_nReadOffset'
+o/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/Common/DataRecords.cpp:36: warning:   when initialized here
+o/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/Common/DataRecords.h: In copy constructor 'Record::Record(const Record&)':
+o/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/Common/DataRecords.h:124: warning: 'Record::m_nMaxSize' will be initialized after
+o/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/Common/DataRecords.h:123: warning:   'XnUInt32 Record::m_nReadOffset'
+o/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/Common/DataRecords.cpp:48: warning:   when initialized here
+o/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/Common/DataRecords.h: In constructor 'GeneralPropRecord::GeneralPropRecord(XnUInt8*, XnUInt32, XnUInt32)':
+o/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/Common/DataRecords.h:232: warning: 'GeneralPropRecord::m_nPropRecordType' will be initialized after
+o/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/Common/DataRecords.cpp:579: warning:   base 'Record'
+o/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/Common/DataRecords.cpp:574: warning:   when initialized here
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection114"Compile /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/Common/DataRecords.cppc79b44bc9454b541^9cbfa5bc9454b541^-1903"/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/Common/DataRecords.h: In constructor 'Record::Record(XnUInt8*, XnUInt32)':/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/Common/DataRecords.h:124: warning: 'Record::m_nMaxSize' will be initialized after/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/Common/DataRecords.h:123: warning:   'XnUInt32 Record::m_nReadOffset'/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/Common/DataRecords.cpp:36: warning:   when initialized here/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/Common/DataRecords.h: In copy constructor 'Record::Record(const Record&)':/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/Common/DataRecords.h:124: warning: 'Record::m_nMaxSize' will be initialized after/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/Common/DataRecords.h:123: warning:   'XnUInt32 Record::m_nReadOffset'/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/Common/DataRecords.cpp:48: warning:   when initialized here/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/Common/DataRecords.h: In constructor 'GeneralPropRecord::GeneralPropRecord(XnUInt8*, XnUInt32, XnUInt32)':/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/Common/DataRecords.h:232: warning: 'GeneralPropRecord::m_nPropRecordType' will be initialized after/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/Common/DataRecords.cpp:579: warning:   base 'Record'/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/Common/DataRecords.cpp:574: warning:   when initialized here9(21%IDEActivityLogMessage2@46"'Record::m_nMaxSize' will be initialized after-357864636#159#166#-1#-23%DVTTextDocumentLocation3@120"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/Common/DataRecords.h0000000000000000^123#18446744073709551615#123#18446744073709551615#18446744073709551615#0#20"LLVM GCC 4.2 Warning--2@32"'XnUInt32 Record::m_nReadOffset'-357864636#325#154#-1#-3@120"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/Common/DataRecords.h0000000000000000^122#18446744073709551615#122#18446744073709551615#18446744073709551615#0#20"LLVM GCC 4.2 Warning--2@21"When initialized here-357864636#479#144#-1#-3@122"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/Common/DataRecords.cpp0000000000000000^35#18446744073709551615#35#18446744073709551615#18446744073709551615#0#20"LLVM GCC 4.2 Warning--2@46"'Record::m_nMaxSize' will be initialized after-357864636#782#166#-1#-3@120"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/Common/DataRecords.h0000000000000000^123#18446744073709551615#123#18446744073709551615#18446744073709551615#0#20"LLVM GCC 4.2 Warning--2@32"'XnUInt32 Record::m_nReadOffset'-357864636#948#154#-1#-3@120"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/Common/DataRecords.h0000000000000000^122#18446744073709551615#122#18446744073709551615#18446744073709551615#0#20"LLVM GCC 4.2 Warning--2@21"When initialized here-357864636#1102#144#-1#-3@122"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/Common/DataRecords.cpp0000000000000000^47#18446744073709551615#47#18446744073709551615#18446744073709551615#0#20"LLVM GCC 4.2 Warning--2@64"'GeneralPropRecord::m_nPropRecordType' will be initialized after-357864636#1437#184#-1#-3@120"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/Common/DataRecords.h0000000000000000^231#18446744073709551615#231#18446744073709551615#18446744073709551615#0#20"LLVM GCC 4.2 Warning--2@13"Base 'Record'-357864636#1621#137#-1#-3@122"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/Common/DataRecords.cpp0000000000000000^578#18446744073709551615#578#18446744073709551615#18446744073709551615#0#20"LLVM GCC 4.2 Warning--2@21"When initialized here-357864636#1758#145#-1#-3@122"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/Common/DataRecords.cpp0000000000000000^573#18446744073709551615#573#18446744073709551615#18446744073709551615#0#20"LLVM GCC 4.2 Warning--0#0#0#-19%DVTDocumentLocation4@122"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/Common/DataRecords.cpp0000000000000000^1897"CompileC build/nestk/deps/openni/Source/Modules/Common/RGBDemo.build/Debug/nimCommon.build/Objects-normal/x86_64/DataRecords.o nestk/deps/openni/Source/Modules/Common/DataRecords.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42    cd /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 "-DCMAKE_INTDIR=\"Debug\"" -DnimCommon_EXPORTS "-DCUSTOM_SAMPLE_XML_PATH=\"config/SamplesConfig.xml\"" "-DCUSTOM_SAMPLE_USER_XML_PATH=\"config/Sample-User.xml\"" -DXN_USE_CUSTOM_MODULES_FILE=xn_modules_file -DUSE_GLUT -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -mmacosx-version-min=10.7 -gdwarf-2 -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/include -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/macosx/libusb-7da756e -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/Common -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni/Source/Modules/Common/RGBDemo.build/Debug/nimCommon.build/DerivedSources/x86_64 -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni/Source/Modules/Common/RGBDemo.build/Debug/nimCommon.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug -fPIC -c /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/Common/DataRecords.cpp -o /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni/Source/Modules/Common/RGBDemo.build/Debug/nimCommon.build/Objects-normal/x86_64/DataRecords.o36"F635081A-20A0-4BCF-9DC0-900092FE72C0-
+
+CLd /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libnimCommon.dylib normal x86_64
+s357864636.789125
+e357864636.831929
+r1
+xLd
+x/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libnimCommon.dylib
+xnormal
+xx86_64
+old: warning: directory not found for option '-L/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Nite/Lib/MacOSX/Debug'
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"Link /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libnimCommon.dylib1618cabc9454b541^d61bd5bc9454b541^-139"ld: warning: directory not found for option '-L/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Nite/Lib/MacOSX/Debug'1(21%IDEActivityLogMessage2@125"Directory not found for option '-L/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Nite/Lib/MacOSX/Debug'-357864636#0#139#-1#-23%DVTTextDocumentLocation3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#32"Apple Mach-O Linker (ld) Warning--0#0#0#--1484"Ld build/lib/Debug/libnimCommon.dylib normal x86_64    cd /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo    setenv MACOSX_DEPLOYMENT_TARGET 10.7    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-g++-4.2 -arch x86_64 -dynamiclib -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk -L/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug -L/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Nite/Lib/MacOSX/Debug -L/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Nite/Lib/MacOSX -F/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug -filelist /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni/Source/Modules/Common/RGBDemo.build/Debug/nimCommon.build/Objects-normal/x86_64/nimCommon.LinkFileList -install_name /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libnimCommon.dylib -mmacosx-version-min=10.7 -dynamiclib -Wl,-headerpad_max_install_names /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libOpenNI.dylib /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libusb.dylib -framework IOKit -framework CoreFoundation /usr/lib/libdl.dylib /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libTinyXml.a -framework CoreFoundation -framework IOKit -single_module -o /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libnimCommon.dylib36"2EB8673F-1D35-4F19-8834-CFE901086980-
+
+CPhaseScriptExecution "CMake PostBuild Rules" /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni/Source/Modules/Common/RGBDemo.build/Debug/nimCommon.build/Script-F3303A36EEEC47ADB192E580.sh
+s357864642.825868
+e357864642.922763
+r1
+xPhaseScriptExecution
+xCMake PostBuild Rules
+x/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni/Source/Modules/Common/RGBDemo.build/Debug/nimCommon.build/Script-F3303A36EEEC47ADB192E580.sh
+oecho "Depend check for xcode"
+oDepend check for xcode
+ocd /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni && make -C /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni/CMakeScripts/XCODE_DEPEND_HELPER.make PostBuild.nimCommon.Debug
+o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libnimRecorder.dylib
+oecho "Depend check for xcode"
+oDepend check for xcode
+ocd /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build && make -C /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/CMakeScripts/XCODE_DEPEND_HELPER.make PostBuild.nimCommon.Debug
+o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libnimRecorder.dylib
+oecho "Depend check for xcode"
+oDepend check for xcode
+ocd /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk && make -C /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/CMakeScripts/XCODE_DEPEND_HELPER.make PostBuild.nimCommon.Debug
+o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libnimRecorder.dylib
+oecho "Depend check for xcode"
+oDepend check for xcode
+ocd /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps && make -C /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/CMakeScripts/XCODE_DEPEND_HELPER.make PostBuild.nimCommon.Debug
+o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libnimRecorder.dylib
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection47"Run custom shell script 'CMake PostBuild Rules'ac03d4c29454b541^234decc29454b541^-1721"echo "Depend check for xcode"Depend check for xcodecd /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni && make -C /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni/CMakeScripts/XCODE_DEPEND_HELPER.make PostBuild.nimCommon.Debug/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libnimRecorder.dylibecho "Depend check for xcode"Depend check for xcodecd /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build && make -C /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/CMakeScripts/XCODE_DEPEND_HELPER.make PostBuild.nimCommon.Debug/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libnimRecorder.dylibecho "Depend check for xcode"Depend check for xcodecd /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk && make -C /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/CMakeScripts/XCODE_DEPEND_HELPER.make PostBuild.nimCommon.Debug/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libnimRecorder.dylibecho "Depend check for xcode"Depend check for xcodecd /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps && make -C /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/CMakeScripts/XCODE_DEPEND_HELPER.make PostBuild.nimCommon.Debug/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libnimRecorder.dylib16(21%IDEActivityLogMessage2@30"echo "Depend check for xcode"-357864642#0#30#-0#-----2@23"Depend check for xcode-357864642#30#23#-0#-----2@306"cd /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni && make -C /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni/CMakeScripts/XCODE_DEPEND_HELPER.make PostBuild.nimCommon.Debug-357864642#53#306#-0#-----2@99"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libnimRecorder.dylib-357864642#359#99#-0#-----2@30"echo "Depend check for xcode"-357864642#458#30#-0#-----2@23"Depend check for xcode-357864642#488#23#-0#-----2@252"cd /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build && make -C /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/CMakeScripts/XCODE_DEPEND_HELPER.make PostBuild.nimCommon.Debug-357864642#511#252#-0#-----2@99"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libnimRecorder.dylib-357864642#763#99#-0#-----2@30"echo "Depend check for xcode"-357864642#862#30#-0#-----2@23"Depend check for xcode-357864642#892#23#-0#-----2@270"cd /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk && make -C /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/CMakeScripts/XCODE_DEPEND_HELPER.make PostBuild.nimCommon.Debug-357864642#915#270#-0#-----2@99"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libnimRecorder.dylib-357864642#1185#99#-0#-----2@30"echo "Depend check for xcode"-357864642#1284#30#-0#-----2@23"Depend check for xcode-357864642#1314#23#-0#-----2@285"cd /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps && make -C /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/CMakeScripts/XCODE_DEPEND_HELPER.make PostBuild.nimCommon.Debug-357864642#1337#285#-0#-----2@99"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libnimRecorder.dylib-357864642#1622#99#-0#-----0#0#0#--403"PhaseScriptExecution "CMake PostBuild Rules" build/nestk/deps/openni/Source/Modules/Common/RGBDemo.build/Debug/nimCommon.build/Script-F3303A36EEEC47ADB192E580.sh    cd /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo    /bin/sh -c /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni/Source/Modules/Common/RGBDemo.build/Debug/nimCommon.build/Script-F3303A36EEEC47ADB192E580.sh36"B6422C6E-0CAF-4430-A127-D6339EE58F3E-
+

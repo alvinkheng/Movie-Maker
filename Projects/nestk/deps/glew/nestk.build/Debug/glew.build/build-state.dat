@@ -1,0 +1,176 @@
+Tglew
+v5
+r1
+cCheck dependencies
+cCompileC /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/glew/nestk.build/Debug/glew.build/Objects-normal/x86_64/glew.o /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/glew/src/glew.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libglew.dylib normal x86_64
+cPhaseScriptExecution "CMake PostBuild Rules" /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/glew/nestk.build/Debug/glew.build/Script-4D26E801EF394BDDBEFB0134.sh
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk
+c000000004F29C61A00000000000000EE
+t1328137754
+s238
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/AvailabilityMacros.h
+c000000004F6A243F0000000000007A5E
+t1332356159
+s31326
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/dlfcn.h
+c000000004F6A24400000000000000B1C
+t1332356160
+s2844
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/inttypes.h
+c000000004F6A24400000000000002674
+t1332356160
+s9844
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/mach-o/dyld.h
+c000000004F6A24400000000000003CB5
+t1332356160
+s15541
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/stdio.h
+c000000004F6A24410000000000004763
+t1332356161
+s18275
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/stdlib.h
+c000000004F6A244100000000000030A7
+t1332356161
+s12455
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/string.h
+c000000004F6A24410000000000001A3A
+t1332356161
+s6714
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libglew.dylib
+t1336172102
+s548712
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/glew/nestk.build/Debug/glew.build/Objects-normal/x86_64/glew.LinkFileList
+c000000004FA462440000000000000083
+t1336173124
+s131
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/glew/nestk.build/Debug/glew.build/Objects-normal/x86_64/glew.o
+t2
+s0
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/glew/nestk.build/Debug/glew.build/Script-4D26E801EF394BDDBEFB0134.sh
+c000000004FA4624400000000000000DF
+t1336173124
+s223
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/glew/include/GL/glew.h
+c000000004FA45A7500000000000C54DE
+t1336171125
+s808158
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/glew/include/GL/glxew.h
+c000000004FA45A75000000000000F188
+t1336171125
+s61832
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/glew/include/GL/wglew.h
+c000000004FA45A75000000000000DCCA
+t1336171125
+s56522
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/glew/src/glew.c
+c000000004FA45A7500000000000BC2E5
+t1336171125
+s770789
+i<GL/glew.h>
+i<GL/wglew.h>
+i<GL/glxew.h>
+i<stdlib.h>
+i<string.h>
+i<AvailabilityMacros.h>
+i<dlfcn.h>
+i<mach-o/dyld.h>
+i<dlfcn.h>
+i<stdio.h>
+i<stdlib.h>
+i<inttypes.h>
+i<inttypes.h>
+i<inttypes.h>
+
+CBuild AST from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/glew/src/glew.c
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciesbe4c54c49954b541^7e5669c49954b541^---0#1#0#--18"Check dependencies36"91CC6045-62A4-4395-8E54-8EDBD26B10A6-
+
+CCompileC /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/glew/nestk.build/Debug/glew.build/Objects-normal/x86_64/glew.o /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/glew/src/glew.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
+s357865924.411223
+e357865926.580205
+r1
+xCompileC
+x/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/glew/nestk.build/Debug/glew.build/Objects-normal/x86_64/glew.o
+x/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/glew/src/glew.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"Compile /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/glew/src/glew.cd55d69c49954b541^da8f94c69954b541^---0#0#0#-19%DVTDocumentLocation2@93"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/glew/src/glew.c0000000000000000^2169"CompileC /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/glew/nestk.build/Debug/glew.build/Objects-normal/x86_64/glew.o deps/glew/src/glew.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch x86_64 -fmessage-length=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof "-DCMAKE_INTDIR=\"Debug\"" -Dglew_EXPORTS -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -Wdeprecated-declarations -mmacosx-version-min=10.7 -g -Wno-conversion -Wno-sign-conversion -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/include -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/glew/include -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/glew/nestk.build/Debug/glew.build/DerivedSources/x86_64 -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/glew/nestk.build/Debug/glew.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug -fPIC -MMD -MT dependencies -MF /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/glew/nestk.build/Debug/glew.build/Objects-normal/x86_64/glew.d --serialize-diagnostics /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/glew/nestk.build/Debug/glew.build/Objects-normal/x86_64/glew.dia -c /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/glew/src/glew.c -o /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/glew/nestk.build/Debug/glew.build/Objects-normal/x86_64/glew.o36"74449615-03D2-42AA-9230-332FB1198B51-
+
+CLd /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libglew.dylib normal x86_64
+s357865926.586683
+e357865926.674883
+r1
+xLd
+x/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libglew.dylib
+xnormal
+xx86_64
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"Link /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libglew.dylib134396c69954b541^c4ceacc69954b541^---0#0#0#--1022"Ld /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libglew.dylib normal x86_64    cd /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk    setenv MACOSX_DEPLOYMENT_TARGET 10.7    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch x86_64 -dynamiclib -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk -L/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug -F/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug -filelist /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/glew/nestk.build/Debug/glew.build/Objects-normal/x86_64/glew.LinkFileList -install_name /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libglew.dylib -mmacosx-version-min=10.7 -dynamiclib -Wl,-headerpad_max_install_names -framework AGL -framework OpenGL -single_module -o /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libglew.dylib36"2C0F0DC4-9A2C-41A4-BF83-0233AE76EBDB-
+
+CPhaseScriptExecution "CMake PostBuild Rules" /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/glew/nestk.build/Debug/glew.build/Script-4D26E801EF394BDDBEFB0134.sh
+s357865926.687221
+e357865926.897650
+r1
+xPhaseScriptExecution
+xCMake PostBuild Rules
+x/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/glew/nestk.build/Debug/glew.build/Script-4D26E801EF394BDDBEFB0134.sh
+oecho "Depend check for xcode"
+oDepend check for xcode
+ocd /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build && make -C /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/CMakeScripts/XCODE_DEPEND_HELPER.make PostBuild.glew.Debug
+o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/grab-mesh
+o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/handpoint-tracking
+o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/libfreenect-backend
+o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/multiple-kinects
+o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/openni-backend
+o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/skeleton-tracking
+o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/synchronized-multiple-kinects
+o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/calibrate-kinect-ir
+o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/calibrate-multiple-kinects
+o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/calibrate-openni-depth
+o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/calibrate-openni-intrinsics
+o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/calibrate-projector
+o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/rgbd-viewer
+o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/rgbd-reconstructor
+o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/rgbd-people-tracker
+o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/rgbd-skeletor
+oecho "Depend check for xcode"
+oDepend check for xcode
+ocd /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/glew && make -C /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/glew -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/glew/CMakeScripts/XCODE_DEPEND_HELPER.make PostBuild.glew.Debug
+omake[1]: Nothing to be done for `PostBuild.glew.Debug'.
+oecho "Depend check for xcode"
+oDepend check for xcode
+ocd /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk && make -C /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/CMakeScripts/XCODE_DEPEND_HELPER.make PostBuild.glew.Debug
+o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/grab-mesh
+o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/handpoint-tracking
+o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/libfreenect-backend
+o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/multiple-kinects
+o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/openni-backend
+o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/skeleton-tracking
+o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/synchronized-multiple-kinects
+oecho "Depend check for xcode"
+oDepend check for xcode
+ocd /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps && make -C /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/CMakeScripts/XCODE_DEPEND_HELPER.make PostBuild.glew.Debug
+omake[1]: Nothing to be done for `PostBuild.glew.Debug'.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection47"Run custom shell script 'CMake PostBuild Rules'6171b0c69954b541^b7d0e5c69954b541^-3646"echo "Depend check for xcode"Depend check for xcodecd /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build && make -C /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/CMakeScripts/XCODE_DEPEND_HELPER.make PostBuild.glew.Debug/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/grab-mesh/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/handpoint-tracking/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/libfreenect-backend/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/multiple-kinects/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/openni-backend/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/skeleton-tracking/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/synchronized-multiple-kinects/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/calibrate-kinect-ir/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/calibrate-multiple-kinects/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/calibrate-openni-depth/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/calibrate-openni-intrinsics/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/calibrate-projector/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/rgbd-viewer/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/rgbd-reconstructor/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/rgbd-people-tracker/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/rgbd-skeletorecho "Depend check for xcode"Depend check for xcodecd /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/glew && make -C /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/glew -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/glew/CMakeScripts/XCODE_DEPEND_HELPER.make PostBuild.glew.Debugmake[1]: Nothing to be done for `PostBuild.glew.Debug'.echo "Depend check for xcode"Depend check for xcodecd /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk && make -C /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/CMakeScripts/XCODE_DEPEND_HELPER.make PostBuild.glew.Debug/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/grab-mesh/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/handpoint-tracking/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/libfreenect-backend/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/multiple-kinects/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/openni-backend/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/skeleton-tracking/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/synchronized-multiple-kinectsecho "Depend check for xcode"Depend check for xcodecd /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps && make -C /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/CMakeScripts/XCODE_DEPEND_HELPER.make PostBuild.glew.Debugmake[1]: Nothing to be done for `PostBuild.glew.Debug'.37(21%IDEActivityLogMessage2@30"echo "Depend check for xcode"-357865926#0#30#-0#-----2@23"Depend check for xcode-357865926#30#23#-0#-----2@247"cd /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build && make -C /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/CMakeScripts/XCODE_DEPEND_HELPER.make PostBuild.glew.Debug-357865926#53#247#-0#-----2@88"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/grab-mesh-357865926#300#88#-0#-----2@97"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/handpoint-tracking-357865926#388#97#-0#-----2@98"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/libfreenect-backend-357865926#485#98#-0#-----2@95"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/multiple-kinects-357865926#583#95#-0#-----2@93"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/openni-backend-357865926#678#93#-0#-----2@96"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/skeleton-tracking-357865926#771#96#-0#-----2@108"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/synchronized-multiple-kinects-357865926#867#108#-0#-----2@98"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/calibrate-kinect-ir-357865926#975#98#-0#-----2@105"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/calibrate-multiple-kinects-357865926#1073#105#-0#-----2@101"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/calibrate-openni-depth-357865926#1178#101#-0#-----2@106"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/calibrate-openni-intrinsics-357865926#1279#106#-0#-----2@98"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/calibrate-projector-357865926#1385#98#-0#-----2@90"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/rgbd-viewer-357865926#1483#90#-0#-----2@97"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/rgbd-reconstructor-357865926#1573#97#-0#-----2@98"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/rgbd-people-tracker-357865926#1670#98#-0#-----2@92"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/rgbd-skeletor-357865926#1768#92#-0#-----2@30"echo "Depend check for xcode"-357865926#1860#30#-0#-----2@23"Depend check for xcode-357865926#1890#23#-0#-----2@295"cd /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/glew && make -C /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/glew -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/glew/CMakeScripts/XCODE_DEPEND_HELPER.make PostBuild.glew.Debug-357865926#1913#295#-0#-----2@56"make[1]: Nothing to be done for `PostBuild.glew.Debug'.-357865926#2208#56#-0#-----2@30"echo "Depend check for xcode"-357865926#2264#30#-0#-----2@23"Depend check for xcode-357865926#2294#23#-0#-----2@265"cd /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk && make -C /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/CMakeScripts/XCODE_DEPEND_HELPER.make PostBuild.glew.Debug-357865926#2317#265#-0#-----2@88"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/grab-mesh-357865926#2582#88#-0#-----2@97"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/handpoint-tracking-357865926#2670#97#-0#-----2@98"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/libfreenect-backend-357865926#2767#98#-0#-----2@95"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/multiple-kinects-357865926#2865#95#-0#-----2@93"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/openni-backend-357865926#2960#93#-0#-----2@96"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/skeleton-tracking-357865926#3053#96#-0#-----2@108"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/synchronized-multiple-kinects-357865926#3149#108#-0#-----2@30"echo "Depend check for xcode"-357865926#3257#30#-0#-----2@23"Depend check for xcode-357865926#3287#23#-0#-----2@280"cd /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps && make -C /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/CMakeScripts/XCODE_DEPEND_HELPER.make PostBuild.glew.Debug-357865926#3310#280#-0#-----2@56"make[1]: Nothing to be done for `PostBuild.glew.Debug'.-357865926#3590#56#-0#-----0#0#0#--398"PhaseScriptExecution "CMake PostBuild Rules" /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/glew/nestk.build/Debug/glew.build/Script-4D26E801EF394BDDBEFB0134.sh    cd /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk    /bin/sh -c /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/glew/nestk.build/Debug/glew.build/Script-4D26E801EF394BDDBEFB0134.sh36"51B94ADA-1BDA-47BD-B6EF-DB9A3A12AD1A-
+

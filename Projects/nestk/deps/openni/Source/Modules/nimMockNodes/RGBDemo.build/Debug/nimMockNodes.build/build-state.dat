@@ -1,0 +1,1006 @@
+TnimMockNodes
+v5
+r1
+cCheck dependencies
+cCompileC build/nestk/deps/openni/Source/Modules/nimMockNodes/RGBDemo.build/Debug/nimMockNodes.build/Objects-normal/x86_64/ExportedMockNodes.o /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/ExportedMockNodes.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+cCompileC build/nestk/deps/openni/Source/Modules/nimMockNodes/RGBDemo.build/Debug/nimMockNodes.build/Objects-normal/x86_64/MockAudioGenerator.o /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockAudioGenerator.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+cCompileC build/nestk/deps/openni/Source/Modules/nimMockNodes/RGBDemo.build/Debug/nimMockNodes.build/Objects-normal/x86_64/MockDepthGenerator.o /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockDepthGenerator.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+cCompileC build/nestk/deps/openni/Source/Modules/nimMockNodes/RGBDemo.build/Debug/nimMockNodes.build/Objects-normal/x86_64/MockDevice.o /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockDevice.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+cCompileC build/nestk/deps/openni/Source/Modules/nimMockNodes/RGBDemo.build/Debug/nimMockNodes.build/Objects-normal/x86_64/MockGenerator.o /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockGenerator.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+cCompileC build/nestk/deps/openni/Source/Modules/nimMockNodes/RGBDemo.build/Debug/nimMockNodes.build/Objects-normal/x86_64/MockImageGenerator.o /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockImageGenerator.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+cCompileC build/nestk/deps/openni/Source/Modules/nimMockNodes/RGBDemo.build/Debug/nimMockNodes.build/Objects-normal/x86_64/MockIRGenerator.o /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockIRGenerator.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+cCompileC build/nestk/deps/openni/Source/Modules/nimMockNodes/RGBDemo.build/Debug/nimMockNodes.build/Objects-normal/x86_64/MockMapGenerator.o /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockMapGenerator.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+cCompileC build/nestk/deps/openni/Source/Modules/nimMockNodes/RGBDemo.build/Debug/nimMockNodes.build/Objects-normal/x86_64/MockProductionNode.o /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockProductionNode.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+cCompileC build/nestk/deps/openni/Source/Modules/nimMockNodes/RGBDemo.build/Debug/nimMockNodes.build/Objects-normal/x86_64/nimMockNodes.o /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/nimMockNodes.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+cLd /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libnimMockNodes.dylib normal x86_64
+cPhaseScriptExecution "CMake PostBuild Rules" /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni/Source/Modules/nimMockNodes/RGBDemo.build/Debug/nimMockNodes.build/Script-3A7909017E494E7C8A6F58F8.sh
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk
+c000000004F29C61A00000000000000EE
+t1328137754
+s238
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/assert.h
+c000000004F6A243F0000000000000F6E
+t1332356159
+s3950
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/fcntl.h
+c000000004F6A244000000000000003EA
+t1332356160
+s1002
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/pthread.h
+c000000004F6A24410000000000003CF0
+t1332356161
+s15600
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/stdio.h
+c000000004F6A24410000000000004763
+t1332356161
+s18275
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/stdlib.h
+c000000004F6A244100000000000030A7
+t1332356161
+s12455
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/string.h
+c000000004F6A24410000000000001A3A
+t1332356161
+s6714
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/sys/stat.h
+c000000004F6A24410000000000004B2F
+t1332356161
+s19247
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/sys/time.h
+c000000004F6A24410000000000001E64
+t1332356161
+s7780
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/sys/types.h
+c000000004F6A24410000000000002905
+t1332356161
+s10501
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/time.h
+c000000004F6A2441000000000000178E
+t1332356161
+s6030
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/unistd.h
+c000000004F6A24410000000000006662
+t1332356161
+s26210
+
+N/Applications/Xcode.app/Contents/Developer/usr/llvm-gcc-4.2/lib/gcc/i686-apple-darwin11/4.2.1/include/float.h
+c000000004F6A24460000000000001538
+t1332356166
+s5432
+
+N/Applications/Xcode.app/Contents/Developer/usr/llvm-gcc-4.2/lib/gcc/i686-apple-darwin11/4.2.1/include/stdarg.h
+c000000004F6A244600000000000010DD
+t1332356166
+s4317
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libnimMockNodes.dylib
+t2
+s0
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni/Source/Modules/nimMockNodes/RGBDemo.build/Debug/nimMockNodes.build/Objects-normal/x86_64/ExportedMockNodes.o
+t2
+s0
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni/Source/Modules/nimMockNodes/RGBDemo.build/Debug/nimMockNodes.build/Objects-normal/x86_64/MockAudioGenerator.o
+t2
+s0
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni/Source/Modules/nimMockNodes/RGBDemo.build/Debug/nimMockNodes.build/Objects-normal/x86_64/MockDepthGenerator.o
+t2
+s0
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni/Source/Modules/nimMockNodes/RGBDemo.build/Debug/nimMockNodes.build/Objects-normal/x86_64/MockDevice.o
+t2
+s0
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni/Source/Modules/nimMockNodes/RGBDemo.build/Debug/nimMockNodes.build/Objects-normal/x86_64/MockGenerator.o
+t2
+s0
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni/Source/Modules/nimMockNodes/RGBDemo.build/Debug/nimMockNodes.build/Objects-normal/x86_64/MockIRGenerator.o
+t2
+s0
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni/Source/Modules/nimMockNodes/RGBDemo.build/Debug/nimMockNodes.build/Objects-normal/x86_64/MockImageGenerator.o
+t2
+s0
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni/Source/Modules/nimMockNodes/RGBDemo.build/Debug/nimMockNodes.build/Objects-normal/x86_64/MockMapGenerator.o
+t2
+s0
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni/Source/Modules/nimMockNodes/RGBDemo.build/Debug/nimMockNodes.build/Objects-normal/x86_64/MockProductionNode.o
+t2
+s0
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni/Source/Modules/nimMockNodes/RGBDemo.build/Debug/nimMockNodes.build/Objects-normal/x86_64/nimMockNodes.LinkFileList
+c000000004FA45D350000000000000721
+t1336171829
+s1825
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni/Source/Modules/nimMockNodes/RGBDemo.build/Debug/nimMockNodes.build/Objects-normal/x86_64/nimMockNodes.o
+t2
+s0
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni/Source/Modules/nimMockNodes/RGBDemo.build/Debug/nimMockNodes.build/Script-3A7909017E494E7C8A6F58F8.sh
+c000000004FA45D350000000000000123
+t1336171829
+s291
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/ARC/XnOSARC.h
+c000000004FA45A750000000000001A28
+t1336171125
+s6696
+i<sys/types.h>
+i<stdarg.h>
+i<time.h>
+i<stdio.h>
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/ARC/XnPlatformARC.h
+c000000004FA45A750000000000001B4F
+t1336171125
+s6991
+i<unistd.h>
+i<stdlib.h>
+i<stdio.h>
+i<string.h>
+i<assert.h>
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/Android-Arm/XnPlatformAndroid-Arm.h
+c000000004FA45A7500000000000009F2
+t1336171125
+s2546
+i"../Linux-x86/XnPlatformLinux-x86.h"
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/IXnNodeAllocator.h
+c000000004FA45A750000000000000932
+t1336171125
+s2354
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/Linux-Arm/XnPlatformLinux-Arm.h
+c000000004FA45A750000000000000892
+t1336171125
+s2194
+i"../Linux-x86/XnPlatformLinux-x86.h"
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/Linux-x86/XnOSLinux-x86.h
+c000000004FA45A750000000000001A10
+t1336171125
+s6672
+i<sys/types.h>
+i<stdarg.h>
+i<time.h>
+i<pthread.h>
+i<sys/stat.h>
+i<fcntl.h>
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/Linux-x86/XnPlatformLinux-x86.h
+c000000004FA45A750000000000001C30
+t1336171125
+s7216
+i<unistd.h>
+i<stdlib.h>
+i<stdio.h>
+i<string.h>
+i<assert.h>
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/MacOSX/XnPlatformMacOSX.h
+c000000004FA45A7500000000000008B6
+t1336171125
+s2230
+i"../Linux-x86/XnPlatformLinux-x86.h"
+i<sys/time.h>
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/Win32/XnOSWin32.h
+c000000004FA45A750000000000001D16
+t1336171125
+s7446
+i<windows.h>
+i<time.h>
+i<stdlib.h>
+i<stdio.h>
+i<malloc.h>
+i<io.h>
+i<assert.h>
+i<float.h>
+i<crtdbg.h>
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/Win32/XnPlatformWin32.h
+c000000004FA45A75000000000000225F
+t1336171125
+s8799
+i<windows.h>
+i<stdlib.h>
+i<stdio.h>
+i<malloc.h>
+i<io.h>
+i<time.h>
+i<assert.h>
+i<float.h>
+i<crtdbg.h>
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnBaseNode.h
+c000000004FA45A750000000000000B3A
+t1336171125
+s2874
+i<XnDataTypes.h>
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnCallback.h
+c000000004FA45A750000000000000904
+t1336171125
+s2308
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnCodecIDs.h
+c000000004FA45A750000000000000838
+t1336171125
+s2104
+i"XnTypes.h"
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnContext.h
+c000000004FA45A750000000000005A4B
+t1336171125
+s23115
+i<XnTypes.h>
+i<XnQueries.h>
+i<XnPrdNodeInfoList.h>
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnCppWrapper.h
+c000000004FA45A750000000000034C4E
+t1336171125
+s216142
+i<XnOpenNI.h>
+i<XnCodecIDs.h>
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnDataTypes.h
+c000000004FA45A75000000000000127F
+t1336171125
+s4735
+i"XnOS.h"
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnDump.h
+c000000004FA45A7500000000000019CC
+t1336171125
+s6604
+i"XnOS.h"
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnEnumerationErrors.h
+c000000004FA45A7500000000000015CE
+t1336171125
+s5582
+i<XnTypes.h>
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnEvent.h
+c000000004FA45A7500000000000036CA
+t1336171125
+s14026
+i"XnCallback.h"
+i"XnList.h"
+i"XnTypes.h"
+i"XnOSCpp.h"
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnGeneralBuffer.h
+c000000004FA45A7500000000000010E3
+t1336171125
+s4323
+i"XnPlatform.h"
+i"XnOS.h"
+i"XnStatusCodes.h"
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnHash.h
+c000000004FA45A7500000000000083A0
+t1336171125
+s33696
+i"XnList.h"
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnInternalDefs.h
+c000000004FA45A7500000000000006FB
+t1336171125
+s1787
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnLicensing.h
+c000000004FA45A750000000000000C03
+t1336171125
+s3075
+i<XnTypes.h>
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnList.h
+c000000004FA45A75000000000000565B
+t1336171125
+s22107
+i<XnDataTypes.h>
+i<IXnNodeAllocator.h>
+i<XnNodeAllocator.h>
+i<XnNode.h>
+i<XnStatusCodes.h>
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnLog.h
+c000000004FA45A75000000000000334C
+t1336171125
+s13132
+i"XnOS.h"
+i"XnLogTypes.h"
+i"XnDump.h"
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnLogTypes.h
+c000000004FA45A750000000000000D5D
+t1336171125
+s3421
+i"XnPlatform.h"
+i"XnTypes.h"
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnMacros.h
+c000000004FA45A750000000000001027
+t1336171125
+s4135
+i"XnStatusCodes.h"
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnModuleCFunctions.h
+c000000004FA45A7500000000000191F0
+t1336171125
+s102896
+i"XnModuleCppInterface.h"
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnModuleCppInterface.h
+c000000004FA45A750000000000006D87
+t1336171125
+s28039
+i"XnModuleInterface.h"
+i"XnList.h"
+i"XnCppWrapper.h"
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnModuleCppRegistratration.h
+c000000004FA45A750000000000003873
+t1336171125
+s14451
+i"XnModuleCppInterface.h"
+i<XnUtils.h>
+i<XnModuleCFunctions.h>
+i<XnUtils.h>
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnModuleInterface.h
+c000000004FA45A75000000000000F5DB
+t1336171125
+s62939
+i<XnTypes.h>
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnNode.h
+c000000004FA45A750000000000000C81
+t1336171125
+s3201
+i<XnDataTypes.h>
+i<XnBaseNode.h>
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnNodeAllocator.h
+c000000004FA45A750000000000000891
+t1336171125
+s2193
+i<IXnNodeAllocator.h>
+i<XnNode.h>
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnOS.h
+c000000004FA45A75000000000000A332
+t1336171125
+s41778
+i"XnPlatform.h"
+i"XnMacros.h"
+i"XnStatusCodes.h"
+i"XnOSStrings.h"
+i"XnOSMemory.h"
+i"Win32/XnOSWin32.h"
+i"Linux-x86/XnOSLinux-x86.h"
+i"ARC/XnOSARC.h"
+i<new>
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnOSCpp.h
+c000000004FA45A750000000000001103
+t1336171125
+s4355
+i<XnOS.h>
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnOSMemory.h
+c000000004FA45A750000000000000C7E
+t1336171125
+s3198
+i"XnPlatform.h"
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnOSStrings.h
+c000000004FA45A750000000000000D88
+t1336171125
+s3464
+i"XnPlatform.h"
+i<stdarg.h>
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnOpenNI.h
+c000000004FA45A750000000000000A1F
+t1336171125
+s2591
+i"XnTypes.h"
+i"XnContext.h"
+i"XnLicensing.h"
+i"XnUtils.h"
+i"XnPrdNodeInfo.h"
+i"XnQueries.h"
+i"XnPrdNode.h"
+i"XnEnumerationErrors.h"
+i"XnVersion.h"
+i"XnStatusCodes.h"
+i"XnStatus.h"
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnPlatform.h
+c000000004FA45A750000000000001291
+t1336171125
+s4753
+i"Win32/XnPlatformWin32.h"
+i"Android-Arm/XnPlatformAndroid-Arm.h"
+i"Linux-x86/XnPlatformLinux-x86.h"
+i"Linux-Arm/XnPlatformLinux-Arm.h"
+i"ARC/XnPlatformARC.h"
+i"MacOSX/XnPlatformMacOSX.h"
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnPrdNode.h
+c000000004FA45A75000000000001B094
+t1336171125
+s110740
+i<XnTypes.h>
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnPrdNodeInfo.h
+c000000004FA45A75000000000000156E
+t1336171125
+s5486
+i<XnTypes.h>
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnPrdNodeInfoList.h
+c000000004FA45A750000000000002225
+t1336171125
+s8741
+i<XnTypes.h>
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnPropNames.h
+c000000004FA45A750000000000000D04
+t1336171125
+s3332
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnQueries.h
+c000000004FA45A750000000000001A83
+t1336171125
+s6787
+i"XnTypes.h"
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnStatus.h
+c000000004FA45A750000000000001198
+t1336171125
+s4504
+i"XnPlatform.h"
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnStatusCodes.h
+c000000004FA45A750000000000001591
+t1336171125
+s5521
+i"XnStatus.h"
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnStringsHash.h
+c000000004FA45A7500000000000013B4
+t1336171125
+s5044
+i"XnHash.h"
+i<XnOS.h>
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnTypes.h
+c000000004FA45A750000000000008EEF
+t1336171125
+s36591
+i<XnStatus.h>
+i<XnOS.h>
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnUtils.h
+c000000004FA45A7500000000000039C6
+t1336171125
+s14790
+i<XnTypes.h>
+i<XnModuleInterface.h>
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnVersion.h
+c000000004FA45A750000000000000C59
+t1336171125
+s3161
+i"XnPlatform.h"
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/ExportedMockNodes.cpp
+c000000004FA45A7600000000000016F7
+t1336171126
+s5879
+i"ExportedMockNodes.h"
+i"MockDevice.h"
+i"MockDepthGenerator.h"
+i"MockImageGenerator.h"
+i"MockIRGenerator.h"
+i"MockAudioGenerator.h"
+i<XnInternalDefs.h>
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/ExportedMockNodes.h
+c000000004FA45A7600000000000010CB
+t1336171126
+s4299
+i"nimMockNodes.h"
+i<XnTypes.h>
+i<XnModuleCppInterface.h>
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockAudioGenerator.cpp
+c000000004FA45A76000000000000167B
+t1336171126
+s5755
+i"MockAudioGenerator.h"
+i<XnPropNames.h>
+i<XnOS.h>
+i<XnLog.h>
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockAudioGenerator.h
+c000000004FA45A760000000000000C53
+t1336171126
+s3155
+i<XnModuleCppInterface.h>
+i<XnTypes.h>
+i"MockGenerator.h"
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockDepthGenerator.cpp
+c000000004FA45A7600000000000015FC
+t1336171126
+s5628
+i"MockDepthGenerator.h"
+i<XnPropNames.h>
+i<XnOS.h>
+i<XnLog.h>
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockDepthGenerator.h
+c000000004FA45A760000000000000CBF
+t1336171126
+s3263
+i<XnModuleCppInterface.h>
+i<XnTypes.h>
+i"MockMapGenerator.h"
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockDevice.cpp
+c000000004FA45A76000000000000070A
+t1336171126
+s1802
+i"MockDevice.h"
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockDevice.h
+c000000004FA45A760000000000000718
+t1336171126
+s1816
+i"MockProductionNode.h"
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockGenerator.cpp
+c000000004FA45A76000000000000219D
+t1336171126
+s8605
+i"MockGenerator.h"
+i<XnPropNames.h>
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockGenerator.h
+c000000004FA45A760000000000001351
+t1336171126
+s4945
+i<XnModuleCppInterface.h>
+i<XnTypes.h>
+i<XnEvent.h>
+i"MockProductionNode.h"
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockIRGenerator.cpp
+c000000004FA45A760000000000000777
+t1336171126
+s1911
+i"MockIRGenerator.h"
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockIRGenerator.h
+c000000004FA45A7600000000000008E8
+t1336171126
+s2280
+i<XnModuleCppInterface.h>
+i<XnTypes.h>
+i"MockMapGenerator.h"
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockImageGenerator.cpp
+c000000004FA45A760000000000001114
+t1336171126
+s4372
+i"MockImageGenerator.h"
+i<XnPropNames.h>
+i<XnLog.h>
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockImageGenerator.h
+c000000004FA45A760000000000000BCC
+t1336171126
+s3020
+i<XnModuleCppInterface.h>
+i<XnTypes.h>
+i"MockMapGenerator.h"
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockMapGenerator.cpp
+c000000004FA45A760000000000002099
+t1336171126
+s8345
+i"MockMapGenerator.h"
+i<XnPropNames.h>
+i<XnOS.h>
+i<XnLog.h>
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockMapGenerator.h
+c000000004FA45A760000000000000E78
+t1336171126
+s3704
+i<XnModuleCppInterface.h>
+i<XnTypes.h>
+i"MockGenerator.h"
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockProductionNode.cpp
+c000000004FA45A760000000000001E7C
+t1336171126
+s7804
+i"MockProductionNode.h"
+i"XnPropNames.h"
+i<XnLog.h>
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockProductionNode.h
+c000000004FA45A760000000000000EA4
+t1336171126
+s3748
+i<XnModuleCppInterface.h>
+i<XnTypes.h>
+i<XnStringsHash.h>
+i<XnGeneralBuffer.h>
+i<XnEvent.h>
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/nimMockNodes.cpp
+c000000004FA45A760000000000000A15
+t1336171126
+s2581
+i<XnModuleCppRegistratration.h>
+i"ExportedMockNodes.h"
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/nimMockNodes.h
+c000000004FA45A7600000000000006D6
+t1336171126
+s1750
+
+CBuild AST from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/ExportedMockNodes.cpp
+r0
+
+CBuild AST from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockAudioGenerator.cpp
+r0
+
+CBuild AST from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockDepthGenerator.cpp
+r0
+
+CBuild AST from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockDevice.cpp
+r0
+
+CBuild AST from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockGenerator.cpp
+r0
+
+CBuild AST from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockIRGenerator.cpp
+r0
+
+CBuild AST from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockImageGenerator.cpp
+r0
+
+CBuild AST from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockMapGenerator.cpp
+r0
+
+CBuild AST from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockProductionNode.cpp
+r0
+
+CBuild AST from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/nimMockNodes.cpp
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies541b70b59454b541^99d470b59454b541^---0#1#0#--18"Check dependencies36"25ADA9BA-947F-4348-AD98-D18DE38EB0EE-
+
+CCompileC build/nestk/deps/openni/Source/Modules/nimMockNodes/RGBDemo.build/Debug/nimMockNodes.build/Objects-normal/x86_64/ExportedMockNodes.o /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/ExportedMockNodes.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+s357864629.444930
+e357864630.205981
+r1
+xCompileC
+xbuild/nestk/deps/openni/Source/Modules/nimMockNodes/RGBDemo.build/Debug/nimMockNodes.build/Objects-normal/x86_64/ExportedMockNodes.o
+x/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/ExportedMockNodes.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvmgcc42
+oIn file included from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnEvent.h:31,
+o                 from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockProductionNode.h:29,
+o                 from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockDevice.h:22,
+o                 from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/ExportedMockNodes.cpp:23:
+o/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnOSCpp.h: In member function 'void XnAutoCSLocker::Lock()':
+o/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnOSCpp.h:63: warning: unused variable 'nRetVal'
+o/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnOSCpp.h: In member function 'void XnAutoCSLocker::Unlock()':
+o/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnOSCpp.h:73: warning: unused variable 'nRetVal'
+oIn file included from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockDevice.h:22,
+o                 from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/ExportedMockNodes.cpp:23:
+o/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockProductionNode.h: In member function 'XnStatus MockProductionNode::PropChangeEvent::Raise()':
+o/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockProductionNode.h:55: warning: unused variable 'nRetVal'
+o/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/ExportedMockNodes.cpp: In member function 'virtual XnStatus ExportedMockNodeBase::Create(xn::Context&, const XnChar*, const XnChar*, xn::NodeInfoList*, const XnChar*, xn::ModuleProductionNode**)':
+o/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/ExportedMockNodes.cpp:62: warning: unused variable 'nRetVal'
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection126"Compile /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/ExportedMockNodes.cpp2a0072b59454b541^97c934b69454b541^-2153"In file included from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnEvent.h:31,                 from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockProductionNode.h:29,                 from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockDevice.h:22,                 from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/ExportedMockNodes.cpp:23:/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnOSCpp.h: In member function 'void XnAutoCSLocker::Lock()':/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnOSCpp.h:63: warning: unused variable 'nRetVal'/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnOSCpp.h: In member function 'void XnAutoCSLocker::Unlock()':/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnOSCpp.h:73: warning: unused variable 'nRetVal'In file included from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockDevice.h:22,                 from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/ExportedMockNodes.cpp:23:/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockProductionNode.h: In member function 'XnStatus MockProductionNode::PropChangeEvent::Raise()':/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockProductionNode.h:55: warning: unused variable 'nRetVal'/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/ExportedMockNodes.cpp: In member function 'virtual XnStatus ExportedMockNodeBase::Create(xn::Context&, const XnChar*, const XnChar*, xn::NodeInfoList*, const XnChar*, xn::ModuleProductionNode**)':/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/ExportedMockNodes.cpp:62: warning: unused variable 'nRetVal'4(21%IDEActivityLogMessage2@25"Unused variable 'nRetVal'-357864630#676#126#5(36%IDEActivityLogHeaderInclusionMessage3@140"In file included from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/ExportedMockNodes.cpp-357864630#18446744073709551615#0#-0#-23%DVTTextDocumentLocation4@134"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/ExportedMockNodes.cpp0000000000000000^22#18446744073709551615#22#18446744073709551615#18446744073709551615#0#---3@131"In file included from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockDevice.h-357864630#18446744073709551615#0#-0#-4@125"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockDevice.h0000000000000000^21#18446744073709551615#21#18446744073709551615#18446744073709551615#0#---3@139"In file included from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockProductionNode.h-357864630#18446744073709551615#0#-0#-4@133"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockProductionNode.h0000000000000000^28#18446744073709551615#28#18446744073709551615#18446744073709551615#0#---3@108"In file included from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnEvent.h-357864630#18446744073709551615#0#-0#-4@102"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnEvent.h0000000000000000^30#18446744073709551615#30#18446744073709551615#18446744073709551615#0#---2@115"Unused variable 'nRetVal' in /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnOSCpp.h-357864630#18446744073709551615#0#-0#-4@102"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnOSCpp.h0000000000000000^62#18446744073709551615#62#18446744073709551615#18446744073709551615#0#---1#-4@102"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnOSCpp.h0000000000000000^62#18446744073709551615#62#18446744073709551615#18446744073709551615#0#19"Unused variable '*'--2@25"Unused variable 'nRetVal'-357864630#942#126#5(3@140"In file included from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/ExportedMockNodes.cpp-357864630#18446744073709551615#0#-0#-4@134"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/ExportedMockNodes.cpp0000000000000000^22#18446744073709551615#22#18446744073709551615#18446744073709551615#0#---3@131"In file included from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockDevice.h-357864630#18446744073709551615#0#-0#-4@125"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockDevice.h0000000000000000^21#18446744073709551615#21#18446744073709551615#18446744073709551615#0#---3@139"In file included from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockProductionNode.h-357864630#18446744073709551615#0#-0#-4@133"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockProductionNode.h0000000000000000^28#18446744073709551615#28#18446744073709551615#18446744073709551615#0#---3@108"In file included from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnEvent.h-357864630#18446744073709551615#0#-0#-4@102"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnEvent.h0000000000000000^30#18446744073709551615#30#18446744073709551615#18446744073709551615#0#---2@115"Unused variable 'nRetVal' in /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnOSCpp.h-357864630#18446744073709551615#0#-0#-4@102"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnOSCpp.h0000000000000000^72#18446744073709551615#72#18446744073709551615#18446744073709551615#0#---1#-4@102"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnOSCpp.h0000000000000000^72#18446744073709551615#72#18446744073709551615#18446744073709551615#0#19"Unused variable '*'--2@25"Unused variable 'nRetVal'-357864630#1544#157#3(3@140"In file included from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/ExportedMockNodes.cpp-357864630#18446744073709551615#0#-0#-4@134"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/ExportedMockNodes.cpp0000000000000000^22#18446744073709551615#22#18446744073709551615#18446744073709551615#0#---3@131"In file included from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockDevice.h-357864630#18446744073709551615#0#-0#-4@125"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockDevice.h0000000000000000^21#18446744073709551615#21#18446744073709551615#18446744073709551615#0#---2@146"Unused variable 'nRetVal' in /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockProductionNode.h-357864630#18446744073709551615#0#-0#-4@133"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockProductionNode.h0000000000000000^54#18446744073709551615#54#18446744073709551615#18446744073709551615#0#---1#-4@133"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockProductionNode.h0000000000000000^54#18446744073709551615#54#18446744073709551615#18446744073709551615#0#19"Unused variable '*'--2@25"Unused variable 'nRetVal'-357864630#1995#158#-1#-4@134"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/ExportedMockNodes.cpp0000000000000000^61#18446744073709551615#61#18446744073709551615#18446744073709551615#0#19"Unused variable '*'--0#0#0#-19%DVTDocumentLocation5@134"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/ExportedMockNodes.cpp0000000000000000^1972"CompileC build/nestk/deps/openni/Source/Modules/nimMockNodes/RGBDemo.build/Debug/nimMockNodes.build/Objects-normal/x86_64/ExportedMockNodes.o nestk/deps/openni/Source/Modules/nimMockNodes/ExportedMockNodes.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42    cd /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 "-DCMAKE_INTDIR=\"Debug\"" -DnimMockNodes_EXPORTS "-DCUSTOM_SAMPLE_XML_PATH=\"config/SamplesConfig.xml\"" "-DCUSTOM_SAMPLE_USER_XML_PATH=\"config/Sample-User.xml\"" -DXN_USE_CUSTOM_MODULES_FILE=xn_modules_file -DUSE_GLUT -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -mmacosx-version-min=10.7 -gdwarf-2 -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/include -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/macosx/libusb-7da756e -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/Common -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni/Source/Modules/nimMockNodes/RGBDemo.build/Debug/nimMockNodes.build/DerivedSources/x86_64 -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni/Source/Modules/nimMockNodes/RGBDemo.build/Debug/nimMockNodes.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug -fPIC -c /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/ExportedMockNodes.cpp -o /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni/Source/Modules/nimMockNodes/RGBDemo.build/Debug/nimMockNodes.build/Objects-normal/x86_64/ExportedMockNodes.o36"FCFCC22F-E0E8-41D7-9427-310F1CCE7411-
+
+CCompileC build/nestk/deps/openni/Source/Modules/nimMockNodes/RGBDemo.build/Debug/nimMockNodes.build/Objects-normal/x86_64/MockAudioGenerator.o /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockAudioGenerator.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+s357864629.670158
+e357864630.527484
+r1
+xCompileC
+xbuild/nestk/deps/openni/Source/Modules/nimMockNodes/RGBDemo.build/Debug/nimMockNodes.build/Objects-normal/x86_64/MockAudioGenerator.o
+x/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockAudioGenerator.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvmgcc42
+oIn file included from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnEvent.h:31,
+o                 from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockGenerator.h:27,
+o                 from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockAudioGenerator.h:27,
+o                 from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockAudioGenerator.cpp:22:
+o/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnOSCpp.h: In member function 'void XnAutoCSLocker::Lock()':
+o/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnOSCpp.h:63: warning: unused variable 'nRetVal'
+o/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnOSCpp.h: In member function 'void XnAutoCSLocker::Unlock()':
+o/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnOSCpp.h:73: warning: unused variable 'nRetVal'
+oIn file included from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockGenerator.h:28,
+o                 from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockAudioGenerator.h:27,
+o                 from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockAudioGenerator.cpp:22:
+o/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockProductionNode.h: In member function 'XnStatus MockProductionNode::PropChangeEvent::Raise()':
+o/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockProductionNode.h:55: warning: unused variable 'nRetVal'
+o/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockAudioGenerator.h: In constructor 'MockAudioGenerator::MockAudioGenerator(const XnChar*)':
+o/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockAudioGenerator.h:59: warning: 'MockAudioGenerator::m_pSupportedOutputModes' will be initialized after
+o/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockAudioGenerator.h:56: warning:   'XnUInt32 MockAudioGenerator::m_nSupportedOutputModesCount'
+o/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockAudioGenerator.cpp:28: warning:   when initialized here
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection127"Compile /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockAudioGenerator.cpp75ababb59454b541^231087b69454b541^-2597"In file included from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnEvent.h:31,                 from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockGenerator.h:27,                 from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockAudioGenerator.h:27,                 from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockAudioGenerator.cpp:22:/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnOSCpp.h: In member function 'void XnAutoCSLocker::Lock()':/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnOSCpp.h:63: warning: unused variable 'nRetVal'/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnOSCpp.h: In member function 'void XnAutoCSLocker::Unlock()':/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnOSCpp.h:73: warning: unused variable 'nRetVal'In file included from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockGenerator.h:28,                 from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockAudioGenerator.h:27,                 from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockAudioGenerator.cpp:22:/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockProductionNode.h: In member function 'XnStatus MockProductionNode::PropChangeEvent::Raise()':/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockProductionNode.h:55: warning: unused variable 'nRetVal'/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockAudioGenerator.h: In constructor 'MockAudioGenerator::MockAudioGenerator(const XnChar*)':/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockAudioGenerator.h:59: warning: 'MockAudioGenerator::m_pSupportedOutputModes' will be initialized after/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockAudioGenerator.h:56: warning:   'XnUInt32 MockAudioGenerator::m_nSupportedOutputModesCount'/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockAudioGenerator.cpp:28: warning:   when initialized here6(21%IDEActivityLogMessage2@25"Unused variable 'nRetVal'-357864630#680#126#5(36%IDEActivityLogHeaderInclusionMessage3@141"In file included from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockAudioGenerator.cpp-357864630#18446744073709551615#0#-0#-23%DVTTextDocumentLocation4@135"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockAudioGenerator.cpp0000000000000000^21#18446744073709551615#21#18446744073709551615#18446744073709551615#0#---3@139"In file included from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockAudioGenerator.h-357864630#18446744073709551615#0#-0#-4@133"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockAudioGenerator.h0000000000000000^26#18446744073709551615#26#18446744073709551615#18446744073709551615#0#---3@134"In file included from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockGenerator.h-357864630#18446744073709551615#0#-0#-4@128"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockGenerator.h0000000000000000^26#18446744073709551615#26#18446744073709551615#18446744073709551615#0#---3@108"In file included from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnEvent.h-357864630#18446744073709551615#0#-0#-4@102"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnEvent.h0000000000000000^30#18446744073709551615#30#18446744073709551615#18446744073709551615#0#---2@115"Unused variable 'nRetVal' in /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnOSCpp.h-357864630#18446744073709551615#0#-0#-4@102"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnOSCpp.h0000000000000000^62#18446744073709551615#62#18446744073709551615#18446744073709551615#0#---1#-4@102"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnOSCpp.h0000000000000000^62#18446744073709551615#62#18446744073709551615#18446744073709551615#0#19"Unused variable '*'--2@25"Unused variable 'nRetVal'-357864630#946#126#5(3@141"In file included from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockAudioGenerator.cpp-357864630#18446744073709551615#0#-0#-4@135"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockAudioGenerator.cpp0000000000000000^21#18446744073709551615#21#18446744073709551615#18446744073709551615#0#---3@139"In file included from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockAudioGenerator.h-357864630#18446744073709551615#0#-0#-4@133"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockAudioGenerator.h0000000000000000^26#18446744073709551615#26#18446744073709551615#18446744073709551615#0#---3@134"In file included from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockGenerator.h-357864630#18446744073709551615#0#-0#-4@128"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockGenerator.h0000000000000000^26#18446744073709551615#26#18446744073709551615#18446744073709551615#0#---3@108"In file included from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnEvent.h-357864630#18446744073709551615#0#-0#-4@102"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnEvent.h0000000000000000^30#18446744073709551615#30#18446744073709551615#18446744073709551615#0#---2@115"Unused variable 'nRetVal' in /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnOSCpp.h-357864630#18446744073709551615#0#-0#-4@102"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnOSCpp.h0000000000000000^72#18446744073709551615#72#18446744073709551615#18446744073709551615#0#---1#-4@102"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnOSCpp.h0000000000000000^72#18446744073709551615#72#18446744073709551615#18446744073709551615#0#19"Unused variable '*'--2@25"Unused variable 'nRetVal'-357864630#1696#157#4(3@141"In file included from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockAudioGenerator.cpp-357864630#18446744073709551615#0#-0#-4@135"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockAudioGenerator.cpp0000000000000000^21#18446744073709551615#21#18446744073709551615#18446744073709551615#0#---3@139"In file included from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockAudioGenerator.h-357864630#18446744073709551615#0#-0#-4@133"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockAudioGenerator.h0000000000000000^26#18446744073709551615#26#18446744073709551615#18446744073709551615#0#---3@134"In file included from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockGenerator.h-357864630#18446744073709551615#0#-0#-4@128"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockGenerator.h0000000000000000^27#18446744073709551615#27#18446744073709551615#18446744073709551615#0#---2@146"Unused variable 'nRetVal' in /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockProductionNode.h-357864630#18446744073709551615#0#-0#-4@133"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockProductionNode.h0000000000000000^54#18446744073709551615#54#18446744073709551615#18446744073709551615#0#---1#-4@133"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockProductionNode.h0000000000000000^54#18446744073709551615#54#18446744073709551615#18446744073709551615#0#19"Unused variable '*'--2@71"'MockAudioGenerator::m_pSupportedOutputModes' will be initialized after-357864630#2044#203#-1#-4@133"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockAudioGenerator.h0000000000000000^58#18446744073709551615#58#18446744073709551615#18446744073709551615#0#20"LLVM GCC 4.2 Warning--2@59"'XnUInt32 MockAudioGenerator::m_nSupportedOutputModesCount'-357864630#2247#193#-1#-4@133"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockAudioGenerator.h0000000000000000^55#18446744073709551615#55#18446744073709551615#18446744073709551615#0#20"LLVM GCC 4.2 Warning--2@21"When initialized here-357864630#2440#157#-1#-4@135"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockAudioGenerator.cpp0000000000000000^27#18446744073709551615#27#18446744073709551615#18446744073709551615#0#20"LLVM GCC 4.2 Warning--0#0#0#-19%DVTDocumentLocation5@135"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockAudioGenerator.cpp0000000000000000^1976"CompileC build/nestk/deps/openni/Source/Modules/nimMockNodes/RGBDemo.build/Debug/nimMockNodes.build/Objects-normal/x86_64/MockAudioGenerator.o nestk/deps/openni/Source/Modules/nimMockNodes/MockAudioGenerator.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42    cd /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 "-DCMAKE_INTDIR=\"Debug\"" -DnimMockNodes_EXPORTS "-DCUSTOM_SAMPLE_XML_PATH=\"config/SamplesConfig.xml\"" "-DCUSTOM_SAMPLE_USER_XML_PATH=\"config/Sample-User.xml\"" -DXN_USE_CUSTOM_MODULES_FILE=xn_modules_file -DUSE_GLUT -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -mmacosx-version-min=10.7 -gdwarf-2 -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/include -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/macosx/libusb-7da756e -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/Common -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni/Source/Modules/nimMockNodes/RGBDemo.build/Debug/nimMockNodes.build/DerivedSources/x86_64 -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni/Source/Modules/nimMockNodes/RGBDemo.build/Debug/nimMockNodes.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug -fPIC -c /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockAudioGenerator.cpp -o /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni/Source/Modules/nimMockNodes/RGBDemo.build/Debug/nimMockNodes.build/Objects-normal/x86_64/MockAudioGenerator.o36"5A2179F4-F2A8-4185-B167-916F1BEC1458-
+
+CCompileC build/nestk/deps/openni/Source/Modules/nimMockNodes/RGBDemo.build/Debug/nimMockNodes.build/Objects-normal/x86_64/MockDepthGenerator.o /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockDepthGenerator.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+s357864630.208604
+e357864631.684948
+r1
+xCompileC
+xbuild/nestk/deps/openni/Source/Modules/nimMockNodes/RGBDemo.build/Debug/nimMockNodes.build/Objects-normal/x86_64/MockDepthGenerator.o
+x/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockDepthGenerator.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvmgcc42
+oIn file included from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnEvent.h:31,
+o                 from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockGenerator.h:27,
+o                 from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockMapGenerator.h:27,
+o                 from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockDepthGenerator.h:27,
+o                 from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockDepthGenerator.cpp:22:
+o/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnOSCpp.h: In member function 'void XnAutoCSLocker::Lock()':
+o/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnOSCpp.h:63: warning: unused variable 'nRetVal'
+o/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnOSCpp.h: In member function 'void XnAutoCSLocker::Unlock()':
+o/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnOSCpp.h:73: warning: unused variable 'nRetVal'
+oIn file included from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockGenerator.h:28,
+o                 from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockMapGenerator.h:27,
+o                 from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockDepthGenerator.h:27,
+o                 from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockDepthGenerator.cpp:22:
+o/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockProductionNode.h: In member function 'XnStatus MockProductionNode::PropChangeEvent::Raise()':
+o/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockProductionNode.h:55: warning: unused variable 'nRetVal'
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection127"Compile /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockDepthGenerator.cppcb8235b69454b541^9869afb79454b541^-2137"In file included from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnEvent.h:31,                 from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockGenerator.h:27,                 from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockMapGenerator.h:27,                 from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockDepthGenerator.h:27,                 from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockDepthGenerator.cpp:22:/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnOSCpp.h: In member function 'void XnAutoCSLocker::Lock()':/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnOSCpp.h:63: warning: unused variable 'nRetVal'/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnOSCpp.h: In member function 'void XnAutoCSLocker::Unlock()':/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnOSCpp.h:73: warning: unused variable 'nRetVal'In file included from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockGenerator.h:28,                 from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockMapGenerator.h:27,                 from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockDepthGenerator.h:27,                 from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockDepthGenerator.cpp:22:/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockProductionNode.h: In member function 'XnStatus MockProductionNode::PropChangeEvent::Raise()':/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockProductionNode.h:55: warning: unused variable 'nRetVal'3(21%IDEActivityLogMessage2@25"Unused variable 'nRetVal'-357864630#822#126#6(36%IDEActivityLogHeaderInclusionMessage3@141"In file included from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockDepthGenerator.cpp-357864630#18446744073709551615#0#-0#-23%DVTTextDocumentLocation4@135"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockDepthGenerator.cpp0000000000000000^21#18446744073709551615#21#18446744073709551615#18446744073709551615#0#---3@139"In file included from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockDepthGenerator.h-357864630#18446744073709551615#0#-0#-4@133"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockDepthGenerator.h0000000000000000^26#18446744073709551615#26#18446744073709551615#18446744073709551615#0#---3@137"In file included from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockMapGenerator.h-357864630#18446744073709551615#0#-0#-4@131"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockMapGenerator.h0000000000000000^26#18446744073709551615#26#18446744073709551615#18446744073709551615#0#---3@134"In file included from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockGenerator.h-357864630#18446744073709551615#0#-0#-4@128"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockGenerator.h0000000000000000^26#18446744073709551615#26#18446744073709551615#18446744073709551615#0#---3@108"In file included from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnEvent.h-357864630#18446744073709551615#0#-0#-4@102"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnEvent.h0000000000000000^30#18446744073709551615#30#18446744073709551615#18446744073709551615#0#---2@115"Unused variable 'nRetVal' in /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnOSCpp.h-357864630#18446744073709551615#0#-0#-4@102"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnOSCpp.h0000000000000000^62#18446744073709551615#62#18446744073709551615#18446744073709551615#0#---1#-4@102"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnOSCpp.h0000000000000000^62#18446744073709551615#62#18446744073709551615#18446744073709551615#0#19"Unused variable '*'--2@25"Unused variable 'nRetVal'-357864630#1088#126#6(3@141"In file included from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockDepthGenerator.cpp-357864630#18446744073709551615#0#-0#-4@135"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockDepthGenerator.cpp0000000000000000^21#18446744073709551615#21#18446744073709551615#18446744073709551615#0#---3@139"In file included from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockDepthGenerator.h-357864630#18446744073709551615#0#-0#-4@133"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockDepthGenerator.h0000000000000000^26#18446744073709551615#26#18446744073709551615#18446744073709551615#0#---3@137"In file included from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockMapGenerator.h-357864630#18446744073709551615#0#-0#-4@131"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockMapGenerator.h0000000000000000^26#18446744073709551615#26#18446744073709551615#18446744073709551615#0#---3@134"In file included from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockGenerator.h-357864630#18446744073709551615#0#-0#-4@128"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockGenerator.h0000000000000000^26#18446744073709551615#26#18446744073709551615#18446744073709551615#0#---3@108"In file included from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnEvent.h-357864630#18446744073709551615#0#-0#-4@102"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnEvent.h0000000000000000^30#18446744073709551615#30#18446744073709551615#18446744073709551615#0#---2@115"Unused variable 'nRetVal' in /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnOSCpp.h-357864630#18446744073709551615#0#-0#-4@102"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnOSCpp.h0000000000000000^72#18446744073709551615#72#18446744073709551615#18446744073709551615#0#---1#-4@102"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnOSCpp.h0000000000000000^72#18446744073709551615#72#18446744073709551615#18446744073709551615#0#19"Unused variable '*'--2@25"Unused variable 'nRetVal'-357864630#1980#157#5(3@141"In file included from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockDepthGenerator.cpp-357864630#18446744073709551615#0#-0#-4@135"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockDepthGenerator.cpp0000000000000000^21#18446744073709551615#21#18446744073709551615#18446744073709551615#0#---3@139"In file included from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockDepthGenerator.h-357864630#18446744073709551615#0#-0#-4@133"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockDepthGenerator.h0000000000000000^26#18446744073709551615#26#18446744073709551615#18446744073709551615#0#---3@137"In file included from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockMapGenerator.h-357864630#18446744073709551615#0#-0#-4@131"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockMapGenerator.h0000000000000000^26#18446744073709551615#26#18446744073709551615#18446744073709551615#0#---3@134"In file included from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockGenerator.h-357864630#18446744073709551615#0#-0#-4@128"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockGenerator.h0000000000000000^27#18446744073709551615#27#18446744073709551615#18446744073709551615#0#---2@146"Unused variable 'nRetVal' in /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockProductionNode.h-357864630#18446744073709551615#0#-0#-4@133"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockProductionNode.h0000000000000000^54#18446744073709551615#54#18446744073709551615#18446744073709551615#0#---1#-4@133"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockProductionNode.h0000000000000000^54#18446744073709551615#54#18446744073709551615#18446744073709551615#0#19"Unused variable '*'--0#0#0#-19%DVTDocumentLocation5@135"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockDepthGenerator.cpp0000000000000000^1976"CompileC build/nestk/deps/openni/Source/Modules/nimMockNodes/RGBDemo.build/Debug/nimMockNodes.build/Objects-normal/x86_64/MockDepthGenerator.o nestk/deps/openni/Source/Modules/nimMockNodes/MockDepthGenerator.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42    cd /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 "-DCMAKE_INTDIR=\"Debug\"" -DnimMockNodes_EXPORTS "-DCUSTOM_SAMPLE_XML_PATH=\"config/SamplesConfig.xml\"" "-DCUSTOM_SAMPLE_USER_XML_PATH=\"config/Sample-User.xml\"" -DXN_USE_CUSTOM_MODULES_FILE=xn_modules_file -DUSE_GLUT -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -mmacosx-version-min=10.7 -gdwarf-2 -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/include -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/macosx/libusb-7da756e -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/Common -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni/Source/Modules/nimMockNodes/RGBDemo.build/Debug/nimMockNodes.build/DerivedSources/x86_64 -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni/Source/Modules/nimMockNodes/RGBDemo.build/Debug/nimMockNodes.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug -fPIC -c /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockDepthGenerator.cpp -o /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni/Source/Modules/nimMockNodes/RGBDemo.build/Debug/nimMockNodes.build/Objects-normal/x86_64/MockDepthGenerator.o36"58C9593A-A234-43EA-A253-B67D1C1BF4D3-
+
+CCompileC build/nestk/deps/openni/Source/Modules/nimMockNodes/RGBDemo.build/Debug/nimMockNodes.build/Objects-normal/x86_64/MockDevice.o /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockDevice.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+s357864630.528714
+e357864631.125990
+r1
+xCompileC
+xbuild/nestk/deps/openni/Source/Modules/nimMockNodes/RGBDemo.build/Debug/nimMockNodes.build/Objects-normal/x86_64/MockDevice.o
+x/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockDevice.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvmgcc42
+oIn file included from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnEvent.h:31,
+o                 from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockProductionNode.h:29,
+o                 from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockDevice.h:22,
+o                 from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockDevice.cpp:22:
+o/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnOSCpp.h: In member function 'void XnAutoCSLocker::Lock()':
+o/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnOSCpp.h:63: warning: unused variable 'nRetVal'
+o/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnOSCpp.h: In member function 'void XnAutoCSLocker::Unlock()':
+o/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnOSCpp.h:73: warning: unused variable 'nRetVal'
+oIn file included from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockDevice.h:22,
+o                 from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockDevice.cpp:22:
+o/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockProductionNode.h: In member function 'XnStatus MockProductionNode::PropChangeEvent::Raise()':
+o/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockProductionNode.h:55: warning: unused variable 'nRetVal'
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection119"Compile /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockDevice.cppc16f87b69454b541^965920b79454b541^-1687"In file included from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnEvent.h:31,                 from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockProductionNode.h:29,                 from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockDevice.h:22,                 from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockDevice.cpp:22:/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnOSCpp.h: In member function 'void XnAutoCSLocker::Lock()':/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnOSCpp.h:63: warning: unused variable 'nRetVal'/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnOSCpp.h: In member function 'void XnAutoCSLocker::Unlock()':/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnOSCpp.h:73: warning: unused variable 'nRetVal'In file included from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockDevice.h:22,                 from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockDevice.cpp:22:/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockProductionNode.h: In member function 'XnStatus MockProductionNode::PropChangeEvent::Raise()':/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockProductionNode.h:55: warning: unused variable 'nRetVal'3(21%IDEActivityLogMessage2@25"Unused variable 'nRetVal'-357864630#669#126#5(36%IDEActivityLogHeaderInclusionMessage3@133"In file included from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockDevice.cpp-357864630#18446744073709551615#0#-0#-23%DVTTextDocumentLocation4@127"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockDevice.cpp0000000000000000^21#18446744073709551615#21#18446744073709551615#18446744073709551615#0#---3@131"In file included from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockDevice.h-357864630#18446744073709551615#0#-0#-4@125"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockDevice.h0000000000000000^21#18446744073709551615#21#18446744073709551615#18446744073709551615#0#---3@139"In file included from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockProductionNode.h-357864630#18446744073709551615#0#-0#-4@133"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockProductionNode.h0000000000000000^28#18446744073709551615#28#18446744073709551615#18446744073709551615#0#---3@108"In file included from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnEvent.h-357864630#18446744073709551615#0#-0#-4@102"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnEvent.h0000000000000000^30#18446744073709551615#30#18446744073709551615#18446744073709551615#0#---2@115"Unused variable 'nRetVal' in /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnOSCpp.h-357864630#18446744073709551615#0#-0#-4@102"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnOSCpp.h0000000000000000^62#18446744073709551615#62#18446744073709551615#18446744073709551615#0#---1#-4@102"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnOSCpp.h0000000000000000^62#18446744073709551615#62#18446744073709551615#18446744073709551615#0#19"Unused variable '*'--2@25"Unused variable 'nRetVal'-357864630#935#126#5(3@133"In file included from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockDevice.cpp-357864630#18446744073709551615#0#-0#-4@127"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockDevice.cpp0000000000000000^21#18446744073709551615#21#18446744073709551615#18446744073709551615#0#---3@131"In file included from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockDevice.h-357864630#18446744073709551615#0#-0#-4@125"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockDevice.h0000000000000000^21#18446744073709551615#21#18446744073709551615#18446744073709551615#0#---3@139"In file included from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockProductionNode.h-357864630#18446744073709551615#0#-0#-4@133"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockProductionNode.h0000000000000000^28#18446744073709551615#28#18446744073709551615#18446744073709551615#0#---3@108"In file included from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnEvent.h-357864630#18446744073709551615#0#-0#-4@102"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnEvent.h0000000000000000^30#18446744073709551615#30#18446744073709551615#18446744073709551615#0#---2@115"Unused variable 'nRetVal' in /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnOSCpp.h-357864630#18446744073709551615#0#-0#-4@102"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnOSCpp.h0000000000000000^72#18446744073709551615#72#18446744073709551615#18446744073709551615#0#---1#-4@102"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnOSCpp.h0000000000000000^72#18446744073709551615#72#18446744073709551615#18446744073709551615#0#19"Unused variable '*'--2@25"Unused variable 'nRetVal'-357864630#1530#157#3(3@133"In file included from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockDevice.cpp-357864630#18446744073709551615#0#-0#-4@127"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockDevice.cpp0000000000000000^21#18446744073709551615#21#18446744073709551615#18446744073709551615#0#---3@131"In file included from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockDevice.h-357864630#18446744073709551615#0#-0#-4@125"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockDevice.h0000000000000000^21#18446744073709551615#21#18446744073709551615#18446744073709551615#0#---2@146"Unused variable 'nRetVal' in /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockProductionNode.h-357864630#18446744073709551615#0#-0#-4@133"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockProductionNode.h0000000000000000^54#18446744073709551615#54#18446744073709551615#18446744073709551615#0#---1#-4@133"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockProductionNode.h0000000000000000^54#18446744073709551615#54#18446744073709551615#18446744073709551615#0#19"Unused variable '*'--0#0#0#-19%DVTDocumentLocation5@127"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockDevice.cpp0000000000000000^1944"CompileC build/nestk/deps/openni/Source/Modules/nimMockNodes/RGBDemo.build/Debug/nimMockNodes.build/Objects-normal/x86_64/MockDevice.o nestk/deps/openni/Source/Modules/nimMockNodes/MockDevice.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42    cd /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 "-DCMAKE_INTDIR=\"Debug\"" -DnimMockNodes_EXPORTS "-DCUSTOM_SAMPLE_XML_PATH=\"config/SamplesConfig.xml\"" "-DCUSTOM_SAMPLE_USER_XML_PATH=\"config/Sample-User.xml\"" -DXN_USE_CUSTOM_MODULES_FILE=xn_modules_file -DUSE_GLUT -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -mmacosx-version-min=10.7 -gdwarf-2 -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/include -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/macosx/libusb-7da756e -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/Common -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni/Source/Modules/nimMockNodes/RGBDemo.build/Debug/nimMockNodes.build/DerivedSources/x86_64 -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni/Source/Modules/nimMockNodes/RGBDemo.build/Debug/nimMockNodes.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug -fPIC -c /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockDevice.cpp -o /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni/Source/Modules/nimMockNodes/RGBDemo.build/Debug/nimMockNodes.build/Objects-normal/x86_64/MockDevice.o36"FAE1CCB1-B048-419D-9376-55F137AA1116-
+
+CCompileC build/nestk/deps/openni/Source/Modules/nimMockNodes/RGBDemo.build/Debug/nimMockNodes.build/Objects-normal/x86_64/MockGenerator.o /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockGenerator.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+s357864631.127234
+e357864632.232311
+r1
+xCompileC
+xbuild/nestk/deps/openni/Source/Modules/nimMockNodes/RGBDemo.build/Debug/nimMockNodes.build/Objects-normal/x86_64/MockGenerator.o
+x/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockGenerator.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvmgcc42
+oIn file included from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnEvent.h:31,
+o                 from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockGenerator.h:27,
+o                 from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockGenerator.cpp:22:
+o/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnOSCpp.h: In member function 'void XnAutoCSLocker::Lock()':
+o/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnOSCpp.h:63: warning: unused variable 'nRetVal'
+o/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnOSCpp.h: In member function 'void XnAutoCSLocker::Unlock()':
+o/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnOSCpp.h:73: warning: unused variable 'nRetVal'
+oIn file included from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockGenerator.h:28,
+o                 from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockGenerator.cpp:22:
+o/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockProductionNode.h: In member function 'XnStatus MockProductionNode::PropChangeEvent::Raise()':
+o/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockProductionNode.h:55: warning: unused variable 'nRetVal'
+o/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockGenerator.h: In constructor 'MockGenerator::MockGenerator(const XnChar*, XnBool)':
+o/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockGenerator.h:104: warning: 'MockGenerator::m_bMirror' will be initialized after
+o/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockGenerator.h:100: warning:   'XnUInt32 MockGenerator::m_nCurrentDataIdx'
+o/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockGenerator.cpp:25: warning:   when initialized here
+o/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockGenerator.cpp: In member function 'XnStatus MockGenerator::ResizeBuffer(XnUInt32, XnUInt32)':
+o/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockGenerator.cpp:309: warning: unused variable 'nRetVal'
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection122"Compile /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockGenerator.cpp2aa820b79454b541^6d8e3bb89454b541^-2594"In file included from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnEvent.h:31,                 from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockGenerator.h:27,                 from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockGenerator.cpp:22:/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnOSCpp.h: In member function 'void XnAutoCSLocker::Lock()':/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnOSCpp.h:63: warning: unused variable 'nRetVal'/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnOSCpp.h: In member function 'void XnAutoCSLocker::Unlock()':/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnOSCpp.h:73: warning: unused variable 'nRetVal'In file included from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockGenerator.h:28,                 from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockGenerator.cpp:22:/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockProductionNode.h: In member function 'XnStatus MockProductionNode::PropChangeEvent::Raise()':/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockProductionNode.h:55: warning: unused variable 'nRetVal'/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockGenerator.h: In constructor 'MockGenerator::MockGenerator(const XnChar*, XnBool)':/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockGenerator.h:104: warning: 'MockGenerator::m_bMirror' will be initialized after/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockGenerator.h:100: warning:   'XnUInt32 MockGenerator::m_nCurrentDataIdx'/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockGenerator.cpp:25: warning:   when initialized here/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockGenerator.cpp: In member function 'XnStatus MockGenerator::ResizeBuffer(XnUInt32, XnUInt32)':/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockGenerator.cpp:309: warning: unused variable 'nRetVal'7(21%IDEActivityLogMessage2@25"Unused variable 'nRetVal'-357864631#531#126#4(36%IDEActivityLogHeaderInclusionMessage3@136"In file included from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockGenerator.cpp-357864631#18446744073709551615#0#-0#-23%DVTTextDocumentLocation4@130"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockGenerator.cpp0000000000000000^21#18446744073709551615#21#18446744073709551615#18446744073709551615#0#---3@134"In file included from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockGenerator.h-357864631#18446744073709551615#0#-0#-4@128"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockGenerator.h0000000000000000^26#18446744073709551615#26#18446744073709551615#18446744073709551615#0#---3@108"In file included from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnEvent.h-357864631#18446744073709551615#0#-0#-4@102"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnEvent.h0000000000000000^30#18446744073709551615#30#18446744073709551615#18446744073709551615#0#---2@115"Unused variable 'nRetVal' in /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnOSCpp.h-357864631#18446744073709551615#0#-0#-4@102"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnOSCpp.h0000000000000000^62#18446744073709551615#62#18446744073709551615#18446744073709551615#0#---1#-4@102"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnOSCpp.h0000000000000000^62#18446744073709551615#62#18446744073709551615#18446744073709551615#0#19"Unused variable '*'--2@25"Unused variable 'nRetVal'-357864631#797#126#4(3@136"In file included from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockGenerator.cpp-357864631#18446744073709551615#0#-0#-4@130"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockGenerator.cpp0000000000000000^21#18446744073709551615#21#18446744073709551615#18446744073709551615#0#---3@134"In file included from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockGenerator.h-357864631#18446744073709551615#0#-0#-4@128"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockGenerator.h0000000000000000^26#18446744073709551615#26#18446744073709551615#18446744073709551615#0#---3@108"In file included from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnEvent.h-357864631#18446744073709551615#0#-0#-4@102"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnEvent.h0000000000000000^30#18446744073709551615#30#18446744073709551615#18446744073709551615#0#---2@115"Unused variable 'nRetVal' in /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnOSCpp.h-357864631#18446744073709551615#0#-0#-4@102"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnOSCpp.h0000000000000000^72#18446744073709551615#72#18446744073709551615#18446744073709551615#0#---1#-4@102"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnOSCpp.h0000000000000000^72#18446744073709551615#72#18446744073709551615#18446744073709551615#0#19"Unused variable '*'--2@25"Unused variable 'nRetVal'-357864631#1398#157#3(3@136"In file included from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockGenerator.cpp-357864631#18446744073709551615#0#-0#-4@130"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockGenerator.cpp0000000000000000^21#18446744073709551615#21#18446744073709551615#18446744073709551615#0#---3@134"In file included from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockGenerator.h-357864631#18446744073709551615#0#-0#-4@128"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockGenerator.h0000000000000000^27#18446744073709551615#27#18446744073709551615#18446744073709551615#0#---2@146"Unused variable 'nRetVal' in /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockProductionNode.h-357864631#18446744073709551615#0#-0#-4@133"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockProductionNode.h0000000000000000^54#18446744073709551615#54#18446744073709551615#18446744073709551615#0#---1#-4@133"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockProductionNode.h0000000000000000^54#18446744073709551615#54#18446744073709551615#18446744073709551615#0#19"Unused variable '*'--2@52"'MockGenerator::m_bMirror' will be initialized after-357864631#1739#180#-1#-4@128"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockGenerator.h0000000000000000^103#18446744073709551615#103#18446744073709551615#18446744073709551615#0#20"LLVM GCC 4.2 Warning--2@43"'XnUInt32 MockGenerator::m_nCurrentDataIdx'-357864631#1919#173#-1#-4@128"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockGenerator.h0000000000000000^99#18446744073709551615#99#18446744073709551615#18446744073709551615#0#20"LLVM GCC 4.2 Warning--2@21"When initialized here-357864631#2092#152#-1#-4@130"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockGenerator.cpp0000000000000000^24#18446744073709551615#24#18446744073709551615#18446744073709551615#0#20"LLVM GCC 4.2 Warning--2@25"Unused variable 'nRetVal'-357864631#2439#155#-1#-4@130"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockGenerator.cpp0000000000000000^308#18446744073709551615#308#18446744073709551615#18446744073709551615#0#19"Unused variable '*'--0#0#0#-19%DVTDocumentLocation5@130"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockGenerator.cpp0000000000000000^1956"CompileC build/nestk/deps/openni/Source/Modules/nimMockNodes/RGBDemo.build/Debug/nimMockNodes.build/Objects-normal/x86_64/MockGenerator.o nestk/deps/openni/Source/Modules/nimMockNodes/MockGenerator.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42    cd /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 "-DCMAKE_INTDIR=\"Debug\"" -DnimMockNodes_EXPORTS "-DCUSTOM_SAMPLE_XML_PATH=\"config/SamplesConfig.xml\"" "-DCUSTOM_SAMPLE_USER_XML_PATH=\"config/Sample-User.xml\"" -DXN_USE_CUSTOM_MODULES_FILE=xn_modules_file -DUSE_GLUT -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -mmacosx-version-min=10.7 -gdwarf-2 -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/include -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/macosx/libusb-7da756e -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/Common -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni/Source/Modules/nimMockNodes/RGBDemo.build/Debug/nimMockNodes.build/DerivedSources/x86_64 -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni/Source/Modules/nimMockNodes/RGBDemo.build/Debug/nimMockNodes.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug -fPIC -c /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockGenerator.cpp -o /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni/Source/Modules/nimMockNodes/RGBDemo.build/Debug/nimMockNodes.build/Objects-normal/x86_64/MockGenerator.o36"4CECE379-11A8-4E09-8BF7-ED3BFE02B3E4-
+
+CCompileC build/nestk/deps/openni/Source/Modules/nimMockNodes/RGBDemo.build/Debug/nimMockNodes.build/Objects-normal/x86_64/MockIRGenerator.o /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockIRGenerator.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+s357864632.233587
+e357864632.690202
+r1
+xCompileC
+xbuild/nestk/deps/openni/Source/Modules/nimMockNodes/RGBDemo.build/Debug/nimMockNodes.build/Objects-normal/x86_64/MockIRGenerator.o
+x/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockIRGenerator.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvmgcc42
+oIn file included from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnEvent.h:31,
+o                 from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockGenerator.h:27,
+o                 from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockMapGenerator.h:27,
+o                 from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockIRGenerator.h:27,
+o                 from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockIRGenerator.cpp:22:
+o/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnOSCpp.h: In member function 'void XnAutoCSLocker::Lock()':
+o/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnOSCpp.h:63: warning: unused variable 'nRetVal'
+o/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnOSCpp.h: In member function 'void XnAutoCSLocker::Unlock()':
+o/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnOSCpp.h:73: warning: unused variable 'nRetVal'
+oIn file included from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockGenerator.h:28,
+o                 from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockMapGenerator.h:27,
+o                 from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockIRGenerator.h:27,
+o                 from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockIRGenerator.cpp:22:
+o/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockProductionNode.h: In member function 'XnStatus MockProductionNode::PropChangeEvent::Raise()':
+o/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockProductionNode.h:55: warning: unused variable 'nRetVal'
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection124"Compile /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockIRGenerator.cppb0e33bb89454b541^afeeb0b89454b541^-2125"In file included from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnEvent.h:31,                 from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockGenerator.h:27,                 from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockMapGenerator.h:27,                 from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockIRGenerator.h:27,                 from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockIRGenerator.cpp:22:/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnOSCpp.h: In member function 'void XnAutoCSLocker::Lock()':/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnOSCpp.h:63: warning: unused variable 'nRetVal'/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnOSCpp.h: In member function 'void XnAutoCSLocker::Unlock()':/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnOSCpp.h:73: warning: unused variable 'nRetVal'In file included from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockGenerator.h:28,                 from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockMapGenerator.h:27,                 from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockIRGenerator.h:27,                 from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockIRGenerator.cpp:22:/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockProductionNode.h: In member function 'XnStatus MockProductionNode::PropChangeEvent::Raise()':/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockProductionNode.h:55: warning: unused variable 'nRetVal'3(21%IDEActivityLogMessage2@25"Unused variable 'nRetVal'-357864632#816#126#6(36%IDEActivityLogHeaderInclusionMessage3@138"In file included from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockIRGenerator.cpp-357864632#18446744073709551615#0#-0#-23%DVTTextDocumentLocation4@132"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockIRGenerator.cpp0000000000000000^21#18446744073709551615#21#18446744073709551615#18446744073709551615#0#---3@136"In file included from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockIRGenerator.h-357864632#18446744073709551615#0#-0#-4@130"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockIRGenerator.h0000000000000000^26#18446744073709551615#26#18446744073709551615#18446744073709551615#0#---3@137"In file included from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockMapGenerator.h-357864632#18446744073709551615#0#-0#-4@131"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockMapGenerator.h0000000000000000^26#18446744073709551615#26#18446744073709551615#18446744073709551615#0#---3@134"In file included from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockGenerator.h-357864632#18446744073709551615#0#-0#-4@128"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockGenerator.h0000000000000000^26#18446744073709551615#26#18446744073709551615#18446744073709551615#0#---3@108"In file included from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnEvent.h-357864632#18446744073709551615#0#-0#-4@102"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnEvent.h0000000000000000^30#18446744073709551615#30#18446744073709551615#18446744073709551615#0#---2@115"Unused variable 'nRetVal' in /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnOSCpp.h-357864632#18446744073709551615#0#-0#-4@102"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnOSCpp.h0000000000000000^62#18446744073709551615#62#18446744073709551615#18446744073709551615#0#---1#-4@102"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnOSCpp.h0000000000000000^62#18446744073709551615#62#18446744073709551615#18446744073709551615#0#19"Unused variable '*'--2@25"Unused variable 'nRetVal'-357864632#1082#126#6(3@138"In file included from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockIRGenerator.cpp-357864632#18446744073709551615#0#-0#-4@132"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockIRGenerator.cpp0000000000000000^21#18446744073709551615#21#18446744073709551615#18446744073709551615#0#---3@136"In file included from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockIRGenerator.h-357864632#18446744073709551615#0#-0#-4@130"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockIRGenerator.h0000000000000000^26#18446744073709551615#26#18446744073709551615#18446744073709551615#0#---3@137"In file included from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockMapGenerator.h-357864632#18446744073709551615#0#-0#-4@131"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockMapGenerator.h0000000000000000^26#18446744073709551615#26#18446744073709551615#18446744073709551615#0#---3@134"In file included from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockGenerator.h-357864632#18446744073709551615#0#-0#-4@128"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockGenerator.h0000000000000000^26#18446744073709551615#26#18446744073709551615#18446744073709551615#0#---3@108"In file included from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnEvent.h-357864632#18446744073709551615#0#-0#-4@102"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnEvent.h0000000000000000^30#18446744073709551615#30#18446744073709551615#18446744073709551615#0#---2@115"Unused variable 'nRetVal' in /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnOSCpp.h-357864632#18446744073709551615#0#-0#-4@102"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnOSCpp.h0000000000000000^72#18446744073709551615#72#18446744073709551615#18446744073709551615#0#---1#-4@102"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnOSCpp.h0000000000000000^72#18446744073709551615#72#18446744073709551615#18446744073709551615#0#19"Unused variable '*'--2@25"Unused variable 'nRetVal'-357864632#1968#157#5(3@138"In file included from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockIRGenerator.cpp-357864632#18446744073709551615#0#-0#-4@132"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockIRGenerator.cpp0000000000000000^21#18446744073709551615#21#18446744073709551615#18446744073709551615#0#---3@136"In file included from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockIRGenerator.h-357864632#18446744073709551615#0#-0#-4@130"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockIRGenerator.h0000000000000000^26#18446744073709551615#26#18446744073709551615#18446744073709551615#0#---3@137"In file included from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockMapGenerator.h-357864632#18446744073709551615#0#-0#-4@131"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockMapGenerator.h0000000000000000^26#18446744073709551615#26#18446744073709551615#18446744073709551615#0#---3@134"In file included from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockGenerator.h-357864632#18446744073709551615#0#-0#-4@128"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockGenerator.h0000000000000000^27#18446744073709551615#27#18446744073709551615#18446744073709551615#0#---2@146"Unused variable 'nRetVal' in /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockProductionNode.h-357864632#18446744073709551615#0#-0#-4@133"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockProductionNode.h0000000000000000^54#18446744073709551615#54#18446744073709551615#18446744073709551615#0#---1#-4@133"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockProductionNode.h0000000000000000^54#18446744073709551615#54#18446744073709551615#18446744073709551615#0#19"Unused variable '*'--0#0#0#-19%DVTDocumentLocation5@132"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockIRGenerator.cpp0000000000000000^1964"CompileC build/nestk/deps/openni/Source/Modules/nimMockNodes/RGBDemo.build/Debug/nimMockNodes.build/Objects-normal/x86_64/MockIRGenerator.o nestk/deps/openni/Source/Modules/nimMockNodes/MockIRGenerator.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42    cd /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 "-DCMAKE_INTDIR=\"Debug\"" -DnimMockNodes_EXPORTS "-DCUSTOM_SAMPLE_XML_PATH=\"config/SamplesConfig.xml\"" "-DCUSTOM_SAMPLE_USER_XML_PATH=\"config/Sample-User.xml\"" -DXN_USE_CUSTOM_MODULES_FILE=xn_modules_file -DUSE_GLUT -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -mmacosx-version-min=10.7 -gdwarf-2 -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/include -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/macosx/libusb-7da756e -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/Common -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni/Source/Modules/nimMockNodes/RGBDemo.build/Debug/nimMockNodes.build/DerivedSources/x86_64 -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni/Source/Modules/nimMockNodes/RGBDemo.build/Debug/nimMockNodes.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug -fPIC -c /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockIRGenerator.cpp -o /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni/Source/Modules/nimMockNodes/RGBDemo.build/Debug/nimMockNodes.build/Objects-normal/x86_64/MockIRGenerator.o36"CB2C9BA8-503F-452F-9011-759818D517AC-
+
+CCompileC build/nestk/deps/openni/Source/Modules/nimMockNodes/RGBDemo.build/Debug/nimMockNodes.build/Objects-normal/x86_64/MockImageGenerator.o /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockImageGenerator.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+s357864631.686209
+e357864632.397761
+r1
+xCompileC
+xbuild/nestk/deps/openni/Source/Modules/nimMockNodes/RGBDemo.build/Debug/nimMockNodes.build/Objects-normal/x86_64/MockImageGenerator.o
+x/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockImageGenerator.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvmgcc42
+oIn file included from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnEvent.h:31,
+o                 from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockGenerator.h:27,
+o                 from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockMapGenerator.h:27,
+o                 from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockImageGenerator.h:27,
+o                 from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockImageGenerator.cpp:22:
+o/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnOSCpp.h: In member function 'void XnAutoCSLocker::Lock()':
+o/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnOSCpp.h:63: warning: unused variable 'nRetVal'
+o/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnOSCpp.h: In member function 'void XnAutoCSLocker::Unlock()':
+o/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnOSCpp.h:73: warning: unused variable 'nRetVal'
+oIn file included from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockGenerator.h:28,
+o                 from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockMapGenerator.h:27,
+o                 from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockImageGenerator.h:27,
+o                 from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockImageGenerator.cpp:22:
+o/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockProductionNode.h: In member function 'XnStatus MockProductionNode::PropChangeEvent::Raise()':
+o/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockProductionNode.h:55: warning: unused variable 'nRetVal'
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection127"Compile /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockImageGenerator.cppb1c4afb79454b541^a7e765b89454b541^-2137"In file included from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnEvent.h:31,                 from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockGenerator.h:27,                 from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockMapGenerator.h:27,                 from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockImageGenerator.h:27,                 from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockImageGenerator.cpp:22:/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnOSCpp.h: In member function 'void XnAutoCSLocker::Lock()':/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnOSCpp.h:63: warning: unused variable 'nRetVal'/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnOSCpp.h: In member function 'void XnAutoCSLocker::Unlock()':/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnOSCpp.h:73: warning: unused variable 'nRetVal'In file included from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockGenerator.h:28,                 from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockMapGenerator.h:27,                 from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockImageGenerator.h:27,                 from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockImageGenerator.cpp:22:/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockProductionNode.h: In member function 'XnStatus MockProductionNode::PropChangeEvent::Raise()':/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockProductionNode.h:55: warning: unused variable 'nRetVal'3(21%IDEActivityLogMessage2@25"Unused variable 'nRetVal'-357864631#822#126#6(36%IDEActivityLogHeaderInclusionMessage3@141"In file included from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockImageGenerator.cpp-357864631#18446744073709551615#0#-0#-23%DVTTextDocumentLocation4@135"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockImageGenerator.cpp0000000000000000^21#18446744073709551615#21#18446744073709551615#18446744073709551615#0#---3@139"In file included from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockImageGenerator.h-357864631#18446744073709551615#0#-0#-4@133"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockImageGenerator.h0000000000000000^26#18446744073709551615#26#18446744073709551615#18446744073709551615#0#---3@137"In file included from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockMapGenerator.h-357864631#18446744073709551615#0#-0#-4@131"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockMapGenerator.h0000000000000000^26#18446744073709551615#26#18446744073709551615#18446744073709551615#0#---3@134"In file included from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockGenerator.h-357864631#18446744073709551615#0#-0#-4@128"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockGenerator.h0000000000000000^26#18446744073709551615#26#18446744073709551615#18446744073709551615#0#---3@108"In file included from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnEvent.h-357864631#18446744073709551615#0#-0#-4@102"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnEvent.h0000000000000000^30#18446744073709551615#30#18446744073709551615#18446744073709551615#0#---2@115"Unused variable 'nRetVal' in /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnOSCpp.h-357864631#18446744073709551615#0#-0#-4@102"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnOSCpp.h0000000000000000^62#18446744073709551615#62#18446744073709551615#18446744073709551615#0#---1#-4@102"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnOSCpp.h0000000000000000^62#18446744073709551615#62#18446744073709551615#18446744073709551615#0#19"Unused variable '*'--2@25"Unused variable 'nRetVal'-357864631#1088#126#6(3@141"In file included from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockImageGenerator.cpp-357864631#18446744073709551615#0#-0#-4@135"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockImageGenerator.cpp0000000000000000^21#18446744073709551615#21#18446744073709551615#18446744073709551615#0#---3@139"In file included from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockImageGenerator.h-357864631#18446744073709551615#0#-0#-4@133"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockImageGenerator.h0000000000000000^26#18446744073709551615#26#18446744073709551615#18446744073709551615#0#---3@137"In file included from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockMapGenerator.h-357864631#18446744073709551615#0#-0#-4@131"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockMapGenerator.h0000000000000000^26#18446744073709551615#26#18446744073709551615#18446744073709551615#0#---3@134"In file included from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockGenerator.h-357864631#18446744073709551615#0#-0#-4@128"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockGenerator.h0000000000000000^26#18446744073709551615#26#18446744073709551615#18446744073709551615#0#---3@108"In file included from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnEvent.h-357864631#18446744073709551615#0#-0#-4@102"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnEvent.h0000000000000000^30#18446744073709551615#30#18446744073709551615#18446744073709551615#0#---2@115"Unused variable 'nRetVal' in /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnOSCpp.h-357864631#18446744073709551615#0#-0#-4@102"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnOSCpp.h0000000000000000^72#18446744073709551615#72#18446744073709551615#18446744073709551615#0#---1#-4@102"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnOSCpp.h0000000000000000^72#18446744073709551615#72#18446744073709551615#18446744073709551615#0#19"Unused variable '*'--2@25"Unused variable 'nRetVal'-357864632#1980#157#5(3@141"In file included from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockImageGenerator.cpp-357864632#18446744073709551615#0#-0#-4@135"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockImageGenerator.cpp0000000000000000^21#18446744073709551615#21#18446744073709551615#18446744073709551615#0#---3@139"In file included from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockImageGenerator.h-357864632#18446744073709551615#0#-0#-4@133"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockImageGenerator.h0000000000000000^26#18446744073709551615#26#18446744073709551615#18446744073709551615#0#---3@137"In file included from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockMapGenerator.h-357864632#18446744073709551615#0#-0#-4@131"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockMapGenerator.h0000000000000000^26#18446744073709551615#26#18446744073709551615#18446744073709551615#0#---3@134"In file included from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockGenerator.h-357864632#18446744073709551615#0#-0#-4@128"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockGenerator.h0000000000000000^27#18446744073709551615#27#18446744073709551615#18446744073709551615#0#---2@146"Unused variable 'nRetVal' in /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockProductionNode.h-357864632#18446744073709551615#0#-0#-4@133"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockProductionNode.h0000000000000000^54#18446744073709551615#54#18446744073709551615#18446744073709551615#0#---1#-4@133"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockProductionNode.h0000000000000000^54#18446744073709551615#54#18446744073709551615#18446744073709551615#0#19"Unused variable '*'--0#0#0#-19%DVTDocumentLocation5@135"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockImageGenerator.cpp0000000000000000^1976"CompileC build/nestk/deps/openni/Source/Modules/nimMockNodes/RGBDemo.build/Debug/nimMockNodes.build/Objects-normal/x86_64/MockImageGenerator.o nestk/deps/openni/Source/Modules/nimMockNodes/MockImageGenerator.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42    cd /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 "-DCMAKE_INTDIR=\"Debug\"" -DnimMockNodes_EXPORTS "-DCUSTOM_SAMPLE_XML_PATH=\"config/SamplesConfig.xml\"" "-DCUSTOM_SAMPLE_USER_XML_PATH=\"config/Sample-User.xml\"" -DXN_USE_CUSTOM_MODULES_FILE=xn_modules_file -DUSE_GLUT -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -mmacosx-version-min=10.7 -gdwarf-2 -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/include -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/macosx/libusb-7da756e -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/Common -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni/Source/Modules/nimMockNodes/RGBDemo.build/Debug/nimMockNodes.build/DerivedSources/x86_64 -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni/Source/Modules/nimMockNodes/RGBDemo.build/Debug/nimMockNodes.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug -fPIC -c /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockImageGenerator.cpp -o /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni/Source/Modules/nimMockNodes/RGBDemo.build/Debug/nimMockNodes.build/Objects-normal/x86_64/MockImageGenerator.o36"9CF11C52-6E79-48DF-B07D-C7E7F1E316AA-
+
+CCompileC build/nestk/deps/openni/Source/Modules/nimMockNodes/RGBDemo.build/Debug/nimMockNodes.build/Objects-normal/x86_64/MockMapGenerator.o /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockMapGenerator.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+s357864632.398996
+e357864633.092819
+r1
+xCompileC
+xbuild/nestk/deps/openni/Source/Modules/nimMockNodes/RGBDemo.build/Debug/nimMockNodes.build/Objects-normal/x86_64/MockMapGenerator.o
+x/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockMapGenerator.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvmgcc42
+oIn file included from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnEvent.h:31,
+o                 from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockGenerator.h:27,
+o                 from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockMapGenerator.h:27,
+o                 from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockMapGenerator.cpp:22:
+o/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnOSCpp.h: In member function 'void XnAutoCSLocker::Lock()':
+o/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnOSCpp.h:63: warning: unused variable 'nRetVal'
+o/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnOSCpp.h: In member function 'void XnAutoCSLocker::Unlock()':
+o/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnOSCpp.h:73: warning: unused variable 'nRetVal'
+oIn file included from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockGenerator.h:28,
+o                 from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockMapGenerator.h:27,
+o                 from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockMapGenerator.cpp:22:
+o/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockProductionNode.h: In member function 'XnStatus MockProductionNode::PropChangeEvent::Raise()':
+o/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockProductionNode.h:55: warning: unused variable 'nRetVal'
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection125"Compile /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockMapGenerator.cppde3b66b89454b541^29d017b99454b541^-1845"In file included from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnEvent.h:31,                 from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockGenerator.h:27,                 from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockMapGenerator.h:27,                 from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockMapGenerator.cpp:22:/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnOSCpp.h: In member function 'void XnAutoCSLocker::Lock()':/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnOSCpp.h:63: warning: unused variable 'nRetVal'/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnOSCpp.h: In member function 'void XnAutoCSLocker::Unlock()':/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnOSCpp.h:73: warning: unused variable 'nRetVal'In file included from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockGenerator.h:28,                 from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockMapGenerator.h:27,                 from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockMapGenerator.cpp:22:/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockProductionNode.h: In member function 'XnStatus MockProductionNode::PropChangeEvent::Raise()':/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockProductionNode.h:55: warning: unused variable 'nRetVal'3(21%IDEActivityLogMessage2@25"Unused variable 'nRetVal'-357864632#676#126#5(36%IDEActivityLogHeaderInclusionMessage3@139"In file included from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockMapGenerator.cpp-357864632#18446744073709551615#0#-0#-23%DVTTextDocumentLocation4@133"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockMapGenerator.cpp0000000000000000^21#18446744073709551615#21#18446744073709551615#18446744073709551615#0#---3@137"In file included from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockMapGenerator.h-357864632#18446744073709551615#0#-0#-4@131"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockMapGenerator.h0000000000000000^26#18446744073709551615#26#18446744073709551615#18446744073709551615#0#---3@134"In file included from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockGenerator.h-357864632#18446744073709551615#0#-0#-4@128"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockGenerator.h0000000000000000^26#18446744073709551615#26#18446744073709551615#18446744073709551615#0#---3@108"In file included from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnEvent.h-357864632#18446744073709551615#0#-0#-4@102"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnEvent.h0000000000000000^30#18446744073709551615#30#18446744073709551615#18446744073709551615#0#---2@115"Unused variable 'nRetVal' in /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnOSCpp.h-357864632#18446744073709551615#0#-0#-4@102"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnOSCpp.h0000000000000000^62#18446744073709551615#62#18446744073709551615#18446744073709551615#0#---1#-4@102"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnOSCpp.h0000000000000000^62#18446744073709551615#62#18446744073709551615#18446744073709551615#0#19"Unused variable '*'--2@25"Unused variable 'nRetVal'-357864632#942#126#5(3@139"In file included from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockMapGenerator.cpp-357864632#18446744073709551615#0#-0#-4@133"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockMapGenerator.cpp0000000000000000^21#18446744073709551615#21#18446744073709551615#18446744073709551615#0#---3@137"In file included from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockMapGenerator.h-357864632#18446744073709551615#0#-0#-4@131"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockMapGenerator.h0000000000000000^26#18446744073709551615#26#18446744073709551615#18446744073709551615#0#---3@134"In file included from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockGenerator.h-357864632#18446744073709551615#0#-0#-4@128"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockGenerator.h0000000000000000^26#18446744073709551615#26#18446744073709551615#18446744073709551615#0#---3@108"In file included from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnEvent.h-357864632#18446744073709551615#0#-0#-4@102"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnEvent.h0000000000000000^30#18446744073709551615#30#18446744073709551615#18446744073709551615#0#---2@115"Unused variable 'nRetVal' in /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnOSCpp.h-357864632#18446744073709551615#0#-0#-4@102"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnOSCpp.h0000000000000000^72#18446744073709551615#72#18446744073709551615#18446744073709551615#0#---1#-4@102"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnOSCpp.h0000000000000000^72#18446744073709551615#72#18446744073709551615#18446744073709551615#0#19"Unused variable '*'--2@25"Unused variable 'nRetVal'-357864632#1688#157#4(3@139"In file included from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockMapGenerator.cpp-357864632#18446744073709551615#0#-0#-4@133"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockMapGenerator.cpp0000000000000000^21#18446744073709551615#21#18446744073709551615#18446744073709551615#0#---3@137"In file included from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockMapGenerator.h-357864632#18446744073709551615#0#-0#-4@131"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockMapGenerator.h0000000000000000^26#18446744073709551615#26#18446744073709551615#18446744073709551615#0#---3@134"In file included from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockGenerator.h-357864632#18446744073709551615#0#-0#-4@128"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockGenerator.h0000000000000000^27#18446744073709551615#27#18446744073709551615#18446744073709551615#0#---2@146"Unused variable 'nRetVal' in /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockProductionNode.h-357864632#18446744073709551615#0#-0#-4@133"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockProductionNode.h0000000000000000^54#18446744073709551615#54#18446744073709551615#18446744073709551615#0#---1#-4@133"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockProductionNode.h0000000000000000^54#18446744073709551615#54#18446744073709551615#18446744073709551615#0#19"Unused variable '*'--0#0#0#-19%DVTDocumentLocation5@133"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockMapGenerator.cpp0000000000000000^1968"CompileC build/nestk/deps/openni/Source/Modules/nimMockNodes/RGBDemo.build/Debug/nimMockNodes.build/Objects-normal/x86_64/MockMapGenerator.o nestk/deps/openni/Source/Modules/nimMockNodes/MockMapGenerator.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42    cd /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 "-DCMAKE_INTDIR=\"Debug\"" -DnimMockNodes_EXPORTS "-DCUSTOM_SAMPLE_XML_PATH=\"config/SamplesConfig.xml\"" "-DCUSTOM_SAMPLE_USER_XML_PATH=\"config/Sample-User.xml\"" -DXN_USE_CUSTOM_MODULES_FILE=xn_modules_file -DUSE_GLUT -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -mmacosx-version-min=10.7 -gdwarf-2 -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/include -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/macosx/libusb-7da756e -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/Common -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni/Source/Modules/nimMockNodes/RGBDemo.build/Debug/nimMockNodes.build/DerivedSources/x86_64 -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni/Source/Modules/nimMockNodes/RGBDemo.build/Debug/nimMockNodes.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug -fPIC -c /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockMapGenerator.cpp -o /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni/Source/Modules/nimMockNodes/RGBDemo.build/Debug/nimMockNodes.build/Objects-normal/x86_64/MockMapGenerator.o36"D8106C33-D754-438F-B38C-6FE952016986-
+
+CCompileC build/nestk/deps/openni/Source/Modules/nimMockNodes/RGBDemo.build/Debug/nimMockNodes.build/Objects-normal/x86_64/MockProductionNode.o /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockProductionNode.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+s357864632.693079
+e357864633.392139
+r1
+xCompileC
+xbuild/nestk/deps/openni/Source/Modules/nimMockNodes/RGBDemo.build/Debug/nimMockNodes.build/Objects-normal/x86_64/MockProductionNode.o
+x/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockProductionNode.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvmgcc42
+oIn file included from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnEvent.h:31,
+o                 from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockProductionNode.h:29,
+o                 from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockProductionNode.cpp:22:
+o/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnOSCpp.h: In member function 'void XnAutoCSLocker::Lock()':
+o/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnOSCpp.h:63: warning: unused variable 'nRetVal'
+o/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnOSCpp.h: In member function 'void XnAutoCSLocker::Unlock()':
+o/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnOSCpp.h:73: warning: unused variable 'nRetVal'
+oIn file included from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockProductionNode.cpp:22:
+o/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockProductionNode.h: In member function 'XnStatus MockProductionNode::PropChangeEvent::Raise()':
+o/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockProductionNode.h:55: warning: unused variable 'nRetVal'
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection127"Compile /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockProductionNode.cpp9886b1b89454b541^9c6f64b99454b541^-1431"In file included from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnEvent.h:31,                 from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockProductionNode.h:29,                 from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockProductionNode.cpp:22:/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnOSCpp.h: In member function 'void XnAutoCSLocker::Lock()':/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnOSCpp.h:63: warning: unused variable 'nRetVal'/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnOSCpp.h: In member function 'void XnAutoCSLocker::Unlock()':/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnOSCpp.h:73: warning: unused variable 'nRetVal'In file included from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockProductionNode.cpp:22:/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockProductionNode.h: In member function 'XnStatus MockProductionNode::PropChangeEvent::Raise()':/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockProductionNode.h:55: warning: unused variable 'nRetVal'3(21%IDEActivityLogMessage2@25"Unused variable 'nRetVal'-357864633#541#126#4(36%IDEActivityLogHeaderInclusionMessage3@141"In file included from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockProductionNode.cpp-357864633#18446744073709551615#0#-0#-23%DVTTextDocumentLocation4@135"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockProductionNode.cpp0000000000000000^21#18446744073709551615#21#18446744073709551615#18446744073709551615#0#---3@139"In file included from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockProductionNode.h-357864633#18446744073709551615#0#-0#-4@133"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockProductionNode.h0000000000000000^28#18446744073709551615#28#18446744073709551615#18446744073709551615#0#---3@108"In file included from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnEvent.h-357864633#18446744073709551615#0#-0#-4@102"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnEvent.h0000000000000000^30#18446744073709551615#30#18446744073709551615#18446744073709551615#0#---2@115"Unused variable 'nRetVal' in /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnOSCpp.h-357864633#18446744073709551615#0#-0#-4@102"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnOSCpp.h0000000000000000^62#18446744073709551615#62#18446744073709551615#18446744073709551615#0#---1#-4@102"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnOSCpp.h0000000000000000^62#18446744073709551615#62#18446744073709551615#18446744073709551615#0#19"Unused variable '*'--2@25"Unused variable 'nRetVal'-357864633#807#126#4(3@141"In file included from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockProductionNode.cpp-357864633#18446744073709551615#0#-0#-4@135"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockProductionNode.cpp0000000000000000^21#18446744073709551615#21#18446744073709551615#18446744073709551615#0#---3@139"In file included from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockProductionNode.h-357864633#18446744073709551615#0#-0#-4@133"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockProductionNode.h0000000000000000^28#18446744073709551615#28#18446744073709551615#18446744073709551615#0#---3@108"In file included from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnEvent.h-357864633#18446744073709551615#0#-0#-4@102"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnEvent.h0000000000000000^30#18446744073709551615#30#18446744073709551615#18446744073709551615#0#---2@115"Unused variable 'nRetVal' in /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnOSCpp.h-357864633#18446744073709551615#0#-0#-4@102"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnOSCpp.h0000000000000000^72#18446744073709551615#72#18446744073709551615#18446744073709551615#0#---1#-4@102"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnOSCpp.h0000000000000000^72#18446744073709551615#72#18446744073709551615#18446744073709551615#0#19"Unused variable '*'--2@25"Unused variable 'nRetVal'-357864633#1274#157#2(3@141"In file included from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockProductionNode.cpp-357864633#18446744073709551615#0#-0#-4@135"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockProductionNode.cpp0000000000000000^21#18446744073709551615#21#18446744073709551615#18446744073709551615#0#---2@146"Unused variable 'nRetVal' in /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockProductionNode.h-357864633#18446744073709551615#0#-0#-4@133"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockProductionNode.h0000000000000000^54#18446744073709551615#54#18446744073709551615#18446744073709551615#0#---1#-4@133"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockProductionNode.h0000000000000000^54#18446744073709551615#54#18446744073709551615#18446744073709551615#0#19"Unused variable '*'--0#0#0#-19%DVTDocumentLocation5@135"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockProductionNode.cpp0000000000000000^1976"CompileC build/nestk/deps/openni/Source/Modules/nimMockNodes/RGBDemo.build/Debug/nimMockNodes.build/Objects-normal/x86_64/MockProductionNode.o nestk/deps/openni/Source/Modules/nimMockNodes/MockProductionNode.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42    cd /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 "-DCMAKE_INTDIR=\"Debug\"" -DnimMockNodes_EXPORTS "-DCUSTOM_SAMPLE_XML_PATH=\"config/SamplesConfig.xml\"" "-DCUSTOM_SAMPLE_USER_XML_PATH=\"config/Sample-User.xml\"" -DXN_USE_CUSTOM_MODULES_FILE=xn_modules_file -DUSE_GLUT -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -mmacosx-version-min=10.7 -gdwarf-2 -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/include -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/macosx/libusb-7da756e -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/Common -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni/Source/Modules/nimMockNodes/RGBDemo.build/Debug/nimMockNodes.build/DerivedSources/x86_64 -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni/Source/Modules/nimMockNodes/RGBDemo.build/Debug/nimMockNodes.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug -fPIC -c /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/MockProductionNode.cpp -o /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni/Source/Modules/nimMockNodes/RGBDemo.build/Debug/nimMockNodes.build/Objects-normal/x86_64/MockProductionNode.o36"233F4CD2-C588-4510-9D72-8BB233B4213F-
+
+CCompileC build/nestk/deps/openni/Source/Modules/nimMockNodes/RGBDemo.build/Debug/nimMockNodes.build/Objects-normal/x86_64/nimMockNodes.o /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/nimMockNodes.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+s357864633.094062
+e357864633.907217
+r1
+xCompileC
+xbuild/nestk/deps/openni/Source/Modules/nimMockNodes/RGBDemo.build/Debug/nimMockNodes.build/Objects-normal/x86_64/nimMockNodes.o
+x/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/nimMockNodes.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection121"Compile /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/nimMockNodes.cppcc2a18b99454b541^234de8b99454b541^---0#0#0#-19%DVTDocumentLocation2@129"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/nimMockNodes.cpp0000000000000000^1952"CompileC build/nestk/deps/openni/Source/Modules/nimMockNodes/RGBDemo.build/Debug/nimMockNodes.build/Objects-normal/x86_64/nimMockNodes.o nestk/deps/openni/Source/Modules/nimMockNodes/nimMockNodes.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42    cd /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 "-DCMAKE_INTDIR=\"Debug\"" -DnimMockNodes_EXPORTS "-DCUSTOM_SAMPLE_XML_PATH=\"config/SamplesConfig.xml\"" "-DCUSTOM_SAMPLE_USER_XML_PATH=\"config/Sample-User.xml\"" -DXN_USE_CUSTOM_MODULES_FILE=xn_modules_file -DUSE_GLUT -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -mmacosx-version-min=10.7 -gdwarf-2 -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/include -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/macosx/libusb-7da756e -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/Common -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni/Source/Modules/nimMockNodes/RGBDemo.build/Debug/nimMockNodes.build/DerivedSources/x86_64 -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni/Source/Modules/nimMockNodes/RGBDemo.build/Debug/nimMockNodes.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug -fPIC -c /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimMockNodes/nimMockNodes.cpp -o /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni/Source/Modules/nimMockNodes/RGBDemo.build/Debug/nimMockNodes.build/Objects-normal/x86_64/nimMockNodes.o36"22B9CD2A-0AE7-4DF4-AEAF-E456C6869C89-
+
+CLd /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libnimMockNodes.dylib normal x86_64
+s357864634.312721
+e357864634.383943
+r1
+xLd
+x/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libnimMockNodes.dylib
+xnormal
+xx86_64
+old: warning: directory not found for option '-L/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Nite/Lib/MacOSX/Debug'
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Link /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libnimMockNodes.dylib172950ba9454b541^ae6562ba9454b541^-139"ld: warning: directory not found for option '-L/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Nite/Lib/MacOSX/Debug'1(21%IDEActivityLogMessage2@125"Directory not found for option '-L/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Nite/Lib/MacOSX/Debug'-357864634#0#139#-1#-23%DVTTextDocumentLocation3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#32"Apple Mach-O Linker (ld) Warning--0#0#0#--1505"Ld build/lib/Debug/libnimMockNodes.dylib normal x86_64    cd /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo    setenv MACOSX_DEPLOYMENT_TARGET 10.7    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-g++-4.2 -arch x86_64 -dynamiclib -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk -L/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug -L/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Nite/Lib/MacOSX/Debug -L/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Nite/Lib/MacOSX -F/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug -filelist /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni/Source/Modules/nimMockNodes/RGBDemo.build/Debug/nimMockNodes.build/Objects-normal/x86_64/nimMockNodes.LinkFileList -install_name /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libnimMockNodes.dylib -mmacosx-version-min=10.7 -dynamiclib -Wl,-headerpad_max_install_names /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libOpenNI.dylib /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libusb.dylib -framework IOKit -framework CoreFoundation /usr/lib/libdl.dylib /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libTinyXml.a -framework CoreFoundation -framework IOKit -single_module -o /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libnimMockNodes.dylib36"10973C19-00F7-4661-AF10-8351DF2908F9-
+
+CPhaseScriptExecution "CMake PostBuild Rules" /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni/Source/Modules/nimMockNodes/RGBDemo.build/Debug/nimMockNodes.build/Script-3A7909017E494E7C8A6F58F8.sh
+s357864635.522144
+e357864635.645242
+r1
+xPhaseScriptExecution
+xCMake PostBuild Rules
+x/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni/Source/Modules/nimMockNodes/RGBDemo.build/Debug/nimMockNodes.build/Script-3A7909017E494E7C8A6F58F8.sh
+oecho "Depend check for xcode"
+oDepend check for xcode
+ocd /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni && make -C /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni/CMakeScripts/XCODE_DEPEND_HELPER.make PostBuild.nimMockNodes.Debug
+omake[1]: Nothing to be done for `PostBuild.nimMockNodes.Debug'.
+oecho "Depend check for xcode"
+oDepend check for xcode
+ocd /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build && make -C /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/CMakeScripts/XCODE_DEPEND_HELPER.make PostBuild.nimMockNodes.Debug
+omake[1]: Nothing to be done for `PostBuild.nimMockNodes.Debug'.
+oecho "Depend check for xcode"
+oDepend check for xcode
+ocd /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk && make -C /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/CMakeScripts/XCODE_DEPEND_HELPER.make PostBuild.nimMockNodes.Debug
+omake[1]: Nothing to be done for `PostBuild.nimMockNodes.Debug'.
+oecho "Depend check for xcode"
+oDepend check for xcode
+ocd /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps && make -C /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/CMakeScripts/XCODE_DEPEND_HELPER.make PostBuild.nimMockNodes.Debug
+omake[1]: Nothing to be done for `PostBuild.nimMockNodes.Debug'.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection47"Run custom shell script 'CMake PostBuild Rules'053386bb9454b541^6f46a5bb9454b541^-1593"echo "Depend check for xcode"Depend check for xcodecd /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni && make -C /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni/CMakeScripts/XCODE_DEPEND_HELPER.make PostBuild.nimMockNodes.Debugmake[1]: Nothing to be done for `PostBuild.nimMockNodes.Debug'.echo "Depend check for xcode"Depend check for xcodecd /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build && make -C /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/CMakeScripts/XCODE_DEPEND_HELPER.make PostBuild.nimMockNodes.Debugmake[1]: Nothing to be done for `PostBuild.nimMockNodes.Debug'.echo "Depend check for xcode"Depend check for xcodecd /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk && make -C /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/CMakeScripts/XCODE_DEPEND_HELPER.make PostBuild.nimMockNodes.Debugmake[1]: Nothing to be done for `PostBuild.nimMockNodes.Debug'.echo "Depend check for xcode"Depend check for xcodecd /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps && make -C /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/CMakeScripts/XCODE_DEPEND_HELPER.make PostBuild.nimMockNodes.Debugmake[1]: Nothing to be done for `PostBuild.nimMockNodes.Debug'.16(21%IDEActivityLogMessage2@30"echo "Depend check for xcode"-357864635#0#30#-0#-----2@23"Depend check for xcode-357864635#30#23#-0#-----2@309"cd /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni && make -C /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni/CMakeScripts/XCODE_DEPEND_HELPER.make PostBuild.nimMockNodes.Debug-357864635#53#309#-0#-----2@64"make[1]: Nothing to be done for `PostBuild.nimMockNodes.Debug'.-357864635#362#64#-0#-----2@30"echo "Depend check for xcode"-357864635#426#30#-0#-----2@23"Depend check for xcode-357864635#456#23#-0#-----2@255"cd /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build && make -C /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/CMakeScripts/XCODE_DEPEND_HELPER.make PostBuild.nimMockNodes.Debug-357864635#479#255#-0#-----2@64"make[1]: Nothing to be done for `PostBuild.nimMockNodes.Debug'.-357864635#734#64#-0#-----2@30"echo "Depend check for xcode"-357864635#798#30#-0#-----2@23"Depend check for xcode-357864635#828#23#-0#-----2@273"cd /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk && make -C /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/CMakeScripts/XCODE_DEPEND_HELPER.make PostBuild.nimMockNodes.Debug-357864635#851#273#-0#-----2@64"make[1]: Nothing to be done for `PostBuild.nimMockNodes.Debug'.-357864635#1124#64#-0#-----2@30"echo "Depend check for xcode"-357864635#1188#30#-0#-----2@23"Depend check for xcode-357864635#1218#23#-0#-----2@288"cd /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps && make -C /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/CMakeScripts/XCODE_DEPEND_HELPER.make PostBuild.nimMockNodes.Debug-357864635#1241#288#-0#-----2@64"make[1]: Nothing to be done for `PostBuild.nimMockNodes.Debug'.-357864635#1529#64#-0#-----0#0#0#--421"PhaseScriptExecution "CMake PostBuild Rules" build/nestk/deps/openni/Source/Modules/nimMockNodes/RGBDemo.build/Debug/nimMockNodes.build/Script-3A7909017E494E7C8A6F58F8.sh    cd /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo    /bin/sh -c /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni/Source/Modules/nimMockNodes/RGBDemo.build/Debug/nimMockNodes.build/Script-3A7909017E494E7C8A6F58F8.sh36"A7995113-1B69-4041-B0FA-FD080DEB5F54-
+

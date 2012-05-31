@@ -1,0 +1,569 @@
+TXnCore
+v5
+r1
+cCheck dependencies
+cCompileC build/nestk/deps/openni/SensorKinect/Source/XnCore/RGBDemo.build/Debug/XnCore.build/Objects-normal/x86_64/XnBuffer.o /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/SensorKinect/Source/XnCore/XnBuffer.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+cCompileC build/nestk/deps/openni/SensorKinect/Source/XnCore/RGBDemo.build/Debug/XnCore.build/Objects-normal/x86_64/XnCore.o /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/SensorKinect/Source/XnCore/XnCore.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+cCompileC build/nestk/deps/openni/SensorKinect/Source/XnCore/RGBDemo.build/Debug/XnCore.build/Objects-normal/x86_64/XnCoreStatus.o /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/SensorKinect/Source/XnCore/XnCoreStatus.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+cCompileC build/nestk/deps/openni/SensorKinect/Source/XnCore/RGBDemo.build/Debug/XnCore.build/Objects-normal/x86_64/XnIOFileStream.o /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/SensorKinect/Source/XnCore/XnIOFileStream.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+cCompileC build/nestk/deps/openni/SensorKinect/Source/XnCore/RGBDemo.build/Debug/XnCore.build/Objects-normal/x86_64/XnIONetworkStream.o /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/SensorKinect/Source/XnCore/XnIONetworkStream.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+cCompileC build/nestk/deps/openni/SensorKinect/Source/XnCore/RGBDemo.build/Debug/XnCore.build/Objects-normal/x86_64/XnVersion.o /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/SensorKinect/Source/XnCore/XnVersion.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+cLd /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libXnCore.dylib normal x86_64
+cPhaseScriptExecution "CMake PostBuild Rules" /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni/SensorKinect/Source/XnCore/RGBDemo.build/Debug/XnCore.build/Script-E0D368D24F814A6CBF0A9033.sh
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk
+c000000004F29C61A00000000000000EE
+t1328137754
+s238
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/assert.h
+c000000004F6A243F0000000000000F6E
+t1332356159
+s3950
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/fcntl.h
+c000000004F6A244000000000000003EA
+t1332356160
+s1002
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/pthread.h
+c000000004F6A24410000000000003CF0
+t1332356161
+s15600
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/stdio.h
+c000000004F6A24410000000000004763
+t1332356161
+s18275
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/stdlib.h
+c000000004F6A244100000000000030A7
+t1332356161
+s12455
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/string.h
+c000000004F6A24410000000000001A3A
+t1332356161
+s6714
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/sys/stat.h
+c000000004F6A24410000000000004B2F
+t1332356161
+s19247
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/sys/time.h
+c000000004F6A24410000000000001E64
+t1332356161
+s7780
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/sys/types.h
+c000000004F6A24410000000000002905
+t1332356161
+s10501
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/time.h
+c000000004F6A2441000000000000178E
+t1332356161
+s6030
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/unistd.h
+c000000004F6A24410000000000006662
+t1332356161
+s26210
+
+N/Applications/Xcode.app/Contents/Developer/usr/llvm-gcc-4.2/lib/gcc/i686-apple-darwin11/4.2.1/include/float.h
+c000000004F6A24460000000000001538
+t1332356166
+s5432
+
+N/Applications/Xcode.app/Contents/Developer/usr/llvm-gcc-4.2/lib/gcc/i686-apple-darwin11/4.2.1/include/stdarg.h
+c000000004F6A244600000000000010DD
+t1332356166
+s4317
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libXnCore.dylib
+t2
+s0
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni/SensorKinect/Source/XnCore/RGBDemo.build/Debug/XnCore.build/Objects-normal/x86_64/XnBuffer.o
+t2
+s0
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni/SensorKinect/Source/XnCore/RGBDemo.build/Debug/XnCore.build/Objects-normal/x86_64/XnCore.LinkFileList
+c000000004FA45D340000000000000402
+t1336171828
+s1026
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni/SensorKinect/Source/XnCore/RGBDemo.build/Debug/XnCore.build/Objects-normal/x86_64/XnCore.o
+t2
+s0
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni/SensorKinect/Source/XnCore/RGBDemo.build/Debug/XnCore.build/Objects-normal/x86_64/XnCoreStatus.o
+t2
+s0
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni/SensorKinect/Source/XnCore/RGBDemo.build/Debug/XnCore.build/Objects-normal/x86_64/XnIOFileStream.o
+t2
+s0
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni/SensorKinect/Source/XnCore/RGBDemo.build/Debug/XnCore.build/Objects-normal/x86_64/XnIONetworkStream.o
+t2
+s0
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni/SensorKinect/Source/XnCore/RGBDemo.build/Debug/XnCore.build/Objects-normal/x86_64/XnVersion.o
+t2
+s0
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni/SensorKinect/Source/XnCore/RGBDemo.build/Debug/XnCore.build/Script-E0D368D24F814A6CBF0A9033.sh
+c000000004FA45D34000000000000011B
+t1336171828
+s283
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/ARC/XnOSARC.h
+c000000004FA45A750000000000001A28
+t1336171125
+s6696
+i<sys/types.h>
+i<stdarg.h>
+i<time.h>
+i<stdio.h>
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/ARC/XnPlatformARC.h
+c000000004FA45A750000000000001B4F
+t1336171125
+s6991
+i<unistd.h>
+i<stdlib.h>
+i<stdio.h>
+i<string.h>
+i<assert.h>
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/Android-Arm/XnPlatformAndroid-Arm.h
+c000000004FA45A7500000000000009F2
+t1336171125
+s2546
+i"../Linux-x86/XnPlatformLinux-x86.h"
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/Linux-Arm/XnPlatformLinux-Arm.h
+c000000004FA45A750000000000000892
+t1336171125
+s2194
+i"../Linux-x86/XnPlatformLinux-x86.h"
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/Linux-x86/XnOSLinux-x86.h
+c000000004FA45A750000000000001A10
+t1336171125
+s6672
+i<sys/types.h>
+i<stdarg.h>
+i<time.h>
+i<pthread.h>
+i<sys/stat.h>
+i<fcntl.h>
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/Linux-x86/XnPlatformLinux-x86.h
+c000000004FA45A750000000000001C30
+t1336171125
+s7216
+i<unistd.h>
+i<stdlib.h>
+i<stdio.h>
+i<string.h>
+i<assert.h>
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/MacOSX/XnPlatformMacOSX.h
+c000000004FA45A7500000000000008B6
+t1336171125
+s2230
+i"../Linux-x86/XnPlatformLinux-x86.h"
+i<sys/time.h>
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/Win32/XnOSWin32.h
+c000000004FA45A750000000000001D16
+t1336171125
+s7446
+i<windows.h>
+i<time.h>
+i<stdlib.h>
+i<stdio.h>
+i<malloc.h>
+i<io.h>
+i<assert.h>
+i<float.h>
+i<crtdbg.h>
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/Win32/XnPlatformWin32.h
+c000000004FA45A75000000000000225F
+t1336171125
+s8799
+i<windows.h>
+i<stdlib.h>
+i<stdio.h>
+i<malloc.h>
+i<io.h>
+i<time.h>
+i<assert.h>
+i<float.h>
+i<crtdbg.h>
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnDump.h
+c000000004FA45A7500000000000019CC
+t1336171125
+s6604
+i"XnOS.h"
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnLog.h
+c000000004FA45A75000000000000334C
+t1336171125
+s13132
+i"XnOS.h"
+i"XnLogTypes.h"
+i"XnDump.h"
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnLogTypes.h
+c000000004FA45A750000000000000D5D
+t1336171125
+s3421
+i"XnPlatform.h"
+i"XnTypes.h"
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnMacros.h
+c000000004FA45A750000000000001027
+t1336171125
+s4135
+i"XnStatusCodes.h"
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnOS.h
+c000000004FA45A75000000000000A332
+t1336171125
+s41778
+i"XnPlatform.h"
+i"XnMacros.h"
+i"XnStatusCodes.h"
+i"XnOSStrings.h"
+i"XnOSMemory.h"
+i"Win32/XnOSWin32.h"
+i"Linux-x86/XnOSLinux-x86.h"
+i"ARC/XnOSARC.h"
+i<new>
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnOSMemory.h
+c000000004FA45A750000000000000C7E
+t1336171125
+s3198
+i"XnPlatform.h"
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnOSStrings.h
+c000000004FA45A750000000000000D88
+t1336171125
+s3464
+i"XnPlatform.h"
+i<stdarg.h>
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnPlatform.h
+c000000004FA45A750000000000001291
+t1336171125
+s4753
+i"Win32/XnPlatformWin32.h"
+i"Android-Arm/XnPlatformAndroid-Arm.h"
+i"Linux-x86/XnPlatformLinux-x86.h"
+i"Linux-Arm/XnPlatformLinux-Arm.h"
+i"ARC/XnPlatformARC.h"
+i"MacOSX/XnPlatformMacOSX.h"
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnProfiling.h
+c000000004FA45A75000000000000158D
+t1336171125
+s5517
+i<XnOS.h>
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnStatus.h
+c000000004FA45A750000000000001198
+t1336171125
+s4504
+i"XnPlatform.h"
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnStatusCodes.h
+c000000004FA45A750000000000001591
+t1336171125
+s5521
+i"XnStatus.h"
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnStatusRegister.h
+c000000004FA45A750000000000000FDE
+t1336171125
+s4062
+i"XnStatus.h"
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnTypes.h
+c000000004FA45A750000000000008EEF
+t1336171125
+s36591
+i<XnStatus.h>
+i<XnOS.h>
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnVersion.h
+c000000004FA45A750000000000000C59
+t1336171125
+s3161
+i"XnPlatform.h"
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/SensorKinect/Include/XnCore.h
+c000000004FA45A760000000000000FA2
+t1336171126
+s4002
+i<XnPlatform.h>
+i<XnStatus.h>
+i<XnVersion.h>
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/SensorKinect/Include/XnIOFileStream.h
+c000000004FA45A760000000000000A8E
+t1336171126
+s2702
+i<XnIOStream.h>
+i<XnOS.h>
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/SensorKinect/Include/XnIONetworkStream.h
+c000000004FA45A760000000000000AC3
+t1336171126
+s2755
+i<XnIOStream.h>
+i<XnOS.h>
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/SensorKinect/Include/XnIOStream.h
+c000000004FA45A7600000000000009E3
+t1336171126
+s2531
+i<XnPlatform.h>
+i<XnStatus.h>
+i<XnCore.h>
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/SensorKinect/Source/XnCore/XnBuffer.cpp
+c000000004FA45A760000000000000A80
+t1336171126
+s2688
+i"XnBuffer.h"
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/SensorKinect/Source/XnCore/XnBuffer.h
+c000000004FA45A7600000000000012BE
+t1336171126
+s4798
+i<XnOS.h>
+i<XnCore.h>
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/SensorKinect/Source/XnCore/XnCore.cpp
+c000000004FA45A76000000000000118B
+t1336171126
+s4491
+i<XnCore.h>
+i<XnOS.h>
+i<XnCore/XnCoreGlobals.h>
+i<XnLog.h>
+i<XnProfiling.h>
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/SensorKinect/Source/XnCore/XnCoreGlobals.h
+c000000004FA45A760000000000000BE7
+t1336171126
+s3047
+i<XnCore.h>
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/SensorKinect/Source/XnCore/XnCoreStatus.cpp
+c000000004FA45A7600000000000007F9
+t1336171126
+s2041
+i<XnStatusRegister.h>
+i"XnCore.h"
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/SensorKinect/Source/XnCore/XnIOFileStream.cpp
+c000000004FA45A760000000000000C51
+t1336171126
+s3153
+i<XnIOFileStream.h>
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/SensorKinect/Source/XnCore/XnIONetworkStream.cpp
+c000000004FA45A760000000000000F4B
+t1336171126
+s3915
+i"XnIONetworkStream.h"
+i<XnLog.h>
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/SensorKinect/Source/XnCore/XnVersion.cpp
+c000000004FA45A76000000000000091E
+t1336171126
+s2334
+i<XnVersion.h>
+i<XnCore.h>
+
+CBuild AST from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/SensorKinect/Source/XnCore/XnBuffer.cpp
+r0
+
+CBuild AST from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/SensorKinect/Source/XnCore/XnCore.cpp
+r0
+
+CBuild AST from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/SensorKinect/Source/XnCore/XnCoreStatus.cpp
+r0
+
+CBuild AST from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/SensorKinect/Source/XnCore/XnIOFileStream.cpp
+r0
+
+CBuild AST from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/SensorKinect/Source/XnCore/XnIONetworkStream.cpp
+r0
+
+CBuild AST from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/SensorKinect/Source/XnCore/XnVersion.cpp
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies529d2ab49454b541^9ad183b49454b541^---0#1#0#--18"Check dependencies36"5E97E982-B46A-45C8-843B-EEC13BA1B657-
+
+CCompileC build/nestk/deps/openni/SensorKinect/Source/XnCore/RGBDemo.build/Debug/XnCore.build/Objects-normal/x86_64/XnBuffer.o /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/SensorKinect/Source/XnCore/XnBuffer.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+s357864628.549881
+e357864628.781841
+r1
+xCompileC
+xbuild/nestk/deps/openni/SensorKinect/Source/XnCore/RGBDemo.build/Debug/XnCore.build/Objects-normal/x86_64/XnBuffer.o
+x/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/SensorKinect/Source/XnCore/XnBuffer.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvmgcc42
+oIn file included from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/SensorKinect/Source/XnCore/XnBuffer.cpp:31:
+o/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/SensorKinect/Source/XnCore/XnBuffer.h: In constructor 'XnBuffer::XnBuffer()':
+o/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/SensorKinect/Source/XnCore/XnBuffer.h:155: warning: 'XnBuffer::m_nMaxSize' will be initialized after
+o/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/SensorKinect/Source/XnCore/XnBuffer.h:154: warning:   'XnUInt32 XnBuffer::m_nSize'
+o/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/SensorKinect/Source/XnCore/XnBuffer.h:45: warning:   when initialized here
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection116"Compile /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/SensorKinect/Source/XnCore/XnBuffer.cpp68e78cb49454b541^df31c8b49454b541^-748"In file included from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/SensorKinect/Source/XnCore/XnBuffer.cpp:31:/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/SensorKinect/Source/XnCore/XnBuffer.h: In constructor 'XnBuffer::XnBuffer()':/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/SensorKinect/Source/XnCore/XnBuffer.h:155: warning: 'XnBuffer::m_nMaxSize' will be initialized after/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/SensorKinect/Source/XnCore/XnBuffer.h:154: warning:   'XnUInt32 XnBuffer::m_nSize'/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/SensorKinect/Source/XnCore/XnBuffer.h:45: warning:   when initialized here3(21%IDEActivityLogMessage2@48"'XnBuffer::m_nMaxSize' will be initialized after-357864628#282#170#2(36%IDEActivityLogHeaderInclusionMessage3@130"In file included from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/SensorKinect/Source/XnCore/XnBuffer.cpp-357864628#18446744073709551615#0#-0#-23%DVTTextDocumentLocation4@124"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/SensorKinect/Source/XnCore/XnBuffer.cpp0000000000000000^30#18446744073709551615#30#18446744073709551615#18446744073709551615#0#---2@158"'XnBuffer::m_nMaxSize' will be initialized after in /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/SensorKinect/Source/XnCore/XnBuffer.h-357864628#18446744073709551615#0#-0#-4@122"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/SensorKinect/Source/XnCore/XnBuffer.h0000000000000000^154#18446744073709551615#154#18446744073709551615#18446744073709551615#0#---1#-4@122"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/SensorKinect/Source/XnCore/XnBuffer.h0000000000000000^154#18446744073709551615#154#18446744073709551615#18446744073709551615#0#20"LLVM GCC 4.2 Warning--2@28"'XnUInt32 XnBuffer::m_nSize'-357864628#452#152#2(3@130"In file included from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/SensorKinect/Source/XnCore/XnBuffer.cpp-357864628#18446744073709551615#0#-0#-4@124"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/SensorKinect/Source/XnCore/XnBuffer.cpp0000000000000000^30#18446744073709551615#30#18446744073709551615#18446744073709551615#0#---2@138"'XnUInt32 XnBuffer::m_nSize' in /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/SensorKinect/Source/XnCore/XnBuffer.h-357864628#18446744073709551615#0#-0#-4@122"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/SensorKinect/Source/XnCore/XnBuffer.h0000000000000000^153#18446744073709551615#153#18446744073709551615#18446744073709551615#0#---1#-4@122"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/SensorKinect/Source/XnCore/XnBuffer.h0000000000000000^153#18446744073709551615#153#18446744073709551615#18446744073709551615#0#20"LLVM GCC 4.2 Warning--2@21"When initialized here-357864628#604#144#2(3@130"In file included from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/SensorKinect/Source/XnCore/XnBuffer.cpp-357864628#18446744073709551615#0#-0#-4@124"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/SensorKinect/Source/XnCore/XnBuffer.cpp0000000000000000^30#18446744073709551615#30#18446744073709551615#18446744073709551615#0#---2@131"When initialized here in /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/SensorKinect/Source/XnCore/XnBuffer.h-357864628#18446744073709551615#0#-0#-4@122"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/SensorKinect/Source/XnCore/XnBuffer.h0000000000000000^44#18446744073709551615#44#18446744073709551615#18446744073709551615#0#---1#-4@122"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/SensorKinect/Source/XnCore/XnBuffer.h0000000000000000^44#18446744073709551615#44#18446744073709551615#18446744073709551615#0#20"LLVM GCC 4.2 Warning--0#0#0#-19%DVTDocumentLocation5@124"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/SensorKinect/Source/XnCore/XnBuffer.cpp0000000000000000^2011"CompileC build/nestk/deps/openni/SensorKinect/Source/XnCore/RGBDemo.build/Debug/XnCore.build/Objects-normal/x86_64/XnBuffer.o nestk/deps/openni/SensorKinect/Source/XnCore/XnBuffer.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42    cd /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 "-DCMAKE_INTDIR=\"Debug\"" -DXnCore_EXPORTS "-DCUSTOM_SAMPLE_XML_PATH=\"config/SamplesConfig.xml\"" "-DCUSTOM_SAMPLE_USER_XML_PATH=\"config/Sample-User.xml\"" -DXN_USE_CUSTOM_MODULES_FILE=xn_modules_file -DUSE_GLUT -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -mmacosx-version-min=10.7 -gdwarf-2 -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/include -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/macosx/libusb-7da756e -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/SensorKinect/Include -I/Include -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/SensorKinect/Source/XnCore/.. -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni/SensorKinect/Source/XnCore/RGBDemo.build/Debug/XnCore.build/DerivedSources/x86_64 -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni/SensorKinect/Source/XnCore/RGBDemo.build/Debug/XnCore.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug -fPIC -c /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/SensorKinect/Source/XnCore/XnBuffer.cpp -o /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni/SensorKinect/Source/XnCore/RGBDemo.build/Debug/XnCore.build/Objects-normal/x86_64/XnBuffer.o36"0405F653-3125-4CA1-94EF-DCE322FBC999-
+
+CCompileC build/nestk/deps/openni/SensorKinect/Source/XnCore/RGBDemo.build/Debug/XnCore.build/Objects-normal/x86_64/XnCore.o /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/SensorKinect/Source/XnCore/XnCore.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+s357864628.551116
+e357864628.801588
+r1
+xCompileC
+xbuild/nestk/deps/openni/SensorKinect/Source/XnCore/RGBDemo.build/Debug/XnCore.build/Objects-normal/x86_64/XnCore.o
+x/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/SensorKinect/Source/XnCore/XnCore.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection114"Compile /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/SensorKinect/Source/XnCore/XnCore.cppa52d92b49454b541^d446cdb49454b541^---0#0#0#-19%DVTDocumentLocation2@122"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/SensorKinect/Source/XnCore/XnCore.cpp0000000000000000^2003"CompileC build/nestk/deps/openni/SensorKinect/Source/XnCore/RGBDemo.build/Debug/XnCore.build/Objects-normal/x86_64/XnCore.o nestk/deps/openni/SensorKinect/Source/XnCore/XnCore.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42    cd /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 "-DCMAKE_INTDIR=\"Debug\"" -DXnCore_EXPORTS "-DCUSTOM_SAMPLE_XML_PATH=\"config/SamplesConfig.xml\"" "-DCUSTOM_SAMPLE_USER_XML_PATH=\"config/Sample-User.xml\"" -DXN_USE_CUSTOM_MODULES_FILE=xn_modules_file -DUSE_GLUT -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -mmacosx-version-min=10.7 -gdwarf-2 -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/include -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/macosx/libusb-7da756e -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/SensorKinect/Include -I/Include -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/SensorKinect/Source/XnCore/.. -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni/SensorKinect/Source/XnCore/RGBDemo.build/Debug/XnCore.build/DerivedSources/x86_64 -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni/SensorKinect/Source/XnCore/RGBDemo.build/Debug/XnCore.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug -fPIC -c /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/SensorKinect/Source/XnCore/XnCore.cpp -o /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni/SensorKinect/Source/XnCore/RGBDemo.build/Debug/XnCore.build/Objects-normal/x86_64/XnCore.o36"84050DA7-F40B-4A87-9FD0-F613A8703308-
+
+CCompileC build/nestk/deps/openni/SensorKinect/Source/XnCore/RGBDemo.build/Debug/XnCore.build/Objects-normal/x86_64/XnCoreStatus.o /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/SensorKinect/Source/XnCore/XnCoreStatus.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+s357864628.783191
+e357864628.839221
+r1
+xCompileC
+xbuild/nestk/deps/openni/SensorKinect/Source/XnCore/RGBDemo.build/Debug/XnCore.build/Objects-normal/x86_64/XnCoreStatus.o
+x/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/SensorKinect/Source/XnCore/XnCoreStatus.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection120"Compile /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/SensorKinect/Source/XnCore/XnCoreStatus.cpp9ab1c8b49454b541^88d6d6b49454b541^---0#0#0#-19%DVTDocumentLocation2@128"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/SensorKinect/Source/XnCore/XnCoreStatus.cpp0000000000000000^2027"CompileC build/nestk/deps/openni/SensorKinect/Source/XnCore/RGBDemo.build/Debug/XnCore.build/Objects-normal/x86_64/XnCoreStatus.o nestk/deps/openni/SensorKinect/Source/XnCore/XnCoreStatus.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42    cd /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 "-DCMAKE_INTDIR=\"Debug\"" -DXnCore_EXPORTS "-DCUSTOM_SAMPLE_XML_PATH=\"config/SamplesConfig.xml\"" "-DCUSTOM_SAMPLE_USER_XML_PATH=\"config/Sample-User.xml\"" -DXN_USE_CUSTOM_MODULES_FILE=xn_modules_file -DUSE_GLUT -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -mmacosx-version-min=10.7 -gdwarf-2 -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/include -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/macosx/libusb-7da756e -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/SensorKinect/Include -I/Include -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/SensorKinect/Source/XnCore/.. -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni/SensorKinect/Source/XnCore/RGBDemo.build/Debug/XnCore.build/DerivedSources/x86_64 -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni/SensorKinect/Source/XnCore/RGBDemo.build/Debug/XnCore.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug -fPIC -c /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/SensorKinect/Source/XnCore/XnCoreStatus.cpp -o /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni/SensorKinect/Source/XnCore/RGBDemo.build/Debug/XnCore.build/Objects-normal/x86_64/XnCoreStatus.o36"67A9D212-4101-4EFB-9F33-E0815112226D-
+
+CCompileC build/nestk/deps/openni/SensorKinect/Source/XnCore/RGBDemo.build/Debug/XnCore.build/Objects-normal/x86_64/XnIOFileStream.o /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/SensorKinect/Source/XnCore/XnIOFileStream.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+s357864628.802915
+e357864628.927344
+r1
+xCompileC
+xbuild/nestk/deps/openni/SensorKinect/Source/XnCore/RGBDemo.build/Debug/XnCore.build/Objects-normal/x86_64/XnIOFileStream.o
+x/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/SensorKinect/Source/XnCore/XnIOFileStream.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection122"Compile /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/SensorKinect/Source/XnCore/XnIOFileStream.cppdfa4cdb49454b541^1572edb49454b541^---0#0#0#-19%DVTDocumentLocation2@130"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/SensorKinect/Source/XnCore/XnIOFileStream.cpp0000000000000000^2035"CompileC build/nestk/deps/openni/SensorKinect/Source/XnCore/RGBDemo.build/Debug/XnCore.build/Objects-normal/x86_64/XnIOFileStream.o nestk/deps/openni/SensorKinect/Source/XnCore/XnIOFileStream.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42    cd /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 "-DCMAKE_INTDIR=\"Debug\"" -DXnCore_EXPORTS "-DCUSTOM_SAMPLE_XML_PATH=\"config/SamplesConfig.xml\"" "-DCUSTOM_SAMPLE_USER_XML_PATH=\"config/Sample-User.xml\"" -DXN_USE_CUSTOM_MODULES_FILE=xn_modules_file -DUSE_GLUT -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -mmacosx-version-min=10.7 -gdwarf-2 -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/include -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/macosx/libusb-7da756e -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/SensorKinect/Include -I/Include -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/SensorKinect/Source/XnCore/.. -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni/SensorKinect/Source/XnCore/RGBDemo.build/Debug/XnCore.build/DerivedSources/x86_64 -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni/SensorKinect/Source/XnCore/RGBDemo.build/Debug/XnCore.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug -fPIC -c /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/SensorKinect/Source/XnCore/XnIOFileStream.cpp -o /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni/SensorKinect/Source/XnCore/RGBDemo.build/Debug/XnCore.build/Objects-normal/x86_64/XnIOFileStream.o36"137556F3-005A-4079-A4F4-DD956C992700-
+
+CCompileC build/nestk/deps/openni/SensorKinect/Source/XnCore/RGBDemo.build/Debug/XnCore.build/Objects-normal/x86_64/XnIONetworkStream.o /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/SensorKinect/Source/XnCore/XnIONetworkStream.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+s357864628.840535
+e357864628.978751
+r1
+xCompileC
+xbuild/nestk/deps/openni/SensorKinect/Source/XnCore/RGBDemo.build/Debug/XnCore.build/Objects-normal/x86_64/XnIONetworkStream.o
+x/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/SensorKinect/Source/XnCore/XnIONetworkStream.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvmgcc42
+o/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/SensorKinect/Include/XnIONetworkStream.h: In constructor 'XnIONetworkStream::XnIONetworkStream(xnOSSocket*)':
+o/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/SensorKinect/Include/XnIONetworkStream.h:55: warning: 'XnIONetworkStream::m_bIsConnected' will be initialized after
+o/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/SensorKinect/Include/XnIONetworkStream.h:53: warning:   'XnUInt32 XnIONetworkStream::m_nReadTimeout'
+o/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/SensorKinect/Source/XnCore/XnIONetworkStream.cpp:39: warning:   when initialized here
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection125"Compile /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/SensorKinect/Source/XnCore/XnIONetworkStream.cppa148d7b49454b541^7a1dfdb49454b541^-689"/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/SensorKinect/Include/XnIONetworkStream.h: In constructor 'XnIONetworkStream::XnIONetworkStream(xnOSSocket*)':/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/SensorKinect/Include/XnIONetworkStream.h:55: warning: 'XnIONetworkStream::m_bIsConnected' will be initialized after/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/SensorKinect/Include/XnIONetworkStream.h:53: warning:   'XnUInt32 XnIONetworkStream::m_nReadTimeout'/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/SensorKinect/Source/XnCore/XnIONetworkStream.cpp:39: warning:   when initialized here3(21%IDEActivityLogMessage2@61"'XnIONetworkStream::m_bIsConnected' will be initialized after-357864628#179#185#-1#-23%DVTTextDocumentLocation3@125"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/SensorKinect/Include/XnIONetworkStream.h0000000000000000^54#18446744073709551615#54#18446744073709551615#18446744073709551615#0#20"LLVM GCC 4.2 Warning--2@44"'XnUInt32 XnIONetworkStream::m_nReadTimeout'-357864628#364#170#-1#-3@125"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/SensorKinect/Include/XnIONetworkStream.h0000000000000000^52#18446744073709551615#52#18446744073709551615#18446744073709551615#0#20"LLVM GCC 4.2 Warning--2@21"When initialized here-357864628#534#155#-1#-3@133"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/SensorKinect/Source/XnCore/XnIONetworkStream.cpp0000000000000000^38#18446744073709551615#38#18446744073709551615#18446744073709551615#0#20"LLVM GCC 4.2 Warning--0#0#0#-19%DVTDocumentLocation4@133"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/SensorKinect/Source/XnCore/XnIONetworkStream.cpp0000000000000000^2047"CompileC build/nestk/deps/openni/SensorKinect/Source/XnCore/RGBDemo.build/Debug/XnCore.build/Objects-normal/x86_64/XnIONetworkStream.o nestk/deps/openni/SensorKinect/Source/XnCore/XnIONetworkStream.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42    cd /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 "-DCMAKE_INTDIR=\"Debug\"" -DXnCore_EXPORTS "-DCUSTOM_SAMPLE_XML_PATH=\"config/SamplesConfig.xml\"" "-DCUSTOM_SAMPLE_USER_XML_PATH=\"config/Sample-User.xml\"" -DXN_USE_CUSTOM_MODULES_FILE=xn_modules_file -DUSE_GLUT -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -mmacosx-version-min=10.7 -gdwarf-2 -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/include -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/macosx/libusb-7da756e -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/SensorKinect/Include -I/Include -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/SensorKinect/Source/XnCore/.. -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni/SensorKinect/Source/XnCore/RGBDemo.build/Debug/XnCore.build/DerivedSources/x86_64 -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni/SensorKinect/Source/XnCore/RGBDemo.build/Debug/XnCore.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug -fPIC -c /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/SensorKinect/Source/XnCore/XnIONetworkStream.cpp -o /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni/SensorKinect/Source/XnCore/RGBDemo.build/Debug/XnCore.build/Objects-normal/x86_64/XnIONetworkStream.o36"08D94D1C-2B9D-4315-9B3E-FF1D873798BA-
+
+CCompileC build/nestk/deps/openni/SensorKinect/Source/XnCore/RGBDemo.build/Debug/XnCore.build/Objects-normal/x86_64/XnVersion.o /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/SensorKinect/Source/XnCore/XnVersion.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+s357864628.928579
+e357864629.080018
+r1
+xCompileC
+xbuild/nestk/deps/openni/SensorKinect/Source/XnCore/RGBDemo.build/Debug/XnCore.build/Objects-normal/x86_64/XnVersion.o
+x/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/SensorKinect/Source/XnCore/XnVersion.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection117"Compile /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/SensorKinect/Source/XnCore/XnVersion.cpp75ccedb49454b541^338714b59454b541^---0#0#0#-19%DVTDocumentLocation2@125"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/SensorKinect/Source/XnCore/XnVersion.cpp0000000000000000^2015"CompileC build/nestk/deps/openni/SensorKinect/Source/XnCore/RGBDemo.build/Debug/XnCore.build/Objects-normal/x86_64/XnVersion.o nestk/deps/openni/SensorKinect/Source/XnCore/XnVersion.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42    cd /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 "-DCMAKE_INTDIR=\"Debug\"" -DXnCore_EXPORTS "-DCUSTOM_SAMPLE_XML_PATH=\"config/SamplesConfig.xml\"" "-DCUSTOM_SAMPLE_USER_XML_PATH=\"config/Sample-User.xml\"" -DXN_USE_CUSTOM_MODULES_FILE=xn_modules_file -DUSE_GLUT -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -mmacosx-version-min=10.7 -gdwarf-2 -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/include -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/macosx/libusb-7da756e -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/SensorKinect/Include -I/Include -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/SensorKinect/Source/XnCore/.. -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni/SensorKinect/Source/XnCore/RGBDemo.build/Debug/XnCore.build/DerivedSources/x86_64 -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni/SensorKinect/Source/XnCore/RGBDemo.build/Debug/XnCore.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug -fPIC -c /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/SensorKinect/Source/XnCore/XnVersion.cpp -o /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni/SensorKinect/Source/XnCore/RGBDemo.build/Debug/XnCore.build/Objects-normal/x86_64/XnVersion.o36"76D5EDF1-359D-4DBE-B9F6-2E70BF695869-
+
+CLd /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libXnCore.dylib normal x86_64
+s357864629.087095
+e357864629.164930
+r1
+xLd
+x/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libXnCore.dylib
+xnormal
+xx86_64
+old: warning: directory not found for option '-L/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Nite/Lib/MacOSX/Debug'
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection87"Link /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libXnCore.dylib895e16b59454b541^eb382ab59454b541^-139"ld: warning: directory not found for option '-L/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Nite/Lib/MacOSX/Debug'1(21%IDEActivityLogMessage2@125"Directory not found for option '-L/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Nite/Lib/MacOSX/Debug'-357864629#0#139#-1#-23%DVTTextDocumentLocation3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#32"Apple Mach-O Linker (ld) Warning--0#0#0#--1474"Ld build/lib/Debug/libXnCore.dylib normal x86_64    cd /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo    setenv MACOSX_DEPLOYMENT_TARGET 10.7    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-g++-4.2 -arch x86_64 -dynamiclib -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk -L/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug -L/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Nite/Lib/MacOSX/Debug -L/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Nite/Lib/MacOSX -F/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug -filelist /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni/SensorKinect/Source/XnCore/RGBDemo.build/Debug/XnCore.build/Objects-normal/x86_64/XnCore.LinkFileList -install_name /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libXnCore.dylib -mmacosx-version-min=10.7 -dynamiclib -Wl,-headerpad_max_install_names /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libOpenNI.dylib /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libusb.dylib -framework IOKit -framework CoreFoundation /usr/lib/libdl.dylib /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libTinyXml.a -framework CoreFoundation -framework IOKit -single_module -o /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libXnCore.dylib36"EA032D14-1385-4C13-ABEE-9E536C1FC945-
+
+CPhaseScriptExecution "CMake PostBuild Rules" /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni/SensorKinect/Source/XnCore/RGBDemo.build/Debug/XnCore.build/Script-E0D368D24F814A6CBF0A9033.sh
+s357864629.177277
+e357864629.636862
+r1
+xPhaseScriptExecution
+xCMake PostBuild Rules
+x/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni/SensorKinect/Source/XnCore/RGBDemo.build/Debug/XnCore.build/Script-E0D368D24F814A6CBF0A9033.sh
+oecho "Depend check for xcode"
+oDepend check for xcode
+ocd /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni && make -C /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni/CMakeScripts/XCODE_DEPEND_HELPER.make PostBuild.XnCore.Debug
+o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libXnFormats.dylib
+o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libnimCodecs.dylib
+o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libXnDDK.dylib
+o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libXnDeviceFile.dylib
+o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libXnDevicesSensorV2.dylib
+o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/XnSensorServer
+oecho "Depend check for xcode"
+oDepend check for xcode
+ocd /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build && make -C /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/CMakeScripts/XCODE_DEPEND_HELPER.make PostBuild.XnCore.Debug
+o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libXnFormats.dylib
+o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libnimCodecs.dylib
+o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libXnDDK.dylib
+o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libXnDeviceFile.dylib
+o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libXnDevicesSensorV2.dylib
+o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/XnSensorServer
+oecho "Depend check for xcode"
+oDepend check for xcode
+ocd /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni/SensorKinect && make -C /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni/SensorKinect -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni/SensorKinect/CMakeScripts/XCODE_DEPEND_HELPER.make PostBuild.XnCore.Debug
+o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libXnFormats.dylib
+o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libXnDDK.dylib
+o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libXnDeviceFile.dylib
+o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libXnDevicesSensorV2.dylib
+o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/XnSensorServer
+oecho "Depend check for xcode"
+oDepend check for xcode
+ocd /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk && make -C /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/CMakeScripts/XCODE_DEPEND_HELPER.make PostBuild.XnCore.Debug
+o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libXnFormats.dylib
+o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libnimCodecs.dylib
+o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libXnDDK.dylib
+o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libXnDeviceFile.dylib
+o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libXnDevicesSensorV2.dylib
+o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/XnSensorServer
+oecho "Depend check for xcode"
+oDepend check for xcode
+ocd /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps && make -C /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/CMakeScripts/XCODE_DEPEND_HELPER.make PostBuild.XnCore.Debug
+o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libXnFormats.dylib
+o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libnimCodecs.dylib
+o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libXnDDK.dylib
+o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libXnDeviceFile.dylib
+o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libXnDevicesSensorV2.dylib
+o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/XnSensorServer
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection47"Run custom shell script 'CMake PostBuild Rules'29e92db59454b541^5324a3b59454b541^-4536"echo "Depend check for xcode"Depend check for xcodecd /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni && make -C /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni/CMakeScripts/XCODE_DEPEND_HELPER.make PostBuild.XnCore.Debug/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libXnFormats.dylib/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libnimCodecs.dylib/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libXnDDK.dylib/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libXnDeviceFile.dylib/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libXnDevicesSensorV2.dylib/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/XnSensorServerecho "Depend check for xcode"Depend check for xcodecd /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build && make -C /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/CMakeScripts/XCODE_DEPEND_HELPER.make PostBuild.XnCore.Debug/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libXnFormats.dylib/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libnimCodecs.dylib/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libXnDDK.dylib/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libXnDeviceFile.dylib/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libXnDevicesSensorV2.dylib/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/XnSensorServerecho "Depend check for xcode"Depend check for xcodecd /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni/SensorKinect && make -C /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni/SensorKinect -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni/SensorKinect/CMakeScripts/XCODE_DEPEND_HELPER.make PostBuild.XnCore.Debug/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libXnFormats.dylib/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libXnDDK.dylib/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libXnDeviceFile.dylib/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libXnDevicesSensorV2.dylib/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/XnSensorServerecho "Depend check for xcode"Depend check for xcodecd /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk && make -C /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/CMakeScripts/XCODE_DEPEND_HELPER.make PostBuild.XnCore.Debug/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libXnFormats.dylib/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libnimCodecs.dylib/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libXnDDK.dylib/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libXnDeviceFile.dylib/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libXnDevicesSensorV2.dylib/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/XnSensorServerecho "Depend check for xcode"Depend check for xcodecd /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps && make -C /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/CMakeScripts/XCODE_DEPEND_HELPER.make PostBuild.XnCore.Debug/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libXnFormats.dylib/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libnimCodecs.dylib/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libXnDDK.dylib/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libXnDeviceFile.dylib/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libXnDevicesSensorV2.dylib/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/XnSensorServer44(21%IDEActivityLogMessage2@30"echo "Depend check for xcode"-357864629#0#30#-0#-----2@23"Depend check for xcode-357864629#30#23#-0#-----2@303"cd /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni && make -C /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni/CMakeScripts/XCODE_DEPEND_HELPER.make PostBuild.XnCore.Debug-357864629#53#303#-0#-----2@97"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libXnFormats.dylib-357864629#356#97#-0#-----2@97"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libnimCodecs.dylib-357864629#453#97#-0#-----2@93"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libXnDDK.dylib-357864629#550#93#-0#-----2@100"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libXnDeviceFile.dylib-357864629#643#100#-0#-----2@105"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libXnDevicesSensorV2.dylib-357864629#743#105#-0#-----2@93"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/XnSensorServer-357864629#848#93#-0#-----2@30"echo "Depend check for xcode"-357864629#941#30#-0#-----2@23"Depend check for xcode-357864629#971#23#-0#-----2@249"cd /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build && make -C /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/CMakeScripts/XCODE_DEPEND_HELPER.make PostBuild.XnCore.Debug-357864629#994#249#-0#-----2@97"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libXnFormats.dylib-357864629#1243#97#-0#-----2@97"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libnimCodecs.dylib-357864629#1340#97#-0#-----2@93"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libXnDDK.dylib-357864629#1437#93#-0#-----2@100"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libXnDeviceFile.dylib-357864629#1530#100#-0#-----2@105"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libXnDevicesSensorV2.dylib-357864629#1630#105#-0#-----2@93"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/XnSensorServer-357864629#1735#93#-0#-----2@30"echo "Depend check for xcode"-357864629#1828#30#-0#-----2@23"Depend check for xcode-357864629#1858#23#-0#-----2@342"cd /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni/SensorKinect && make -C /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni/SensorKinect -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni/SensorKinect/CMakeScripts/XCODE_DEPEND_HELPER.make PostBuild.XnCore.Debug-357864629#1881#342#-0#-----2@97"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libXnFormats.dylib-357864629#2223#97#-0#-----2@93"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libXnDDK.dylib-357864629#2320#93#-0#-----2@100"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libXnDeviceFile.dylib-357864629#2413#100#-0#-----2@105"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libXnDevicesSensorV2.dylib-357864629#2513#105#-0#-----2@93"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/XnSensorServer-357864629#2618#93#-0#-----2@30"echo "Depend check for xcode"-357864629#2711#30#-0#-----2@23"Depend check for xcode-357864629#2741#23#-0#-----2@267"cd /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk && make -C /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/CMakeScripts/XCODE_DEPEND_HELPER.make PostBuild.XnCore.Debug-357864629#2764#267#-0#-----2@97"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libXnFormats.dylib-357864629#3031#97#-0#-----2@97"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libnimCodecs.dylib-357864629#3128#97#-0#-----2@93"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libXnDDK.dylib-357864629#3225#93#-0#-----2@100"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libXnDeviceFile.dylib-357864629#3318#100#-0#-----2@105"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libXnDevicesSensorV2.dylib-357864629#3418#105#-0#-----2@93"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/XnSensorServer-357864629#3523#93#-0#-----2@30"echo "Depend check for xcode"-357864629#3616#30#-0#-----2@23"Depend check for xcode-357864629#3646#23#-0#-----2@282"cd /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps && make -C /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/CMakeScripts/XCODE_DEPEND_HELPER.make PostBuild.XnCore.Debug-357864629#3669#282#-0#-----2@97"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libXnFormats.dylib-357864629#3951#97#-0#-----2@97"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libnimCodecs.dylib-357864629#4048#97#-0#-----2@93"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libXnDDK.dylib-357864629#4145#93#-0#-----2@100"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libXnDeviceFile.dylib-357864629#4238#100#-0#-----2@105"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libXnDevicesSensorV2.dylib-357864629#4338#105#-0#-----2@93"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/XnSensorServer-357864629#4443#93#-0#-----0#0#0#--407"PhaseScriptExecution "CMake PostBuild Rules" build/nestk/deps/openni/SensorKinect/Source/XnCore/RGBDemo.build/Debug/XnCore.build/Script-E0D368D24F814A6CBF0A9033.sh    cd /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo    /bin/sh -c /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni/SensorKinect/Source/XnCore/RGBDemo.build/Debug/XnCore.build/Script-E0D368D24F814A6CBF0A9033.sh36"7F18E3EE-D23E-4737-A549-E83C167993BF-
+

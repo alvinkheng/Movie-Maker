@@ -1,0 +1,224 @@
+Tglew
+v5
+r1
+cCheck dependencies
+cCompileC build/nestk/deps/glew/RGBDemo.build/Release/glew.build/Objects-normal/x86_64/glew.o /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/glew/src/glew.c normal x86_64 c com.apple.compilers.llvmgcc42
+cLd /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Release/libglew.dylib normal x86_64
+cPhaseScriptExecution "CMake PostBuild Rules" /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk/deps/glew/RGBDemo.build/Release/glew.build/Script-3C7A76972E444513B2E0943E.sh
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk
+c000000004F29C61A00000000000000EE
+t1328137754
+s238
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/OpenGL.framework/Headers/glu.h
+c000000004F6A243D0000000000003F84
+t1332356157
+s16260
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/AvailabilityMacros.h
+c000000004F6A243F0000000000007A5E
+t1332356159
+s31326
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/X11/Xlib.h
+c000000004F6A24420000000000018510
+t1332356162
+s99600
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/X11/Xmd.h
+c000000004F6A244200000000000018C2
+t1332356162
+s6338
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/X11/Xutil.h
+c000000004F6A24420000000000005220
+t1332356162
+s21024
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/dlfcn.h
+c000000004F6A24400000000000000B1C
+t1332356160
+s2844
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/inttypes.h
+c000000004F6A24400000000000002674
+t1332356160
+s9844
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/mach-o/dyld.h
+c000000004F6A24400000000000003CB5
+t1332356160
+s15541
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/stdint.h
+c000000004F6A244100000000000018EF
+t1332356161
+s6383
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/stdio.h
+c000000004F6A24410000000000004763
+t1332356161
+s18275
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/stdlib.h
+c000000004F6A244100000000000030A7
+t1332356161
+s12455
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/string.h
+c000000004F6A24410000000000001A3A
+t1332356161
+s6714
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/sys/_types.h
+c000000004F6A24410000000000001845
+t1332356161
+s6213
+
+N/Applications/Xcode.app/Contents/Developer/usr/llvm-gcc-4.2/lib/gcc/i686-apple-darwin11/4.2.1/include/stddef.h
+c000000004F6A24460000000000003197
+t1332356166
+s12695
+i<machine/ansi.h>
+i<sys/_types.h>
+
+N/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Release/libglew.dylib
+t1336531118
+s420824
+
+N/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk/deps/glew/RGBDemo.build/Release/glew.build/Objects-normal/x86_64/glew.LinkFileList
+c000000004FA9D8A000000000000000A0
+t1336531104
+s160
+
+N/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk/deps/glew/RGBDemo.build/Release/glew.build/Objects-normal/x86_64/glew.o
+t1336531118
+s561296
+
+N/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk/deps/glew/RGBDemo.build/Release/glew.build/Script-3C7A76972E444513B2E0943E.sh
+c000000004FA9D8A00000000000000111
+t1336531104
+s273
+
+N/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/glew/include/GL/glew.h
+c000000004FA45A7500000000000C54DE
+t1336171125
+s808158
+i<stddef.h>
+i<inttypes.h>
+i<stdint.h>
+i<inttypes.h>
+i<OpenGL/glu.h>
+i<GL/glu.h>
+
+N/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/glew/include/GL/glxew.h
+c000000004FA45A75000000000000F188
+t1336171125
+s61832
+i<X11/Xlib.h>
+i<X11/Xutil.h>
+i<X11/Xmd.h>
+i<GL/glew.h>
+i<inttypes.h>
+
+N/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/glew/include/GL/wglew.h
+c000000004FA45A75000000000000DCCA
+t1336171125
+s56522
+i<windows.h>
+
+N/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/glew/src/glew.c
+c000000004FA45A7500000000000BC2E5
+t1336171125
+s770789
+i<GL/glew.h>
+i<GL/wglew.h>
+i<GL/glxew.h>
+i<stdlib.h>
+i<string.h>
+i<AvailabilityMacros.h>
+i<dlfcn.h>
+i<mach-o/dyld.h>
+i<dlfcn.h>
+i<stdio.h>
+i<stdlib.h>
+i<inttypes.h>
+i<inttypes.h>
+i<inttypes.h>
+
+CBuild AST from /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/glew/src/glew.c
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciese6903872115ab541^e76f3a72115ab541^---0#1#0#--18"Check dependencies36"EC3EBD05-5351-4E8F-9ADB-735CEF1999FE-
+
+CCompileC build/nestk/deps/glew/RGBDemo.build/Release/glew.build/Objects-normal/x86_64/glew.o /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/glew/src/glew.c normal x86_64 c com.apple.compilers.llvmgcc42
+s358223904.141480
+e358223918.262695
+r1
+xCompileC
+xbuild/nestk/deps/glew/RGBDemo.build/Release/glew.build/Objects-normal/x86_64/glew.o
+x/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/glew/src/glew.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.llvmgcc42
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection110"Compile /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/glew/src/glew.c0d522420105ab541^c83f432e105ab541^---0#0#0#-19%DVTDocumentLocation2@118"file://localhost/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/glew/src/glew.c0000000000000000^1561"CompileC build/nestk/deps/glew/RGBDemo.build/Release/glew.build/Objects-normal/x86_64/glew.o nestk/deps/glew/src/glew.c normal x86_64 c com.apple.compilers.llvmgcc42    cd /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O3 "-DCMAKE_INTDIR=\"Release\"" -Dglew_EXPORTS -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -mmacosx-version-min=10.7 -I/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Release/include -I/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/glew/include -I/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk/deps/glew/RGBDemo.build/Release/glew.build/DerivedSources/x86_64 -I/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk/deps/glew/RGBDemo.build/Release/glew.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Release -DNDEBUG -fPIC -c /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/glew/src/glew.c -o /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk/deps/glew/RGBDemo.build/Release/glew.build/Objects-normal/x86_64/glew.o36"645A7F21-06ED-4271-B3E3-1161612D471A-
+
+CLd /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Release/libglew.dylib normal x86_64
+s358223918.396730
+e358223918.449726
+r1
+xLd
+x/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Release/libglew.dylib
+xnormal
+xx86_64
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection112"Link /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Release/libglew.dylibb6a2652e105ab541^7121732e105ab541^---0#0#0#--1100"Ld build/lib/Release/libglew.dylib normal x86_64    cd /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo    setenv MACOSX_DEPLOYMENT_TARGET 10.7    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -arch x86_64 -dynamiclib -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk -L/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Release -F/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Release -filelist /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk/deps/glew/RGBDemo.build/Release/glew.build/Objects-normal/x86_64/glew.LinkFileList -install_name /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Release/libglew.dylib -mmacosx-version-min=10.7 -dynamiclib -Wl,-headerpad_max_install_names -framework AGL -framework OpenGL -single_module -o /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Release/libglew.dylib36"DEDC9D84-7E4B-4331-97DD-B672C7851C7E-
+
+CPhaseScriptExecution "CMake PostBuild Rules" /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk/deps/glew/RGBDemo.build/Release/glew.build/Script-3C7A76972E444513B2E0943E.sh
+s358224242.272268
+e358224242.632345
+r1
+xPhaseScriptExecution
+xCMake PostBuild Rules
+x/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk/deps/glew/RGBDemo.build/Release/glew.build/Script-3C7A76972E444513B2E0943E.sh
+oecho "Depend check for xcode"
+oDepend check for xcode
+ocd /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build && make -C /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/CMakeScripts/XCODE_DEPEND_HELPER.make PostBuild.glew.Release
+o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/grab-mesh
+o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/handpoint-tracking
+o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/libfreenect-backend
+o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/multiple-kinects
+o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/openni-backend
+o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/skeleton-tracking
+o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/synchronized-multiple-kinects
+o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/calibrate-kinect-ir
+o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/calibrate-multiple-kinects
+o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/calibrate-openni-depth
+o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/calibrate-openni-intrinsics
+o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/calibrate-projector
+o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/rgbd-reconstructor
+o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/rgbd-people-tracker
+o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/rgbd-skeletor
+oecho "Depend check for xcode"
+oDepend check for xcode
+ocd /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk/deps/glew && make -C /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk/deps/glew -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk/deps/glew/CMakeScripts/XCODE_DEPEND_HELPER.make PostBuild.glew.Release
+omake[1]: Nothing to be done for `PostBuild.glew.Release'.
+oecho "Depend check for xcode"
+oDepend check for xcode
+ocd /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk && make -C /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk/CMakeScripts/XCODE_DEPEND_HELPER.make PostBuild.glew.Release
+o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/grab-mesh
+o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/handpoint-tracking
+o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/libfreenect-backend
+o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/multiple-kinects
+o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/openni-backend
+o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/skeleton-tracking
+o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/synchronized-multiple-kinects
+oecho "Depend check for xcode"
+oDepend check for xcode
+ocd /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk/deps && make -C /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk/deps -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk/deps/CMakeScripts/XCODE_DEPEND_HELPER.make PostBuild.glew.Release
+omake[1]: Nothing to be done for `PostBuild.glew.Release'.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection47"Run custom shell script 'CMake PostBuild Rules'caf94672115ab541^86e3a172115ab541^-4462"echo "Depend check for xcode"Depend check for xcodecd /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build && make -C /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/CMakeScripts/XCODE_DEPEND_HELPER.make PostBuild.glew.Release/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/grab-mesh/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/handpoint-tracking/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/libfreenect-backend/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/multiple-kinects/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/openni-backend/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/skeleton-tracking/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/synchronized-multiple-kinects/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/calibrate-kinect-ir/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/calibrate-multiple-kinects/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/calibrate-openni-depth/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/calibrate-openni-intrinsics/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/calibrate-projector/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/rgbd-reconstructor/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/rgbd-people-tracker/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/rgbd-skeletorecho "Depend check for xcode"Depend check for xcodecd /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk/deps/glew && make -C /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk/deps/glew -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk/deps/glew/CMakeScripts/XCODE_DEPEND_HELPER.make PostBuild.glew.Releasemake[1]: Nothing to be done for `PostBuild.glew.Release'.echo "Depend check for xcode"Depend check for xcodecd /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk && make -C /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk/CMakeScripts/XCODE_DEPEND_HELPER.make PostBuild.glew.Release/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/grab-mesh/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/handpoint-tracking/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/libfreenect-backend/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/multiple-kinects/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/openni-backend/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/skeleton-tracking/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/synchronized-multiple-kinectsecho "Depend check for xcode"Depend check for xcodecd /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk/deps && make -C /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk/deps -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk/deps/CMakeScripts/XCODE_DEPEND_HELPER.make PostBuild.glew.Releasemake[1]: Nothing to be done for `PostBuild.glew.Release'.36(21%IDEActivityLogMessage2@30"echo "Depend check for xcode"-358224242#0#30#-0#-----2@23"Depend check for xcode-358224242#30#23#-0#-----2@324"cd /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build && make -C /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/CMakeScripts/XCODE_DEPEND_HELPER.make PostBuild.glew.Release-358224242#53#324#-0#-----2@115"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/grab-mesh-358224242#377#115#-0#-----2@124"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/handpoint-tracking-358224242#492#124#-0#-----2@125"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/libfreenect-backend-358224242#616#125#-0#-----2@122"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/multiple-kinects-358224242#741#122#-0#-----2@120"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/openni-backend-358224242#863#120#-0#-----2@123"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/skeleton-tracking-358224242#983#123#-0#-----2@135"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/synchronized-multiple-kinects-358224242#1106#135#-0#-----2@125"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/calibrate-kinect-ir-358224242#1241#125#-0#-----2@132"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/calibrate-multiple-kinects-358224242#1366#132#-0#-----2@128"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/calibrate-openni-depth-358224242#1498#128#-0#-----2@133"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/calibrate-openni-intrinsics-358224242#1626#133#-0#-----2@125"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/calibrate-projector-358224242#1759#125#-0#-----2@124"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/rgbd-reconstructor-358224242#1884#124#-0#-----2@125"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/rgbd-people-tracker-358224242#2008#125#-0#-----2@119"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/rgbd-skeletor-358224242#2133#119#-0#-----2@30"echo "Depend check for xcode"-358224242#2252#30#-0#-----2@23"Depend check for xcode-358224242#2282#23#-0#-----2@372"cd /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk/deps/glew && make -C /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk/deps/glew -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk/deps/glew/CMakeScripts/XCODE_DEPEND_HELPER.make PostBuild.glew.Release-358224242#2305#372#-0#-----2@58"make[1]: Nothing to be done for `PostBuild.glew.Release'.-358224242#2677#58#-0#-----2@30"echo "Depend check for xcode"-358224242#2735#30#-0#-----2@23"Depend check for xcode-358224242#2765#23#-0#-----2@342"cd /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk && make -C /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk/CMakeScripts/XCODE_DEPEND_HELPER.make PostBuild.glew.Release-358224242#2788#342#-0#-----2@115"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/grab-mesh-358224242#3130#115#-0#-----2@124"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/handpoint-tracking-358224242#3245#124#-0#-----2@125"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/libfreenect-backend-358224242#3369#125#-0#-----2@122"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/multiple-kinects-358224242#3494#122#-0#-----2@120"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/openni-backend-358224242#3616#120#-0#-----2@123"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/skeleton-tracking-358224242#3736#123#-0#-----2@135"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/synchronized-multiple-kinects-358224242#3859#135#-0#-----2@30"echo "Depend check for xcode"-358224242#3994#30#-0#-----2@23"Depend check for xcode-358224242#4024#23#-0#-----2@357"cd /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk/deps && make -C /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk/deps -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk/deps/CMakeScripts/XCODE_DEPEND_HELPER.make PostBuild.glew.Release-358224242#4047#357#-0#-----2@58"make[1]: Nothing to be done for `PostBuild.glew.Release'.-358224242#4404#58#-0#-----0#0#0#--399"PhaseScriptExecution "CMake PostBuild Rules" build/nestk/deps/glew/RGBDemo.build/Release/glew.build/Script-3C7A76972E444513B2E0943E.sh    cd /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo    /bin/sh -c /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk/deps/glew/RGBDemo.build/Release/glew.build/Script-3C7A76972E444513B2E0943E.sh36"2105F5BC-0CC6-4049-918E-E6B6DB2C41E9-
+

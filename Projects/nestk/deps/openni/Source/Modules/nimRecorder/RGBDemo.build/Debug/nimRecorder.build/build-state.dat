@@ -1,0 +1,776 @@
+TnimRecorder
+v5
+r1
+cCheck dependencies
+cCompileC build/nestk/deps/openni/Source/Modules/nimRecorder/RGBDemo.build/Debug/nimRecorder.build/Objects-normal/x86_64/ExportedPlayer.o /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/ExportedPlayer.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+cCompileC build/nestk/deps/openni/Source/Modules/nimRecorder/RGBDemo.build/Debug/nimRecorder.build/Objects-normal/x86_64/ExportedRecorder.o /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/ExportedRecorder.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+cCompileC build/nestk/deps/openni/Source/Modules/nimRecorder/RGBDemo.build/Debug/nimRecorder.build/Objects-normal/x86_64/nimRecorder.o /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/nimRecorder.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+cCompileC build/nestk/deps/openni/Source/Modules/nimRecorder/RGBDemo.build/Debug/nimRecorder.build/Objects-normal/x86_64/PlayerNode.o /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/PlayerNode.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+cCompileC build/nestk/deps/openni/Source/Modules/nimRecorder/RGBDemo.build/Debug/nimRecorder.build/Objects-normal/x86_64/RecorderNode.o /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/RecorderNode.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+cLd /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libnimRecorder.dylib normal x86_64
+cPhaseScriptExecution "CMake PostBuild Rules" /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni/Source/Modules/nimRecorder/RGBDemo.build/Debug/nimRecorder.build/Script-FE93D431662D46878328BA3D.sh
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk
+c000000004F29C61A00000000000000EE
+t1328137754
+s238
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/assert.h
+c000000004F6A243F0000000000000F6E
+t1332356159
+s3950
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/fcntl.h
+c000000004F6A244000000000000003EA
+t1332356160
+s1002
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/math.h
+c000000004F6A244000000000000004F1
+t1332356160
+s1265
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/pthread.h
+c000000004F6A24410000000000003CF0
+t1332356161
+s15600
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/stdio.h
+c000000004F6A24410000000000004763
+t1332356161
+s18275
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/stdlib.h
+c000000004F6A244100000000000030A7
+t1332356161
+s12455
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/string.h
+c000000004F6A24410000000000001A3A
+t1332356161
+s6714
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/sys/stat.h
+c000000004F6A24410000000000004B2F
+t1332356161
+s19247
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/sys/time.h
+c000000004F6A24410000000000001E64
+t1332356161
+s7780
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/sys/types.h
+c000000004F6A24410000000000002905
+t1332356161
+s10501
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/time.h
+c000000004F6A2441000000000000178E
+t1332356161
+s6030
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/unistd.h
+c000000004F6A24410000000000006662
+t1332356161
+s26210
+
+N/Applications/Xcode.app/Contents/Developer/usr/llvm-gcc-4.2/lib/gcc/i686-apple-darwin11/4.2.1/include/float.h
+c000000004F6A24460000000000001538
+t1332356166
+s5432
+
+N/Applications/Xcode.app/Contents/Developer/usr/llvm-gcc-4.2/lib/gcc/i686-apple-darwin11/4.2.1/include/stdarg.h
+c000000004F6A244600000000000010DD
+t1332356166
+s4317
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libnimRecorder.dylib
+t2
+s0
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni/Source/Modules/nimRecorder/RGBDemo.build/Debug/nimRecorder.build/Objects-normal/x86_64/ExportedPlayer.o
+t2
+s0
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni/Source/Modules/nimRecorder/RGBDemo.build/Debug/nimRecorder.build/Objects-normal/x86_64/ExportedRecorder.o
+t2
+s0
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni/Source/Modules/nimRecorder/RGBDemo.build/Debug/nimRecorder.build/Objects-normal/x86_64/PlayerNode.o
+t2
+s0
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni/Source/Modules/nimRecorder/RGBDemo.build/Debug/nimRecorder.build/Objects-normal/x86_64/RecorderNode.o
+t2
+s0
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni/Source/Modules/nimRecorder/RGBDemo.build/Debug/nimRecorder.build/Objects-normal/x86_64/nimRecorder.LinkFileList
+c000000004FA45D420000000000000378
+t1336171842
+s888
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni/Source/Modules/nimRecorder/RGBDemo.build/Debug/nimRecorder.build/Objects-normal/x86_64/nimRecorder.o
+t2
+s0
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni/Source/Modules/nimRecorder/RGBDemo.build/Debug/nimRecorder.build/Script-FE93D431662D46878328BA3D.sh
+c000000004FA45D420000000000000120
+t1336171842
+s288
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/ARC/XnOSARC.h
+c000000004FA45A750000000000001A28
+t1336171125
+s6696
+i<sys/types.h>
+i<stdarg.h>
+i<time.h>
+i<stdio.h>
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/ARC/XnPlatformARC.h
+c000000004FA45A750000000000001B4F
+t1336171125
+s6991
+i<unistd.h>
+i<stdlib.h>
+i<stdio.h>
+i<string.h>
+i<assert.h>
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/Android-Arm/XnPlatformAndroid-Arm.h
+c000000004FA45A7500000000000009F2
+t1336171125
+s2546
+i"../Linux-x86/XnPlatformLinux-x86.h"
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/IXnNodeAllocator.h
+c000000004FA45A750000000000000932
+t1336171125
+s2354
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/Linux-Arm/XnPlatformLinux-Arm.h
+c000000004FA45A750000000000000892
+t1336171125
+s2194
+i"../Linux-x86/XnPlatformLinux-x86.h"
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/Linux-x86/XnOSLinux-x86.h
+c000000004FA45A750000000000001A10
+t1336171125
+s6672
+i<sys/types.h>
+i<stdarg.h>
+i<time.h>
+i<pthread.h>
+i<sys/stat.h>
+i<fcntl.h>
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/Linux-x86/XnPlatformLinux-x86.h
+c000000004FA45A750000000000001C30
+t1336171125
+s7216
+i<unistd.h>
+i<stdlib.h>
+i<stdio.h>
+i<string.h>
+i<assert.h>
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/MacOSX/XnPlatformMacOSX.h
+c000000004FA45A7500000000000008B6
+t1336171125
+s2230
+i"../Linux-x86/XnPlatformLinux-x86.h"
+i<sys/time.h>
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/Win32/XnOSWin32.h
+c000000004FA45A750000000000001D16
+t1336171125
+s7446
+i<windows.h>
+i<time.h>
+i<stdlib.h>
+i<stdio.h>
+i<malloc.h>
+i<io.h>
+i<assert.h>
+i<float.h>
+i<crtdbg.h>
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/Win32/XnPlatformWin32.h
+c000000004FA45A75000000000000225F
+t1336171125
+s8799
+i<windows.h>
+i<stdlib.h>
+i<stdio.h>
+i<malloc.h>
+i<io.h>
+i<time.h>
+i<assert.h>
+i<float.h>
+i<crtdbg.h>
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnBaseNode.h
+c000000004FA45A750000000000000B3A
+t1336171125
+s2874
+i<XnDataTypes.h>
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnCallback.h
+c000000004FA45A750000000000000904
+t1336171125
+s2308
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnCodecIDs.h
+c000000004FA45A750000000000000838
+t1336171125
+s2104
+i"XnTypes.h"
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnContext.h
+c000000004FA45A750000000000005A4B
+t1336171125
+s23115
+i<XnTypes.h>
+i<XnQueries.h>
+i<XnPrdNodeInfoList.h>
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnCppWrapper.h
+c000000004FA45A750000000000034C4E
+t1336171125
+s216142
+i<XnOpenNI.h>
+i<XnCodecIDs.h>
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnDataTypes.h
+c000000004FA45A75000000000000127F
+t1336171125
+s4735
+i"XnOS.h"
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnDump.h
+c000000004FA45A7500000000000019CC
+t1336171125
+s6604
+i"XnOS.h"
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnEnumerationErrors.h
+c000000004FA45A7500000000000015CE
+t1336171125
+s5582
+i<XnTypes.h>
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnEvent.h
+c000000004FA45A7500000000000036CA
+t1336171125
+s14026
+i"XnCallback.h"
+i"XnList.h"
+i"XnTypes.h"
+i"XnOSCpp.h"
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnHash.h
+c000000004FA45A7500000000000083A0
+t1336171125
+s33696
+i"XnList.h"
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnLicensing.h
+c000000004FA45A750000000000000C03
+t1336171125
+s3075
+i<XnTypes.h>
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnList.h
+c000000004FA45A75000000000000565B
+t1336171125
+s22107
+i<XnDataTypes.h>
+i<IXnNodeAllocator.h>
+i<XnNodeAllocator.h>
+i<XnNode.h>
+i<XnStatusCodes.h>
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnLog.h
+c000000004FA45A75000000000000334C
+t1336171125
+s13132
+i"XnOS.h"
+i"XnLogTypes.h"
+i"XnDump.h"
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnLogTypes.h
+c000000004FA45A750000000000000D5D
+t1336171125
+s3421
+i"XnPlatform.h"
+i"XnTypes.h"
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnMacros.h
+c000000004FA45A750000000000001027
+t1336171125
+s4135
+i"XnStatusCodes.h"
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnModuleCFunctions.h
+c000000004FA45A7500000000000191F0
+t1336171125
+s102896
+i"XnModuleCppInterface.h"
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnModuleCppInterface.h
+c000000004FA45A750000000000006D87
+t1336171125
+s28039
+i"XnModuleInterface.h"
+i"XnList.h"
+i"XnCppWrapper.h"
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnModuleCppRegistratration.h
+c000000004FA45A750000000000003873
+t1336171125
+s14451
+i"XnModuleCppInterface.h"
+i<XnUtils.h>
+i<XnModuleCFunctions.h>
+i<XnUtils.h>
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnModuleInterface.h
+c000000004FA45A75000000000000F5DB
+t1336171125
+s62939
+i<XnTypes.h>
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnNode.h
+c000000004FA45A750000000000000C81
+t1336171125
+s3201
+i<XnDataTypes.h>
+i<XnBaseNode.h>
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnNodeAllocator.h
+c000000004FA45A750000000000000891
+t1336171125
+s2193
+i<IXnNodeAllocator.h>
+i<XnNode.h>
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnOS.h
+c000000004FA45A75000000000000A332
+t1336171125
+s41778
+i"XnPlatform.h"
+i"XnMacros.h"
+i"XnStatusCodes.h"
+i"XnOSStrings.h"
+i"XnOSMemory.h"
+i"Win32/XnOSWin32.h"
+i"Linux-x86/XnOSLinux-x86.h"
+i"ARC/XnOSARC.h"
+i<new>
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnOSCpp.h
+c000000004FA45A750000000000001103
+t1336171125
+s4355
+i<XnOS.h>
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnOSMemory.h
+c000000004FA45A750000000000000C7E
+t1336171125
+s3198
+i"XnPlatform.h"
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnOSStrings.h
+c000000004FA45A750000000000000D88
+t1336171125
+s3464
+i"XnPlatform.h"
+i<stdarg.h>
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnOpenNI.h
+c000000004FA45A750000000000000A1F
+t1336171125
+s2591
+i"XnTypes.h"
+i"XnContext.h"
+i"XnLicensing.h"
+i"XnUtils.h"
+i"XnPrdNodeInfo.h"
+i"XnQueries.h"
+i"XnPrdNode.h"
+i"XnEnumerationErrors.h"
+i"XnVersion.h"
+i"XnStatusCodes.h"
+i"XnStatus.h"
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnPlatform.h
+c000000004FA45A750000000000001291
+t1336171125
+s4753
+i"Win32/XnPlatformWin32.h"
+i"Android-Arm/XnPlatformAndroid-Arm.h"
+i"Linux-x86/XnPlatformLinux-x86.h"
+i"Linux-Arm/XnPlatformLinux-Arm.h"
+i"ARC/XnPlatformARC.h"
+i"MacOSX/XnPlatformMacOSX.h"
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnPrdNode.h
+c000000004FA45A75000000000001B094
+t1336171125
+s110740
+i<XnTypes.h>
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnPrdNodeInfo.h
+c000000004FA45A75000000000000156E
+t1336171125
+s5486
+i<XnTypes.h>
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnPrdNodeInfoList.h
+c000000004FA45A750000000000002225
+t1336171125
+s8741
+i<XnTypes.h>
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnPropNames.h
+c000000004FA45A750000000000000D04
+t1336171125
+s3332
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnQueries.h
+c000000004FA45A750000000000001A83
+t1336171125
+s6787
+i"XnTypes.h"
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnStatus.h
+c000000004FA45A750000000000001198
+t1336171125
+s4504
+i"XnPlatform.h"
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnStatusCodes.h
+c000000004FA45A750000000000001591
+t1336171125
+s5521
+i"XnStatus.h"
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnStringsHash.h
+c000000004FA45A7500000000000013B4
+t1336171125
+s5044
+i"XnHash.h"
+i<XnOS.h>
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnTypes.h
+c000000004FA45A750000000000008EEF
+t1336171125
+s36591
+i<XnStatus.h>
+i<XnOS.h>
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnUtils.h
+c000000004FA45A7500000000000039C6
+t1336171125
+s14790
+i<XnTypes.h>
+i<XnModuleInterface.h>
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnVersion.h
+c000000004FA45A750000000000000C59
+t1336171125
+s3161
+i"XnPlatform.h"
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/Common/DataRecords.h
+c000000004FA45A7600000000000029EE
+t1336171126
+s10734
+i<XnPlatform.h>
+i<XnStatus.h>
+i<XnTypes.h>
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/ExportedPlayer.cpp
+c000000004FA45A7600000000000010BE
+t1336171126
+s4286
+i"ExportedPlayer.h"
+i"PlayerNode.h"
+i"DataRecords.h"
+i<XnLog.h>
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/ExportedPlayer.h
+c000000004FA45A760000000000000BC9
+t1336171126
+s3017
+i<XnModuleCppInterface.h>
+i<XnTypes.h>
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/ExportedRecorder.cpp
+c000000004FA45A7600000000000011B8
+t1336171126
+s4536
+i"ExportedRecorder.h"
+i"RecorderNode.h"
+i"DataRecords.h"
+i<XnLog.h>
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/ExportedRecorder.h
+c000000004FA45A760000000000000CBC
+t1336171126
+s3260
+i<XnModuleCppInterface.h>
+i<XnTypes.h>
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/PlayerNode.cpp
+c000000004FA45A76000000000000C77A
+t1336171126
+s51066
+i"PlayerNode.h"
+i"DataRecords.h"
+i<XnPropNames.h>
+i<XnCodecIDs.h>
+i<XnLog.h>
+i<math.h>
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/PlayerNode.h
+c000000004FA45A760000000000001D48
+t1336171126
+s7496
+i<XnModuleCppInterface.h>
+i<XnCppWrapper.h>
+i<XnTypes.h>
+i<XnEvent.h>
+i<XnStringsHash.h>
+i"DataRecords.h"
+i<XnCodecIDs.h>
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/RecorderNode.cpp
+c000000004FA45A760000000000005426
+t1336171126
+s21542
+i"RecorderNode.h"
+i"DataRecords.h"
+i"XnPropNames.h"
+i<XnLog.h>
+i<XnCppWrapper.h>
+i<XnCodecIDs.h>
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/RecorderNode.h
+c000000004FA45A76000000000000149B
+t1336171126
+s5275
+i<XnModuleCppInterface.h>
+i<XnStringsHash.h>
+i<DataRecords.h>
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/nimRecorder.cpp
+c000000004FA45A76000000000000089B
+t1336171126
+s2203
+i<XnModuleCppRegistratration.h>
+i"ExportedRecorder.h"
+i"ExportedPlayer.h"
+
+CBuild AST from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/ExportedPlayer.cpp
+r0
+
+CBuild AST from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/ExportedRecorder.cpp
+r0
+
+CBuild AST from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/PlayerNode.cpp
+r0
+
+CBuild AST from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/RecorderNode.cpp
+r0
+
+CBuild AST from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/nimRecorder.cpp
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies185ef1c29454b541^7cd1f6c29454b541^---0#1#0#--18"Check dependencies36"4798D048-4150-4DE5-A848-B7916B4D0BD4-
+
+CCompileC build/nestk/deps/openni/Source/Modules/nimRecorder/RGBDemo.build/Debug/nimRecorder.build/Objects-normal/x86_64/ExportedPlayer.o /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/ExportedPlayer.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+s357864642.968178
+e357864643.402742
+r1
+xCompileC
+xbuild/nestk/deps/openni/Source/Modules/nimRecorder/RGBDemo.build/Debug/nimRecorder.build/Objects-normal/x86_64/ExportedPlayer.o
+x/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/ExportedPlayer.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvmgcc42
+oIn file included from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnEvent.h:31,
+o                 from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/PlayerNode.h:28,
+o                 from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/ExportedPlayer.cpp:26:
+o/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnOSCpp.h: In member function 'void XnAutoCSLocker::Lock()':
+o/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnOSCpp.h:63: warning: unused variable 'nRetVal'
+o/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnOSCpp.h: In member function 'void XnAutoCSLocker::Unlock()':
+o/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnOSCpp.h:73: warning: unused variable 'nRetVal'
+oIn file included from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/ExportedPlayer.cpp:26:
+o/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/PlayerNode.h: In member function 'XnStatus PlayerNode::EndOfFileReachedEvent::Raise()':
+o/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/PlayerNode.h:160: warning: unused variable 'nRetVal'
+o/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/ExportedPlayer.cpp: In member function 'virtual XnStatus ExportedPlayer::Create(xn::Context&, const XnChar*, const XnChar*, xn::NodeInfoList*, const XnChar*, xn::ModuleProductionNode**)':
+o/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/ExportedPlayer.cpp:72: warning: unused variable 'nRetVal'
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection122"Compile /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/ExportedPlayer.cpp95f1f7c29454b541^f01767c39454b541^-1831"In file included from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnEvent.h:31,                 from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/PlayerNode.h:28,                 from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/ExportedPlayer.cpp:26:/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnOSCpp.h: In member function 'void XnAutoCSLocker::Lock()':/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnOSCpp.h:63: warning: unused variable 'nRetVal'/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnOSCpp.h: In member function 'void XnAutoCSLocker::Unlock()':/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnOSCpp.h:73: warning: unused variable 'nRetVal'In file included from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/ExportedPlayer.cpp:26:/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/PlayerNode.h: In member function 'XnStatus PlayerNode::EndOfFileReachedEvent::Raise()':/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/PlayerNode.h:160: warning: unused variable 'nRetVal'/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/ExportedPlayer.cpp: In member function 'virtual XnStatus ExportedPlayer::Create(xn::Context&, const XnChar*, const XnChar*, xn::NodeInfoList*, const XnChar*, xn::ModuleProductionNode**)':/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/ExportedPlayer.cpp:72: warning: unused variable 'nRetVal'4(21%IDEActivityLogMessage2@25"Unused variable 'nRetVal'-357864643#527#126#4(36%IDEActivityLogHeaderInclusionMessage3@136"In file included from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/ExportedPlayer.cpp-357864643#18446744073709551615#0#-0#-23%DVTTextDocumentLocation4@130"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/ExportedPlayer.cpp0000000000000000^25#18446744073709551615#25#18446744073709551615#18446744073709551615#0#---3@130"In file included from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/PlayerNode.h-357864643#18446744073709551615#0#-0#-4@124"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/PlayerNode.h0000000000000000^27#18446744073709551615#27#18446744073709551615#18446744073709551615#0#---3@108"In file included from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnEvent.h-357864643#18446744073709551615#0#-0#-4@102"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnEvent.h0000000000000000^30#18446744073709551615#30#18446744073709551615#18446744073709551615#0#---2@115"Unused variable 'nRetVal' in /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnOSCpp.h-357864643#18446744073709551615#0#-0#-4@102"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnOSCpp.h0000000000000000^62#18446744073709551615#62#18446744073709551615#18446744073709551615#0#---1#-4@102"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnOSCpp.h0000000000000000^62#18446744073709551615#62#18446744073709551615#18446744073709551615#0#19"Unused variable '*'--2@25"Unused variable 'nRetVal'-357864643#793#126#4(3@136"In file included from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/ExportedPlayer.cpp-357864643#18446744073709551615#0#-0#-4@130"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/ExportedPlayer.cpp0000000000000000^25#18446744073709551615#25#18446744073709551615#18446744073709551615#0#---3@130"In file included from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/PlayerNode.h-357864643#18446744073709551615#0#-0#-4@124"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/PlayerNode.h0000000000000000^27#18446744073709551615#27#18446744073709551615#18446744073709551615#0#---3@108"In file included from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnEvent.h-357864643#18446744073709551615#0#-0#-4@102"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnEvent.h0000000000000000^30#18446744073709551615#30#18446744073709551615#18446744073709551615#0#---2@115"Unused variable 'nRetVal' in /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnOSCpp.h-357864643#18446744073709551615#0#-0#-4@102"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnOSCpp.h0000000000000000^72#18446744073709551615#72#18446744073709551615#18446744073709551615#0#---1#-4@102"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnOSCpp.h0000000000000000^72#18446744073709551615#72#18446744073709551615#18446744073709551615#0#19"Unused variable '*'--2@25"Unused variable 'nRetVal'-357864643#1244#149#2(3@136"In file included from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/ExportedPlayer.cpp-357864643#18446744073709551615#0#-0#-4@130"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/ExportedPlayer.cpp0000000000000000^25#18446744073709551615#25#18446744073709551615#18446744073709551615#0#---2@137"Unused variable 'nRetVal' in /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/PlayerNode.h-357864643#18446744073709551615#0#-0#-4@124"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/PlayerNode.h0000000000000000^159#18446744073709551615#159#18446744073709551615#18446744073709551615#0#---1#-4@124"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/PlayerNode.h0000000000000000^159#18446744073709551615#159#18446744073709551615#18446744073709551615#0#19"Unused variable '*'--2@25"Unused variable 'nRetVal'-357864643#1677#154#-1#-4@130"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/ExportedPlayer.cpp0000000000000000^71#18446744073709551615#71#18446744073709551615#18446744073709551615#0#19"Unused variable '*'--0#0#0#-19%DVTDocumentLocation5@130"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/ExportedPlayer.cpp0000000000000000^1949"CompileC build/nestk/deps/openni/Source/Modules/nimRecorder/RGBDemo.build/Debug/nimRecorder.build/Objects-normal/x86_64/ExportedPlayer.o nestk/deps/openni/Source/Modules/nimRecorder/ExportedPlayer.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42    cd /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 "-DCMAKE_INTDIR=\"Debug\"" -DnimRecorder_EXPORTS "-DCUSTOM_SAMPLE_XML_PATH=\"config/SamplesConfig.xml\"" "-DCUSTOM_SAMPLE_USER_XML_PATH=\"config/Sample-User.xml\"" -DXN_USE_CUSTOM_MODULES_FILE=xn_modules_file -DUSE_GLUT -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -mmacosx-version-min=10.7 -gdwarf-2 -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/include -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/macosx/libusb-7da756e -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/Common -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni/Source/Modules/nimRecorder/RGBDemo.build/Debug/nimRecorder.build/DerivedSources/x86_64 -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni/Source/Modules/nimRecorder/RGBDemo.build/Debug/nimRecorder.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug -fPIC -c /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/ExportedPlayer.cpp -o /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni/Source/Modules/nimRecorder/RGBDemo.build/Debug/nimRecorder.build/Objects-normal/x86_64/ExportedPlayer.o36"0B89DE29-5A79-4FCA-A53D-ECDB6734B4F0-
+
+CCompileC build/nestk/deps/openni/Source/Modules/nimRecorder/RGBDemo.build/Debug/nimRecorder.build/Objects-normal/x86_64/ExportedRecorder.o /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/ExportedRecorder.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+s357864643.144129
+e357864643.656637
+r1
+xCompileC
+xbuild/nestk/deps/openni/Source/Modules/nimRecorder/RGBDemo.build/Debug/nimRecorder.build/Objects-normal/x86_64/ExportedRecorder.o
+x/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/ExportedRecorder.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection124"Compile /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/ExportedRecorder.cppae0d25c39454b541^1729a8c39454b541^---0#0#0#-19%DVTDocumentLocation2@132"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/ExportedRecorder.cpp0000000000000000^1957"CompileC build/nestk/deps/openni/Source/Modules/nimRecorder/RGBDemo.build/Debug/nimRecorder.build/Objects-normal/x86_64/ExportedRecorder.o nestk/deps/openni/Source/Modules/nimRecorder/ExportedRecorder.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42    cd /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 "-DCMAKE_INTDIR=\"Debug\"" -DnimRecorder_EXPORTS "-DCUSTOM_SAMPLE_XML_PATH=\"config/SamplesConfig.xml\"" "-DCUSTOM_SAMPLE_USER_XML_PATH=\"config/Sample-User.xml\"" -DXN_USE_CUSTOM_MODULES_FILE=xn_modules_file -DUSE_GLUT -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -mmacosx-version-min=10.7 -gdwarf-2 -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/include -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/macosx/libusb-7da756e -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/Common -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni/Source/Modules/nimRecorder/RGBDemo.build/Debug/nimRecorder.build/DerivedSources/x86_64 -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni/Source/Modules/nimRecorder/RGBDemo.build/Debug/nimRecorder.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug -fPIC -c /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/ExportedRecorder.cpp -o /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni/Source/Modules/nimRecorder/RGBDemo.build/Debug/nimRecorder.build/Objects-normal/x86_64/ExportedRecorder.o36"BF8B6EBB-F917-46D2-BC20-B040EAEA4D63-
+
+CCompileC build/nestk/deps/openni/Source/Modules/nimRecorder/RGBDemo.build/Debug/nimRecorder.build/Objects-normal/x86_64/PlayerNode.o /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/PlayerNode.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+s357864643.658776
+e357864644.321952
+r1
+xCompileC
+xbuild/nestk/deps/openni/Source/Modules/nimRecorder/RGBDemo.build/Debug/nimRecorder.build/Objects-normal/x86_64/PlayerNode.o
+x/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/PlayerNode.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvmgcc42
+oIn file included from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnEvent.h:31,
+o                 from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/PlayerNode.h:28,
+o                 from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/PlayerNode.cpp:22:
+o/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnOSCpp.h: In member function 'void XnAutoCSLocker::Lock()':
+o/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnOSCpp.h:63: warning: unused variable 'nRetVal'
+o/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnOSCpp.h: In member function 'void XnAutoCSLocker::Unlock()':
+o/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnOSCpp.h:73: warning: unused variable 'nRetVal'
+oIn file included from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/PlayerNode.cpp:22:
+o/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/PlayerNode.h: In member function 'XnStatus PlayerNode::EndOfFileReachedEvent::Raise()':
+o/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/PlayerNode.h:160: warning: unused variable 'nRetVal'
+o/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/PlayerNode.h: In constructor 'PlayerNode::PlayerNode(xn::Context&, const XnChar*)':
+o/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/PlayerNode.h:152: warning: 'PlayerNode::m_pNodeNotifications' will be initialized after
+o/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/PlayerNode.h:147: warning:   'XnUInt8* PlayerNode::m_pRecordBuffer'
+o/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/PlayerNode.cpp:72: warning:   when initialized here
+o/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/PlayerNode.h:165: warning: 'PlayerNode::m_context' will be initialized after
+o/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/PlayerNode.h:154: warning:   'XnBool PlayerNode::m_bDataBegun'
+o/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/PlayerNode.cpp:72: warning:   when initialized here
+o/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/PlayerNode.h:164: warning: 'PlayerNode::m_nMaxNodes' will be initialized after
+o/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/PlayerNode.h:155: warning:   'XnBool PlayerNode::m_bEOF'
+o/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/PlayerNode.cpp:72: warning:   when initialized here
+o/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/PlayerNode.h:168: warning: 'PlayerNode::m_aSeekTempArray' will be initialized after
+o/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/PlayerNode.h:166: warning:   'XnInternalNodeData* PlayerNode::m_hSelf'
+o/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/PlayerNode.cpp:72: warning:   when initialized here
+o/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/PlayerNode.cpp: In member function 'virtual XnStatus PlayerNode::SeekToFrame(const XnChar*, XnInt32, XnPlayerSeekOrigin)':
+o/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/PlayerNode.cpp:183: warning: comparison between signed and unsigned integer expressions
+o/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/PlayerNode.cpp: In member function 'XnStatus PlayerNode::SeekToFrameAbsolute(XnUInt32, XnUInt32)':
+o/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/PlayerNode.cpp:375: warning: unused variable 'nFrames'
+o/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/PlayerNode.cpp: In member function 'XnStatus PlayerNode::ReadRecordHeader(Record&)':
+o/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/PlayerNode.cpp:680: warning: unused variable 'nRetVal'
+o/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/PlayerNode.cpp: In member function 'XnStatus PlayerNode::HandleNodeAdded_1_0_0_4_Record(NodeAdded_1_0_0_4_Record)':
+o/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/PlayerNode.cpp:871: warning: left-hand operand of comma has no effect
+o/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/PlayerNode.cpp: In member function 'XnStatus PlayerNode::HandleNodeAdded_1_0_0_5_Record(NodeAdded_1_0_0_5_Record)':
+o/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/PlayerNode.cpp:940: warning: left-hand operand of comma has no effect
+o/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/PlayerNode.cpp: In member function 'XnStatus PlayerNode::HandleNodeAddedRecord(NodeAddedRecord)':
+o/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/PlayerNode.cpp:957: warning: left-hand operand of comma has no effect
+o/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/PlayerNode.cpp: In member function 'XnStatus PlayerNode::SeekToRecordByType(XnUInt32, RecordType)':
+o/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/PlayerNode.cpp:1004: warning: comparison between signed and unsigned integer expressions
+o/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/PlayerNode.cpp: In member function 'XnStatus PlayerNode::HandleGeneralPropRecord(GeneralPropRecord)':
+o/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/PlayerNode.cpp:1040: warning: left-hand operand of comma has no effect
+o/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/PlayerNode.cpp: In member function 'XnStatus PlayerNode::HandleIntPropRecord(IntPropRecord)':
+o/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/PlayerNode.cpp:1106: warning: left-hand operand of comma has no effect
+o/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/PlayerNode.cpp: In member function 'XnStatus PlayerNode::HandleRealPropRecord(RealPropRecord)':
+o/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/PlayerNode.cpp:1135: warning: left-hand operand of comma has no effect
+o/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/PlayerNode.cpp: In member function 'XnStatus PlayerNode::HandleStringPropRecord(StringPropRecord)':
+o/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/PlayerNode.cpp:1165: warning: left-hand operand of comma has no effect
+o/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/PlayerNode.cpp: In member function 'XnStatus PlayerNode::HandleNodeRemovedRecord(NodeRemovedRecord)':
+o/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/PlayerNode.cpp:1194: warning: left-hand operand of comma has no effect
+o/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/PlayerNode.cpp: In member function 'XnStatus PlayerNode::HandleNodeStateReadyRecord(NodeStateReadyRecord)':
+o/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/PlayerNode.cpp:1214: warning: left-hand operand of comma has no effect
+o/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/PlayerNode.cpp: In member function 'XnStatus PlayerNode::HandleNodeDataBeginRecord(NodeDataBeginRecord)':
+o/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/PlayerNode.cpp:1259: warning: left-hand operand of comma has no effect
+o/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/PlayerNode.cpp: In member function 'XnStatus PlayerNode::HandleNewDataRecord(NewDataRecordHeader, XnBool)':
+o/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/PlayerNode.cpp:1284: warning: left-hand operand of comma has no effect
+o/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/PlayerNode.cpp: In member function 'XnStatus PlayerNode::HandleDataIndexRecord(DataIndexRecordHeader, XnBool)':
+o/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/PlayerNode.cpp:1372: warning: left-hand operand of comma has no effect
+o/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/PlayerNode.cpp: In member function 'XnStatus PlayerNode::HandleEndRecord(EndRecord)':
+o/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/PlayerNode.cpp:1428: warning: left-hand operand of comma has no effect
+o/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/PlayerNode.cpp: In member function 'PlayerNode::PlayerNodeInfo* PlayerNode::GetPlayerNodeInfoByName(const XnChar*)':
+o/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/PlayerNode.cpp:1617: warning: comparison between signed and unsigned integer expressions
+o/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/PlayerNode.cpp: In member function 'XnInternalNodeData* PlayerNode::GetSelfNodeHandle()':
+o/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/PlayerNode.cpp:1653: warning: unused variable 'nRetVal'
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection118"Compile /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/PlayerNode.cpp07cfa8c39454b541^738252c49454b541^-10470"In file included from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnEvent.h:31,                 from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/PlayerNode.h:28,                 from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/PlayerNode.cpp:22:/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnOSCpp.h: In member function 'void XnAutoCSLocker::Lock()':/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnOSCpp.h:63: warning: unused variable 'nRetVal'/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnOSCpp.h: In member function 'void XnAutoCSLocker::Unlock()':/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnOSCpp.h:73: warning: unused variable 'nRetVal'In file included from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/PlayerNode.cpp:22:/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/PlayerNode.h: In member function 'XnStatus PlayerNode::EndOfFileReachedEvent::Raise()':/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/PlayerNode.h:160: warning: unused variable 'nRetVal'/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/PlayerNode.h: In constructor 'PlayerNode::PlayerNode(xn::Context&, const XnChar*)':/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/PlayerNode.h:152: warning: 'PlayerNode::m_pNodeNotifications' will be initialized after/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/PlayerNode.h:147: warning:   'XnUInt8* PlayerNode::m_pRecordBuffer'/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/PlayerNode.cpp:72: warning:   when initialized here/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/PlayerNode.h:165: warning: 'PlayerNode::m_context' will be initialized after/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/PlayerNode.h:154: warning:   'XnBool PlayerNode::m_bDataBegun'/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/PlayerNode.cpp:72: warning:   when initialized here/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/PlayerNode.h:164: warning: 'PlayerNode::m_nMaxNodes' will be initialized after/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/PlayerNode.h:155: warning:   'XnBool PlayerNode::m_bEOF'/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/PlayerNode.cpp:72: warning:   when initialized here/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/PlayerNode.h:168: warning: 'PlayerNode::m_aSeekTempArray' will be initialized after/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/PlayerNode.h:166: warning:   'XnInternalNodeData* PlayerNode::m_hSelf'/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/PlayerNode.cpp:72: warning:   when initialized here/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/PlayerNode.cpp: In member function 'virtual XnStatus PlayerNode::SeekToFrame(const XnChar*, XnInt32, XnPlayerSeekOrigin)':/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/PlayerNode.cpp:183: warning: comparison between signed and unsigned integer expressions/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/PlayerNode.cpp: In member function 'XnStatus PlayerNode::SeekToFrameAbsolute(XnUInt32, XnUInt32)':/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/PlayerNode.cpp:375: warning: unused variable 'nFrames'/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/PlayerNode.cpp: In member function 'XnStatus PlayerNode::ReadRecordHeader(Record&)':/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/PlayerNode.cpp:680: warning: unused variable 'nRetVal'/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/PlayerNode.cpp: In member function 'XnStatus PlayerNode::HandleNodeAdded_1_0_0_4_Record(NodeAdded_1_0_0_4_Record)':/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/PlayerNode.cpp:871: warning: left-hand operand of comma has no effect/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/PlayerNode.cpp: In member function 'XnStatus PlayerNode::HandleNodeAdded_1_0_0_5_Record(NodeAdded_1_0_0_5_Record)':/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/PlayerNode.cpp:940: warning: left-hand operand of comma has no effect/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/PlayerNode.cpp: In member function 'XnStatus PlayerNode::HandleNodeAddedRecord(NodeAddedRecord)':/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/PlayerNode.cpp:957: warning: left-hand operand of comma has no effect/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/PlayerNode.cpp: In member function 'XnStatus PlayerNode::SeekToRecordByType(XnUInt32, RecordType)':/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/PlayerNode.cpp:1004: warning: comparison between signed and unsigned integer expressions/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/PlayerNode.cpp: In member function 'XnStatus PlayerNode::HandleGeneralPropRecord(GeneralPropRecord)':/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/PlayerNode.cpp:1040: warning: left-hand operand of comma has no effect/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/PlayerNode.cpp: In member function 'XnStatus PlayerNode::HandleIntPropRecord(IntPropRecord)':/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/PlayerNode.cpp:1106: warning: left-hand operand of comma has no effect/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/PlayerNode.cpp: In member function 'XnStatus PlayerNode::HandleRealPropRecord(RealPropRecord)':/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/PlayerNode.cpp:1135: warning: left-hand operand of comma has no effect/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/PlayerNode.cpp: In member function 'XnStatus PlayerNode::HandleStringPropRecord(StringPropRecord)':/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/PlayerNode.cpp:1165: warning: left-hand operand of comma has no effect/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/PlayerNode.cpp: In member function 'XnStatus PlayerNode::HandleNodeRemovedRecord(NodeRemovedRecord)':/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/PlayerNode.cpp:1194: warning: left-hand operand of comma has no effect/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/PlayerNode.cpp: In member function 'XnStatus PlayerNode::HandleNodeStateReadyRecord(NodeStateReadyRecord)':/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/PlayerNode.cpp:1214: warning: left-hand operand of comma has no effect/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/PlayerNode.cpp: In member function 'XnStatus PlayerNode::HandleNodeDataBeginRecord(NodeDataBeginRecord)':/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/PlayerNode.cpp:1259: warning: left-hand operand of comma has no effect/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/PlayerNode.cpp: In member function 'XnStatus PlayerNode::HandleNewDataRecord(NewDataRecordHeader, XnBool)':/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/PlayerNode.cpp:1284: warning: left-hand operand of comma has no effect/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/PlayerNode.cpp: In member function 'XnStatus PlayerNode::HandleDataIndexRecord(DataIndexRecordHeader, XnBool)':/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/PlayerNode.cpp:1372: warning: left-hand operand of comma has no effect/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/PlayerNode.cpp: In member function 'XnStatus PlayerNode::HandleEndRecord(EndRecord)':/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/PlayerNode.cpp:1428: warning: left-hand operand of comma has no effect/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/PlayerNode.cpp: In member function 'PlayerNode::PlayerNodeInfo* PlayerNode::GetPlayerNodeInfoByName(const XnChar*)':/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/PlayerNode.cpp:1617: warning: comparison between signed and unsigned integer expressions/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/PlayerNode.cpp: In member function 'XnInternalNodeData* PlayerNode::GetSelfNodeHandle()':/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/PlayerNode.cpp:1653: warning: unused variable 'nRetVal'34(21%IDEActivityLogMessage2@25"Unused variable 'nRetVal'-357864643#523#126#4(36%IDEActivityLogHeaderInclusionMessage3@132"In file included from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/PlayerNode.cpp-357864643#18446744073709551615#0#-0#-23%DVTTextDocumentLocation4@126"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/PlayerNode.cpp0000000000000000^21#18446744073709551615#21#18446744073709551615#18446744073709551615#0#---3@130"In file included from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/PlayerNode.h-357864643#18446744073709551615#0#-0#-4@124"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/PlayerNode.h0000000000000000^27#18446744073709551615#27#18446744073709551615#18446744073709551615#0#---3@108"In file included from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnEvent.h-357864643#18446744073709551615#0#-0#-4@102"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnEvent.h0000000000000000^30#18446744073709551615#30#18446744073709551615#18446744073709551615#0#---2@115"Unused variable 'nRetVal' in /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnOSCpp.h-357864643#18446744073709551615#0#-0#-4@102"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnOSCpp.h0000000000000000^62#18446744073709551615#62#18446744073709551615#18446744073709551615#0#---1#-4@102"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnOSCpp.h0000000000000000^62#18446744073709551615#62#18446744073709551615#18446744073709551615#0#19"Unused variable '*'--2@25"Unused variable 'nRetVal'-357864643#789#126#4(3@132"In file included from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/PlayerNode.cpp-357864643#18446744073709551615#0#-0#-4@126"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/PlayerNode.cpp0000000000000000^21#18446744073709551615#21#18446744073709551615#18446744073709551615#0#---3@130"In file included from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/PlayerNode.h-357864643#18446744073709551615#0#-0#-4@124"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/PlayerNode.h0000000000000000^27#18446744073709551615#27#18446744073709551615#18446744073709551615#0#---3@108"In file included from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnEvent.h-357864643#18446744073709551615#0#-0#-4@102"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnEvent.h0000000000000000^30#18446744073709551615#30#18446744073709551615#18446744073709551615#0#---2@115"Unused variable 'nRetVal' in /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnOSCpp.h-357864643#18446744073709551615#0#-0#-4@102"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnOSCpp.h0000000000000000^72#18446744073709551615#72#18446744073709551615#18446744073709551615#0#---1#-4@102"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnOSCpp.h0000000000000000^72#18446744073709551615#72#18446744073709551615#18446744073709551615#0#19"Unused variable '*'--2@25"Unused variable 'nRetVal'-357864643#1236#149#2(3@132"In file included from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/PlayerNode.cpp-357864643#18446744073709551615#0#-0#-4@126"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/PlayerNode.cpp0000000000000000^21#18446744073709551615#21#18446744073709551615#18446744073709551615#0#---2@137"Unused variable 'nRetVal' in /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/PlayerNode.h-357864643#18446744073709551615#0#-0#-4@124"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/PlayerNode.h0000000000000000^159#18446744073709551615#159#18446744073709551615#18446744073709551615#0#---1#-4@124"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/PlayerNode.h0000000000000000^159#18446744073709551615#159#18446744073709551615#18446744073709551615#0#19"Unused variable '*'--2@60"'PlayerNode::m_pNodeNotifications' will be initialized after-357864643#1565#184#2(3@132"In file included from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/PlayerNode.cpp-357864643#18446744073709551615#0#-0#-4@126"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/PlayerNode.cpp0000000000000000^21#18446744073709551615#21#18446744073709551615#18446744073709551615#0#---2@172"'PlayerNode::m_pNodeNotifications' will be initialized after in /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/PlayerNode.h-357864643#18446744073709551615#0#-0#-4@124"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/PlayerNode.h0000000000000000^151#18446744073709551615#151#18446744073709551615#18446744073709551615#0#---1#-4@124"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/PlayerNode.h0000000000000000^151#18446744073709551615#151#18446744073709551615#18446744073709551615#0#20"LLVM GCC 4.2 Warning--2@38"'XnUInt8* PlayerNode::m_pRecordBuffer'-357864643#1749#164#2(3@132"In file included from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/PlayerNode.cpp-357864643#18446744073709551615#0#-0#-4@126"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/PlayerNode.cpp0000000000000000^21#18446744073709551615#21#18446744073709551615#18446744073709551615#0#---2@150"'XnUInt8* PlayerNode::m_pRecordBuffer' in /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/PlayerNode.h-357864643#18446744073709551615#0#-0#-4@124"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/PlayerNode.h0000000000000000^146#18446744073709551615#146#18446744073709551615#18446744073709551615#0#---1#-4@124"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/PlayerNode.h0000000000000000^146#18446744073709551615#146#18446744073709551615#18446744073709551615#0#20"LLVM GCC 4.2 Warning--2@21"When initialized here-357864643#1913#148#-1#-4@126"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/PlayerNode.cpp0000000000000000^71#18446744073709551615#71#18446744073709551615#18446744073709551615#0#20"LLVM GCC 4.2 Warning--2@49"'PlayerNode::m_context' will be initialized after-357864643#2061#173#-1#-4@124"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/PlayerNode.h0000000000000000^164#18446744073709551615#164#18446744073709551615#18446744073709551615#0#20"LLVM GCC 4.2 Warning--2@33"'XnBool PlayerNode::m_bDataBegun'-357864643#2234#159#-1#-4@124"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/PlayerNode.h0000000000000000^153#18446744073709551615#153#18446744073709551615#18446744073709551615#0#20"LLVM GCC 4.2 Warning--2@21"When initialized here-357864643#2393#148#-1#-4@126"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/PlayerNode.cpp0000000000000000^71#18446744073709551615#71#18446744073709551615#18446744073709551615#0#20"LLVM GCC 4.2 Warning--2@51"'PlayerNode::m_nMaxNodes' will be initialized after-357864643#2541#175#-1#-4@124"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/PlayerNode.h0000000000000000^163#18446744073709551615#163#18446744073709551615#18446744073709551615#0#20"LLVM GCC 4.2 Warning--2@27"'XnBool PlayerNode::m_bEOF'-357864643#2716#153#-1#-4@124"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/PlayerNode.h0000000000000000^154#18446744073709551615#154#18446744073709551615#18446744073709551615#0#20"LLVM GCC 4.2 Warning--2@21"When initialized here-357864643#2869#148#-1#-4@126"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/PlayerNode.cpp0000000000000000^71#18446744073709551615#71#18446744073709551615#18446744073709551615#0#20"LLVM GCC 4.2 Warning--2@56"'PlayerNode::m_aSeekTempArray' will be initialized after-357864643#3017#180#-1#-4@124"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/PlayerNode.h0000000000000000^167#18446744073709551615#167#18446744073709551615#18446744073709551615#0#20"LLVM GCC 4.2 Warning--2@41"'XnInternalNodeData* PlayerNode::m_hSelf'-357864643#3197#167#-1#-4@124"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/PlayerNode.h0000000000000000^165#18446744073709551615#165#18446744073709551615#18446744073709551615#0#20"LLVM GCC 4.2 Warning--2@21"When initialized here-357864643#3364#148#-1#-4@126"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/PlayerNode.cpp0000000000000000^71#18446744073709551615#71#18446744073709551615#18446744073709551615#0#20"LLVM GCC 4.2 Warning--2@58"Comparison between signed and unsigned integer expressions-357864643#3731#184#-1#-4@126"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/PlayerNode.cpp0000000000000000^182#18446744073709551615#182#18446744073709551615#18446744073709551615#0#58"Comparison between signed and unsigned integer expressions--2@25"Unused variable 'nFrames'-357864643#4110#151#-1#-4@126"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/PlayerNode.cpp0000000000000000^374#18446744073709551615#374#18446744073709551615#18446744073709551615#0#19"Unused variable '*'--2@25"Unused variable 'nRetVal'-357864643#4442#151#-1#-4@126"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/PlayerNode.cpp0000000000000000^679#18446744073709551615#679#18446744073709551615#18446744073709551615#0#19"Unused variable '*'--2@40"Left-hand operand of comma has no effect-357864643#4805#166#-1#-4@126"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/PlayerNode.cpp0000000000000000^870#18446744073709551615#870#18446744073709551615#18446744073709551615#0#20"LLVM GCC 4.2 Warning--2@40"Left-hand operand of comma has no effect-357864643#5183#166#-1#-4@126"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/PlayerNode.cpp0000000000000000^939#18446744073709551615#939#18446744073709551615#18446744073709551615#0#20"LLVM GCC 4.2 Warning--2@40"Left-hand operand of comma has no effect-357864643#5543#166#-1#-4@126"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/PlayerNode.cpp0000000000000000^956#18446744073709551615#956#18446744073709551615#18446744073709551615#0#20"LLVM GCC 4.2 Warning--2@58"Comparison between signed and unsigned integer expressions-357864643#5905#185#-1#-4@126"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/PlayerNode.cpp0000000000000000^1003#18446744073709551615#1003#18446744073709551615#18446744073709551615#0#58"Comparison between signed and unsigned integer expressions--2@40"Left-hand operand of comma has no effect-357864643#6288#167#-1#-4@126"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/PlayerNode.cpp0000000000000000^1039#18446744073709551615#1039#18446744073709551615#18446744073709551615#0#20"LLVM GCC 4.2 Warning--2@40"Left-hand operand of comma has no effect-357864643#6645#167#-1#-4@126"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/PlayerNode.cpp0000000000000000^1105#18446744073709551615#1105#18446744073709551615#18446744073709551615#0#20"LLVM GCC 4.2 Warning--2@40"Left-hand operand of comma has no effect-357864643#7004#167#-1#-4@126"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/PlayerNode.cpp0000000000000000^1134#18446744073709551615#1134#18446744073709551615#18446744073709551615#0#20"LLVM GCC 4.2 Warning--2@40"Left-hand operand of comma has no effect-357864643#7367#167#-1#-4@126"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/PlayerNode.cpp0000000000000000^1164#18446744073709551615#1164#18446744073709551615#18446744073709551615#0#20"LLVM GCC 4.2 Warning--2@40"Left-hand operand of comma has no effect-357864643#7732#167#-1#-4@126"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/PlayerNode.cpp0000000000000000^1193#18446744073709551615#1193#18446744073709551615#18446744073709551615#0#20"LLVM GCC 4.2 Warning--2@40"Left-hand operand of comma has no effect-357864643#8103#167#-1#-4@126"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/PlayerNode.cpp0000000000000000^1213#18446744073709551615#1213#18446744073709551615#18446744073709551615#0#20"LLVM GCC 4.2 Warning--2@40"Left-hand operand of comma has no effect-357864643#8472#167#-1#-4@126"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/PlayerNode.cpp0000000000000000^1258#18446744073709551615#1258#18446744073709551615#18446744073709551615#0#20"LLVM GCC 4.2 Warning--2@40"Left-hand operand of comma has no effect-357864643#8843#167#-1#-4@126"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/PlayerNode.cpp0000000000000000^1283#18446744073709551615#1283#18446744073709551615#18446744073709551615#0#20"LLVM GCC 4.2 Warning--2@40"Left-hand operand of comma has no effect-357864643#9218#167#-1#-4@126"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/PlayerNode.cpp0000000000000000^1371#18446744073709551615#1371#18446744073709551615#18446744073709551615#0#20"LLVM GCC 4.2 Warning--2@40"Left-hand operand of comma has no effect-357864643#9567#167#-1#-4@126"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/PlayerNode.cpp0000000000000000^1427#18446744073709551615#1427#18446744073709551615#18446744073709551615#0#20"LLVM GCC 4.2 Warning--2@58"Comparison between signed and unsigned integer expressions-357864643#9947#185#-1#-4@126"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/PlayerNode.cpp0000000000000000^1616#18446744073709551615#1616#18446744073709551615#18446744073709551615#0#58"Comparison between signed and unsigned integer expressions--2@25"Unused variable 'nRetVal'-357864643#10318#152#-1#-4@126"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/PlayerNode.cpp0000000000000000^1652#18446744073709551615#1652#18446744073709551615#18446744073709551615#0#19"Unused variable '*'--0#0#0#-19%DVTDocumentLocation5@126"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/PlayerNode.cpp0000000000000000^1933"CompileC build/nestk/deps/openni/Source/Modules/nimRecorder/RGBDemo.build/Debug/nimRecorder.build/Objects-normal/x86_64/PlayerNode.o nestk/deps/openni/Source/Modules/nimRecorder/PlayerNode.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42    cd /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 "-DCMAKE_INTDIR=\"Debug\"" -DnimRecorder_EXPORTS "-DCUSTOM_SAMPLE_XML_PATH=\"config/SamplesConfig.xml\"" "-DCUSTOM_SAMPLE_USER_XML_PATH=\"config/Sample-User.xml\"" -DXN_USE_CUSTOM_MODULES_FILE=xn_modules_file -DUSE_GLUT -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -mmacosx-version-min=10.7 -gdwarf-2 -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/include -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/macosx/libusb-7da756e -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/Common -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni/Source/Modules/nimRecorder/RGBDemo.build/Debug/nimRecorder.build/DerivedSources/x86_64 -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni/Source/Modules/nimRecorder/RGBDemo.build/Debug/nimRecorder.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug -fPIC -c /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/PlayerNode.cpp -o /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni/Source/Modules/nimRecorder/RGBDemo.build/Debug/nimRecorder.build/Objects-normal/x86_64/PlayerNode.o36"76C9848B-3AE2-485F-9B8D-E7EAC2A56F8D-
+
+CCompileC build/nestk/deps/openni/Source/Modules/nimRecorder/RGBDemo.build/Debug/nimRecorder.build/Objects-normal/x86_64/RecorderNode.o /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/RecorderNode.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+s357864644.136169
+e357864644.759790
+r1
+xCompileC
+xbuild/nestk/deps/openni/Source/Modules/nimRecorder/RGBDemo.build/Debug/nimRecorder.build/Objects-normal/x86_64/RecorderNode.o
+x/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/RecorderNode.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvmgcc42
+o/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/RecorderNode.h: In constructor 'RecorderNode::RecorderNode(xn::Context&)':
+o/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/RecorderNode.h:111: warning: 'RecorderNode::m_pOutputStream' will be initialized after
+o/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/RecorderNode.h:107: warning:   'XnBool RecorderNode::m_bOpen'
+o/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/RecorderNode.cpp:36: warning:   when initialized here
+o/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/RecorderNode.h:114: warning: 'RecorderNode::m_context' will be initialized after
+o/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/RecorderNode.h:109: warning:   'XnUInt8* RecorderNode::m_pPayloadData'
+o/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/RecorderNode.cpp:36: warning:   when initialized here
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection120"Compile /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/RecorderNode.cpp4df322c49454b541^6f7fc2c49454b541^-1156"/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/RecorderNode.h: In constructor 'RecorderNode::RecorderNode(xn::Context&)':/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/RecorderNode.h:111: warning: 'RecorderNode::m_pOutputStream' will be initialized after/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/RecorderNode.h:107: warning:   'XnBool RecorderNode::m_bOpen'/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/RecorderNode.cpp:36: warning:   when initialized here/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/RecorderNode.h:114: warning: 'RecorderNode::m_context' will be initialized after/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/RecorderNode.h:109: warning:   'XnUInt8* RecorderNode::m_pPayloadData'/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/RecorderNode.cpp:36: warning:   when initialized here6(21%IDEActivityLogMessage2@57"'RecorderNode::m_pOutputStream' will be initialized after-357864644#171#183#-1#-23%DVTTextDocumentLocation3@126"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/RecorderNode.h0000000000000000^110#18446744073709551615#110#18446744073709551615#18446744073709551615#0#20"LLVM GCC 4.2 Warning--2@30"'XnBool RecorderNode::m_bOpen'-357864644#354#158#-1#-3@126"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/RecorderNode.h0000000000000000^106#18446744073709551615#106#18446744073709551615#18446744073709551615#0#20"LLVM GCC 4.2 Warning--2@21"When initialized here-357864644#512#150#-1#-3@128"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/RecorderNode.cpp0000000000000000^35#18446744073709551615#35#18446744073709551615#18446744073709551615#0#20"LLVM GCC 4.2 Warning--2@51"'RecorderNode::m_context' will be initialized after-357864644#662#177#-1#-3@126"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/RecorderNode.h0000000000000000^113#18446744073709551615#113#18446744073709551615#18446744073709551615#0#20"LLVM GCC 4.2 Warning--2@39"'XnUInt8* RecorderNode::m_pPayloadData'-357864644#839#167#-1#-3@126"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/RecorderNode.h0000000000000000^108#18446744073709551615#108#18446744073709551615#18446744073709551615#0#20"LLVM GCC 4.2 Warning--2@21"When initialized here-357864644#1006#150#-1#-3@128"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/RecorderNode.cpp0000000000000000^35#18446744073709551615#35#18446744073709551615#18446744073709551615#0#20"LLVM GCC 4.2 Warning--0#0#0#-19%DVTDocumentLocation4@128"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/RecorderNode.cpp0000000000000000^1941"CompileC build/nestk/deps/openni/Source/Modules/nimRecorder/RGBDemo.build/Debug/nimRecorder.build/Objects-normal/x86_64/RecorderNode.o nestk/deps/openni/Source/Modules/nimRecorder/RecorderNode.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42    cd /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 "-DCMAKE_INTDIR=\"Debug\"" -DnimRecorder_EXPORTS "-DCUSTOM_SAMPLE_XML_PATH=\"config/SamplesConfig.xml\"" "-DCUSTOM_SAMPLE_USER_XML_PATH=\"config/Sample-User.xml\"" -DXN_USE_CUSTOM_MODULES_FILE=xn_modules_file -DUSE_GLUT -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -mmacosx-version-min=10.7 -gdwarf-2 -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/include -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/macosx/libusb-7da756e -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/Common -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni/Source/Modules/nimRecorder/RGBDemo.build/Debug/nimRecorder.build/DerivedSources/x86_64 -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni/Source/Modules/nimRecorder/RGBDemo.build/Debug/nimRecorder.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug -fPIC -c /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/RecorderNode.cpp -o /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni/Source/Modules/nimRecorder/RGBDemo.build/Debug/nimRecorder.build/Objects-normal/x86_64/RecorderNode.o36"B816B42E-A8E5-4CC1-A5BE-CD840D8E5161-
+
+CCompileC build/nestk/deps/openni/Source/Modules/nimRecorder/RGBDemo.build/Debug/nimRecorder.build/Objects-normal/x86_64/nimRecorder.o /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/nimRecorder.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+s357864643.405050
+e357864644.134852
+r1
+xCompileC
+xbuild/nestk/deps/openni/Source/Modules/nimRecorder/RGBDemo.build/Debug/nimRecorder.build/Objects-normal/x86_64/nimRecorder.o
+x/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/nimRecorder.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection119"Compile /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/nimRecorder.cpp00ca67c39454b541^128522c49454b541^---0#0#0#-19%DVTDocumentLocation2@127"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/nimRecorder.cpp0000000000000000^1937"CompileC build/nestk/deps/openni/Source/Modules/nimRecorder/RGBDemo.build/Debug/nimRecorder.build/Objects-normal/x86_64/nimRecorder.o nestk/deps/openni/Source/Modules/nimRecorder/nimRecorder.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42    cd /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 "-DCMAKE_INTDIR=\"Debug\"" -DnimRecorder_EXPORTS "-DCUSTOM_SAMPLE_XML_PATH=\"config/SamplesConfig.xml\"" "-DCUSTOM_SAMPLE_USER_XML_PATH=\"config/Sample-User.xml\"" -DXN_USE_CUSTOM_MODULES_FILE=xn_modules_file -DUSE_GLUT -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -mmacosx-version-min=10.7 -gdwarf-2 -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/include -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/macosx/libusb-7da756e -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/Common -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni/Source/Modules/nimRecorder/RGBDemo.build/Debug/nimRecorder.build/DerivedSources/x86_64 -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni/Source/Modules/nimRecorder/RGBDemo.build/Debug/nimRecorder.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug -fPIC -c /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/Modules/nimRecorder/nimRecorder.cpp -o /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni/Source/Modules/nimRecorder/RGBDemo.build/Debug/nimRecorder.build/Objects-normal/x86_64/nimRecorder.o36"20C317B1-8309-48F6-B432-A487CED8EC5E-
+
+CLd /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libnimRecorder.dylib normal x86_64
+s357864645.178958
+e357864645.233271
+r1
+xLd
+x/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libnimRecorder.dylib
+xnormal
+xx86_64
+old: warning: directory not found for option '-L/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Nite/Lib/MacOSX/Debug'
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Link /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libnimRecorder.dylib93e42dc59454b541^37c53bc59454b541^-139"ld: warning: directory not found for option '-L/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Nite/Lib/MacOSX/Debug'1(21%IDEActivityLogMessage2@125"Directory not found for option '-L/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Nite/Lib/MacOSX/Debug'-357864645#0#139#-1#-23%DVTTextDocumentLocation3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#32"Apple Mach-O Linker (ld) Warning--0#0#0#--1668"Ld build/lib/Debug/libnimRecorder.dylib normal x86_64    cd /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo    setenv MACOSX_DEPLOYMENT_TARGET 10.7    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-g++-4.2 -arch x86_64 -dynamiclib -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk -L/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug -L/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Nite/Lib/MacOSX/Debug -L/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Nite/Lib/MacOSX -F/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug -filelist /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni/Source/Modules/nimRecorder/RGBDemo.build/Debug/nimRecorder.build/Objects-normal/x86_64/nimRecorder.LinkFileList -install_name /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libnimRecorder.dylib -mmacosx-version-min=10.7 -dynamiclib -Wl,-headerpad_max_install_names /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libOpenNI.dylib /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libnimCommon.dylib /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libOpenNI.dylib /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libusb.dylib -framework IOKit -framework CoreFoundation /usr/lib/libdl.dylib /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libTinyXml.a -framework CoreFoundation -framework IOKit -single_module -o /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libnimRecorder.dylib36"50C6B314-D211-400F-A331-EB0B35AF060F-
+
+CPhaseScriptExecution "CMake PostBuild Rules" /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni/Source/Modules/nimRecorder/RGBDemo.build/Debug/nimRecorder.build/Script-FE93D431662D46878328BA3D.sh
+s357864646.968331
+e357864647.053466
+r1
+xPhaseScriptExecution
+xCMake PostBuild Rules
+x/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni/Source/Modules/nimRecorder/RGBDemo.build/Debug/nimRecorder.build/Script-FE93D431662D46878328BA3D.sh
+oecho "Depend check for xcode"
+oDepend check for xcode
+ocd /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni && make -C /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni/CMakeScripts/XCODE_DEPEND_HELPER.make PostBuild.nimRecorder.Debug
+omake[1]: Nothing to be done for `PostBuild.nimRecorder.Debug'.
+oecho "Depend check for xcode"
+oDepend check for xcode
+ocd /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build && make -C /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/CMakeScripts/XCODE_DEPEND_HELPER.make PostBuild.nimRecorder.Debug
+omake[1]: Nothing to be done for `PostBuild.nimRecorder.Debug'.
+oecho "Depend check for xcode"
+oDepend check for xcode
+ocd /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk && make -C /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/CMakeScripts/XCODE_DEPEND_HELPER.make PostBuild.nimRecorder.Debug
+omake[1]: Nothing to be done for `PostBuild.nimRecorder.Debug'.
+oecho "Depend check for xcode"
+oDepend check for xcode
+ocd /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps && make -C /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/CMakeScripts/XCODE_DEPEND_HELPER.make PostBuild.nimRecorder.Debug
+omake[1]: Nothing to be done for `PostBuild.nimRecorder.Debug'.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection47"Run custom shell script 'CMake PostBuild Rules'836df8c69454b541^f3af0dc79454b541^-1585"echo "Depend check for xcode"Depend check for xcodecd /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni && make -C /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni/CMakeScripts/XCODE_DEPEND_HELPER.make PostBuild.nimRecorder.Debugmake[1]: Nothing to be done for `PostBuild.nimRecorder.Debug'.echo "Depend check for xcode"Depend check for xcodecd /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build && make -C /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/CMakeScripts/XCODE_DEPEND_HELPER.make PostBuild.nimRecorder.Debugmake[1]: Nothing to be done for `PostBuild.nimRecorder.Debug'.echo "Depend check for xcode"Depend check for xcodecd /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk && make -C /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/CMakeScripts/XCODE_DEPEND_HELPER.make PostBuild.nimRecorder.Debugmake[1]: Nothing to be done for `PostBuild.nimRecorder.Debug'.echo "Depend check for xcode"Depend check for xcodecd /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps && make -C /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/CMakeScripts/XCODE_DEPEND_HELPER.make PostBuild.nimRecorder.Debugmake[1]: Nothing to be done for `PostBuild.nimRecorder.Debug'.16(21%IDEActivityLogMessage2@30"echo "Depend check for xcode"-357864646#0#30#-0#-----2@23"Depend check for xcode-357864646#30#23#-0#-----2@308"cd /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni && make -C /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni/CMakeScripts/XCODE_DEPEND_HELPER.make PostBuild.nimRecorder.Debug-357864646#53#308#-0#-----2@63"make[1]: Nothing to be done for `PostBuild.nimRecorder.Debug'.-357864646#361#63#-0#-----2@30"echo "Depend check for xcode"-357864646#424#30#-0#-----2@23"Depend check for xcode-357864647#454#23#-0#-----2@254"cd /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build && make -C /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/CMakeScripts/XCODE_DEPEND_HELPER.make PostBuild.nimRecorder.Debug-357864647#477#254#-0#-----2@63"make[1]: Nothing to be done for `PostBuild.nimRecorder.Debug'.-357864647#731#63#-0#-----2@30"echo "Depend check for xcode"-357864647#794#30#-0#-----2@23"Depend check for xcode-357864647#824#23#-0#-----2@272"cd /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk && make -C /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/CMakeScripts/XCODE_DEPEND_HELPER.make PostBuild.nimRecorder.Debug-357864647#847#272#-0#-----2@63"make[1]: Nothing to be done for `PostBuild.nimRecorder.Debug'.-357864647#1119#63#-0#-----2@30"echo "Depend check for xcode"-357864647#1182#30#-0#-----2@23"Depend check for xcode-357864647#1212#23#-0#-----2@287"cd /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps && make -C /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/CMakeScripts/XCODE_DEPEND_HELPER.make PostBuild.nimRecorder.Debug-357864647#1235#287#-0#-----2@63"make[1]: Nothing to be done for `PostBuild.nimRecorder.Debug'.-357864647#1522#63#-0#-----0#0#0#--417"PhaseScriptExecution "CMake PostBuild Rules" build/nestk/deps/openni/Source/Modules/nimRecorder/RGBDemo.build/Debug/nimRecorder.build/Script-FE93D431662D46878328BA3D.sh    cd /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo    /bin/sh -c /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni/Source/Modules/nimRecorder/RGBDemo.build/Debug/nimRecorder.build/Script-FE93D431662D46878328BA3D.sh36"C68962BA-8C14-404C-8037-642C3F8F5130-
+

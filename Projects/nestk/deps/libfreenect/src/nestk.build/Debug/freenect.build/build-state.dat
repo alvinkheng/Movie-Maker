@@ -1,0 +1,228 @@
+Tfreenect
+v5
+r1
+cCheck dependencies
+cCompileC /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/libfreenect/src/nestk.build/Debug/freenect.build/Objects-normal/x86_64/core.o /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/libfreenect/src/core.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/libfreenect/src/nestk.build/Debug/freenect.build/Objects-normal/x86_64/tilt.o /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/libfreenect/src/tilt.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/libfreenect/src/nestk.build/Debug/freenect.build/Objects-normal/x86_64/cameras.o /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/libfreenect/src/cameras.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/libfreenect/src/nestk.build/Debug/freenect.build/Objects-normal/x86_64/usb_libusb10.o /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/libfreenect/src/usb_libusb10.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libfreenect.dylib normal x86_64
+cPhaseScriptExecution "CMake PostBuild Rules" /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/libfreenect/src/nestk.build/Debug/freenect.build/Script-CDC4F0033D41420F9591BAB2.sh
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk
+c000000004F29C61A00000000000000EE
+t1328137754
+s238
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/stdio.h
+c000000004F6A24410000000000004763
+t1332356161
+s18275
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/stdlib.h
+c000000004F6A244100000000000030A7
+t1332356161
+s12455
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/string.h
+c000000004F6A24410000000000001A3A
+t1332356161
+s6714
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/unistd.h
+c000000004F6A24410000000000006662
+t1332356161
+s26210
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/3.1/include/stdarg.h
+c000000004F6A24430000000000000810
+t1332356163
+s2064
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libfreenect.dylib
+t2
+s0
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/libfreenect/src/nestk.build/Debug/freenect.build/Objects-normal/x86_64/cameras.o
+t2
+s0
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/libfreenect/src/nestk.build/Debug/freenect.build/Objects-normal/x86_64/core.o
+t2
+s0
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/libfreenect/src/nestk.build/Debug/freenect.build/Objects-normal/x86_64/freenect.LinkFileList
+c000000004FA462450000000000000253
+t1336173125
+s595
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/libfreenect/src/nestk.build/Debug/freenect.build/Objects-normal/x86_64/tilt.o
+t2
+s0
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/libfreenect/src/nestk.build/Debug/freenect.build/Objects-normal/x86_64/usb_libusb10.o
+t2
+s0
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/libfreenect/src/nestk.build/Debug/freenect.build/Script-CDC4F0033D41420F9591BAB2.sh
+c000000004FA4624500000000000000F9
+t1336173125
+s249
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/libfreenect/src/cameras.c
+c000000004FA45A7500000000000062FF
+t1336171125
+s25343
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/libfreenect/src/core.c
+c000000004FA45A750000000000001045
+t1336171125
+s4165
+i<stdio.h>
+i<stdlib.h>
+i<string.h>
+i<stdarg.h>
+i<unistd.h>
+i"freenect_internal.h"
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/libfreenect/src/freenect_internal.h
+c000000004FA45A750000000000001008
+t1336171125
+s4104
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/libfreenect/src/tilt.c
+c000000004FA45A750000000000000E08
+t1336171125
+s3592
+
+N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/libfreenect/src/usb_libusb10.c
+c000000004FA45A750000000000001EFA
+t1336171125
+s7930
+
+CBuild AST from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/libfreenect/src/cameras.c
+r0
+
+CBuild AST from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/libfreenect/src/core.c
+r0
+
+CBuild AST from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/libfreenect/src/tilt.c
+r0
+
+CBuild AST from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/libfreenect/src/usb_libusb10.c
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciesd369b5c59954b541^eacebfc59954b541^---0#1#0#--18"Check dependencies36"7AF8E7ED-66D5-4CD9-A5BC-717D8603A387-
+
+CCompileC /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/libfreenect/src/nestk.build/Debug/freenect.build/Objects-normal/x86_64/cameras.o /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/libfreenect/src/cameras.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
+s357865925.898721
+e357865926.012775
+r1
+xCompileC
+x/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/libfreenect/src/nestk.build/Debug/freenect.build/Objects-normal/x86_64/cameras.o
+x/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/libfreenect/src/cameras.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"Compile /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/libfreenect/src/cameras.c5e2ee6c59954b541^fe6305c69954b541^---0#0#0#-19%DVTDocumentLocation2@103"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/libfreenect/src/cameras.c0000000000000000^2480"CompileC /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/libfreenect/src/nestk.build/Debug/freenect.build/Objects-normal/x86_64/cameras.o deps/libfreenect/src/cameras.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch x86_64 -fmessage-length=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof "-DCMAKE_INTDIR=\"Debug\"" -Dfreenect_EXPORTS -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -Wdeprecated-declarations -mmacosx-version-min=10.7 -g -Wno-conversion -Wno-sign-conversion -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/include -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/macosx/libusb-7da756e -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/libfreenect/include -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/libfreenect/src -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/libfreenect/src/nestk.build/Debug/freenect.build/DerivedSources/x86_64 -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/libfreenect/src/nestk.build/Debug/freenect.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug -Wall -fPIC -Wall -MMD -MT dependencies -MF /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/libfreenect/src/nestk.build/Debug/freenect.build/Objects-normal/x86_64/cameras.d --serialize-diagnostics /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/libfreenect/src/nestk.build/Debug/freenect.build/Objects-normal/x86_64/cameras.dia -c /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/libfreenect/src/cameras.c -o /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/libfreenect/src/nestk.build/Debug/freenect.build/Objects-normal/x86_64/cameras.o36"32FBBB72-E2C4-4842-9BCE-4B8BA4B6DA72-
+
+CCompileC /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/libfreenect/src/nestk.build/Debug/freenect.build/Objects-normal/x86_64/core.o /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/libfreenect/src/core.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
+s357865925.751045
+e357865925.829888
+r1
+xCompileC
+x/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/libfreenect/src/nestk.build/Debug/freenect.build/Objects-normal/x86_64/core.o
+x/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/libfreenect/src/core.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Compile /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/libfreenect/src/core.c9e5fc0c59954b541^8883d4c59954b541^---0#0#0#-19%DVTDocumentLocation2@100"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/libfreenect/src/core.c0000000000000000^2462"CompileC /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/libfreenect/src/nestk.build/Debug/freenect.build/Objects-normal/x86_64/core.o deps/libfreenect/src/core.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch x86_64 -fmessage-length=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof "-DCMAKE_INTDIR=\"Debug\"" -Dfreenect_EXPORTS -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -Wdeprecated-declarations -mmacosx-version-min=10.7 -g -Wno-conversion -Wno-sign-conversion -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/include -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/macosx/libusb-7da756e -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/libfreenect/include -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/libfreenect/src -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/libfreenect/src/nestk.build/Debug/freenect.build/DerivedSources/x86_64 -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/libfreenect/src/nestk.build/Debug/freenect.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug -Wall -fPIC -Wall -MMD -MT dependencies -MF /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/libfreenect/src/nestk.build/Debug/freenect.build/Objects-normal/x86_64/core.d --serialize-diagnostics /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/libfreenect/src/nestk.build/Debug/freenect.build/Objects-normal/x86_64/core.dia -c /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/libfreenect/src/core.c -o /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/libfreenect/src/nestk.build/Debug/freenect.build/Objects-normal/x86_64/core.o36"28915FB0-1370-4988-AE02-31C44077190D-
+
+CCompileC /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/libfreenect/src/nestk.build/Debug/freenect.build/Objects-normal/x86_64/tilt.o /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/libfreenect/src/tilt.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
+s357865925.831317
+e357865925.897488
+r1
+xCompileC
+x/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/libfreenect/src/nestk.build/Debug/freenect.build/Objects-normal/x86_64/tilt.o
+x/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/libfreenect/src/tilt.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Compile /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/libfreenect/src/tilt.c4eedd4c59954b541^32cce5c59954b541^---0#0#0#-19%DVTDocumentLocation2@100"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/libfreenect/src/tilt.c0000000000000000^2462"CompileC /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/libfreenect/src/nestk.build/Debug/freenect.build/Objects-normal/x86_64/tilt.o deps/libfreenect/src/tilt.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch x86_64 -fmessage-length=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof "-DCMAKE_INTDIR=\"Debug\"" -Dfreenect_EXPORTS -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -Wdeprecated-declarations -mmacosx-version-min=10.7 -g -Wno-conversion -Wno-sign-conversion -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/include -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/macosx/libusb-7da756e -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/libfreenect/include -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/libfreenect/src -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/libfreenect/src/nestk.build/Debug/freenect.build/DerivedSources/x86_64 -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/libfreenect/src/nestk.build/Debug/freenect.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug -Wall -fPIC -Wall -MMD -MT dependencies -MF /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/libfreenect/src/nestk.build/Debug/freenect.build/Objects-normal/x86_64/tilt.d --serialize-diagnostics /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/libfreenect/src/nestk.build/Debug/freenect.build/Objects-normal/x86_64/tilt.dia -c /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/libfreenect/src/tilt.c -o /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/libfreenect/src/nestk.build/Debug/freenect.build/Objects-normal/x86_64/tilt.o36"3E23356A-0302-406A-A722-0B21D49130B2-
+
+CCompileC /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/libfreenect/src/nestk.build/Debug/freenect.build/Objects-normal/x86_64/usb_libusb10.o /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/libfreenect/src/usb_libusb10.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
+s357865926.084420
+e357865926.188929
+r1
+xCompileC
+x/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/libfreenect/src/nestk.build/Debug/freenect.build/Objects-normal/x86_64/usb_libusb10.o
+x/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/libfreenect/src/usb_libusb10.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection100"Compile /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/libfreenect/src/usb_libusb10.c45bc15c69954b541^386730c69954b541^---0#0#0#-19%DVTDocumentLocation2@108"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/libfreenect/src/usb_libusb10.c0000000000000000^2510"CompileC /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/libfreenect/src/nestk.build/Debug/freenect.build/Objects-normal/x86_64/usb_libusb10.o deps/libfreenect/src/usb_libusb10.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch x86_64 -fmessage-length=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof "-DCMAKE_INTDIR=\"Debug\"" -Dfreenect_EXPORTS -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -Wdeprecated-declarations -mmacosx-version-min=10.7 -g -Wno-conversion -Wno-sign-conversion -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/include -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/macosx/libusb-7da756e -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/libfreenect/include -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/libfreenect/src -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/libfreenect/src/nestk.build/Debug/freenect.build/DerivedSources/x86_64 -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/libfreenect/src/nestk.build/Debug/freenect.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug -Wall -fPIC -Wall -MMD -MT dependencies -MF /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/libfreenect/src/nestk.build/Debug/freenect.build/Objects-normal/x86_64/usb_libusb10.d --serialize-diagnostics /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/libfreenect/src/nestk.build/Debug/freenect.build/Objects-normal/x86_64/usb_libusb10.dia -c /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/libfreenect/src/usb_libusb10.c -o /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/libfreenect/src/nestk.build/Debug/freenect.build/Objects-normal/x86_64/usb_libusb10.o36"FAC79F83-74EF-4676-A54E-4AE3253BB5C7-
+
+CLd /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libfreenect.dylib normal x86_64
+s357865926.195974
+e357865926.227788
+r1
+xLd
+x/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libfreenect.dylib
+xnormal
+xx86_64
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection89"Link /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libfreenect.dylib2d4132c69954b541^14b33ac69954b541^---0#0#0#--1166"Ld /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libfreenect.dylib normal x86_64    cd /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk    setenv MACOSX_DEPLOYMENT_TARGET 10.7    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch x86_64 -dynamiclib -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk -L/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug -F/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug -filelist /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/libfreenect/src/nestk.build/Debug/freenect.build/Objects-normal/x86_64/freenect.LinkFileList -install_name /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libfreenect.dylib -mmacosx-version-min=10.7 -dynamiclib -Wl,-headerpad_max_install_names /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libusb.dylib -framework IOKit -framework CoreFoundation -single_module -current_version 0.0.1 -o /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libfreenect.dylib36"DE34ADD9-5FCB-446D-8A80-039065D0A9D6-
+
+CPhaseScriptExecution "CMake PostBuild Rules" /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/libfreenect/src/nestk.build/Debug/freenect.build/Script-CDC4F0033D41420F9591BAB2.sh
+s357865926.237138
+e357865926.547759
+r1
+xPhaseScriptExecution
+xCMake PostBuild Rules
+x/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/libfreenect/src/nestk.build/Debug/freenect.build/Script-CDC4F0033D41420F9591BAB2.sh
+oecho "Depend check for xcode"
+oDepend check for xcode
+ocd /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build && make -C /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/CMakeScripts/XCODE_DEPEND_HELPER.make PostBuild.freenect.Debug
+o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/glview
+o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/grab-mesh
+o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/handpoint-tracking
+o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/libfreenect-backend
+o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/multiple-kinects
+o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/openni-backend
+o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/skeleton-tracking
+o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/synchronized-multiple-kinects
+o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/calibrate-kinect-ir
+o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/calibrate-multiple-kinects
+o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/calibrate-openni-depth
+o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/calibrate-openni-intrinsics
+o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/calibrate-projector
+o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/rgbd-viewer
+o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/rgbd-reconstructor
+o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/rgbd-people-tracker
+o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/rgbd-skeletor
+oecho "Depend check for xcode"
+oDepend check for xcode
+ocd /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/libfreenect && make -C /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/libfreenect -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/libfreenect/CMakeScripts/XCODE_DEPEND_HELPER.make PostBuild.freenect.Debug
+o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/glview
+oecho "Depend check for xcode"
+oDepend check for xcode
+ocd /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk && make -C /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/CMakeScripts/XCODE_DEPEND_HELPER.make PostBuild.freenect.Debug
+o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/glview
+o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/grab-mesh
+o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/handpoint-tracking
+o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/libfreenect-backend
+o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/multiple-kinects
+o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/openni-backend
+o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/skeleton-tracking
+o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/synchronized-multiple-kinects
+oecho "Depend check for xcode"
+oDepend check for xcode
+ocd /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps && make -C /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/CMakeScripts/XCODE_DEPEND_HELPER.make PostBuild.freenect.Debug
+o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/glview
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection47"Run custom shell script 'CMake PostBuild Rules'b0563dc69954b541^4e438cc69954b541^-3911"echo "Depend check for xcode"Depend check for xcodecd /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build && make -C /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/CMakeScripts/XCODE_DEPEND_HELPER.make PostBuild.freenect.Debug/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/glview/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/grab-mesh/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/handpoint-tracking/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/libfreenect-backend/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/multiple-kinects/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/openni-backend/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/skeleton-tracking/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/synchronized-multiple-kinects/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/calibrate-kinect-ir/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/calibrate-multiple-kinects/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/calibrate-openni-depth/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/calibrate-openni-intrinsics/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/calibrate-projector/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/rgbd-viewer/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/rgbd-reconstructor/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/rgbd-people-tracker/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/rgbd-skeletorecho "Depend check for xcode"Depend check for xcodecd /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/libfreenect && make -C /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/libfreenect -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/libfreenect/CMakeScripts/XCODE_DEPEND_HELPER.make PostBuild.freenect.Debug/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/glviewecho "Depend check for xcode"Depend check for xcodecd /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk && make -C /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/CMakeScripts/XCODE_DEPEND_HELPER.make PostBuild.freenect.Debug/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/glview/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/grab-mesh/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/handpoint-tracking/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/libfreenect-backend/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/multiple-kinects/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/openni-backend/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/skeleton-tracking/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/synchronized-multiple-kinectsecho "Depend check for xcode"Depend check for xcodecd /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps && make -C /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/CMakeScripts/XCODE_DEPEND_HELPER.make PostBuild.freenect.Debug/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/glview39(21%IDEActivityLogMessage2@30"echo "Depend check for xcode"-357865926#0#30#-0#-----2@23"Depend check for xcode-357865926#30#23#-0#-----2@251"cd /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build && make -C /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/CMakeScripts/XCODE_DEPEND_HELPER.make PostBuild.freenect.Debug-357865926#53#251#-0#-----2@85"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/glview-357865926#304#85#-0#-----2@88"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/grab-mesh-357865926#389#88#-0#-----2@97"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/handpoint-tracking-357865926#477#97#-0#-----2@98"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/libfreenect-backend-357865926#574#98#-0#-----2@95"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/multiple-kinects-357865926#672#95#-0#-----2@93"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/openni-backend-357865926#767#93#-0#-----2@96"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/skeleton-tracking-357865926#860#96#-0#-----2@108"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/synchronized-multiple-kinects-357865926#956#108#-0#-----2@98"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/calibrate-kinect-ir-357865926#1064#98#-0#-----2@105"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/calibrate-multiple-kinects-357865926#1162#105#-0#-----2@101"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/calibrate-openni-depth-357865926#1267#101#-0#-----2@106"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/calibrate-openni-intrinsics-357865926#1368#106#-0#-----2@98"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/calibrate-projector-357865926#1474#98#-0#-----2@90"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/rgbd-viewer-357865926#1572#90#-0#-----2@97"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/rgbd-reconstructor-357865926#1662#97#-0#-----2@98"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/rgbd-people-tracker-357865926#1759#98#-0#-----2@92"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/rgbd-skeletor-357865926#1857#92#-0#-----2@30"echo "Depend check for xcode"-357865926#1949#30#-0#-----2@23"Depend check for xcode-357865926#1979#23#-0#-----2@320"cd /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/libfreenect && make -C /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/libfreenect -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/libfreenect/CMakeScripts/XCODE_DEPEND_HELPER.make PostBuild.freenect.Debug-357865926#2002#320#-0#-----2@85"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/glview-357865926#2322#85#-0#-----2@30"echo "Depend check for xcode"-357865926#2407#30#-0#-----2@23"Depend check for xcode-357865926#2437#23#-0#-----2@269"cd /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk && make -C /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/CMakeScripts/XCODE_DEPEND_HELPER.make PostBuild.freenect.Debug-357865926#2460#269#-0#-----2@85"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/glview-357865926#2729#85#-0#-----2@88"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/grab-mesh-357865926#2814#88#-0#-----2@97"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/handpoint-tracking-357865926#2902#97#-0#-----2@98"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/libfreenect-backend-357865926#2999#98#-0#-----2@95"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/multiple-kinects-357865926#3097#95#-0#-----2@93"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/openni-backend-357865926#3192#93#-0#-----2@96"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/skeleton-tracking-357865926#3285#96#-0#-----2@108"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/synchronized-multiple-kinects-357865926#3381#108#-0#-----2@30"echo "Depend check for xcode"-357865926#3489#30#-0#-----2@23"Depend check for xcode-357865926#3519#23#-0#-----2@284"cd /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps && make -C /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/CMakeScripts/XCODE_DEPEND_HELPER.make PostBuild.freenect.Debug-357865926#3542#284#-0#-----2@85"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/glview-357865926#3826#85#-0#-----0#0#0#--428"PhaseScriptExecution "CMake PostBuild Rules" /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/libfreenect/src/nestk.build/Debug/freenect.build/Script-CDC4F0033D41420F9591BAB2.sh    cd /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk    /bin/sh -c /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/libfreenect/src/nestk.build/Debug/freenect.build/Script-CDC4F0033D41420F9591BAB2.sh36"6D9F968F-D169-496F-BD29-4C3D679AC3CD-
+

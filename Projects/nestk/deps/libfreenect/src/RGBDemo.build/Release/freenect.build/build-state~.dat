@@ -1,0 +1,319 @@
+Tfreenect
+v5
+r1
+cCheck dependencies
+cCompileC build/nestk/deps/libfreenect/src/RGBDemo.build/Release/freenect.build/Objects-normal/x86_64/core.o /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/libfreenect/src/core.c normal x86_64 c com.apple.compilers.llvmgcc42
+cCompileC build/nestk/deps/libfreenect/src/RGBDemo.build/Release/freenect.build/Objects-normal/x86_64/tilt.o /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/libfreenect/src/tilt.c normal x86_64 c com.apple.compilers.llvmgcc42
+cCompileC build/nestk/deps/libfreenect/src/RGBDemo.build/Release/freenect.build/Objects-normal/x86_64/cameras.o /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/libfreenect/src/cameras.c normal x86_64 c com.apple.compilers.llvmgcc42
+cCompileC build/nestk/deps/libfreenect/src/RGBDemo.build/Release/freenect.build/Objects-normal/x86_64/usb_libusb10.o /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/libfreenect/src/usb_libusb10.c normal x86_64 c com.apple.compilers.llvmgcc42
+cLd /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Release/libfreenect.dylib normal x86_64
+cPhaseScriptExecution "CMake PostBuild Rules" /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk/deps/libfreenect/src/RGBDemo.build/Release/freenect.build/Script-52A3C7C1486F4A09B1532C9A.sh
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk
+c000000004F29C61A00000000000000EE
+t1328137754
+s238
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/math.h
+c000000004F6A244000000000000004F1
+t1332356160
+s1265
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/stdint.h
+c000000004F6A244100000000000018EF
+t1332356161
+s6383
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/stdio.h
+c000000004F6A24410000000000004763
+t1332356161
+s18275
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/stdlib.h
+c000000004F6A244100000000000030A7
+t1332356161
+s12455
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/string.h
+c000000004F6A24410000000000001A3A
+t1332356161
+s6714
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/sys/time.h
+c000000004F6A24410000000000001E64
+t1332356161
+s7780
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/sys/types.h
+c000000004F6A24410000000000002905
+t1332356161
+s10501
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/time.h
+c000000004F6A2441000000000000178E
+t1332356161
+s6030
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/unistd.h
+c000000004F6A24410000000000006662
+t1332356161
+s26210
+
+N/Applications/Xcode.app/Contents/Developer/usr/llvm-gcc-4.2/lib/gcc/i686-apple-darwin11/4.2.1/include/limits.h
+c000000004F6A24460000000000000D03
+t1332356166
+s3331
+i"syslimits.h"
+
+N/Applications/Xcode.app/Contents/Developer/usr/llvm-gcc-4.2/lib/gcc/i686-apple-darwin11/4.2.1/include/stdarg.h
+c000000004F6A244600000000000010DD
+t1332356166
+s4317
+
+N/Applications/Xcode.app/Contents/Developer/usr/llvm-gcc-4.2/lib/gcc/i686-apple-darwin11/4.2.1/include/stdbool.h
+c000000004F6A24460000000000000644
+t1332356166
+s1604
+
+N/Applications/Xcode.app/Contents/Developer/usr/llvm-gcc-4.2/lib/gcc/i686-apple-darwin11/4.2.1/include/syslimits.h
+c000000004F6A24460000000000000155
+t1332356166
+s341
+
+N/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Release/libfreenect.dylib
+t2
+s0
+
+N/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk/deps/libfreenect/src/RGBDemo.build/Release/freenect.build/Objects-normal/x86_64/cameras.o
+t2
+s0
+
+N/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk/deps/libfreenect/src/RGBDemo.build/Release/freenect.build/Objects-normal/x86_64/core.o
+t2
+s0
+
+N/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk/deps/libfreenect/src/RGBDemo.build/Release/freenect.build/Objects-normal/x86_64/freenect.LinkFileList
+c000000004FA9D8A700000000000002C7
+t1336531111
+s711
+
+N/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk/deps/libfreenect/src/RGBDemo.build/Release/freenect.build/Objects-normal/x86_64/tilt.o
+t2
+s0
+
+N/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk/deps/libfreenect/src/RGBDemo.build/Release/freenect.build/Objects-normal/x86_64/usb_libusb10.o
+t2
+s0
+
+N/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk/deps/libfreenect/src/RGBDemo.build/Release/freenect.build/Script-52A3C7C1486F4A09B1532C9A.sh
+c000000004FA9D8A7000000000000012B
+t1336531111
+s299
+
+N/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/libfreenect/include/libfreenect.h
+c000000004FA45A750000000000003FAE
+t1336171125
+s16302
+i<stdint.h>
+i<libusb-1.0/libusb.h>
+
+N/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/libfreenect/src/cameras.c
+c000000004FA45A7500000000000062FF
+t1336171125
+s25343
+i<stdio.h>
+i<stdlib.h>
+i<string.h>
+i<unistd.h>
+i"freenect_internal.h"
+
+N/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/libfreenect/src/core.c
+c000000004FA45A750000000000001045
+t1336171125
+s4165
+i<stdio.h>
+i<stdlib.h>
+i<string.h>
+i<stdarg.h>
+i<unistd.h>
+i"freenect_internal.h"
+
+N/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/libfreenect/src/freenect_internal.h
+c000000004FA45A750000000000001008
+t1336171125
+s4104
+i<stdint.h>
+i"libfreenect.h"
+i"usb_libusb10.h"
+i<stdarg.h>
+i<stdio.h>
+
+N/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/libfreenect/src/tilt.c
+c000000004FA45A750000000000000E08
+t1336171125
+s3592
+i<stdio.h>
+i<stdlib.h>
+i<string.h>
+i<unistd.h>
+i<math.h>
+i"freenect_internal.h"
+
+N/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/libfreenect/src/usb_libusb10.c
+c000000004FA45A750000000000001EFA
+t1336171125
+s7930
+i<stdio.h>
+i<stdbool.h>
+i<stdlib.h>
+i<string.h>
+i<libusb-1.0/libusb.h>
+i"freenect_internal.h"
+
+N/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/libfreenect/src/usb_libusb10.h
+c000000004FA45A750000000000000C84
+t1336171125
+s3204
+i<libusb-1.0/libusb.h>
+
+N/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/macosx/libusb-7da756e/libusb-1.0/libusb.h
+c000000004FA45A75000000000000AFE5
+t1336171125
+s45029
+i<stdint.h>
+i<sys/types.h>
+i<time.h>
+i<limits.h>
+i<sys/time.h>
+i<windows.h>
+
+CBuild AST from /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/libfreenect/src/cameras.c
+r0
+
+CBuild AST from /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/libfreenect/src/core.c
+r0
+
+CBuild AST from /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/libfreenect/src/tilt.c
+r0
+
+CBuild AST from /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/libfreenect/src/usb_libusb10.c
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies4bb0c427105ab541^be30c527105ab541^---0#1#0#--18"Check dependencies36"FC3301D5-D781-4E97-A8D7-7D3CC801B697-
+
+CCompileC build/nestk/deps/libfreenect/src/RGBDemo.build/Release/freenect.build/Objects-normal/x86_64/cameras.o /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/libfreenect/src/cameras.c normal x86_64 c com.apple.compilers.llvmgcc42
+s358223911.890560
+e358223912.083940
+r1
+xCompileC
+xbuild/nestk/deps/libfreenect/src/RGBDemo.build/Release/freenect.build/Objects-normal/x86_64/cameras.o
+x/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/libfreenect/src/cameras.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.llvmgcc42
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection120"Compile /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/libfreenect/src/cameras.cc311e427105ab541^e78b1528105ab541^---0#0#0#-19%DVTDocumentLocation2@128"file://localhost/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/libfreenect/src/cameras.c0000000000000000^1886"CompileC build/nestk/deps/libfreenect/src/RGBDemo.build/Release/freenect.build/Objects-normal/x86_64/cameras.o nestk/deps/libfreenect/src/cameras.c normal x86_64 c com.apple.compilers.llvmgcc42    cd /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O3 "-DCMAKE_INTDIR=\"Release\"" -Dfreenect_EXPORTS -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -mmacosx-version-min=10.7 -I/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Release/include -I/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/macosx/libusb-7da756e -I/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/libfreenect/include -I/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/libfreenect/src -I/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk/deps/libfreenect/src/RGBDemo.build/Release/freenect.build/DerivedSources/x86_64 -I/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk/deps/libfreenect/src/RGBDemo.build/Release/freenect.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Release -Wall -DNDEBUG -fPIC -Wall -c /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/libfreenect/src/cameras.c -o /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk/deps/libfreenect/src/RGBDemo.build/Release/freenect.build/Objects-normal/x86_64/cameras.o36"E5CEB156-0582-4F91-9847-7117F746314C-
+
+CCompileC build/nestk/deps/libfreenect/src/RGBDemo.build/Release/freenect.build/Objects-normal/x86_64/core.o /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/libfreenect/src/core.c normal x86_64 c com.apple.compilers.llvmgcc42
+s358223911.772605
+e358223911.835394
+r1
+xCompileC
+xbuild/nestk/deps/libfreenect/src/RGBDemo.build/Release/freenect.build/Objects-normal/x86_64/core.o
+x/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/libfreenect/src/core.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.llvmgcc42
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection117"Compile /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/libfreenect/src/core.c44dfc527105ab541^0edcd527105ab541^---0#0#0#-19%DVTDocumentLocation2@125"file://localhost/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/libfreenect/src/core.c0000000000000000^1874"CompileC build/nestk/deps/libfreenect/src/RGBDemo.build/Release/freenect.build/Objects-normal/x86_64/core.o nestk/deps/libfreenect/src/core.c normal x86_64 c com.apple.compilers.llvmgcc42    cd /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O3 "-DCMAKE_INTDIR=\"Release\"" -Dfreenect_EXPORTS -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -mmacosx-version-min=10.7 -I/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Release/include -I/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/macosx/libusb-7da756e -I/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/libfreenect/include -I/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/libfreenect/src -I/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk/deps/libfreenect/src/RGBDemo.build/Release/freenect.build/DerivedSources/x86_64 -I/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk/deps/libfreenect/src/RGBDemo.build/Release/freenect.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Release -Wall -DNDEBUG -fPIC -Wall -c /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/libfreenect/src/core.c -o /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk/deps/libfreenect/src/RGBDemo.build/Release/freenect.build/Objects-normal/x86_64/core.o36"63AB4554-D8C6-44B4-B9C2-C1CD3B44FAFF-
+
+CCompileC build/nestk/deps/libfreenect/src/RGBDemo.build/Release/freenect.build/Objects-normal/x86_64/tilt.o /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/libfreenect/src/tilt.c normal x86_64 c com.apple.compilers.llvmgcc42
+s358223911.836658
+e358223911.889160
+r1
+xCompileC
+xbuild/nestk/deps/libfreenect/src/RGBDemo.build/Release/freenect.build/Objects-normal/x86_64/tilt.o
+x/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/libfreenect/src/tilt.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.llvmgcc42
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection117"Compile /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/libfreenect/src/tilt.cc844d627105ab541^459fe327105ab541^---0#0#0#-19%DVTDocumentLocation2@125"file://localhost/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/libfreenect/src/tilt.c0000000000000000^1874"CompileC build/nestk/deps/libfreenect/src/RGBDemo.build/Release/freenect.build/Objects-normal/x86_64/tilt.o nestk/deps/libfreenect/src/tilt.c normal x86_64 c com.apple.compilers.llvmgcc42    cd /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O3 "-DCMAKE_INTDIR=\"Release\"" -Dfreenect_EXPORTS -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -mmacosx-version-min=10.7 -I/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Release/include -I/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/macosx/libusb-7da756e -I/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/libfreenect/include -I/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/libfreenect/src -I/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk/deps/libfreenect/src/RGBDemo.build/Release/freenect.build/DerivedSources/x86_64 -I/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk/deps/libfreenect/src/RGBDemo.build/Release/freenect.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Release -Wall -DNDEBUG -fPIC -Wall -c /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/libfreenect/src/tilt.c -o /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk/deps/libfreenect/src/RGBDemo.build/Release/freenect.build/Objects-normal/x86_64/tilt.o36"933F40CD-7E59-4BB3-B200-DF22A23FF8BB-
+
+CCompileC build/nestk/deps/libfreenect/src/RGBDemo.build/Release/freenect.build/Objects-normal/x86_64/usb_libusb10.o /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/libfreenect/src/usb_libusb10.c normal x86_64 c com.apple.compilers.llvmgcc42
+s358223912.085183
+e358223912.166039
+r1
+xCompileC
+xbuild/nestk/deps/libfreenect/src/RGBDemo.build/Release/freenect.build/Objects-normal/x86_64/usb_libusb10.o
+x/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/libfreenect/src/usb_libusb10.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.llvmgcc42
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection125"Compile /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/libfreenect/src/usb_libusb10.c800f1628105ab541^15902a28105ab541^---0#0#0#-19%DVTDocumentLocation2@133"file://localhost/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/libfreenect/src/usb_libusb10.c0000000000000000^1906"CompileC build/nestk/deps/libfreenect/src/RGBDemo.build/Release/freenect.build/Objects-normal/x86_64/usb_libusb10.o nestk/deps/libfreenect/src/usb_libusb10.c normal x86_64 c com.apple.compilers.llvmgcc42    cd /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O3 "-DCMAKE_INTDIR=\"Release\"" -Dfreenect_EXPORTS -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -mmacosx-version-min=10.7 -I/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Release/include -I/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/macosx/libusb-7da756e -I/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/libfreenect/include -I/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/libfreenect/src -I/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk/deps/libfreenect/src/RGBDemo.build/Release/freenect.build/DerivedSources/x86_64 -I/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk/deps/libfreenect/src/RGBDemo.build/Release/freenect.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Release -Wall -DNDEBUG -fPIC -Wall -c /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/libfreenect/src/usb_libusb10.c -o /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk/deps/libfreenect/src/RGBDemo.build/Release/freenect.build/Objects-normal/x86_64/usb_libusb10.o36"F2E1EC7B-BE0E-4A33-BFB7-A5F34A35A3CD-
+
+CLd /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Release/libfreenect.dylib normal x86_64
+s358223912.172457
+e358223912.200596
+r1
+xLd
+x/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Release/libfreenect.dylib
+xnormal
+xx86_64
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection116"Link /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Release/libfreenect.dylibb03c2c28105ab541^645a3328105ab541^---0#0#0#--1271"Ld build/lib/Release/libfreenect.dylib normal x86_64    cd /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo    setenv MACOSX_DEPLOYMENT_TARGET 10.7    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -arch x86_64 -dynamiclib -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk -L/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Release -F/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Release -filelist /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk/deps/libfreenect/src/RGBDemo.build/Release/freenect.build/Objects-normal/x86_64/freenect.LinkFileList -install_name /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Release/libfreenect.dylib -mmacosx-version-min=10.7 -dynamiclib -Wl,-headerpad_max_install_names /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Release/libusb.dylib -framework IOKit -framework CoreFoundation -single_module -current_version 0.0.1 -o /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Release/libfreenect.dylib36"2FD88B5A-FEC7-44AF-AE6B-72E09E4A314E-
+
+CPhaseScriptExecution "CMake PostBuild Rules" /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk/deps/libfreenect/src/RGBDemo.build/Release/freenect.build/Script-52A3C7C1486F4A09B1532C9A.sh
+s358223912.209000
+e358223912.424868
+r1
+xPhaseScriptExecution
+xCMake PostBuild Rules
+x/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk/deps/libfreenect/src/RGBDemo.build/Release/freenect.build/Script-52A3C7C1486F4A09B1532C9A.sh
+oecho "Depend check for xcode"
+oDepend check for xcode
+ocd /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build && make -C /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/CMakeScripts/XCODE_DEPEND_HELPER.make PostBuild.freenect.Release
+o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/glview
+o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Release/libglew.dylib
+o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Release/libOpenNI.dylib
+o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/grab-mesh
+o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/handpoint-tracking
+o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/libfreenect-backend
+o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/multiple-kinects
+o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/openni-backend
+o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/skeleton-tracking
+o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/synchronized-multiple-kinects
+o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/calibrate-kinect-ir
+o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/calibrate-multiple-kinects
+o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/calibrate-openni-depth
+o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/calibrate-openni-intrinsics
+o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/calibrate-projector
+o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/rgbd-viewer
+o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/rgbd-reconstructor
+o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/rgbd-people-tracker
+o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/rgbd-skeletor
+oecho "Depend check for xcode"
+oDepend check for xcode
+ocd /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk/deps/libfreenect && make -C /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk/deps/libfreenect -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk/deps/libfreenect/CMakeScripts/XCODE_DEPEND_HELPER.make PostBuild.freenect.Release
+o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/glview
+oecho "Depend check for xcode"
+oDepend check for xcode
+ocd /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk && make -C /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk/CMakeScripts/XCODE_DEPEND_HELPER.make PostBuild.freenect.Release
+o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/glview
+o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Release/libglew.dylib
+o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Release/libOpenNI.dylib
+o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/grab-mesh
+o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/handpoint-tracking
+o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/libfreenect-backend
+o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/multiple-kinects
+o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/openni-backend
+o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/skeleton-tracking
+o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/synchronized-multiple-kinects
+oecho "Depend check for xcode"
+oDepend check for xcode
+ocd /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk/deps && make -C /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk/deps -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk/deps/CMakeScripts/XCODE_DEPEND_HELPER.make PostBuild.freenect.Release
+o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/glview
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection47"Run custom shell script 'CMake PostBuild Rules'bc203628105ab541^cae06c28105ab541^-5428"echo "Depend check for xcode"Depend check for xcodecd /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build && make -C /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/CMakeScripts/XCODE_DEPEND_HELPER.make PostBuild.freenect.Release/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/glview/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Release/libglew.dylib/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Release/libOpenNI.dylib/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/grab-mesh/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/handpoint-tracking/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/libfreenect-backend/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/multiple-kinects/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/openni-backend/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/skeleton-tracking/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/synchronized-multiple-kinects/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/calibrate-kinect-ir/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/calibrate-multiple-kinects/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/calibrate-openni-depth/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/calibrate-openni-intrinsics/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/calibrate-projector/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/rgbd-viewer/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/rgbd-reconstructor/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/rgbd-people-tracker/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/rgbd-skeletorecho "Depend check for xcode"Depend check for xcodecd /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk/deps/libfreenect && make -C /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk/deps/libfreenect -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk/deps/libfreenect/CMakeScripts/XCODE_DEPEND_HELPER.make PostBuild.freenect.Release/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/glviewecho "Depend check for xcode"Depend check for xcodecd /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk && make -C /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk/CMakeScripts/XCODE_DEPEND_HELPER.make PostBuild.freenect.Release/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/glview/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Release/libglew.dylib/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Release/libOpenNI.dylib/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/grab-mesh/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/handpoint-tracking/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/libfreenect-backend/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/multiple-kinects/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/openni-backend/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/skeleton-tracking/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/synchronized-multiple-kinectsecho "Depend check for xcode"Depend check for xcodecd /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk/deps && make -C /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk/deps -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk/deps/CMakeScripts/XCODE_DEPEND_HELPER.make PostBuild.freenect.Release/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/glview43(21%IDEActivityLogMessage2@30"echo "Depend check for xcode"-358223912#0#30#-0#-----2@23"Depend check for xcode-358223912#30#23#-0#-----2@328"cd /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build && make -C /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/CMakeScripts/XCODE_DEPEND_HELPER.make PostBuild.freenect.Release-358223912#53#328#-0#-----2@112"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/glview-358223912#381#112#-0#-----2@119"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Release/libglew.dylib-358223912#493#119#-0#-----2@121"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Release/libOpenNI.dylib-358223912#612#121#-0#-----2@115"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/grab-mesh-358223912#733#115#-0#-----2@124"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/handpoint-tracking-358223912#848#124#-0#-----2@125"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/libfreenect-backend-358223912#972#125#-0#-----2@122"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/multiple-kinects-358223912#1097#122#-0#-----2@120"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/openni-backend-358223912#1219#120#-0#-----2@123"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/skeleton-tracking-358223912#1339#123#-0#-----2@135"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/synchronized-multiple-kinects-358223912#1462#135#-0#-----2@125"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/calibrate-kinect-ir-358223912#1597#125#-0#-----2@132"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/calibrate-multiple-kinects-358223912#1722#132#-0#-----2@128"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/calibrate-openni-depth-358223912#1854#128#-0#-----2@133"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/calibrate-openni-intrinsics-358223912#1982#133#-0#-----2@125"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/calibrate-projector-358223912#2115#125#-0#-----2@117"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/rgbd-viewer-358223912#2240#117#-0#-----2@124"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/rgbd-reconstructor-358223912#2357#124#-0#-----2@125"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/rgbd-people-tracker-358223912#2481#125#-0#-----2@119"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/rgbd-skeletor-358223912#2606#119#-0#-----2@30"echo "Depend check for xcode"-358223912#2725#30#-0#-----2@23"Depend check for xcode-358223912#2755#23#-0#-----2@397"cd /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk/deps/libfreenect && make -C /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk/deps/libfreenect -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk/deps/libfreenect/CMakeScripts/XCODE_DEPEND_HELPER.make PostBuild.freenect.Release-358223912#2778#397#-0#-----2@112"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/glview-358223912#3175#112#-0#-----2@30"echo "Depend check for xcode"-358223912#3287#30#-0#-----2@23"Depend check for xcode-358223912#3317#23#-0#-----2@346"cd /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk && make -C /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk/CMakeScripts/XCODE_DEPEND_HELPER.make PostBuild.freenect.Release-358223912#3340#346#-0#-----2@112"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/glview-358223912#3686#112#-0#-----2@119"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Release/libglew.dylib-358223912#3798#119#-0#-----2@121"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Release/libOpenNI.dylib-358223912#3917#121#-0#-----2@115"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/grab-mesh-358223912#4038#115#-0#-----2@124"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/handpoint-tracking-358223912#4153#124#-0#-----2@125"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/libfreenect-backend-358223912#4277#125#-0#-----2@122"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/multiple-kinects-358223912#4402#122#-0#-----2@120"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/openni-backend-358223912#4524#120#-0#-----2@123"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/skeleton-tracking-358223912#4644#123#-0#-----2@135"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/synchronized-multiple-kinects-358223912#4767#135#-0#-----2@30"echo "Depend check for xcode"-358223912#4902#30#-0#-----2@23"Depend check for xcode-358223912#4932#23#-0#-----2@361"cd /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk/deps && make -C /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk/deps -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk/deps/CMakeScripts/XCODE_DEPEND_HELPER.make PostBuild.freenect.Release-358223912#4955#361#-0#-----2@112"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/glview-358223912#5316#112#-0#-----0#0#0#--429"PhaseScriptExecution "CMake PostBuild Rules" build/nestk/deps/libfreenect/src/RGBDemo.build/Release/freenect.build/Script-52A3C7C1486F4A09B1532C9A.sh    cd /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo    /bin/sh -c /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk/deps/libfreenect/src/RGBDemo.build/Release/freenect.build/Script-52A3C7C1486F4A09B1532C9A.sh36"1A46678A-52C5-4E19-AE0B-CF8D0D839090-
+

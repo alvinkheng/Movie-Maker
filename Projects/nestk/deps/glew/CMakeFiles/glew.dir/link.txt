@@ -1,0 +1,1 @@
+/usr/bin/gcc  -O2 -g -dynamiclib -Wl,-headerpad_max_install_names   -o ../../../lib/libglew.dylib -install_name /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/libglew.dylib CMakeFiles/glew.dir/src/glew.c.o -framework AGL -framework OpenGL 

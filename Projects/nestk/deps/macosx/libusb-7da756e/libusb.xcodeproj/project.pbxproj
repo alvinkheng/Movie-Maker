@@ -1,0 +1,996 @@
+// !$*UTF8*$!
+{
+       archiveVersion = 1;
+       classes = {
+       };
+       objectVersion = 46;
+       objects = {
+
+/* Begin PBXAggregateTarget section */
+              9C8792136F9E410A8CD0F3B2 /* ALL_BUILD */ = {
+                     isa = PBXAggregateTarget;
+                     buildConfigurationList = BCF20462F8A2462889D7F367 /* Build configuration list for PBXAggregateTarget "ALL_BUILD" */;
+                     buildPhases = (
+                            6746BB70F2E644BB8D455406 /* CMake Rules */,
+                     );
+                     dependencies = (
+                            DBF78F7282D841AD9559DB3E /* PBXTargetDependency */,
+                            1E2CD36D94584C1E94286AEE /* PBXTargetDependency */,
+                     );
+                     name = ALL_BUILD;
+                     productName = ALL_BUILD;
+              };
+              669489FC86AB4481B6EF574E /* ZERO_CHECK */ = {
+                     isa = PBXAggregateTarget;
+                     buildConfigurationList = 379210153D094FB59A904BC9 /* Build configuration list for PBXAggregateTarget "ZERO_CHECK" */;
+                     buildPhases = (
+                            2955E0835A8C48C4A11FC2C3 /* CMake Rules */,
+                     );
+                     dependencies = (
+                     );
+                     name = ZERO_CHECK;
+                     productName = ZERO_CHECK;
+              };
+              11CEE7E9D9C64DE794C1D726 /* install */ = {
+                     isa = PBXAggregateTarget;
+                     buildConfigurationList = CAC927835C124D329217BEE5 /* Build configuration list for PBXAggregateTarget "install" */;
+                     buildPhases = (
+                            2A3D5229731045D186BF1BE8 /* CMake PostBuild Rules */,
+                     );
+                     dependencies = (
+                            770078BDF08247AC90FE7BFC /* PBXTargetDependency */,
+                     );
+                     name = install;
+                     productName = install;
+              };
+              0B028AF090ED4B178778A7D6 /* package */ = {
+                     isa = PBXAggregateTarget;
+                     buildConfigurationList = 7ACD663B166744BC888811D1 /* Build configuration list for PBXAggregateTarget "package" */;
+                     buildPhases = (
+                            FEB57B39F7A64E0E9988379C /* CMake PostBuild Rules */,
+                     );
+                     dependencies = (
+                            770078BDF08247AC90FE7BFC /* PBXTargetDependency */,
+                     );
+                     name = package;
+                     productName = package;
+              };
+/* End PBXAggregateTarget section */
+
+/* Begin PBXBuildFile section */
+17BAB5E65AA4485BB289D123 /* /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/macosx/libusb-7da756e/libusb-1.0/libusbi.h */ = {isa = PBXBuildFile; fileRef = 6F96E3E81EFD443FBE0FEC81 /* /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/macosx/libusb-7da756e/libusb-1.0/libusbi.h */; settings = { COMPILER_FLAGS = ""; }; };
+2C76E3AD02314D95896AA55C /* /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/macosx/libusb-7da756e/libusb-1.0/config.h */ = {isa = PBXBuildFile; fileRef = D577768BFB8C4858AF281DD6 /* /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/macosx/libusb-7da756e/libusb-1.0/config.h */; settings = { COMPILER_FLAGS = ""; }; };
+7743B57111414D7881108DAB /* /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/macosx/libusb-7da756e/libusb-1.0/core.c */ = {isa = PBXBuildFile; fileRef = 310F9D8E5BBB49139F3182DD /* /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/macosx/libusb-7da756e/libusb-1.0/core.c */; settings = { COMPILER_FLAGS = ""; }; };
+7D54EB3229574A9C9CD6295F /* /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/macosx/libusb-7da756e/libusb-1.0/descriptor.c */ = {isa = PBXBuildFile; fileRef = 3E887BEB305D4727A872BAC9 /* /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/macosx/libusb-7da756e/libusb-1.0/descriptor.c */; settings = { COMPILER_FLAGS = ""; }; };
+9C2EA47570C941DB910F16CE /* /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/macosx/libusb-7da756e/libusb-1.0/io.c */ = {isa = PBXBuildFile; fileRef = 51299BC3E1CF4817A414358D /* /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/macosx/libusb-7da756e/libusb-1.0/io.c */; settings = { COMPILER_FLAGS = ""; }; };
+ED3B3F31135B4E14AE6C188F /* /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/macosx/libusb-7da756e/libusb-1.0/sync.c */ = {isa = PBXBuildFile; fileRef = 117FD64C501E40F1B7EC9451 /* /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/macosx/libusb-7da756e/libusb-1.0/sync.c */; settings = { COMPILER_FLAGS = ""; }; };
+30A42B1353764859AE5EC6CF /* /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/macosx/libusb-7da756e/libusb-1.0/os/darwin_usb.c */ = {isa = PBXBuildFile; fileRef = 5AE9EAEE2BB24DA3A2BC52DA /* /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/macosx/libusb-7da756e/libusb-1.0/os/darwin_usb.c */; settings = { COMPILER_FLAGS = ""; }; };
+D98EE18FF0164BA5AD5BE359 /* /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/macosx/libusb-7da756e/libusb-1.0/os/darwin_usb.h */ = {isa = PBXBuildFile; fileRef = 3A7A658D0A564FAD8A0E68A2 /* /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/macosx/libusb-7da756e/libusb-1.0/os/darwin_usb.h */; settings = { COMPILER_FLAGS = ""; }; };
+8F762D92EEA24CC6A21066CD /* /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/macosx/libusb-7da756e/libusb-1.0/os/threads_posix.h */ = {isa = PBXBuildFile; fileRef = E5760A316E564815BE57B712 /* /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/macosx/libusb-7da756e/libusb-1.0/os/threads_posix.h */; settings = { COMPILER_FLAGS = ""; }; };
+BE60EE91A71B490E9792716C /* /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/macosx/libusb-7da756e/libusb-1.0/os/poll_posix.h */ = {isa = PBXBuildFile; fileRef = 119C2BC4BD5B422A88FCFC3F /* /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/macosx/libusb-7da756e/libusb-1.0/os/poll_posix.h */; settings = { COMPILER_FLAGS = ""; }; };
+852445163C144EC997F62506 /* /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/macosx/libusb-7da756e/libusb-1.0/CMakeLists.txt */ = {isa = PBXBuildFile; fileRef = 587D70C6F83B4690A25924BB /* /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/macosx/libusb-7da756e/libusb-1.0/CMakeLists.txt */; settings = { COMPILER_FLAGS = ""; }; };
+/* End PBXBuildFile section */
+
+/* Begin PBXBuildStyle section */
+              DCC57F20CF914AFEAC802FDA /*  */ = {
+                     isa = PBXBuildStyle;
+              };
+              262051817CF44D288FB1A256 /* Debug */ = {
+                     isa = PBXBuildStyle;
+                     buildSettings = {
+                            COPY_PHASE_STRIP = NO;
+                     };
+                     name = Debug;
+              };
+              40866A5236DD437A95513F19 /* Release */ = {
+                     isa = PBXBuildStyle;
+                     buildSettings = {
+                            COPY_PHASE_STRIP = NO;
+                     };
+                     name = Release;
+              };
+              D9273462EDA64EBEAE94FCC6 /* MinSizeRel */ = {
+                     isa = PBXBuildStyle;
+                     buildSettings = {
+                            COPY_PHASE_STRIP = NO;
+                     };
+                     name = MinSizeRel;
+              };
+              AC57939E699843AEA8FB0CA6 /* RelWithDebInfo */ = {
+                     isa = PBXBuildStyle;
+                     buildSettings = {
+                            COPY_PHASE_STRIP = NO;
+                     };
+                     name = RelWithDebInfo;
+              };
+/* End PBXBuildStyle section */
+
+/* Begin PBXContainerItemProxy section */
+              2A16B8B088B24F8E8F3390AF /* PBXContainerItemProxy */ = {
+                     isa = PBXContainerItemProxy;
+                     containerPortal = F06A65534DAB4D1C80C6270B /* Project object */;
+                     proxyType = 1;
+                     remoteGlobalIDString = 54F24849C7EA40B4B85E091B;
+                     remoteInfo = usb;
+              };
+              2068A4B392A3443BA368BADA /* PBXContainerItemProxy */ = {
+                     isa = PBXContainerItemProxy;
+                     containerPortal = F06A65534DAB4D1C80C6270B /* Project object */;
+                     proxyType = 1;
+                     remoteGlobalIDString = 669489FC86AB4481B6EF574E;
+                     remoteInfo = ZERO_CHECK;
+              };
+              55BBD07FCC0B45FD82F72764 /* PBXContainerItemProxy */ = {
+                     isa = PBXContainerItemProxy;
+                     containerPortal = F06A65534DAB4D1C80C6270B /* Project object */;
+                     proxyType = 1;
+                     remoteGlobalIDString = 9C8792136F9E410A8CD0F3B2;
+                     remoteInfo = ALL_BUILD;
+              };
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+28E77AE98A6542FF91590DB0 /* /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/macosx/libusb-7da756e/CMakeLists.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = "sourcecode.text"; name = "CMakeLists.txt"; path = "CMakeLists.txt"; sourceTree = SOURCE_ROOT; };
+6F96E3E81EFD443FBE0FEC81 /* /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/macosx/libusb-7da756e/libusb-1.0/libusbi.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = "sourcecode.c.h"; name = "libusbi.h"; path = "libusb-1.0/libusbi.h"; sourceTree = SOURCE_ROOT; };
+D577768BFB8C4858AF281DD6 /* /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/macosx/libusb-7da756e/libusb-1.0/config.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = "sourcecode.c.h"; name = "config.h"; path = "libusb-1.0/config.h"; sourceTree = SOURCE_ROOT; };
+310F9D8E5BBB49139F3182DD /* /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/macosx/libusb-7da756e/libusb-1.0/core.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = "sourcecode.c.c"; name = "core.c"; path = "libusb-1.0/core.c"; sourceTree = SOURCE_ROOT; };
+3E887BEB305D4727A872BAC9 /* /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/macosx/libusb-7da756e/libusb-1.0/descriptor.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = "sourcecode.c.c"; name = "descriptor.c"; path = "libusb-1.0/descriptor.c"; sourceTree = SOURCE_ROOT; };
+51299BC3E1CF4817A414358D /* /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/macosx/libusb-7da756e/libusb-1.0/io.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = "sourcecode.c.c"; name = "io.c"; path = "libusb-1.0/io.c"; sourceTree = SOURCE_ROOT; };
+117FD64C501E40F1B7EC9451 /* /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/macosx/libusb-7da756e/libusb-1.0/sync.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = "sourcecode.c.c"; name = "sync.c"; path = "libusb-1.0/sync.c"; sourceTree = SOURCE_ROOT; };
+5AE9EAEE2BB24DA3A2BC52DA /* /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/macosx/libusb-7da756e/libusb-1.0/os/darwin_usb.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = "sourcecode.c.c"; name = "darwin_usb.c"; path = "libusb-1.0/os/darwin_usb.c"; sourceTree = SOURCE_ROOT; };
+3A7A658D0A564FAD8A0E68A2 /* /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/macosx/libusb-7da756e/libusb-1.0/os/darwin_usb.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = "sourcecode.c.h"; name = "darwin_usb.h"; path = "libusb-1.0/os/darwin_usb.h"; sourceTree = SOURCE_ROOT; };
+E5760A316E564815BE57B712 /* /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/macosx/libusb-7da756e/libusb-1.0/os/threads_posix.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = "sourcecode.c.h"; name = "threads_posix.h"; path = "libusb-1.0/os/threads_posix.h"; sourceTree = SOURCE_ROOT; };
+119C2BC4BD5B422A88FCFC3F /* /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/macosx/libusb-7da756e/libusb-1.0/os/poll_posix.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = "sourcecode.c.h"; name = "poll_posix.h"; path = "libusb-1.0/os/poll_posix.h"; sourceTree = SOURCE_ROOT; };
+587D70C6F83B4690A25924BB /* /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/macosx/libusb-7da756e/libusb-1.0/CMakeLists.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = "sourcecode.text"; name = "CMakeLists.txt"; path = "libusb-1.0/CMakeLists.txt"; sourceTree = SOURCE_ROOT; };
+438978B10A9644B489EB59D2 /* usb */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.dylib"; path = "libusb.dylib"; refType = 0; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+              B964333237364417AEA68FE1  = {
+                     isa = PBXGroup;
+                     children = (
+                            C9F2DDEC2EF846F781BAB6BD /* Sources */,
+                            BAACFEC44706452AA7B026F1 /* Resources */,
+                            8DA08EFB42464040903FFDC9 /* Products */,
+                     );
+                     sourceTree = "<group>";
+              };
+              C9F2DDEC2EF846F781BAB6BD /* Sources */ = {
+                     isa = PBXGroup;
+                     children = (
+                            F76B6074624E49D7B667F69A /* ALL_BUILD */,
+                            A4A6A58BE0FB45D98F37694B /* ZERO_CHECK */,
+                            430693D799D84EF5979A79EC /* usb */,
+                     );
+                     name = Sources;
+                     sourceTree = "<group>";
+              };
+              BAACFEC44706452AA7B026F1 /* Resources */ = {
+                     isa = PBXGroup;
+                     children = (
+                     );
+                     name = Resources;
+                     sourceTree = "<group>";
+              };
+              F76B6074624E49D7B667F69A /* ALL_BUILD */ = {
+                     isa = PBXGroup;
+                     children = (
+                            4909ADD432774AD7B51646B5 /* CMake Rules */,
+                            28E77AE98A6542FF91590DB0 /* /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/macosx/libusb-7da756e/CMakeLists.txt */,
+                     );
+                     name = ALL_BUILD;
+                     sourceTree = "<group>";
+              };
+              4909ADD432774AD7B51646B5 /* CMake Rules */ = {
+                     isa = PBXGroup;
+                     children = (
+                     );
+                     name = "CMake Rules";
+                     sourceTree = "<group>";
+              };
+              A4A6A58BE0FB45D98F37694B /* ZERO_CHECK */ = {
+                     isa = PBXGroup;
+                     children = (
+                            AD01C90EA2C14DD190ECB4D2 /* CMake Rules */,
+                            28E77AE98A6542FF91590DB0 /* /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/macosx/libusb-7da756e/CMakeLists.txt */,
+                     );
+                     name = ZERO_CHECK;
+                     sourceTree = "<group>";
+              };
+              AD01C90EA2C14DD190ECB4D2 /* CMake Rules */ = {
+                     isa = PBXGroup;
+                     children = (
+                     );
+                     name = "CMake Rules";
+                     sourceTree = "<group>";
+              };
+              430693D799D84EF5979A79EC /* usb */ = {
+                     isa = PBXGroup;
+                     children = (
+                            7BD7C887805749ACA915E45B /* Header Files */,
+                            DFF97ED8C0DD46D1B8156933 /* Source Files */,
+                            587D70C6F83B4690A25924BB /* /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/macosx/libusb-7da756e/libusb-1.0/CMakeLists.txt */,
+                     );
+                     name = usb;
+                     sourceTree = "<group>";
+              };
+              7BD7C887805749ACA915E45B /* Header Files */ = {
+                     isa = PBXGroup;
+                     children = (
+                            6F96E3E81EFD443FBE0FEC81 /* /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/macosx/libusb-7da756e/libusb-1.0/libusbi.h */,
+                            D577768BFB8C4858AF281DD6 /* /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/macosx/libusb-7da756e/libusb-1.0/config.h */,
+                            3A7A658D0A564FAD8A0E68A2 /* /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/macosx/libusb-7da756e/libusb-1.0/os/darwin_usb.h */,
+                            E5760A316E564815BE57B712 /* /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/macosx/libusb-7da756e/libusb-1.0/os/threads_posix.h */,
+                            119C2BC4BD5B422A88FCFC3F /* /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/macosx/libusb-7da756e/libusb-1.0/os/poll_posix.h */,
+                     );
+                     name = "Header Files";
+                     sourceTree = "<group>";
+              };
+              DFF97ED8C0DD46D1B8156933 /* Source Files */ = {
+                     isa = PBXGroup;
+                     children = (
+                            310F9D8E5BBB49139F3182DD /* /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/macosx/libusb-7da756e/libusb-1.0/core.c */,
+                            3E887BEB305D4727A872BAC9 /* /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/macosx/libusb-7da756e/libusb-1.0/descriptor.c */,
+                            51299BC3E1CF4817A414358D /* /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/macosx/libusb-7da756e/libusb-1.0/io.c */,
+                            117FD64C501E40F1B7EC9451 /* /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/macosx/libusb-7da756e/libusb-1.0/sync.c */,
+                            5AE9EAEE2BB24DA3A2BC52DA /* /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/macosx/libusb-7da756e/libusb-1.0/os/darwin_usb.c */,
+                     );
+                     name = "Source Files";
+                     sourceTree = "<group>";
+              };
+              8DA08EFB42464040903FFDC9 /* Products */ = {
+                     isa = PBXGroup;
+                     children = (
+                            438978B10A9644B489EB59D2 /* usb */,
+                     );
+                     name = Products;
+                     sourceTree = "<group>";
+              };
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+              54F24849C7EA40B4B85E091B /* usb */ = {
+                     isa = PBXNativeTarget;
+                     buildConfigurationList = 5361E9B0462C4EB2B0FB2E87 /* Build configuration list for PBXNativeTarget "usb" */;
+                     buildPhases = (
+                            48F193C986464C5B92F06D75 /* Sources */,
+                            1ED50FBED226401293DBFEC1 /* CMake PostBuild Rules */,
+                     );
+                     buildRules = (
+                     );
+                     dependencies = (
+                     );
+                     name = usb;
+                     productName = usb;
+                     productReference = 438978B10A9644B489EB59D2 /* usb */;
+                     productType = "com.apple.product-type.library.dynamic";
+              };
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+              F06A65534DAB4D1C80C6270B /* Project object */ = {
+                     isa = PBXProject;
+                     attributes = {
+                            BuildIndependentTargetsInParallel = YES;
+                     };
+                     buildConfigurationList = CA5C431E764A45DFA912AD44 /* Build configuration list for PBXProject  "libusb" */;
+                     buildSettings = {
+                     };
+                     buildStyles = (
+                            262051817CF44D288FB1A256 /* Debug */,
+                            40866A5236DD437A95513F19 /* Release */,
+                            D9273462EDA64EBEAE94FCC6 /* MinSizeRel */,
+                            AC57939E699843AEA8FB0CA6 /* RelWithDebInfo */,
+                     );
+                     compatibilityVersion = "Xcode 3.2";
+                     hasScannedForEncodings = 0;
+                     mainGroup = B964333237364417AEA68FE1;
+                     projectDirPath = "../../../../../nestk/deps/macosx/libusb-7da756e";
+                     projectRoot = "";
+                     targets = (
+                            9C8792136F9E410A8CD0F3B2 /* ALL_BUILD */,
+                            669489FC86AB4481B6EF574E /* ZERO_CHECK */,
+                            11CEE7E9D9C64DE794C1D726 /* install */,
+                            0B028AF090ED4B178778A7D6 /* package */,
+                            54F24849C7EA40B4B85E091B /* usb */,
+                     );
+              };
+/* End PBXProject section */
+
+/* Begin PBXShellScriptBuildPhase section */
+              D8D510EE0317411D9EC9B721 /*  */ = {
+                     isa = PBXShellScriptBuildPhase;
+                     buildActionMask = 2147483647;
+                     files = (
+                     );
+                     inputPaths = (
+                     );
+                     outputPaths = (
+                     );
+                     runOnlyForDeploymentPostprocessing = 0;
+                     shellPath = /bin/sh;
+                     shellScript = "# shell script goes here
+exit 0";
+                     showEnvVarsInLog = 0;
+              };
+              6746BB70F2E644BB8D455406 /* CMake Rules */ = {
+                     isa = PBXShellScriptBuildPhase;
+                     buildActionMask = 2147483647;
+                     files = (
+                     );
+                     name = "CMake Rules";
+                     runOnlyForDeploymentPostprocessing = 0;
+                     shellPath = /bin/sh;
+                     shellScript = "make -C /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk/deps/macosx/libusb-7da756e -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk/deps/macosx/libusb-7da756e/CMakeScripts/ALL_BUILD_cmakeRulesBuildPhase.make$CONFIGURATION all";
+                     showEnvVarsInLog = 0;
+              };
+              0A31DBA0D05248D0A098A02D /*  */ = {
+                     isa = PBXShellScriptBuildPhase;
+                     buildActionMask = 2147483647;
+                     files = (
+                     );
+                     inputPaths = (
+                     );
+                     outputPaths = (
+                     );
+                     runOnlyForDeploymentPostprocessing = 0;
+                     shellPath = /bin/sh;
+                     shellScript = "# shell script goes here
+exit 0";
+                     showEnvVarsInLog = 0;
+              };
+              2955E0835A8C48C4A11FC2C3 /* CMake Rules */ = {
+                     isa = PBXShellScriptBuildPhase;
+                     buildActionMask = 2147483647;
+                     files = (
+                     );
+                     name = "CMake Rules";
+                     runOnlyForDeploymentPostprocessing = 0;
+                     shellPath = /bin/sh;
+                     shellScript = "make -C /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk/deps/macosx/libusb-7da756e -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk/deps/macosx/libusb-7da756e/CMakeScripts/ZERO_CHECK_cmakeRulesBuildPhase.make$CONFIGURATION all";
+                     showEnvVarsInLog = 0;
+              };
+              36FE849C5D1C41E283E41BB0 /*  */ = {
+                     isa = PBXShellScriptBuildPhase;
+                     buildActionMask = 2147483647;
+                     files = (
+                     );
+                     inputPaths = (
+                     );
+                     outputPaths = (
+                     );
+                     runOnlyForDeploymentPostprocessing = 0;
+                     shellPath = /bin/sh;
+                     shellScript = "# shell script goes here
+exit 0";
+                     showEnvVarsInLog = 0;
+              };
+              2A3D5229731045D186BF1BE8 /* CMake PostBuild Rules */ = {
+                     isa = PBXShellScriptBuildPhase;
+                     buildActionMask = 2147483647;
+                     files = (
+                     );
+                     name = "CMake PostBuild Rules";
+                     runOnlyForDeploymentPostprocessing = 0;
+                     shellPath = /bin/sh;
+                     shellScript = "make -C /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk/deps/macosx/libusb-7da756e -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk/deps/macosx/libusb-7da756e/CMakeScripts/install_postBuildPhase.make$CONFIGURATION all";
+                     showEnvVarsInLog = 0;
+              };
+              AFE0960F0DB0484480F0DAA7 /*  */ = {
+                     isa = PBXShellScriptBuildPhase;
+                     buildActionMask = 2147483647;
+                     files = (
+                     );
+                     inputPaths = (
+                     );
+                     outputPaths = (
+                     );
+                     runOnlyForDeploymentPostprocessing = 0;
+                     shellPath = /bin/sh;
+                     shellScript = "# shell script goes here
+exit 0";
+                     showEnvVarsInLog = 0;
+              };
+              FEB57B39F7A64E0E9988379C /* CMake PostBuild Rules */ = {
+                     isa = PBXShellScriptBuildPhase;
+                     buildActionMask = 2147483647;
+                     files = (
+                     );
+                     name = "CMake PostBuild Rules";
+                     runOnlyForDeploymentPostprocessing = 0;
+                     shellPath = /bin/sh;
+                     shellScript = "make -C /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk/deps/macosx/libusb-7da756e -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk/deps/macosx/libusb-7da756e/CMakeScripts/package_postBuildPhase.make$CONFIGURATION all";
+                     showEnvVarsInLog = 0;
+              };
+              1ED50FBED226401293DBFEC1 /* CMake PostBuild Rules */ = {
+                     isa = PBXShellScriptBuildPhase;
+                     buildActionMask = 2147483647;
+                     files = (
+                     );
+                     name = "CMake PostBuild Rules";
+                     runOnlyForDeploymentPostprocessing = 0;
+                     shellPath = /bin/sh;
+                     shellScript = "make -C /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk/deps/macosx/libusb-7da756e/libusb-1.0 -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk/deps/macosx/libusb-7da756e/libusb-1.0/CMakeScripts/usb_postBuildPhase.make$CONFIGURATION all";
+                     showEnvVarsInLog = 0;
+              };
+/* End PBXShellScriptBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+              48F193C986464C5B92F06D75 /* Sources */ = {
+                     isa = PBXSourcesBuildPhase;
+                     buildActionMask = 2147483647;
+                     files = (
+                            7743B57111414D7881108DAB /* /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/macosx/libusb-7da756e/libusb-1.0/core.c */,
+                            7D54EB3229574A9C9CD6295F /* /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/macosx/libusb-7da756e/libusb-1.0/descriptor.c */,
+                            9C2EA47570C941DB910F16CE /* /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/macosx/libusb-7da756e/libusb-1.0/io.c */,
+                            ED3B3F31135B4E14AE6C188F /* /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/macosx/libusb-7da756e/libusb-1.0/sync.c */,
+                            30A42B1353764859AE5EC6CF /* /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/macosx/libusb-7da756e/libusb-1.0/os/darwin_usb.c */,
+                     );
+                     runOnlyForDeploymentPostprocessing = 0;
+              };
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+              DBF78F7282D841AD9559DB3E /* PBXTargetDependency */ = {
+                     isa = PBXTargetDependency;
+                     target = 54F24849C7EA40B4B85E091B /* usb */;
+                     targetProxy = 2A16B8B088B24F8E8F3390AF /* PBXContainerItemProxy */;
+              };
+              1E2CD36D94584C1E94286AEE /* PBXTargetDependency */ = {
+                     isa = PBXTargetDependency;
+                     target = 669489FC86AB4481B6EF574E /* ZERO_CHECK */;
+                     targetProxy = 2068A4B392A3443BA368BADA /* PBXContainerItemProxy */;
+              };
+              770078BDF08247AC90FE7BFC /* PBXTargetDependency */ = {
+                     isa = PBXTargetDependency;
+                     target = 9C8792136F9E410A8CD0F3B2 /* ALL_BUILD */;
+                     targetProxy = 55BBD07FCC0B45FD82F72764 /* PBXContainerItemProxy */;
+              };
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+              CB50645E8B0043F6BA9DB828 /* Debug */ = {
+                     isa = XCBuildConfiguration;
+                     buildSettings = {
+                            ARCHS = "$(ARCHS_STANDARD_32_64_BIT)";
+                            ONLY_ACTIVE_ARCH = YES;
+                            SDKROOT = "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk";
+                            SYMROOT = "/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk/deps/macosx/libusb-7da756e/build";
+                     };
+                     name = Debug;
+              };
+              B91B489D21994AB197267024 /* Release */ = {
+                     isa = XCBuildConfiguration;
+                     buildSettings = {
+                            ARCHS = "$(ARCHS_STANDARD_32_64_BIT)";
+                            ONLY_ACTIVE_ARCH = YES;
+                            SDKROOT = "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk";
+                            SYMROOT = "/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk/deps/macosx/libusb-7da756e/build";
+                     };
+                     name = Release;
+              };
+              27EE1B1D19604FAA91F9E8A2 /* MinSizeRel */ = {
+                     isa = XCBuildConfiguration;
+                     buildSettings = {
+                            ARCHS = "$(ARCHS_STANDARD_32_64_BIT)";
+                            ONLY_ACTIVE_ARCH = YES;
+                            SDKROOT = "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk";
+                            SYMROOT = "/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk/deps/macosx/libusb-7da756e/build";
+                     };
+                     name = MinSizeRel;
+              };
+              0C3F9FA86B9249148870B3ED /* RelWithDebInfo */ = {
+                     isa = XCBuildConfiguration;
+                     buildSettings = {
+                            ARCHS = "$(ARCHS_STANDARD_32_64_BIT)";
+                            ONLY_ACTIVE_ARCH = YES;
+                            SDKROOT = "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk";
+                            SYMROOT = "/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk/deps/macosx/libusb-7da756e/build";
+                     };
+                     name = RelWithDebInfo;
+              };
+              CB632C95C55F4C55ACCD0108 /* Debug */ = {
+                     isa = XCBuildConfiguration;
+                     buildSettings = {
+                            GCC_GENERATE_DEBUGGING_SYMBOLS = NO;
+                            GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
+                            GCC_OPTIMIZATION_LEVEL = 0;
+                            GCC_PREPROCESSOR_DEFINITIONS = ("'CMAKE_INTDIR=\"$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)\"'", );
+                            GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+                            INSTALL_PATH = "";
+                            OTHER_CFLAGS = "  ";
+                            OTHER_LDFLAGS = "";
+                            OTHER_REZFLAGS = "";
+                            PRODUCT_NAME = ALL_BUILD;
+                            SECTORDER_FLAGS = "";
+                            SYMROOT = "/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk/deps/macosx/libusb-7da756e";
+                            USE_HEADERMAP = NO;
+                            WARNING_CFLAGS = ("-Wmost", "-Wno-four-char-constants", "-Wno-unknown-pragmas", );
+                     };
+                     name = Debug;
+              };
+              7AAF727DBEA64D2EB7B41951 /* Release */ = {
+                     isa = XCBuildConfiguration;
+                     buildSettings = {
+                            GCC_GENERATE_DEBUGGING_SYMBOLS = NO;
+                            GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
+                            GCC_OPTIMIZATION_LEVEL = 0;
+                            GCC_PREPROCESSOR_DEFINITIONS = ("'CMAKE_INTDIR=\"$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)\"'", );
+                            GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+                            INSTALL_PATH = "";
+                            OTHER_CFLAGS = "  ";
+                            OTHER_LDFLAGS = "";
+                            OTHER_REZFLAGS = "";
+                            PRODUCT_NAME = ALL_BUILD;
+                            SECTORDER_FLAGS = "";
+                            SYMROOT = "/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk/deps/macosx/libusb-7da756e";
+                            USE_HEADERMAP = NO;
+                            WARNING_CFLAGS = ("-Wmost", "-Wno-four-char-constants", "-Wno-unknown-pragmas", );
+                     };
+                     name = Release;
+              };
+              CA4D25AB1F6942DFB3D35C64 /* MinSizeRel */ = {
+                     isa = XCBuildConfiguration;
+                     buildSettings = {
+                            GCC_GENERATE_DEBUGGING_SYMBOLS = NO;
+                            GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
+                            GCC_OPTIMIZATION_LEVEL = 0;
+                            GCC_PREPROCESSOR_DEFINITIONS = ("'CMAKE_INTDIR=\"$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)\"'", );
+                            GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+                            INSTALL_PATH = "";
+                            OTHER_CFLAGS = "  ";
+                            OTHER_LDFLAGS = "";
+                            OTHER_REZFLAGS = "";
+                            PRODUCT_NAME = ALL_BUILD;
+                            SECTORDER_FLAGS = "";
+                            SYMROOT = "/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk/deps/macosx/libusb-7da756e";
+                            USE_HEADERMAP = NO;
+                            WARNING_CFLAGS = ("-Wmost", "-Wno-four-char-constants", "-Wno-unknown-pragmas", );
+                     };
+                     name = MinSizeRel;
+              };
+              71D38E68492A415FA46C6C04 /* RelWithDebInfo */ = {
+                     isa = XCBuildConfiguration;
+                     buildSettings = {
+                            GCC_GENERATE_DEBUGGING_SYMBOLS = NO;
+                            GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
+                            GCC_OPTIMIZATION_LEVEL = 0;
+                            GCC_PREPROCESSOR_DEFINITIONS = ("'CMAKE_INTDIR=\"$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)\"'", );
+                            GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+                            INSTALL_PATH = "";
+                            OTHER_CFLAGS = "  ";
+                            OTHER_LDFLAGS = "";
+                            OTHER_REZFLAGS = "";
+                            PRODUCT_NAME = ALL_BUILD;
+                            SECTORDER_FLAGS = "";
+                            SYMROOT = "/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk/deps/macosx/libusb-7da756e";
+                            USE_HEADERMAP = NO;
+                            WARNING_CFLAGS = ("-Wmost", "-Wno-four-char-constants", "-Wno-unknown-pragmas", );
+                     };
+                     name = RelWithDebInfo;
+              };
+              589975C83ED34A43B7E5B7DB /* Debug */ = {
+                     isa = XCBuildConfiguration;
+                     buildSettings = {
+                            GCC_GENERATE_DEBUGGING_SYMBOLS = NO;
+                            GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
+                            GCC_OPTIMIZATION_LEVEL = 0;
+                            GCC_PREPROCESSOR_DEFINITIONS = ("'CMAKE_INTDIR=\"$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)\"'", );
+                            GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+                            INSTALL_PATH = "";
+                            OTHER_CFLAGS = "  ";
+                            OTHER_LDFLAGS = "";
+                            OTHER_REZFLAGS = "";
+                            PRODUCT_NAME = ZERO_CHECK;
+                            SECTORDER_FLAGS = "";
+                            SYMROOT = "/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk/deps/macosx/libusb-7da756e";
+                            USE_HEADERMAP = NO;
+                            WARNING_CFLAGS = ("-Wmost", "-Wno-four-char-constants", "-Wno-unknown-pragmas", );
+                     };
+                     name = Debug;
+              };
+              179C2EF4FF0B4622ACA6571B /* Release */ = {
+                     isa = XCBuildConfiguration;
+                     buildSettings = {
+                            GCC_GENERATE_DEBUGGING_SYMBOLS = NO;
+                            GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
+                            GCC_OPTIMIZATION_LEVEL = 0;
+                            GCC_PREPROCESSOR_DEFINITIONS = ("'CMAKE_INTDIR=\"$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)\"'", );
+                            GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+                            INSTALL_PATH = "";
+                            OTHER_CFLAGS = "  ";
+                            OTHER_LDFLAGS = "";
+                            OTHER_REZFLAGS = "";
+                            PRODUCT_NAME = ZERO_CHECK;
+                            SECTORDER_FLAGS = "";
+                            SYMROOT = "/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk/deps/macosx/libusb-7da756e";
+                            USE_HEADERMAP = NO;
+                            WARNING_CFLAGS = ("-Wmost", "-Wno-four-char-constants", "-Wno-unknown-pragmas", );
+                     };
+                     name = Release;
+              };
+              C190CFD2CA2D498B86B3F176 /* MinSizeRel */ = {
+                     isa = XCBuildConfiguration;
+                     buildSettings = {
+                            GCC_GENERATE_DEBUGGING_SYMBOLS = NO;
+                            GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
+                            GCC_OPTIMIZATION_LEVEL = 0;
+                            GCC_PREPROCESSOR_DEFINITIONS = ("'CMAKE_INTDIR=\"$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)\"'", );
+                            GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+                            INSTALL_PATH = "";
+                            OTHER_CFLAGS = "  ";
+                            OTHER_LDFLAGS = "";
+                            OTHER_REZFLAGS = "";
+                            PRODUCT_NAME = ZERO_CHECK;
+                            SECTORDER_FLAGS = "";
+                            SYMROOT = "/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk/deps/macosx/libusb-7da756e";
+                            USE_HEADERMAP = NO;
+                            WARNING_CFLAGS = ("-Wmost", "-Wno-four-char-constants", "-Wno-unknown-pragmas", );
+                     };
+                     name = MinSizeRel;
+              };
+              F7409C3E08124AFCA6ED46BB /* RelWithDebInfo */ = {
+                     isa = XCBuildConfiguration;
+                     buildSettings = {
+                            GCC_GENERATE_DEBUGGING_SYMBOLS = NO;
+                            GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
+                            GCC_OPTIMIZATION_LEVEL = 0;
+                            GCC_PREPROCESSOR_DEFINITIONS = ("'CMAKE_INTDIR=\"$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)\"'", );
+                            GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+                            INSTALL_PATH = "";
+                            OTHER_CFLAGS = "  ";
+                            OTHER_LDFLAGS = "";
+                            OTHER_REZFLAGS = "";
+                            PRODUCT_NAME = ZERO_CHECK;
+                            SECTORDER_FLAGS = "";
+                            SYMROOT = "/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk/deps/macosx/libusb-7da756e";
+                            USE_HEADERMAP = NO;
+                            WARNING_CFLAGS = ("-Wmost", "-Wno-four-char-constants", "-Wno-unknown-pragmas", );
+                     };
+                     name = RelWithDebInfo;
+              };
+              7C31A7E147F042DDACB3C204 /* Debug */ = {
+                     isa = XCBuildConfiguration;
+                     buildSettings = {
+                            GCC_GENERATE_DEBUGGING_SYMBOLS = NO;
+                            GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
+                            GCC_OPTIMIZATION_LEVEL = 0;
+                            GCC_PREPROCESSOR_DEFINITIONS = ("'CMAKE_INTDIR=\"$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)\"'", );
+                            GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+                            INSTALL_PATH = "";
+                            OTHER_CFLAGS = "  ";
+                            OTHER_LDFLAGS = "";
+                            OTHER_REZFLAGS = "";
+                            PRODUCT_NAME = install;
+                            SECTORDER_FLAGS = "";
+                            SYMROOT = "/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk/deps/macosx/libusb-7da756e";
+                            USE_HEADERMAP = NO;
+                            WARNING_CFLAGS = ("-Wmost", "-Wno-four-char-constants", "-Wno-unknown-pragmas", );
+                     };
+                     name = Debug;
+              };
+              5CF644698DFB48A5A12EA59E /* Release */ = {
+                     isa = XCBuildConfiguration;
+                     buildSettings = {
+                            GCC_GENERATE_DEBUGGING_SYMBOLS = NO;
+                            GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
+                            GCC_OPTIMIZATION_LEVEL = 0;
+                            GCC_PREPROCESSOR_DEFINITIONS = ("'CMAKE_INTDIR=\"$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)\"'", );
+                            GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+                            INSTALL_PATH = "";
+                            OTHER_CFLAGS = "  ";
+                            OTHER_LDFLAGS = "";
+                            OTHER_REZFLAGS = "";
+                            PRODUCT_NAME = install;
+                            SECTORDER_FLAGS = "";
+                            SYMROOT = "/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk/deps/macosx/libusb-7da756e";
+                            USE_HEADERMAP = NO;
+                            WARNING_CFLAGS = ("-Wmost", "-Wno-four-char-constants", "-Wno-unknown-pragmas", );
+                     };
+                     name = Release;
+              };
+              F4D332AC811140FEA5FFC99C /* MinSizeRel */ = {
+                     isa = XCBuildConfiguration;
+                     buildSettings = {
+                            GCC_GENERATE_DEBUGGING_SYMBOLS = NO;
+                            GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
+                            GCC_OPTIMIZATION_LEVEL = 0;
+                            GCC_PREPROCESSOR_DEFINITIONS = ("'CMAKE_INTDIR=\"$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)\"'", );
+                            GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+                            INSTALL_PATH = "";
+                            OTHER_CFLAGS = "  ";
+                            OTHER_LDFLAGS = "";
+                            OTHER_REZFLAGS = "";
+                            PRODUCT_NAME = install;
+                            SECTORDER_FLAGS = "";
+                            SYMROOT = "/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk/deps/macosx/libusb-7da756e";
+                            USE_HEADERMAP = NO;
+                            WARNING_CFLAGS = ("-Wmost", "-Wno-four-char-constants", "-Wno-unknown-pragmas", );
+                     };
+                     name = MinSizeRel;
+              };
+              DCDA19F3A70B4555BB94E53E /* RelWithDebInfo */ = {
+                     isa = XCBuildConfiguration;
+                     buildSettings = {
+                            GCC_GENERATE_DEBUGGING_SYMBOLS = NO;
+                            GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
+                            GCC_OPTIMIZATION_LEVEL = 0;
+                            GCC_PREPROCESSOR_DEFINITIONS = ("'CMAKE_INTDIR=\"$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)\"'", );
+                            GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+                            INSTALL_PATH = "";
+                            OTHER_CFLAGS = "  ";
+                            OTHER_LDFLAGS = "";
+                            OTHER_REZFLAGS = "";
+                            PRODUCT_NAME = install;
+                            SECTORDER_FLAGS = "";
+                            SYMROOT = "/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk/deps/macosx/libusb-7da756e";
+                            USE_HEADERMAP = NO;
+                            WARNING_CFLAGS = ("-Wmost", "-Wno-four-char-constants", "-Wno-unknown-pragmas", );
+                     };
+                     name = RelWithDebInfo;
+              };
+              A5DDD8179294475A8E6FBF1D /* Debug */ = {
+                     isa = XCBuildConfiguration;
+                     buildSettings = {
+                            GCC_GENERATE_DEBUGGING_SYMBOLS = NO;
+                            GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
+                            GCC_OPTIMIZATION_LEVEL = 0;
+                            GCC_PREPROCESSOR_DEFINITIONS = ("'CMAKE_INTDIR=\"$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)\"'", );
+                            GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+                            INSTALL_PATH = "";
+                            OTHER_CFLAGS = "  ";
+                            OTHER_LDFLAGS = "";
+                            OTHER_REZFLAGS = "";
+                            PRODUCT_NAME = package;
+                            SECTORDER_FLAGS = "";
+                            SYMROOT = "/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk/deps/macosx/libusb-7da756e";
+                            USE_HEADERMAP = NO;
+                            WARNING_CFLAGS = ("-Wmost", "-Wno-four-char-constants", "-Wno-unknown-pragmas", );
+                     };
+                     name = Debug;
+              };
+              6FAF08F7386346599D4065D5 /* Release */ = {
+                     isa = XCBuildConfiguration;
+                     buildSettings = {
+                            GCC_GENERATE_DEBUGGING_SYMBOLS = NO;
+                            GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
+                            GCC_OPTIMIZATION_LEVEL = 0;
+                            GCC_PREPROCESSOR_DEFINITIONS = ("'CMAKE_INTDIR=\"$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)\"'", );
+                            GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+                            INSTALL_PATH = "";
+                            OTHER_CFLAGS = "  ";
+                            OTHER_LDFLAGS = "";
+                            OTHER_REZFLAGS = "";
+                            PRODUCT_NAME = package;
+                            SECTORDER_FLAGS = "";
+                            SYMROOT = "/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk/deps/macosx/libusb-7da756e";
+                            USE_HEADERMAP = NO;
+                            WARNING_CFLAGS = ("-Wmost", "-Wno-four-char-constants", "-Wno-unknown-pragmas", );
+                     };
+                     name = Release;
+              };
+              AFA01A925F3C451A829F5E23 /* MinSizeRel */ = {
+                     isa = XCBuildConfiguration;
+                     buildSettings = {
+                            GCC_GENERATE_DEBUGGING_SYMBOLS = NO;
+                            GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
+                            GCC_OPTIMIZATION_LEVEL = 0;
+                            GCC_PREPROCESSOR_DEFINITIONS = ("'CMAKE_INTDIR=\"$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)\"'", );
+                            GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+                            INSTALL_PATH = "";
+                            OTHER_CFLAGS = "  ";
+                            OTHER_LDFLAGS = "";
+                            OTHER_REZFLAGS = "";
+                            PRODUCT_NAME = package;
+                            SECTORDER_FLAGS = "";
+                            SYMROOT = "/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk/deps/macosx/libusb-7da756e";
+                            USE_HEADERMAP = NO;
+                            WARNING_CFLAGS = ("-Wmost", "-Wno-four-char-constants", "-Wno-unknown-pragmas", );
+                     };
+                     name = MinSizeRel;
+              };
+              C4B6E191A5D24A4684CCF094 /* RelWithDebInfo */ = {
+                     isa = XCBuildConfiguration;
+                     buildSettings = {
+                            GCC_GENERATE_DEBUGGING_SYMBOLS = NO;
+                            GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
+                            GCC_OPTIMIZATION_LEVEL = 0;
+                            GCC_PREPROCESSOR_DEFINITIONS = ("'CMAKE_INTDIR=\"$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)\"'", );
+                            GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+                            INSTALL_PATH = "";
+                            OTHER_CFLAGS = "  ";
+                            OTHER_LDFLAGS = "";
+                            OTHER_REZFLAGS = "";
+                            PRODUCT_NAME = package;
+                            SECTORDER_FLAGS = "";
+                            SYMROOT = "/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk/deps/macosx/libusb-7da756e";
+                            USE_HEADERMAP = NO;
+                            WARNING_CFLAGS = ("-Wmost", "-Wno-four-char-constants", "-Wno-unknown-pragmas", );
+                     };
+                     name = RelWithDebInfo;
+              };
+              99C60B27EB544CFC9ED5CF05 /* Debug */ = {
+                     isa = XCBuildConfiguration;
+                     buildSettings = {
+                            CONFIGURATION_BUILD_DIR = "/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Debug";
+                            DYLIB_COMPATIBILITY_VERSION = "";
+                            DYLIB_CURRENT_VERSION = "";
+                            EXECUTABLE_PREFIX = lib;
+                            EXECUTABLE_SUFFIX = ".dylib";
+                            GCC_GENERATE_DEBUGGING_SYMBOLS = YES;
+                            GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
+                            GCC_OPTIMIZATION_LEVEL = 0;
+                            GCC_PREPROCESSOR_DEFINITIONS = ("'CMAKE_INTDIR=\"$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)\"'", usb_EXPORTS, NDEBUG, );
+                            GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+                            HEADER_SEARCH_PATHS = ("/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/macosx/libusb-7da756e/libusb-1.0", );
+                            INSTALL_PATH = "/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Debug";
+                            LIBRARY_SEARCH_PATHS = "";
+                            LIBRARY_STYLE = DYNAMIC;
+                            OTHER_CFLAGS = "   -fPIC  ";
+                            OTHER_LDFLAGS = "  -dynamiclib -Wl,-headerpad_max_install_names -framework IOKit -framework CoreFoundation";
+                            OTHER_REZFLAGS = "";
+                            PRODUCT_NAME = usb;
+                            SECTORDER_FLAGS = "";
+                            SYMROOT = "/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk/deps/macosx/libusb-7da756e/libusb-1.0";
+                            USE_HEADERMAP = NO;
+                            WARNING_CFLAGS = ("-Wmost", "-Wno-four-char-constants", "-Wno-unknown-pragmas", );
+                     };
+                     name = Debug;
+              };
+              2A45D27608C842AAA39D02E8 /* Release */ = {
+                     isa = XCBuildConfiguration;
+                     buildSettings = {
+                            CONFIGURATION_BUILD_DIR = "/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Release";
+                            DYLIB_COMPATIBILITY_VERSION = "";
+                            DYLIB_CURRENT_VERSION = "";
+                            EXECUTABLE_PREFIX = lib;
+                            EXECUTABLE_SUFFIX = ".dylib";
+                            GCC_GENERATE_DEBUGGING_SYMBOLS = NO;
+                            GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
+                            GCC_OPTIMIZATION_LEVEL = 3;
+                            GCC_PREPROCESSOR_DEFINITIONS = ("'CMAKE_INTDIR=\"$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)\"'", usb_EXPORTS, NDEBUG, );
+                            GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+                            HEADER_SEARCH_PATHS = ("/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/macosx/libusb-7da756e/libusb-1.0", );
+                            INSTALL_PATH = "/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Release";
+                            LIBRARY_SEARCH_PATHS = "";
+                            LIBRARY_STYLE = DYNAMIC;
+                            OTHER_CFLAGS = "    -DNDEBUG -fPIC  ";
+                            OTHER_LDFLAGS = "  -dynamiclib -Wl,-headerpad_max_install_names -framework IOKit -framework CoreFoundation";
+                            OTHER_REZFLAGS = "";
+                            PRODUCT_NAME = usb;
+                            SECTORDER_FLAGS = "";
+                            SYMROOT = "/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk/deps/macosx/libusb-7da756e/libusb-1.0";
+                            USE_HEADERMAP = NO;
+                            WARNING_CFLAGS = ("-Wmost", "-Wno-four-char-constants", "-Wno-unknown-pragmas", );
+                     };
+                     name = Release;
+              };
+              6A125C8BD6254F07B8C963E1 /* MinSizeRel */ = {
+                     isa = XCBuildConfiguration;
+                     buildSettings = {
+                            CONFIGURATION_BUILD_DIR = "/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/MinSizeRel";
+                            DYLIB_COMPATIBILITY_VERSION = "";
+                            DYLIB_CURRENT_VERSION = "";
+                            EXECUTABLE_PREFIX = lib;
+                            EXECUTABLE_SUFFIX = ".dylib";
+                            GCC_GENERATE_DEBUGGING_SYMBOLS = NO;
+                            GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
+                            GCC_OPTIMIZATION_LEVEL = s;
+                            GCC_PREPROCESSOR_DEFINITIONS = ("'CMAKE_INTDIR=\"$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)\"'", usb_EXPORTS, NDEBUG, );
+                            GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+                            HEADER_SEARCH_PATHS = ("/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/macosx/libusb-7da756e/libusb-1.0", );
+                            INSTALL_PATH = "/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/MinSizeRel";
+                            LIBRARY_SEARCH_PATHS = "";
+                            LIBRARY_STYLE = DYNAMIC;
+                            OTHER_CFLAGS = "    -DNDEBUG -fPIC  ";
+                            OTHER_LDFLAGS = "  -dynamiclib -Wl,-headerpad_max_install_names -framework IOKit -framework CoreFoundation";
+                            OTHER_REZFLAGS = "";
+                            PRODUCT_NAME = usb;
+                            SECTORDER_FLAGS = "";
+                            SYMROOT = "/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk/deps/macosx/libusb-7da756e/libusb-1.0";
+                            USE_HEADERMAP = NO;
+                            WARNING_CFLAGS = ("-Wmost", "-Wno-four-char-constants", "-Wno-unknown-pragmas", );
+                     };
+                     name = MinSizeRel;
+              };
+              F98AD3CD87B6467A8476BD6F /* RelWithDebInfo */ = {
+                     isa = XCBuildConfiguration;
+                     buildSettings = {
+                            CONFIGURATION_BUILD_DIR = "/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/RelWithDebInfo";
+                            DYLIB_COMPATIBILITY_VERSION = "";
+                            DYLIB_CURRENT_VERSION = "";
+                            EXECUTABLE_PREFIX = lib;
+                            EXECUTABLE_SUFFIX = ".dylib";
+                            GCC_GENERATE_DEBUGGING_SYMBOLS = YES;
+                            GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
+                            GCC_OPTIMIZATION_LEVEL = 2;
+                            GCC_PREPROCESSOR_DEFINITIONS = ("'CMAKE_INTDIR=\"$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)\"'", usb_EXPORTS, NDEBUG, );
+                            GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+                            HEADER_SEARCH_PATHS = ("/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/macosx/libusb-7da756e/libusb-1.0", );
+                            INSTALL_PATH = "/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/RelWithDebInfo";
+                            LIBRARY_SEARCH_PATHS = "";
+                            LIBRARY_STYLE = DYNAMIC;
+                            OTHER_CFLAGS = "       -fPIC  ";
+                            OTHER_LDFLAGS = "  -dynamiclib -Wl,-headerpad_max_install_names -framework IOKit -framework CoreFoundation";
+                            OTHER_REZFLAGS = "";
+                            PRODUCT_NAME = usb;
+                            SECTORDER_FLAGS = "";
+                            SYMROOT = "/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk/deps/macosx/libusb-7da756e/libusb-1.0";
+                            USE_HEADERMAP = NO;
+                            WARNING_CFLAGS = ("-Wmost", "-Wno-four-char-constants", "-Wno-unknown-pragmas", );
+                     };
+                     name = RelWithDebInfo;
+              };
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+              CA5C431E764A45DFA912AD44 /* Build configuration list for PBXProject  "libusb" */ = {
+                     isa = XCConfigurationList;
+                     buildConfigurations = (
+                            CB50645E8B0043F6BA9DB828 /* Debug */,
+                            B91B489D21994AB197267024 /* Release */,
+                            27EE1B1D19604FAA91F9E8A2 /* MinSizeRel */,
+                            0C3F9FA86B9249148870B3ED /* RelWithDebInfo */,
+                     );
+                     defaultConfigurationIsVisible = 0;
+                     defaultConfigurationName = Debug;
+              };
+              BCF20462F8A2462889D7F367 /* Build configuration list for PBXAggregateTarget "ALL_BUILD" */ = {
+                     isa = XCConfigurationList;
+                     buildConfigurations = (
+                            CB632C95C55F4C55ACCD0108 /* Debug */,
+                            7AAF727DBEA64D2EB7B41951 /* Release */,
+                            CA4D25AB1F6942DFB3D35C64 /* MinSizeRel */,
+                            71D38E68492A415FA46C6C04 /* RelWithDebInfo */,
+                     );
+                     defaultConfigurationIsVisible = 0;
+                     defaultConfigurationName = Debug;
+              };
+              379210153D094FB59A904BC9 /* Build configuration list for PBXAggregateTarget "ZERO_CHECK" */ = {
+                     isa = XCConfigurationList;
+                     buildConfigurations = (
+                            589975C83ED34A43B7E5B7DB /* Debug */,
+                            179C2EF4FF0B4622ACA6571B /* Release */,
+                            C190CFD2CA2D498B86B3F176 /* MinSizeRel */,
+                            F7409C3E08124AFCA6ED46BB /* RelWithDebInfo */,
+                     );
+                     defaultConfigurationIsVisible = 0;
+                     defaultConfigurationName = Debug;
+              };
+              CAC927835C124D329217BEE5 /* Build configuration list for PBXAggregateTarget "install" */ = {
+                     isa = XCConfigurationList;
+                     buildConfigurations = (
+                            7C31A7E147F042DDACB3C204 /* Debug */,
+                            5CF644698DFB48A5A12EA59E /* Release */,
+                            F4D332AC811140FEA5FFC99C /* MinSizeRel */,
+                            DCDA19F3A70B4555BB94E53E /* RelWithDebInfo */,
+                     );
+                     defaultConfigurationIsVisible = 0;
+                     defaultConfigurationName = Debug;
+              };
+              7ACD663B166744BC888811D1 /* Build configuration list for PBXAggregateTarget "package" */ = {
+                     isa = XCConfigurationList;
+                     buildConfigurations = (
+                            A5DDD8179294475A8E6FBF1D /* Debug */,
+                            6FAF08F7386346599D4065D5 /* Release */,
+                            AFA01A925F3C451A829F5E23 /* MinSizeRel */,
+                            C4B6E191A5D24A4684CCF094 /* RelWithDebInfo */,
+                     );
+                     defaultConfigurationIsVisible = 0;
+                     defaultConfigurationName = Debug;
+              };
+              5361E9B0462C4EB2B0FB2E87 /* Build configuration list for PBXNativeTarget "usb" */ = {
+                     isa = XCConfigurationList;
+                     buildConfigurations = (
+                            99C60B27EB544CFC9ED5CF05 /* Debug */,
+                            2A45D27608C842AAA39D02E8 /* Release */,
+                            6A125C8BD6254F07B8C963E1 /* MinSizeRel */,
+                            F98AD3CD87B6467A8476BD6F /* RelWithDebInfo */,
+                     );
+                     defaultConfigurationIsVisible = 0;
+                     defaultConfigurationName = Debug;
+              };
+/* End XCConfigurationList section */
+       };
+       rootObject = F06A65534DAB4D1C80C6270B;
+}
