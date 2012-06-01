@@ -1,311 +1,0 @@
-TTinyXml
-v5
-r1
-cCheck dependencies
-cCompileC /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni/Source/External/TinyXml/nestk.build/Debug/TinyXml.build/Objects-normal/x86_64/tinyxml.o /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/External/TinyXml/tinyxml.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni/Source/External/TinyXml/nestk.build/Debug/TinyXml.build/Objects-normal/x86_64/tinystr.o /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/External/TinyXml/tinystr.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni/Source/External/TinyXml/nestk.build/Debug/TinyXml.build/Objects-normal/x86_64/tinyxmlerror.o /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/External/TinyXml/tinyxmlerror.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni/Source/External/TinyXml/nestk.build/Debug/TinyXml.build/Objects-normal/x86_64/tinyxmlparser.o /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/External/TinyXml/tinyxmlparser.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
-cLibtool /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libTinyXml.a normal x86_64
-cPhaseScriptExecution "CMake PostBuild Rules" /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni/Source/External/TinyXml/nestk.build/Debug/TinyXml.build/Script-2E3A4BFD19654549A80F7127.sh
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk
-c000000004F29C61A00000000000000EE
-t1328137754
-s238
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/ctype.h
-c000000004F6A24400000000000002C18
-t1332356160
-s11288
-
-N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libTinyXml.a
-t1336173104
-s314344
-
-N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni/Source/External/TinyXml/nestk.build/Debug/TinyXml.build/Objects-normal/x86_64/TinyXml.LinkFileList
-c000000004FA4622E0000000000000297
-t1336173102
-s663
-
-N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni/Source/External/TinyXml/nestk.build/Debug/TinyXml.build/Objects-normal/x86_64/tinystr.o
-t1336173103
-s17304
-
-N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni/Source/External/TinyXml/nestk.build/Debug/TinyXml.build/Objects-normal/x86_64/tinyxml.o
-t1336173103
-s157496
-
-N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni/Source/External/TinyXml/nestk.build/Debug/TinyXml.build/Objects-normal/x86_64/tinyxmlerror.o
-t1336173103
-s28100
-
-N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni/Source/External/TinyXml/nestk.build/Debug/TinyXml.build/Objects-normal/x86_64/tinyxmlparser.o
-t1336173103
-s96304
-
-N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni/Source/External/TinyXml/nestk.build/Debug/TinyXml.build/Script-2E3A4BFD19654549A80F7127.sh
-c000000004FA4622E0000000000000116
-t1336173102
-s278
-
-N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/Linux-x86/XnOSLinux-x86.h
-c000000004FA45A750000000000001A10
-t1336171125
-s6672
-
-N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/MacOSX/../Linux-x86/XnPlatformLinux-x86.h
-c000000004FA45A750000000000001C30
-t1336171125
-s7216
-
-N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/MacOSX/XnPlatformMacOSX.h
-c000000004FA45A7500000000000008B6
-t1336171125
-s2230
-
-N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnMacros.h
-c000000004FA45A750000000000001027
-t1336171125
-s4135
-
-N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnOS.h
-c000000004FA45A75000000000000A332
-t1336171125
-s41778
-
-N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnOSMemory.h
-c000000004FA45A750000000000000C7E
-t1336171125
-s3198
-
-N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnOSStrings.h
-c000000004FA45A750000000000000D88
-t1336171125
-s3464
-
-N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnPlatform.h
-c000000004FA45A750000000000001291
-t1336171125
-s4753
-
-N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnStatus.h
-c000000004FA45A750000000000001198
-t1336171125
-s4504
-
-N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include/XnStatusCodes.h
-c000000004FA45A750000000000001591
-t1336171125
-s5521
-
-N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/External/TinyXml/tinystr.cpp
-c000000004FA45A760000000000000A3A
-t1336171126
-s2618
-
-N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/External/TinyXml/tinystr.h
-c000000004FA45A76000000000000214A
-t1336171126
-s8522
-
-N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/External/TinyXml/tinyxml.cpp
-c000000004FA45A760000000000009A35
-t1336171126
-s39477
-i<ctype.h>
-i<sstream>
-i<iostream>
-i"tinyxml.h"
-
-N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/External/TinyXml/tinyxml.h
-c000000004FA45A76000000000001044F
-t1336171126
-s66639
-
-N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/External/TinyXml/tinyxmlerror.cpp
-c000000004FA45A760000000000000733
-t1336171126
-s1843
-
-N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/External/TinyXml/tinyxmlparser.cpp
-c000000004FA45A7600000000000097E0
-t1336171126
-s38880
-
-CBuild AST from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/External/TinyXml/tinystr.cpp
-r0
-
-CBuild AST from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/External/TinyXml/tinyxml.cpp
-r0
-
-CBuild AST from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/External/TinyXml/tinyxmlerror.cpp
-r0
-
-CBuild AST from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/External/TinyXml/tinyxmlparser.cpp
-r0
-
-CCheck dependencies
-r0
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies50c52dc59954b541^b98d2ec59954b541^---0#1#0#--18"Check dependencies36"9C8ED6D1-3CC3-47ED-A152-A0CBEA3DF519-
-
-CCompileC /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni/Source/External/TinyXml/nestk.build/Debug/TinyXml.build/Objects-normal/x86_64/tinystr.o /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/External/TinyXml/tinystr.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
-s357865902.230000
-e357865903.565965
-r1
-xCompileC
-x/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni/Source/External/TinyXml/nestk.build/Debug/TinyXml.build/Objects-normal/x86_64/tinystr.o
-x/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/External/TinyXml/tinystr.cpp
-xnormal
-xx86_64
-xc++
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection112"Compile /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/External/TinyXml/tinystr.cppb8013bae9954b541^39279eaf9954b541^---0#0#0#-19%DVTDocumentLocation2@120"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/External/TinyXml/tinystr.cpp0000000000000000^2747"CompileC /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni/Source/External/TinyXml/nestk.build/Debug/TinyXml.build/Objects-normal/x86_64/tinystr.o deps/openni/Source/External/TinyXml/tinystr.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wno-newline-eof -Wc++11-extensions "-DCMAKE_INTDIR=\"Debug\"" "-DCUSTOM_SAMPLE_XML_PATH=\"config/SamplesConfig.xml\"" "-DCUSTOM_SAMPLE_USER_XML_PATH=\"config/Sample-User.xml\"" -DXN_USE_CUSTOM_MODULES_FILE=xn_modules_file -DUSE_GLUT -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.7 -g -Wno-conversion -Wno-sign-conversion -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/include -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/macosx/libusb-7da756e -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni/Source/External/TinyXml/nestk.build/Debug/TinyXml.build/DerivedSources/x86_64 -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni/Source/External/TinyXml/nestk.build/Debug/TinyXml.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug -MMD -MT dependencies -MF /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni/Source/External/TinyXml/nestk.build/Debug/TinyXml.build/Objects-normal/x86_64/tinystr.d --serialize-diagnostics /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni/Source/External/TinyXml/nestk.build/Debug/TinyXml.build/Objects-normal/x86_64/tinystr.dia -c /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/External/TinyXml/tinystr.cpp -o /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni/Source/External/TinyXml/nestk.build/Debug/TinyXml.build/Objects-normal/x86_64/tinystr.o36"BA1D3137-BEEF-49C6-A086-799529EF537E-
-
-CCompileC /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni/Source/External/TinyXml/nestk.build/Debug/TinyXml.build/Objects-normal/x86_64/tinyxml.o /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/External/TinyXml/tinyxml.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
-s357865902.173777
-e357865903.730276
-r1
-xCompileC
-x/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni/Source/External/TinyXml/nestk.build/Debug/TinyXml.build/Objects-normal/x86_64/tinyxml.o
-x/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/External/TinyXml/tinyxml.cpp
-xnormal
-xx86_64
-xc++
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection112"Compile /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/External/TinyXml/tinyxml.cpp4a992cae9954b541^cefcbaaf9954b541^---0#0#0#-19%DVTDocumentLocation2@120"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/External/TinyXml/tinyxml.cpp0000000000000000^2747"CompileC /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni/Source/External/TinyXml/nestk.build/Debug/TinyXml.build/Objects-normal/x86_64/tinyxml.o deps/openni/Source/External/TinyXml/tinyxml.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wno-newline-eof -Wc++11-extensions "-DCMAKE_INTDIR=\"Debug\"" "-DCUSTOM_SAMPLE_XML_PATH=\"config/SamplesConfig.xml\"" "-DCUSTOM_SAMPLE_USER_XML_PATH=\"config/Sample-User.xml\"" -DXN_USE_CUSTOM_MODULES_FILE=xn_modules_file -DUSE_GLUT -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.7 -g -Wno-conversion -Wno-sign-conversion -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/include -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/macosx/libusb-7da756e -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni/Source/External/TinyXml/nestk.build/Debug/TinyXml.build/DerivedSources/x86_64 -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni/Source/External/TinyXml/nestk.build/Debug/TinyXml.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug -MMD -MT dependencies -MF /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni/Source/External/TinyXml/nestk.build/Debug/TinyXml.build/Objects-normal/x86_64/tinyxml.d --serialize-diagnostics /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni/Source/External/TinyXml/nestk.build/Debug/TinyXml.build/Objects-normal/x86_64/tinyxml.dia -c /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/External/TinyXml/tinyxml.cpp -o /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni/Source/External/TinyXml/nestk.build/Debug/TinyXml.build/Objects-normal/x86_64/tinyxml.o36"840E23AE-90FD-4C06-9AC4-A33AFC6FA182-
-
-CCompileC /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni/Source/External/TinyXml/nestk.build/Debug/TinyXml.build/Objects-normal/x86_64/tinyxmlerror.o /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/External/TinyXml/tinyxmlerror.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
-s357865903.567245
-e357865903.641026
-r1
-xCompileC
-x/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni/Source/External/TinyXml/nestk.build/Debug/TinyXml.build/Objects-normal/x86_64/tinyxmlerror.o
-x/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/External/TinyXml/tinyxmlerror.cpp
-xnormal
-xx86_64
-xc++
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection117"Compile /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/External/TinyXml/tinyxmlerror.cppdf5391af9954b541^5e2ca4af9954b541^---0#0#0#-19%DVTDocumentLocation2@125"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/External/TinyXml/tinyxmlerror.cpp0000000000000000^2777"CompileC /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni/Source/External/TinyXml/nestk.build/Debug/TinyXml.build/Objects-normal/x86_64/tinyxmlerror.o deps/openni/Source/External/TinyXml/tinyxmlerror.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wno-newline-eof -Wc++11-extensions "-DCMAKE_INTDIR=\"Debug\"" "-DCUSTOM_SAMPLE_XML_PATH=\"config/SamplesConfig.xml\"" "-DCUSTOM_SAMPLE_USER_XML_PATH=\"config/Sample-User.xml\"" -DXN_USE_CUSTOM_MODULES_FILE=xn_modules_file -DUSE_GLUT -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.7 -g -Wno-conversion -Wno-sign-conversion -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/include -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/macosx/libusb-7da756e -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni/Source/External/TinyXml/nestk.build/Debug/TinyXml.build/DerivedSources/x86_64 -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni/Source/External/TinyXml/nestk.build/Debug/TinyXml.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug -MMD -MT dependencies -MF /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni/Source/External/TinyXml/nestk.build/Debug/TinyXml.build/Objects-normal/x86_64/tinyxmlerror.d --serialize-diagnostics /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni/Source/External/TinyXml/nestk.build/Debug/TinyXml.build/Objects-normal/x86_64/tinyxmlerror.dia -c /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/External/TinyXml/tinyxmlerror.cpp -o /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni/Source/External/TinyXml/nestk.build/Debug/TinyXml.build/Objects-normal/x86_64/tinyxmlerror.o36"320F0E00-D0CA-4153-9EF6-7DF43D75012B-
-
-CCompileC /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni/Source/External/TinyXml/nestk.build/Debug/TinyXml.build/Objects-normal/x86_64/tinyxmlparser.o /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/External/TinyXml/tinyxmlparser.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
-s357865903.642280
-e357865903.989945
-r1
-xCompileC
-x/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni/Source/External/TinyXml/nestk.build/Debug/TinyXml.build/Objects-normal/x86_64/tinyxmlparser.o
-x/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/External/TinyXml/tinyxmlparser.cpp
-xnormal
-xx86_64
-xc++
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection118"Compile /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/External/TinyXml/tinyxmlparser.cppfd87a4af9954b541^ce6efdaf9954b541^---0#0#0#-19%DVTDocumentLocation2@126"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/External/TinyXml/tinyxmlparser.cpp0000000000000000^2783"CompileC /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni/Source/External/TinyXml/nestk.build/Debug/TinyXml.build/Objects-normal/x86_64/tinyxmlparser.o deps/openni/Source/External/TinyXml/tinyxmlparser.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wno-newline-eof -Wc++11-extensions "-DCMAKE_INTDIR=\"Debug\"" "-DCUSTOM_SAMPLE_XML_PATH=\"config/SamplesConfig.xml\"" "-DCUSTOM_SAMPLE_USER_XML_PATH=\"config/Sample-User.xml\"" -DXN_USE_CUSTOM_MODULES_FILE=xn_modules_file -DUSE_GLUT -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.7 -g -Wno-conversion -Wno-sign-conversion -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/include -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/macosx/libusb-7da756e -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Include -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni/Source/External/TinyXml/nestk.build/Debug/TinyXml.build/DerivedSources/x86_64 -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni/Source/External/TinyXml/nestk.build/Debug/TinyXml.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug -MMD -MT dependencies -MF /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni/Source/External/TinyXml/nestk.build/Debug/TinyXml.build/Objects-normal/x86_64/tinyxmlparser.d --serialize-diagnostics /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni/Source/External/TinyXml/nestk.build/Debug/TinyXml.build/Objects-normal/x86_64/tinyxmlparser.dia -c /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/openni/Source/External/TinyXml/tinyxmlparser.cpp -o /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni/Source/External/TinyXml/nestk.build/Debug/TinyXml.build/Objects-normal/x86_64/tinyxmlparser.o36"7D51C29A-7178-4248-A47C-80504FCCB0CC-
-
-CLibtool /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libTinyXml.a normal x86_64
-s357865904.121915
-e357865904.183184
-r1
-xLibtool
-x/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libTinyXml.a
-xnormal
-xx86_64
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection101"Libtool /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libTinyXml.a normal x86_64ae491fb09954b541^39ec2eb09954b541^---0#0#0#--779"Libtool /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libTinyXml.a normal x86_64    cd /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk    setenv MACOSX_DEPLOYMENT_TARGET 10.7    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only x86_64 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk -L/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug -filelist /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni/Source/External/TinyXml/nestk.build/Debug/TinyXml.build/Objects-normal/x86_64/TinyXml.LinkFileList -o /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libTinyXml.a36"19FD7001-BAB1-4B89-B705-1015459672D7-
-
-CPhaseScriptExecution "CMake PostBuild Rules" /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni/Source/External/TinyXml/nestk.build/Debug/TinyXml.build/Script-2E3A4BFD19654549A80F7127.sh
-s357865925.204638
-e357865925.693409
-r1
-xPhaseScriptExecution
-xCMake PostBuild Rules
-x/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni/Source/External/TinyXml/nestk.build/Debug/TinyXml.build/Script-2E3A4BFD19654549A80F7127.sh
-oecho "Depend check for xcode"
-oDepend check for xcode
-ocd /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni && make -C /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni/CMakeScripts/XCODE_DEPEND_HELPER.make PostBuild.TinyXml.Debug
-o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libnimCommon.dylib
-o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libnimCodecs.dylib
-o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libnimMockNodes.dylib
-o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libnimRecorder.dylib
-o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/niLicense
-o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/niReg
-o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libXnDDK.dylib
-o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libXnDeviceFile.dylib
-o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libXnDevicesSensorV2.dylib
-o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/XnSensorServer
-o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/Sample-Players
-o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/CircleControl
-o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/Boxes
-oecho "Depend check for xcode"
-oDepend check for xcode
-ocd /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build && make -C /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/CMakeScripts/XCODE_DEPEND_HELPER.make PostBuild.TinyXml.Debug
-o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libnimCommon.dylib
-o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libnimCodecs.dylib
-o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libnimMockNodes.dylib
-o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libnimRecorder.dylib
-o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/niLicense
-o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/niReg
-o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libXnDDK.dylib
-o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libXnDeviceFile.dylib
-o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libXnDevicesSensorV2.dylib
-o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/XnSensorServer
-o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/Sample-Players
-o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/CircleControl
-o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/Boxes
-o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libfreenect.dylib
-o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/grab-mesh
-o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/handpoint-tracking
-o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/libfreenect-backend
-o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/multiple-kinects
-o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/openni-backend
-o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/skeleton-tracking
-o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/synchronized-multiple-kinects
-o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/calibrate-kinect-ir
-o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/calibrate-multiple-kinects
-o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/calibrate-openni-depth
-o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/calibrate-openni-intrinsics
-o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/calibrate-projector
-o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/rgbd-viewer
-o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/rgbd-reconstructor
-o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/rgbd-people-tracker
-o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/rgbd-skeletor
-oecho "Depend check for xcode"
-oDepend check for xcode
-ocd /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk && make -C /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/CMakeScripts/XCODE_DEPEND_HELPER.make PostBuild.TinyXml.Debug
-o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libnimCommon.dylib
-o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libnimCodecs.dylib
-o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libnimMockNodes.dylib
-o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libnimRecorder.dylib
-o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/niLicense
-o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/niReg
-o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libXnDDK.dylib
-o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libXnDeviceFile.dylib
-o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libXnDevicesSensorV2.dylib
-o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/XnSensorServer
-o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/Sample-Players
-o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/CircleControl
-o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/Boxes
-o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libfreenect.dylib
-o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/grab-mesh
-o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/handpoint-tracking
-o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/libfreenect-backend
-o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/multiple-kinects
-o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/openni-backend
-o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/skeleton-tracking
-o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/synchronized-multiple-kinects
-oecho "Depend check for xcode"
-oDepend check for xcode
-ocd /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps && make -C /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/CMakeScripts/XCODE_DEPEND_HELPER.make PostBuild.TinyXml.Debug
-o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libnimCommon.dylib
-o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libnimCodecs.dylib
-o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libnimMockNodes.dylib
-o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libnimRecorder.dylib
-o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/niLicense
-o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/niReg
-o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libXnDDK.dylib
-o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libXnDeviceFile.dylib
-o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libXnDevicesSensorV2.dylib
-o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/XnSensorServer
-o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/Sample-Players
-o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/CircleControl
-o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/Boxes
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection47"Run custom shell script 'CMake PostBuild Rules'7efd34c59954b541^82aab1c59954b541^-8644"echo "Depend check for xcode"Depend check for xcodecd /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni && make -C /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni/CMakeScripts/XCODE_DEPEND_HELPER.make PostBuild.TinyXml.Debug/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libnimCommon.dylib/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libnimCodecs.dylib/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libnimMockNodes.dylib/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libnimRecorder.dylib/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/niLicense/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/niReg/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libXnDDK.dylib/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libXnDeviceFile.dylib/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libXnDevicesSensorV2.dylib/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/XnSensorServer/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/Sample-Players/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/CircleControl/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/Boxesecho "Depend check for xcode"Depend check for xcodecd /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build && make -C /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/CMakeScripts/XCODE_DEPEND_HELPER.make PostBuild.TinyXml.Debug/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libnimCommon.dylib/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libnimCodecs.dylib/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libnimMockNodes.dylib/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libnimRecorder.dylib/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/niLicense/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/niReg/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libXnDDK.dylib/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libXnDeviceFile.dylib/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libXnDevicesSensorV2.dylib/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/XnSensorServer/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/Sample-Players/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/CircleControl/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/Boxes/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libfreenect.dylib/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/grab-mesh/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/handpoint-tracking/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/libfreenect-backend/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/multiple-kinects/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/openni-backend/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/skeleton-tracking/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/synchronized-multiple-kinects/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/calibrate-kinect-ir/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/calibrate-multiple-kinects/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/calibrate-openni-depth/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/calibrate-openni-intrinsics/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/calibrate-projector/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/rgbd-viewer/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/rgbd-reconstructor/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/rgbd-people-tracker/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/rgbd-skeletorecho "Depend check for xcode"Depend check for xcodecd /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk && make -C /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/CMakeScripts/XCODE_DEPEND_HELPER.make PostBuild.TinyXml.Debug/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libnimCommon.dylib/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libnimCodecs.dylib/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libnimMockNodes.dylib/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libnimRecorder.dylib/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/niLicense/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/niReg/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libXnDDK.dylib/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libXnDeviceFile.dylib/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libXnDevicesSensorV2.dylib/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/XnSensorServer/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/Sample-Players/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/CircleControl/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/Boxes/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libfreenect.dylib/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/grab-mesh/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/handpoint-tracking/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/libfreenect-backend/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/multiple-kinects/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/openni-backend/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/skeleton-tracking/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/synchronized-multiple-kinectsecho "Depend check for xcode"Depend check for xcodecd /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps && make -C /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/CMakeScripts/XCODE_DEPEND_HELPER.make PostBuild.TinyXml.Debug/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libnimCommon.dylib/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libnimCodecs.dylib/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libnimMockNodes.dylib/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libnimRecorder.dylib/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/niLicense/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/niReg/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libXnDDK.dylib/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libXnDeviceFile.dylib/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libXnDevicesSensorV2.dylib/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/XnSensorServer/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/Sample-Players/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/CircleControl/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/Boxes89(21%IDEActivityLogMessage2@30"echo "Depend check for xcode"-357865925#0#30#-0#-----2@23"Depend check for xcode-357865925#30#23#-0#-----2@304"cd /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni && make -C /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni/CMakeScripts/XCODE_DEPEND_HELPER.make PostBuild.TinyXml.Debug-357865925#53#304#-0#-----2@97"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libnimCommon.dylib-357865925#357#97#-0#-----2@97"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libnimCodecs.dylib-357865925#454#97#-0#-----2@100"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libnimMockNodes.dylib-357865925#551#100#-0#-----2@99"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libnimRecorder.dylib-357865925#651#99#-0#-----2@88"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/niLicense-357865925#750#88#-0#-----2@84"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/niReg-357865925#838#84#-0#-----2@93"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libXnDDK.dylib-357865925#922#93#-0#-----2@100"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libXnDeviceFile.dylib-357865925#1015#100#-0#-----2@105"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libXnDevicesSensorV2.dylib-357865925#1115#105#-0#-----2@93"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/XnSensorServer-357865925#1220#93#-0#-----2@93"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/Sample-Players-357865925#1313#93#-0#-----2@92"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/CircleControl-357865925#1406#92#-0#-----2@84"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/Boxes-357865925#1498#84#-0#-----2@30"echo "Depend check for xcode"-357865925#1582#30#-0#-----2@23"Depend check for xcode-357865925#1612#23#-0#-----2@250"cd /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build && make -C /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/CMakeScripts/XCODE_DEPEND_HELPER.make PostBuild.TinyXml.Debug-357865925#1635#250#-0#-----2@97"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libnimCommon.dylib-357865925#1885#97#-0#-----2@97"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libnimCodecs.dylib-357865925#1982#97#-0#-----2@100"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libnimMockNodes.dylib-357865925#2079#100#-0#-----2@99"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libnimRecorder.dylib-357865925#2179#99#-0#-----2@88"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/niLicense-357865925#2278#88#-0#-----2@84"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/niReg-357865925#2366#84#-0#-----2@93"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libXnDDK.dylib-357865925#2450#93#-0#-----2@100"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libXnDeviceFile.dylib-357865925#2543#100#-0#-----2@105"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libXnDevicesSensorV2.dylib-357865925#2643#105#-0#-----2@93"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/XnSensorServer-357865925#2748#93#-0#-----2@93"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/Sample-Players-357865925#2841#93#-0#-----2@92"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/CircleControl-357865925#2934#92#-0#-----2@84"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/Boxes-357865925#3026#84#-0#-----2@96"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libfreenect.dylib-357865925#3110#96#-0#-----2@88"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/grab-mesh-357865925#3206#88#-0#-----2@97"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/handpoint-tracking-357865925#3294#97#-0#-----2@98"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/libfreenect-backend-357865925#3391#98#-0#-----2@95"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/multiple-kinects-357865925#3489#95#-0#-----2@93"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/openni-backend-357865925#3584#93#-0#-----2@96"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/skeleton-tracking-357865925#3677#96#-0#-----2@108"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/synchronized-multiple-kinects-357865925#3773#108#-0#-----2@98"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/calibrate-kinect-ir-357865925#3881#98#-0#-----2@105"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/calibrate-multiple-kinects-357865925#3979#105#-0#-----2@101"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/calibrate-openni-depth-357865925#4084#101#-0#-----2@106"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/calibrate-openni-intrinsics-357865925#4185#106#-0#-----2@98"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/calibrate-projector-357865925#4291#98#-0#-----2@90"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/rgbd-viewer-357865925#4389#90#-0#-----2@97"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/rgbd-reconstructor-357865925#4479#97#-0#-----2@98"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/rgbd-people-tracker-357865925#4576#98#-0#-----2@92"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/rgbd-skeletor-357865925#4674#92#-0#-----2@30"echo "Depend check for xcode"-357865925#4766#30#-0#-----2@23"Depend check for xcode-357865925#4796#23#-0#-----2@268"cd /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk && make -C /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/CMakeScripts/XCODE_DEPEND_HELPER.make PostBuild.TinyXml.Debug-357865925#4819#268#-0#-----2@97"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libnimCommon.dylib-357865925#5087#97#-0#-----2@97"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libnimCodecs.dylib-357865925#5184#97#-0#-----2@100"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libnimMockNodes.dylib-357865925#5281#100#-0#-----2@99"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libnimRecorder.dylib-357865925#5381#99#-0#-----2@88"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/niLicense-357865925#5480#88#-0#-----2@84"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/niReg-357865925#5568#84#-0#-----2@93"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libXnDDK.dylib-357865925#5652#93#-0#-----2@100"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libXnDeviceFile.dylib-357865925#5745#100#-0#-----2@105"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libXnDevicesSensorV2.dylib-357865925#5845#105#-0#-----2@93"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/XnSensorServer-357865925#5950#93#-0#-----2@93"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/Sample-Players-357865925#6043#93#-0#-----2@92"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/CircleControl-357865925#6136#92#-0#-----2@84"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/Boxes-357865925#6228#84#-0#-----2@96"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libfreenect.dylib-357865925#6312#96#-0#-----2@88"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/grab-mesh-357865925#6408#88#-0#-----2@97"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/handpoint-tracking-357865925#6496#97#-0#-----2@98"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/libfreenect-backend-357865925#6593#98#-0#-----2@95"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/multiple-kinects-357865925#6691#95#-0#-----2@93"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/openni-backend-357865925#6786#93#-0#-----2@96"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/skeleton-tracking-357865925#6879#96#-0#-----2@108"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/synchronized-multiple-kinects-357865925#6975#108#-0#-----2@30"echo "Depend check for xcode"-357865925#7083#30#-0#-----2@23"Depend check for xcode-357865925#7113#23#-0#-----2@283"cd /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps && make -C /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/CMakeScripts/XCODE_DEPEND_HELPER.make PostBuild.TinyXml.Debug-357865925#7136#283#-0#-----2@97"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libnimCommon.dylib-357865925#7419#97#-0#-----2@97"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libnimCodecs.dylib-357865925#7516#97#-0#-----2@100"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libnimMockNodes.dylib-357865925#7613#100#-0#-----2@99"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libnimRecorder.dylib-357865925#7713#99#-0#-----2@88"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/niLicense-357865925#7812#88#-0#-----2@84"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/niReg-357865925#7900#84#-0#-----2@93"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libXnDDK.dylib-357865925#7984#93#-0#-----2@100"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libXnDeviceFile.dylib-357865925#8077#100#-0#-----2@105"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libXnDevicesSensorV2.dylib-357865925#8177#105#-0#-----2@93"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/XnSensorServer-357865925#8282#93#-0#-----2@93"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/Sample-Players-357865925#8375#93#-0#-----2@92"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/CircleControl-357865925#8468#92#-0#-----2@84"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/Boxes-357865925#8560#84#-0#-----0#0#0#--456"PhaseScriptExecution "CMake PostBuild Rules" /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni/Source/External/TinyXml/nestk.build/Debug/TinyXml.build/Script-2E3A4BFD19654549A80F7127.sh    cd /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk    /bin/sh -c /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/openni/Source/External/TinyXml/nestk.build/Debug/TinyXml.build/Script-2E3A4BFD19654549A80F7127.sh36"16FCC68C-ACE7-452E-BB62-DE7B33EA9B0C-
-

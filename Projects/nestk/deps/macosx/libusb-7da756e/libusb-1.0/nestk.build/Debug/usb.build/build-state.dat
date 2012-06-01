@@ -1,339 +1,0 @@
-Tusb
-v5
-r1
-cCheck dependencies
-cCompileC /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/macosx/libusb-7da756e/libusb-1.0/nestk.build/Debug/usb.build/Objects-normal/x86_64/core.o /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/macosx/libusb-7da756e/libusb-1.0/core.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/macosx/libusb-7da756e/libusb-1.0/nestk.build/Debug/usb.build/Objects-normal/x86_64/descriptor.o /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/macosx/libusb-7da756e/libusb-1.0/descriptor.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/macosx/libusb-7da756e/libusb-1.0/nestk.build/Debug/usb.build/Objects-normal/x86_64/io.o /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/macosx/libusb-7da756e/libusb-1.0/io.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/macosx/libusb-7da756e/libusb-1.0/nestk.build/Debug/usb.build/Objects-normal/x86_64/sync.o /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/macosx/libusb-7da756e/libusb-1.0/sync.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/macosx/libusb-7da756e/libusb-1.0/nestk.build/Debug/usb.build/Objects-normal/x86_64/darwin_usb.o /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/macosx/libusb-7da756e/libusb-1.0/os/darwin_usb.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
-cLd /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libusb.dylib normal x86_64
-cPhaseScriptExecution "CMake PostBuild Rules" /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/macosx/libusb-7da756e/libusb-1.0/nestk.build/Debug/usb.build/Script-293BEB9C6CB34D49B568CC6B.sh
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk
-c000000004F29C61A00000000000000EE
-t1328137754
-s238
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/errno.h
-c000000004F6A244000000000000003EB
-t1332356160
-s1003
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/stdio.h
-c000000004F6A24410000000000004763
-t1332356161
-s18275
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/stdlib.h
-c000000004F6A244100000000000030A7
-t1332356161
-s12455
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/string.h
-c000000004F6A24410000000000001A3A
-t1332356161
-s6714
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/sys/types.h
-c000000004F6A24410000000000002905
-t1332356161
-s10501
-
-N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/3.1/include/stdarg.h
-c000000004F6A24430000000000000810
-t1332356163
-s2064
-
-N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libusb.dylib
-t1336173105
-s90608
-
-N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/macosx/libusb-7da756e/libusb-1.0/nestk.build/Debug/usb.build/Objects-normal/x86_64/core.o
-t1336173103
-s40824
-
-N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/macosx/libusb-7da756e/libusb-1.0/nestk.build/Debug/usb.build/Objects-normal/x86_64/darwin_usb.o
-t1336173105
-s68820
-
-N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/macosx/libusb-7da756e/libusb-1.0/nestk.build/Debug/usb.build/Objects-normal/x86_64/descriptor.o
-t1336173103
-s28012
-
-N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/macosx/libusb-7da756e/libusb-1.0/nestk.build/Debug/usb.build/Objects-normal/x86_64/io.o
-t1336173104
-s32880
-
-N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/macosx/libusb-7da756e/libusb-1.0/nestk.build/Debug/usb.build/Objects-normal/x86_64/sync.o
-t1336173104
-s15776
-
-N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/macosx/libusb-7da756e/libusb-1.0/nestk.build/Debug/usb.build/Objects-normal/x86_64/usb.LinkFileList
-c000000004FA4622E0000000000000320
-t1336173102
-s800
-
-N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/macosx/libusb-7da756e/libusb-1.0/nestk.build/Debug/usb.build/Script-293BEB9C6CB34D49B568CC6B.sh
-c000000004FA4622E0000000000000116
-t1336173102
-s278
-
-N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/macosx/libusb-7da756e/libusb-1.0/config.h
-c000000004FA45A750000000000000AF6
-t1336171125
-s2806
-
-N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/macosx/libusb-7da756e/libusb-1.0/core.c
-c000000004FA45A75000000000000E9BB
-t1336171125
-s59835
-i<config.h>
-i<errno.h>
-i<stdarg.h>
-i<stdio.h>
-i<stdlib.h>
-i<string.h>
-i<sys/types.h>
-i"libusbi.h"
-
-N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/macosx/libusb-7da756e/libusb-1.0/descriptor.c
-c000000004FA45A750000000000004C5F
-t1336171125
-s19551
-
-N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/macosx/libusb-7da756e/libusb-1.0/io.c
-c000000004FA45A7500000000000161F5
-t1336171125
-s90613
-
-N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/macosx/libusb-7da756e/libusb-1.0/libusb.h
-c000000004FA45A75000000000000AFE5
-t1336171125
-s45029
-
-N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/macosx/libusb-7da756e/libusb-1.0/libusbi.h
-c000000004FA45A750000000000007A6E
-t1336171125
-s31342
-
-N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/macosx/libusb-7da756e/libusb-1.0/os/darwin_usb.c
-c000000004FA45A75000000000000D5D8
-t1336171125
-s54744
-
-N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/macosx/libusb-7da756e/libusb-1.0/os/darwin_usb.h
-c000000004FA45A7500000000000011EF
-t1336171125
-s4591
-
-N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/macosx/libusb-7da756e/libusb-1.0/os/poll_posix.h
-c000000004FA45A750000000000000104
-t1336171125
-s260
-
-N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/macosx/libusb-7da756e/libusb-1.0/os/threads_posix.h
-c000000004FA45A7500000000000006FF
-t1336171125
-s1791
-
-N/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/macosx/libusb-7da756e/libusb-1.0/sync.c
-c000000004FA45A750000000000002BDF
-t1336171125
-s11231
-
-CBuild AST from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/macosx/libusb-7da756e/libusb-1.0/core.c
-r0
-
-CBuild AST from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/macosx/libusb-7da756e/libusb-1.0/descriptor.c
-r0
-
-CBuild AST from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/macosx/libusb-7da756e/libusb-1.0/io.c
-r0
-
-CBuild AST from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/macosx/libusb-7da756e/libusb-1.0/os/darwin_usb.c
-r0
-
-CBuild AST from /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/macosx/libusb-7da756e/libusb-1.0/sync.c
-r0
-
-CCheck dependencies
-r0
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies739c57c49954b541^71e859c49954b541^---0#1#0#--18"Check dependencies36"2B2CDAA7-263D-4568-AC1C-A69177CB0E45-
-
-CCompileC /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/macosx/libusb-7da756e/libusb-1.0/nestk.build/Debug/usb.build/Objects-normal/x86_64/core.o /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/macosx/libusb-7da756e/libusb-1.0/core.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
-s357865903.731542
-e357865903.840088
-r1
-xCompileC
-x/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/macosx/libusb-7da756e/libusb-1.0/nestk.build/Debug/usb.build/Objects-normal/x86_64/core.o
-x/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/macosx/libusb-7da756e/libusb-1.0/core.c
-xnormal
-xx86_64
-xc
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection109"Compile /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/macosx/libusb-7da756e/libusb-1.0/core.c6b60bbaf9954b541^8f1ad7af9954b541^---0#0#0#-19%DVTDocumentLocation2@117"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/macosx/libusb-7da756e/libusb-1.0/core.c0000000000000000^2407"CompileC /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/macosx/libusb-7da756e/libusb-1.0/nestk.build/Debug/usb.build/Objects-normal/x86_64/core.o deps/macosx/libusb-7da756e/libusb-1.0/core.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch x86_64 -fmessage-length=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof "-DCMAKE_INTDIR=\"Debug\"" -Dusb_EXPORTS -DNDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -Wdeprecated-declarations -mmacosx-version-min=10.7 -g -Wno-conversion -Wno-sign-conversion -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/include -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/macosx/libusb-7da756e/libusb-1.0 -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/macosx/libusb-7da756e/libusb-1.0/nestk.build/Debug/usb.build/DerivedSources/x86_64 -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/macosx/libusb-7da756e/libusb-1.0/nestk.build/Debug/usb.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug -fPIC -MMD -MT dependencies -MF /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/macosx/libusb-7da756e/libusb-1.0/nestk.build/Debug/usb.build/Objects-normal/x86_64/core.d --serialize-diagnostics /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/macosx/libusb-7da756e/libusb-1.0/nestk.build/Debug/usb.build/Objects-normal/x86_64/core.dia -c /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/macosx/libusb-7da756e/libusb-1.0/core.c -o /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/macosx/libusb-7da756e/libusb-1.0/nestk.build/Debug/usb.build/Objects-normal/x86_64/core.o36"7DCB605D-539A-4065-AAF2-B0510CA5FD10-
-
-CCompileC /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/macosx/libusb-7da756e/libusb-1.0/nestk.build/Debug/usb.build/Objects-normal/x86_64/darwin_usb.o /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/macosx/libusb-7da756e/libusb-1.0/os/darwin_usb.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
-s357865904.184692
-e357865905.265791
-r1
-xCompileC
-x/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/macosx/libusb-7da756e/libusb-1.0/nestk.build/Debug/usb.build/Objects-normal/x86_64/darwin_usb.o
-x/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/macosx/libusb-7da756e/libusb-1.0/os/darwin_usb.c
-xnormal
-xx86_64
-xc
-xcom.apple.compilers.llvm.clang.1_0.compiler
-o/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/macosx/libusb-7da756e/libusb-1.0/os/darwin_usb.c:58:20: warning: unused function 'darwin_error_str' [-Wunused-function]
-ostatic const char *darwin_error_str (int result) {
-o                   ^
-o1 warning generated.
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection118"Compile /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/macosx/libusb-7da756e/libusb-1.0/os/darwin_usb.cd0602fb09954b541^5f0944b19954b541^-275"/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/macosx/libusb-7da756e/libusb-1.0/os/darwin_usb.c:58:20: warning: unused function 'darwin_error_str' [-Wunused-function]static const char *darwin_error_str (int result) {                   ^1 warning generated.1(36%IDEClangDiagnosticActivityLogMessage2@34"Unused function 'darwin_error_str'-357865905#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@126"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/macosx/libusb-7da756e/libusb-1.0/os/darwin_usb.c0000000000000000^57#19#57#19#2058#0#19"Unused Entity Issue--0#0#0#-19%DVTDocumentLocation4@126"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/macosx/libusb-7da756e/libusb-1.0/os/darwin_usb.c0000000000000000^2449"CompileC /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/macosx/libusb-7da756e/libusb-1.0/nestk.build/Debug/usb.build/Objects-normal/x86_64/darwin_usb.o deps/macosx/libusb-7da756e/libusb-1.0/os/darwin_usb.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch x86_64 -fmessage-length=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof "-DCMAKE_INTDIR=\"Debug\"" -Dusb_EXPORTS -DNDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -Wdeprecated-declarations -mmacosx-version-min=10.7 -g -Wno-conversion -Wno-sign-conversion -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/include -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/macosx/libusb-7da756e/libusb-1.0 -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/macosx/libusb-7da756e/libusb-1.0/nestk.build/Debug/usb.build/DerivedSources/x86_64 -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/macosx/libusb-7da756e/libusb-1.0/nestk.build/Debug/usb.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug -fPIC -MMD -MT dependencies -MF /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/macosx/libusb-7da756e/libusb-1.0/nestk.build/Debug/usb.build/Objects-normal/x86_64/darwin_usb.d --serialize-diagnostics /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/macosx/libusb-7da756e/libusb-1.0/nestk.build/Debug/usb.build/Objects-normal/x86_64/darwin_usb.dia -c /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/macosx/libusb-7da756e/libusb-1.0/os/darwin_usb.c -o /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/macosx/libusb-7da756e/libusb-1.0/nestk.build/Debug/usb.build/Objects-normal/x86_64/darwin_usb.o36"EF3C4D56-53CB-473F-9492-19C924619879-
-
-CCompileC /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/macosx/libusb-7da756e/libusb-1.0/nestk.build/Debug/usb.build/Objects-normal/x86_64/descriptor.o /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/macosx/libusb-7da756e/libusb-1.0/descriptor.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
-s357865903.841353
-e357865903.954993
-r1
-xCompileC
-x/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/macosx/libusb-7da756e/libusb-1.0/nestk.build/Debug/usb.build/Objects-normal/x86_64/descriptor.o
-x/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/macosx/libusb-7da756e/libusb-1.0/descriptor.c
-xnormal
-xx86_64
-xc
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection115"Compile /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/macosx/libusb-7da756e/libusb-1.0/descriptor.cdd7cd7af9954b541^5c71f5af9954b541^---0#0#0#-19%DVTDocumentLocation2@123"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/macosx/libusb-7da756e/libusb-1.0/descriptor.c0000000000000000^2443"CompileC /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/macosx/libusb-7da756e/libusb-1.0/nestk.build/Debug/usb.build/Objects-normal/x86_64/descriptor.o deps/macosx/libusb-7da756e/libusb-1.0/descriptor.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch x86_64 -fmessage-length=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof "-DCMAKE_INTDIR=\"Debug\"" -Dusb_EXPORTS -DNDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -Wdeprecated-declarations -mmacosx-version-min=10.7 -g -Wno-conversion -Wno-sign-conversion -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/include -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/macosx/libusb-7da756e/libusb-1.0 -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/macosx/libusb-7da756e/libusb-1.0/nestk.build/Debug/usb.build/DerivedSources/x86_64 -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/macosx/libusb-7da756e/libusb-1.0/nestk.build/Debug/usb.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug -fPIC -MMD -MT dependencies -MF /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/macosx/libusb-7da756e/libusb-1.0/nestk.build/Debug/usb.build/Objects-normal/x86_64/descriptor.d --serialize-diagnostics /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/macosx/libusb-7da756e/libusb-1.0/nestk.build/Debug/usb.build/Objects-normal/x86_64/descriptor.dia -c /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/macosx/libusb-7da756e/libusb-1.0/descriptor.c -o /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/macosx/libusb-7da756e/libusb-1.0/nestk.build/Debug/usb.build/Objects-normal/x86_64/descriptor.o36"06A2DBB5-F3F7-4134-AB7C-DADC1FF4A243-
-
-CCompileC /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/macosx/libusb-7da756e/libusb-1.0/nestk.build/Debug/usb.build/Objects-normal/x86_64/io.o /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/macosx/libusb-7da756e/libusb-1.0/io.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
-s357865903.956270
-e357865904.278271
-r1
-xCompileC
-x/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/macosx/libusb-7da756e/libusb-1.0/nestk.build/Debug/usb.build/Objects-normal/x86_64/io.o
-x/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/macosx/libusb-7da756e/libusb-1.0/io.c
-xnormal
-xx86_64
-xc
-xcom.apple.compilers.llvm.clang.1_0.compiler
-o/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/macosx/libusb-7da756e/libusb-1.0/io.c:1700:13: warning: unused function 'handle_timeout' [-Wunused-function]
-ostatic void handle_timeout(struct usbi_transfer *itransfer)
-o            ^
-o/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/macosx/libusb-7da756e/libusb-1.0/io.c:1714:12: warning: unused function 'handle_timeouts_locked' [-Wunused-function]
-ostatic int handle_timeouts_locked(struct libusb_context *ctx)
-o           ^
-o2 warnings generated.
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection107"Compile /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/macosx/libusb-7da756e/libusb-1.0/io.c92e9f4af9954b541^984e47b09954b541^-521"/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/macosx/libusb-7da756e/libusb-1.0/io.c:1700:13: warning: unused function 'handle_timeout' [-Wunused-function]static void handle_timeout(struct usbi_transfer *itransfer)            ^/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/macosx/libusb-7da756e/libusb-1.0/io.c:1714:12: warning: unused function 'handle_timeouts_locked' [-Wunused-function]static int handle_timeouts_locked(struct libusb_context *ctx)           ^2 warnings generated.2(36%IDEClangDiagnosticActivityLogMessage2@32"Unused function 'handle_timeout'-357865904#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@115"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/macosx/libusb-7da756e/libusb-1.0/io.c0000000000000000^1699#12#1699#12#71287#0#19"Unused Entity Issue--2@40"Unused function 'handle_timeouts_locked'-357865904#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@115"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/macosx/libusb-7da756e/libusb-1.0/io.c0000000000000000^1713#11#1713#11#71658#0#19"Unused Entity Issue--0#0#0#-19%DVTDocumentLocation4@115"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/macosx/libusb-7da756e/libusb-1.0/io.c0000000000000000^2395"CompileC /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/macosx/libusb-7da756e/libusb-1.0/nestk.build/Debug/usb.build/Objects-normal/x86_64/io.o deps/macosx/libusb-7da756e/libusb-1.0/io.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch x86_64 -fmessage-length=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof "-DCMAKE_INTDIR=\"Debug\"" -Dusb_EXPORTS -DNDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -Wdeprecated-declarations -mmacosx-version-min=10.7 -g -Wno-conversion -Wno-sign-conversion -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/include -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/macosx/libusb-7da756e/libusb-1.0 -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/macosx/libusb-7da756e/libusb-1.0/nestk.build/Debug/usb.build/DerivedSources/x86_64 -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/macosx/libusb-7da756e/libusb-1.0/nestk.build/Debug/usb.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug -fPIC -MMD -MT dependencies -MF /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/macosx/libusb-7da756e/libusb-1.0/nestk.build/Debug/usb.build/Objects-normal/x86_64/io.d --serialize-diagnostics /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/macosx/libusb-7da756e/libusb-1.0/nestk.build/Debug/usb.build/Objects-normal/x86_64/io.dia -c /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/macosx/libusb-7da756e/libusb-1.0/io.c -o /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/macosx/libusb-7da756e/libusb-1.0/nestk.build/Debug/usb.build/Objects-normal/x86_64/io.o36"D05ADFC6-5850-4A4A-B8B5-D1EC4AFB1266-
-
-CCompileC /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/macosx/libusb-7da756e/libusb-1.0/nestk.build/Debug/usb.build/Objects-normal/x86_64/sync.o /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/macosx/libusb-7da756e/libusb-1.0/sync.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
-s357865903.991208
-e357865904.062982
-r1
-xCompileC
-x/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/macosx/libusb-7da756e/libusb-1.0/nestk.build/Debug/usb.build/Objects-normal/x86_64/sync.o
-x/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/macosx/libusb-7da756e/libusb-1.0/sync.c
-xnormal
-xx86_64
-xc
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection109"Compile /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/macosx/libusb-7da756e/libusb-1.0/sync.ce2e5fdaf9954b541^602010b09954b541^---0#0#0#-19%DVTDocumentLocation2@117"file://localhost/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/macosx/libusb-7da756e/libusb-1.0/sync.c0000000000000000^2407"CompileC /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/macosx/libusb-7da756e/libusb-1.0/nestk.build/Debug/usb.build/Objects-normal/x86_64/sync.o deps/macosx/libusb-7da756e/libusb-1.0/sync.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch x86_64 -fmessage-length=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof "-DCMAKE_INTDIR=\"Debug\"" -Dusb_EXPORTS -DNDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -Wdeprecated-declarations -mmacosx-version-min=10.7 -g -Wno-conversion -Wno-sign-conversion -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/include -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/macosx/libusb-7da756e/libusb-1.0 -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/macosx/libusb-7da756e/libusb-1.0/nestk.build/Debug/usb.build/DerivedSources/x86_64 -I/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/macosx/libusb-7da756e/libusb-1.0/nestk.build/Debug/usb.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug -fPIC -MMD -MT dependencies -MF /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/macosx/libusb-7da756e/libusb-1.0/nestk.build/Debug/usb.build/Objects-normal/x86_64/sync.d --serialize-diagnostics /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/macosx/libusb-7da756e/libusb-1.0/nestk.build/Debug/usb.build/Objects-normal/x86_64/sync.dia -c /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk/deps/macosx/libusb-7da756e/libusb-1.0/sync.c -o /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/macosx/libusb-7da756e/libusb-1.0/nestk.build/Debug/usb.build/Objects-normal/x86_64/sync.o36"AB389C32-6558-428C-A70B-8BF5329638CA-
-
-CLd /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libusb.dylib normal x86_64
-s357865905.273308
-e357865905.594808
-r1
-xLd
-x/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libusb.dylib
-xnormal
-xx86_64
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Link /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libusb.dylib0a0f46b19954b541^5d6d99b19954b541^---0#0#0#--1055"Ld /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libusb.dylib normal x86_64    cd /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk    setenv MACOSX_DEPLOYMENT_TARGET 10.7    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch x86_64 -dynamiclib -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk -L/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug -F/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug -filelist /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/macosx/libusb-7da756e/libusb-1.0/nestk.build/Debug/usb.build/Objects-normal/x86_64/usb.LinkFileList -install_name /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libusb.dylib -mmacosx-version-min=10.7 -dynamiclib -Wl,-headerpad_max_install_names -framework IOKit -framework CoreFoundation -single_module -o /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libusb.dylib36"1A0A3497-68CD-4E58-AF66-C04F903E8EB2-
-
-CPhaseScriptExecution "CMake PostBuild Rules" /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/macosx/libusb-7da756e/libusb-1.0/nestk.build/Debug/usb.build/Script-293BEB9C6CB34D49B568CC6B.sh
-s357865924.379663
-e357865925.164223
-r1
-xPhaseScriptExecution
-xCMake PostBuild Rules
-x/Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/macosx/libusb-7da756e/libusb-1.0/nestk.build/Debug/usb.build/Script-293BEB9C6CB34D49B568CC6B.sh
-oecho "Depend check for xcode"
-oDepend check for xcode
-ocd /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build && make -C /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/CMakeScripts/XCODE_DEPEND_HELPER.make PostBuild.usb.Debug
-o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libfreenect.dylib
-o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/glview
-o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libnimCommon.dylib
-o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libnimCodecs.dylib
-o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libnimMockNodes.dylib
-o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libnimRecorder.dylib
-o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/niLicense
-o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/niReg
-o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libXnDDK.dylib
-o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libXnDeviceFile.dylib
-o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libXnDevicesSensorV2.dylib
-o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/XnSensorServer
-o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/Sample-Players
-o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/CircleControl
-o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/Boxes
-o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/grab-mesh
-o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/handpoint-tracking
-o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/libfreenect-backend
-o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/multiple-kinects
-o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/openni-backend
-o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/skeleton-tracking
-o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/synchronized-multiple-kinects
-o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/calibrate-kinect-ir
-o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/calibrate-multiple-kinects
-o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/calibrate-openni-depth
-o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/calibrate-openni-intrinsics
-o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/calibrate-projector
-o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/rgbd-viewer
-o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/rgbd-reconstructor
-o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/rgbd-people-tracker
-o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/rgbd-skeletor
-oecho "Depend check for xcode"
-oDepend check for xcode
-ocd /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/macosx/libusb-7da756e && make -C /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/macosx/libusb-7da756e -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/macosx/libusb-7da756e/CMakeScripts/XCODE_DEPEND_HELPER.make PostBuild.usb.Debug
-omake[1]: Nothing to be done for `PostBuild.usb.Debug'.
-oecho "Depend check for xcode"
-oDepend check for xcode
-ocd /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk && make -C /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/CMakeScripts/XCODE_DEPEND_HELPER.make PostBuild.usb.Debug
-o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libfreenect.dylib
-o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/glview
-o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libnimCommon.dylib
-o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libnimCodecs.dylib
-o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libnimMockNodes.dylib
-o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libnimRecorder.dylib
-o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/niLicense
-o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/niReg
-o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libXnDDK.dylib
-o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libXnDeviceFile.dylib
-o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libXnDevicesSensorV2.dylib
-o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/XnSensorServer
-o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/Sample-Players
-o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/CircleControl
-o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/Boxes
-o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/grab-mesh
-o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/handpoint-tracking
-o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/libfreenect-backend
-o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/multiple-kinects
-o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/openni-backend
-o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/skeleton-tracking
-o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/synchronized-multiple-kinects
-oecho "Depend check for xcode"
-oDepend check for xcode
-ocd /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps && make -C /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/CMakeScripts/XCODE_DEPEND_HELPER.make PostBuild.usb.Debug
-o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libfreenect.dylib
-o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/glview
-o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libnimCommon.dylib
-o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libnimCodecs.dylib
-o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libnimMockNodes.dylib
-o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libnimRecorder.dylib
-o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/niLicense
-o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/niReg
-o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libXnDDK.dylib
-o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libXnDeviceFile.dylib
-o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libXnDevicesSensorV2.dylib
-o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/XnSensorServer
-o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/Sample-Players
-o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/CircleControl
-o/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/Boxes
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection47"Run custom shell script 'CMake PostBuild Rules'fbb161c49954b541^772c2ac59954b541^-7854"echo "Depend check for xcode"Depend check for xcodecd /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build && make -C /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/CMakeScripts/XCODE_DEPEND_HELPER.make PostBuild.usb.Debug/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libfreenect.dylib/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/glview/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libnimCommon.dylib/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libnimCodecs.dylib/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libnimMockNodes.dylib/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libnimRecorder.dylib/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/niLicense/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/niReg/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libXnDDK.dylib/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libXnDeviceFile.dylib/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libXnDevicesSensorV2.dylib/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/XnSensorServer/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/Sample-Players/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/CircleControl/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/Boxes/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/grab-mesh/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/handpoint-tracking/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/libfreenect-backend/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/multiple-kinects/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/openni-backend/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/skeleton-tracking/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/synchronized-multiple-kinects/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/calibrate-kinect-ir/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/calibrate-multiple-kinects/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/calibrate-openni-depth/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/calibrate-openni-intrinsics/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/calibrate-projector/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/rgbd-viewer/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/rgbd-reconstructor/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/rgbd-people-tracker/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/rgbd-skeletorecho "Depend check for xcode"Depend check for xcodecd /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/macosx/libusb-7da756e && make -C /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/macosx/libusb-7da756e -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/macosx/libusb-7da756e/CMakeScripts/XCODE_DEPEND_HELPER.make PostBuild.usb.Debugmake[1]: Nothing to be done for `PostBuild.usb.Debug'.echo "Depend check for xcode"Depend check for xcodecd /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk && make -C /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/CMakeScripts/XCODE_DEPEND_HELPER.make PostBuild.usb.Debug/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libfreenect.dylib/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/glview/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libnimCommon.dylib/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libnimCodecs.dylib/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libnimMockNodes.dylib/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libnimRecorder.dylib/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/niLicense/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/niReg/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libXnDDK.dylib/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libXnDeviceFile.dylib/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libXnDevicesSensorV2.dylib/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/XnSensorServer/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/Sample-Players/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/CircleControl/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/Boxes/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/grab-mesh/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/handpoint-tracking/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/libfreenect-backend/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/multiple-kinects/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/openni-backend/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/skeleton-tracking/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/synchronized-multiple-kinectsecho "Depend check for xcode"Depend check for xcodecd /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps && make -C /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/CMakeScripts/XCODE_DEPEND_HELPER.make PostBuild.usb.Debug/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libfreenect.dylib/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/glview/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libnimCommon.dylib/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libnimCodecs.dylib/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libnimMockNodes.dylib/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libnimRecorder.dylib/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/niLicense/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/niReg/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libXnDDK.dylib/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libXnDeviceFile.dylib/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libXnDevicesSensorV2.dylib/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/XnSensorServer/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/Sample-Players/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/CircleControl/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/Boxes81(21%IDEActivityLogMessage2@30"echo "Depend check for xcode"-357865924#0#30#-0#-----2@23"Depend check for xcode-357865924#30#23#-0#-----2@246"cd /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build && make -C /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/CMakeScripts/XCODE_DEPEND_HELPER.make PostBuild.usb.Debug-357865924#53#246#-0#-----2@96"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libfreenect.dylib-357865924#299#96#-0#-----2@85"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/glview-357865924#395#85#-0#-----2@97"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libnimCommon.dylib-357865924#480#97#-0#-----2@97"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libnimCodecs.dylib-357865924#577#97#-0#-----2@100"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libnimMockNodes.dylib-357865924#674#100#-0#-----2@99"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libnimRecorder.dylib-357865924#774#99#-0#-----2@88"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/niLicense-357865924#873#88#-0#-----2@84"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/niReg-357865924#961#84#-0#-----2@93"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libXnDDK.dylib-357865924#1045#93#-0#-----2@100"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libXnDeviceFile.dylib-357865924#1138#100#-0#-----2@105"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libXnDevicesSensorV2.dylib-357865924#1238#105#-0#-----2@93"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/XnSensorServer-357865924#1343#93#-0#-----2@93"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/Sample-Players-357865924#1436#93#-0#-----2@92"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/CircleControl-357865924#1529#92#-0#-----2@84"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/Boxes-357865924#1621#84#-0#-----2@88"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/grab-mesh-357865924#1705#88#-0#-----2@97"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/handpoint-tracking-357865924#1793#97#-0#-----2@98"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/libfreenect-backend-357865924#1890#98#-0#-----2@95"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/multiple-kinects-357865924#1988#95#-0#-----2@93"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/openni-backend-357865924#2083#93#-0#-----2@96"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/skeleton-tracking-357865924#2176#96#-0#-----2@108"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/synchronized-multiple-kinects-357865924#2272#108#-0#-----2@98"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/calibrate-kinect-ir-357865924#2380#98#-0#-----2@105"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/calibrate-multiple-kinects-357865924#2478#105#-0#-----2@101"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/calibrate-openni-depth-357865924#2583#101#-0#-----2@106"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/calibrate-openni-intrinsics-357865924#2684#106#-0#-----2@98"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/calibrate-projector-357865924#2790#98#-0#-----2@90"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/rgbd-viewer-357865924#2888#90#-0#-----2@97"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/rgbd-reconstructor-357865924#2978#97#-0#-----2@98"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/rgbd-people-tracker-357865924#3075#98#-0#-----2@92"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/rgbd-skeletor-357865924#3173#92#-0#-----2@30"echo "Depend check for xcode"-357865924#3265#30#-0#-----2@23"Depend check for xcode-357865924#3295#23#-0#-----2@345"cd /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/macosx/libusb-7da756e && make -C /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/macosx/libusb-7da756e -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/macosx/libusb-7da756e/CMakeScripts/XCODE_DEPEND_HELPER.make PostBuild.usb.Debug-357865924#3318#345#-0#-----2@55"make[1]: Nothing to be done for `PostBuild.usb.Debug'.-357865924#3663#55#-0#-----2@30"echo "Depend check for xcode"-357865924#3718#30#-0#-----2@23"Depend check for xcode-357865924#3748#23#-0#-----2@264"cd /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk && make -C /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/CMakeScripts/XCODE_DEPEND_HELPER.make PostBuild.usb.Debug-357865924#3771#264#-0#-----2@96"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libfreenect.dylib-357865924#4035#96#-0#-----2@85"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/glview-357865924#4131#85#-0#-----2@97"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libnimCommon.dylib-357865924#4216#97#-0#-----2@97"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libnimCodecs.dylib-357865924#4313#97#-0#-----2@100"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libnimMockNodes.dylib-357865924#4410#100#-0#-----2@99"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libnimRecorder.dylib-357865924#4510#99#-0#-----2@88"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/niLicense-357865924#4609#88#-0#-----2@84"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/niReg-357865924#4697#84#-0#-----2@93"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libXnDDK.dylib-357865924#4781#93#-0#-----2@100"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libXnDeviceFile.dylib-357865924#4874#100#-0#-----2@105"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libXnDevicesSensorV2.dylib-357865924#4974#105#-0#-----2@93"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/XnSensorServer-357865924#5079#93#-0#-----2@93"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/Sample-Players-357865924#5172#93#-0#-----2@92"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/CircleControl-357865924#5265#92#-0#-----2@84"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/Boxes-357865924#5357#84#-0#-----2@88"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/grab-mesh-357865925#5441#88#-0#-----2@97"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/handpoint-tracking-357865925#5529#97#-0#-----2@98"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/libfreenect-backend-357865925#5626#98#-0#-----2@95"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/multiple-kinects-357865925#5724#95#-0#-----2@93"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/openni-backend-357865925#5819#93#-0#-----2@96"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/skeleton-tracking-357865925#5912#96#-0#-----2@108"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/synchronized-multiple-kinects-357865925#6008#108#-0#-----2@30"echo "Depend check for xcode"-357865925#6116#30#-0#-----2@23"Depend check for xcode-357865925#6146#23#-0#-----2@279"cd /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps && make -C /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/CMakeScripts/XCODE_DEPEND_HELPER.make PostBuild.usb.Debug-357865925#6169#279#-0#-----2@96"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libfreenect.dylib-357865925#6448#96#-0#-----2@85"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/glview-357865925#6544#85#-0#-----2@97"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libnimCommon.dylib-357865925#6629#97#-0#-----2@97"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libnimCodecs.dylib-357865925#6726#97#-0#-----2@100"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libnimMockNodes.dylib-357865925#6823#100#-0#-----2@99"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libnimRecorder.dylib-357865925#6923#99#-0#-----2@88"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/niLicense-357865925#7022#88#-0#-----2@84"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/niReg-357865925#7110#84#-0#-----2@93"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libXnDDK.dylib-357865925#7194#93#-0#-----2@100"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libXnDeviceFile.dylib-357865925#7287#100#-0#-----2@105"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/lib/Debug/libXnDevicesSensorV2.dylib-357865925#7387#105#-0#-----2@93"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/XnSensorServer-357865925#7492#93#-0#-----2@93"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/Sample-Players-357865925#7585#93#-0#-----2@92"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/CircleControl-357865925#7678#92#-0#-----2@84"/bin/rm -f /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/bin/Debug/Boxes-357865925#7770#84#-0#-----0#0#0#--452"PhaseScriptExecution "CMake PostBuild Rules" /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/macosx/libusb-7da756e/libusb-1.0/nestk.build/Debug/usb.build/Script-293BEB9C6CB34D49B568CC6B.sh    cd /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/nestk    /bin/sh -c /Users/localaheng/Downloads/RGBDemo-Source/rgbdemo/build/nestk/deps/macosx/libusb-7da756e/libusb-1.0/nestk.build/Debug/usb.build/Script-293BEB9C6CB34D49B568CC6B.sh36"5997160A-29D9-4F7E-B0A1-33D84DA7BF6D-
-

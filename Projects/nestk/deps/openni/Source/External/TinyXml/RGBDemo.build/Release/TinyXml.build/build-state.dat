@@ -1,504 +1,0 @@
-TTinyXml
-v5
-r1
-cCheck dependencies
-cCompileC build/nestk/deps/openni/Source/External/TinyXml/RGBDemo.build/Release/TinyXml.build/Objects-normal/x86_64/tinyxml.o /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/openni/Source/External/TinyXml/tinyxml.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
-cCompileC build/nestk/deps/openni/Source/External/TinyXml/RGBDemo.build/Release/TinyXml.build/Objects-normal/x86_64/tinystr.o /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/openni/Source/External/TinyXml/tinystr.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
-cCompileC build/nestk/deps/openni/Source/External/TinyXml/RGBDemo.build/Release/TinyXml.build/Objects-normal/x86_64/tinyxmlerror.o /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/openni/Source/External/TinyXml/tinyxmlerror.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
-cCompileC build/nestk/deps/openni/Source/External/TinyXml/RGBDemo.build/Release/TinyXml.build/Objects-normal/x86_64/tinyxmlparser.o /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/openni/Source/External/TinyXml/tinyxmlparser.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
-cLibtool /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Release/libTinyXml.a normal x86_64
-cPhaseScriptExecution "CMake PostBuild Rules" /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk/deps/openni/Source/External/TinyXml/RGBDemo.build/Release/TinyXml.build/Script-28AB93F8ADB1465B94672A1D.sh
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk
-c000000004F29C61A00000000000000EE
-t1328137754
-s238
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/assert.h
-c000000004F6A243F0000000000000F6E
-t1332356159
-s3950
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/ctype.h
-c000000004F6A24400000000000002C18
-t1332356160
-s11288
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/fcntl.h
-c000000004F6A244000000000000003EA
-t1332356160
-s1002
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/pthread.h
-c000000004F6A24410000000000003CF0
-t1332356161
-s15600
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/stdio.h
-c000000004F6A24410000000000004763
-t1332356161
-s18275
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/stdlib.h
-c000000004F6A244100000000000030A7
-t1332356161
-s12455
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/string.h
-c000000004F6A24410000000000001A3A
-t1332356161
-s6714
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/sys/_types.h
-c000000004F6A24410000000000001845
-t1332356161
-s6213
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/sys/stat.h
-c000000004F6A24410000000000004B2F
-t1332356161
-s19247
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/sys/time.h
-c000000004F6A24410000000000001E64
-t1332356161
-s7780
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/sys/types.h
-c000000004F6A24410000000000002905
-t1332356161
-s10501
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/time.h
-c000000004F6A2441000000000000178E
-t1332356161
-s6030
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/unistd.h
-c000000004F6A24410000000000006662
-t1332356161
-s26210
-
-N/Applications/Xcode.app/Contents/Developer/usr/llvm-gcc-4.2/lib/gcc/i686-apple-darwin11/4.2.1/include/float.h
-c000000004F6A24460000000000001538
-t1332356166
-s5432
-
-N/Applications/Xcode.app/Contents/Developer/usr/llvm-gcc-4.2/lib/gcc/i686-apple-darwin11/4.2.1/include/stdarg.h
-c000000004F6A244600000000000010DD
-t1332356166
-s4317
-
-N/Applications/Xcode.app/Contents/Developer/usr/llvm-gcc-4.2/lib/gcc/i686-apple-darwin11/4.2.1/include/stddef.h
-c000000004F6A24460000000000003197
-t1332356166
-s12695
-i<machine/ansi.h>
-i<sys/_types.h>
-
-N/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Release/libTinyXml.a
-t1336531111
-s111240
-
-N/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk/deps/openni/Source/External/TinyXml/RGBDemo.build/Release/TinyXml.build/Objects-normal/x86_64/TinyXml.LinkFileList
-c000000004FA9D8A5000000000000030B
-t1336531109
-s779
-
-N/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk/deps/openni/Source/External/TinyXml/RGBDemo.build/Release/TinyXml.build/Objects-normal/x86_64/tinystr.o
-t1336531110
-s4448
-
-N/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk/deps/openni/Source/External/TinyXml/RGBDemo.build/Release/TinyXml.build/Objects-normal/x86_64/tinyxml.o
-t1336531110
-s66720
-
-N/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk/deps/openni/Source/External/TinyXml/RGBDemo.build/Release/TinyXml.build/Objects-normal/x86_64/tinyxmlerror.o
-t1336531110
-s1592
-
-N/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk/deps/openni/Source/External/TinyXml/RGBDemo.build/Release/TinyXml.build/Objects-normal/x86_64/tinyxmlparser.o
-t1336531111
-s28100
-
-N/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk/deps/openni/Source/External/TinyXml/RGBDemo.build/Release/TinyXml.build/Script-28AB93F8ADB1465B94672A1D.sh
-c000000004FA9D8A50000000000000148
-t1336531109
-s328
-
-N/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/openni/Include/ARC/XnOSARC.h
-c000000004FA45A750000000000001A28
-t1336171125
-s6696
-i<sys/types.h>
-i<stdarg.h>
-i<time.h>
-i<stdio.h>
-
-N/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/openni/Include/ARC/XnPlatformARC.h
-c000000004FA45A750000000000001B4F
-t1336171125
-s6991
-i<unistd.h>
-i<stdlib.h>
-i<stdio.h>
-i<string.h>
-i<assert.h>
-
-N/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/openni/Include/Android-Arm/XnPlatformAndroid-Arm.h
-c000000004FA45A7500000000000009F2
-t1336171125
-s2546
-i"../Linux-x86/XnPlatformLinux-x86.h"
-
-N/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/openni/Include/Linux-Arm/XnPlatformLinux-Arm.h
-c000000004FA45A750000000000000892
-t1336171125
-s2194
-i"../Linux-x86/XnPlatformLinux-x86.h"
-
-N/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/openni/Include/Linux-x86/XnOSLinux-x86.h
-c000000004FA45A750000000000001A10
-t1336171125
-s6672
-i<sys/types.h>
-i<stdarg.h>
-i<time.h>
-i<pthread.h>
-i<sys/stat.h>
-i<fcntl.h>
-
-N/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/openni/Include/Linux-x86/XnPlatformLinux-x86.h
-c000000004FA45A750000000000001C30
-t1336171125
-s7216
-i<unistd.h>
-i<stdlib.h>
-i<stdio.h>
-i<string.h>
-i<assert.h>
-
-N/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/openni/Include/MacOSX/XnPlatformMacOSX.h
-c000000004FA45A7500000000000008B6
-t1336171125
-s2230
-i"../Linux-x86/XnPlatformLinux-x86.h"
-i<sys/time.h>
-
-N/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/openni/Include/Win32/XnOSWin32.h
-c000000004FA45A750000000000001D16
-t1336171125
-s7446
-i<windows.h>
-i<time.h>
-i<stdlib.h>
-i<stdio.h>
-i<malloc.h>
-i<io.h>
-i<assert.h>
-i<float.h>
-i<crtdbg.h>
-
-N/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/openni/Include/Win32/XnPlatformWin32.h
-c000000004FA45A75000000000000225F
-t1336171125
-s8799
-i<windows.h>
-i<stdlib.h>
-i<stdio.h>
-i<malloc.h>
-i<io.h>
-i<time.h>
-i<assert.h>
-i<float.h>
-i<crtdbg.h>
-
-N/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/openni/Include/XnMacros.h
-c000000004FA45A750000000000001027
-t1336171125
-s4135
-i"XnStatusCodes.h"
-
-N/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/openni/Include/XnOS.h
-c000000004FA45A75000000000000A332
-t1336171125
-s41778
-i"XnPlatform.h"
-i"XnMacros.h"
-i"XnStatusCodes.h"
-i"XnOSStrings.h"
-i"XnOSMemory.h"
-i"Win32/XnOSWin32.h"
-i"Linux-x86/XnOSLinux-x86.h"
-i"ARC/XnOSARC.h"
-i<new>
-
-N/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/openni/Include/XnOSMemory.h
-c000000004FA45A750000000000000C7E
-t1336171125
-s3198
-i"XnPlatform.h"
-
-N/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/openni/Include/XnOSStrings.h
-c000000004FA45A750000000000000D88
-t1336171125
-s3464
-i"XnPlatform.h"
-i<stdarg.h>
-
-N/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/openni/Include/XnPlatform.h
-c000000004FA45A750000000000001291
-t1336171125
-s4753
-i"Win32/XnPlatformWin32.h"
-i"Android-Arm/XnPlatformAndroid-Arm.h"
-i"Linux-x86/XnPlatformLinux-x86.h"
-i"Linux-Arm/XnPlatformLinux-Arm.h"
-i"ARC/XnPlatformARC.h"
-i"MacOSX/XnPlatformMacOSX.h"
-
-N/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/openni/Include/XnStatus.h
-c000000004FA45A750000000000001198
-t1336171125
-s4504
-i"XnPlatform.h"
-
-N/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/openni/Include/XnStatusCodes.h
-c000000004FA45A750000000000001591
-t1336171125
-s5521
-i"XnStatus.h"
-
-N/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/openni/Source/External/TinyXml/tinystr.cpp
-c000000004FA45A760000000000000A3A
-t1336171126
-s2618
-i"tinystr.h"
-
-N/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/openni/Source/External/TinyXml/tinystr.h
-c000000004FA45A76000000000000214A
-t1336171126
-s8522
-i<assert.h>
-i<string.h>
-i<XnOS.h>
-
-N/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/openni/Source/External/TinyXml/tinyxml.cpp
-c000000004FA45A760000000000009A35
-t1336171126
-s39477
-i<ctype.h>
-i<sstream>
-i<iostream>
-i"tinyxml.h"
-
-N/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/openni/Source/External/TinyXml/tinyxml.h
-c000000004FA45A76000000000001044F
-t1336171126
-s66639
-i<ctype.h>
-i<stdio.h>
-i<stdlib.h>
-i<string.h>
-i<assert.h>
-i<string>
-i<iostream>
-i<sstream>
-i"tinystr.h"
-
-N/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/openni/Source/External/TinyXml/tinyxmlerror.cpp
-c000000004FA45A760000000000000733
-t1336171126
-s1843
-i"tinyxml.h"
-
-N/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/openni/Source/External/TinyXml/tinyxmlparser.cpp
-c000000004FA45A7600000000000097E0
-t1336171126
-s38880
-i<ctype.h>
-i<stddef.h>
-i"tinyxml.h"
-i<windows.h>
-
-CBuild AST from /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/openni/Source/External/TinyXml/tinystr.cpp
-r0
-
-CBuild AST from /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/openni/Source/External/TinyXml/tinyxml.cpp
-r0
-
-CBuild AST from /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/openni/Source/External/TinyXml/tinyxmlerror.cpp
-r0
-
-CBuild AST from /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/openni/Source/External/TinyXml/tinyxmlparser.cpp
-r0
-
-CCheck dependencies
-r0
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies5b08a672115ab541^62dacb72115ab541^---0#1#0#--18"Check dependencies36"E87A3D32-CBB7-4047-BD99-07697D8E4467-
-
-CCompileC build/nestk/deps/openni/Source/External/TinyXml/RGBDemo.build/Release/TinyXml.build/Objects-normal/x86_64/tinystr.o /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/openni/Source/External/TinyXml/tinystr.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
-s358223910.471336
-e358223910.576027
-r1
-xCompileC
-xbuild/nestk/deps/openni/Source/External/TinyXml/RGBDemo.build/Release/TinyXml.build/Objects-normal/x86_64/tinystr.o
-x/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/openni/Source/External/TinyXml/tinystr.cpp
-xnormal
-xx86_64
-xc++
-xcom.apple.compilers.llvmgcc42
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection137"Compile /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/openni/Source/External/TinyXml/tinystr.cpp94c27826105ab541^64759326105ab541^---0#0#0#-19%DVTDocumentLocation2@145"file://localhost/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/openni/Source/External/TinyXml/tinystr.cpp0000000000000000^2004"CompileC build/nestk/deps/openni/Source/External/TinyXml/RGBDemo.build/Release/TinyXml.build/Objects-normal/x86_64/tinystr.o nestk/deps/openni/Source/External/TinyXml/tinystr.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42    cd /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O3 "-DCMAKE_INTDIR=\"Release\"" "-DCUSTOM_SAMPLE_XML_PATH=\"config/SamplesConfig.xml\"" "-DCUSTOM_SAMPLE_USER_XML_PATH=\"config/Sample-User.xml\"" -DXN_USE_CUSTOM_MODULES_FILE=xn_modules_file -DUSE_GLUT -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -mmacosx-version-min=10.7 -I/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Release/include -I/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/macosx/libusb-7da756e -I/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/openni/Include -I/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk/deps/openni/Source/External/TinyXml/RGBDemo.build/Release/TinyXml.build/DerivedSources/x86_64 -I/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk/deps/openni/Source/External/TinyXml/RGBDemo.build/Release/TinyXml.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Release -DNDEBUG -c /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/openni/Source/External/TinyXml/tinystr.cpp -o /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk/deps/openni/Source/External/TinyXml/RGBDemo.build/Release/TinyXml.build/Objects-normal/x86_64/tinystr.o36"83F5AFED-9FE2-448F-836C-4CA98FCB0C3F-
-
-CCompileC build/nestk/deps/openni/Source/External/TinyXml/RGBDemo.build/Release/TinyXml.build/Objects-normal/x86_64/tinyxml.o /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/openni/Source/External/TinyXml/tinyxml.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
-s358223909.802373
-e358223910.470052
-r1
-xCompileC
-xbuild/nestk/deps/openni/Source/External/TinyXml/RGBDemo.build/Release/TinyXml.build/Objects-normal/x86_64/tinyxml.o
-x/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/openni/Source/External/TinyXml/tinyxml.cpp
-xnormal
-xx86_64
-xc++
-xcom.apple.compilers.llvmgcc42
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection137"Compile /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/openni/Source/External/TinyXml/tinyxml.cpp10adcd25105ab541^22557826105ab541^---0#0#0#-19%DVTDocumentLocation2@145"file://localhost/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/openni/Source/External/TinyXml/tinyxml.cpp0000000000000000^2004"CompileC build/nestk/deps/openni/Source/External/TinyXml/RGBDemo.build/Release/TinyXml.build/Objects-normal/x86_64/tinyxml.o nestk/deps/openni/Source/External/TinyXml/tinyxml.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42    cd /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O3 "-DCMAKE_INTDIR=\"Release\"" "-DCUSTOM_SAMPLE_XML_PATH=\"config/SamplesConfig.xml\"" "-DCUSTOM_SAMPLE_USER_XML_PATH=\"config/Sample-User.xml\"" -DXN_USE_CUSTOM_MODULES_FILE=xn_modules_file -DUSE_GLUT -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -mmacosx-version-min=10.7 -I/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Release/include -I/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/macosx/libusb-7da756e -I/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/openni/Include -I/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk/deps/openni/Source/External/TinyXml/RGBDemo.build/Release/TinyXml.build/DerivedSources/x86_64 -I/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk/deps/openni/Source/External/TinyXml/RGBDemo.build/Release/TinyXml.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Release -DNDEBUG -c /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/openni/Source/External/TinyXml/tinyxml.cpp -o /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk/deps/openni/Source/External/TinyXml/RGBDemo.build/Release/TinyXml.build/Objects-normal/x86_64/tinyxml.o36"679ABE47-4F92-4020-B74B-0298BA867DFD-
-
-CCompileC build/nestk/deps/openni/Source/External/TinyXml/RGBDemo.build/Release/TinyXml.build/Objects-normal/x86_64/tinyxmlerror.o /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/openni/Source/External/TinyXml/tinyxmlerror.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
-s358223910.577309
-e358223910.713740
-r1
-xCompileC
-xbuild/nestk/deps/openni/Source/External/TinyXml/RGBDemo.build/Release/TinyXml.build/Objects-normal/x86_64/tinyxmlerror.o
-x/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/openni/Source/External/TinyXml/tinyxmlerror.cpp
-xnormal
-xx86_64
-xc++
-xcom.apple.compilers.llvmgcc42
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection142"Compile /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/openni/Source/External/TinyXml/tinyxmlerror.cpp65e19326105ab541^0edbb626105ab541^---0#0#0#-19%DVTDocumentLocation2@150"file://localhost/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/openni/Source/External/TinyXml/tinyxmlerror.cpp0000000000000000^2024"CompileC build/nestk/deps/openni/Source/External/TinyXml/RGBDemo.build/Release/TinyXml.build/Objects-normal/x86_64/tinyxmlerror.o nestk/deps/openni/Source/External/TinyXml/tinyxmlerror.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42    cd /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O3 "-DCMAKE_INTDIR=\"Release\"" "-DCUSTOM_SAMPLE_XML_PATH=\"config/SamplesConfig.xml\"" "-DCUSTOM_SAMPLE_USER_XML_PATH=\"config/Sample-User.xml\"" -DXN_USE_CUSTOM_MODULES_FILE=xn_modules_file -DUSE_GLUT -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -mmacosx-version-min=10.7 -I/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Release/include -I/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/macosx/libusb-7da756e -I/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/openni/Include -I/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk/deps/openni/Source/External/TinyXml/RGBDemo.build/Release/TinyXml.build/DerivedSources/x86_64 -I/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk/deps/openni/Source/External/TinyXml/RGBDemo.build/Release/TinyXml.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Release -DNDEBUG -c /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/openni/Source/External/TinyXml/tinyxmlerror.cpp -o /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk/deps/openni/Source/External/TinyXml/RGBDemo.build/Release/TinyXml.build/Objects-normal/x86_64/tinyxmlerror.o36"F643627F-9A0E-49B8-8D13-23E075CD7D7E-
-
-CCompileC build/nestk/deps/openni/Source/External/TinyXml/RGBDemo.build/Release/TinyXml.build/Objects-normal/x86_64/tinyxmlparser.o /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/openni/Source/External/TinyXml/tinyxmlparser.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
-s358223910.715801
-e358223911.081636
-r1
-xCompileC
-xbuild/nestk/deps/openni/Source/External/TinyXml/RGBDemo.build/Release/TinyXml.build/Objects-normal/x86_64/tinyxmlparser.o
-x/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/openni/Source/External/TinyXml/tinyxmlparser.cpp
-xnormal
-xx86_64
-xc++
-xcom.apple.compilers.llvmgcc42
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection143"Compile /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/openni/Source/External/TinyXml/tinyxmlparser.cppe657b726105ab541^b8e41427105ab541^---0#0#0#-19%DVTDocumentLocation2@151"file://localhost/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/openni/Source/External/TinyXml/tinyxmlparser.cpp0000000000000000^2028"CompileC build/nestk/deps/openni/Source/External/TinyXml/RGBDemo.build/Release/TinyXml.build/Objects-normal/x86_64/tinyxmlparser.o nestk/deps/openni/Source/External/TinyXml/tinyxmlparser.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42    cd /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O3 "-DCMAKE_INTDIR=\"Release\"" "-DCUSTOM_SAMPLE_XML_PATH=\"config/SamplesConfig.xml\"" "-DCUSTOM_SAMPLE_USER_XML_PATH=\"config/Sample-User.xml\"" -DXN_USE_CUSTOM_MODULES_FILE=xn_modules_file -DUSE_GLUT -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -mmacosx-version-min=10.7 -I/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Release/include -I/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/macosx/libusb-7da756e -I/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/openni/Include -I/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk/deps/openni/Source/External/TinyXml/RGBDemo.build/Release/TinyXml.build/DerivedSources/x86_64 -I/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk/deps/openni/Source/External/TinyXml/RGBDemo.build/Release/TinyXml.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Release -DNDEBUG -c /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/openni/Source/External/TinyXml/tinyxmlparser.cpp -o /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk/deps/openni/Source/External/TinyXml/RGBDemo.build/Release/TinyXml.build/Objects-normal/x86_64/tinyxmlparser.o36"807A237F-F989-41F9-AEE9-32E2561E0176-
-
-CLibtool /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Release/libTinyXml.a normal x86_64
-s358223911.087992
-e358223911.095315
-r1
-xLibtool
-x/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Release/libTinyXml.a
-xnormal
-xx86_64
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection52"Libtool build/lib/Release/libTinyXml.a normal x86_6420991627105ab541^f5661827105ab541^---0#0#0#--832"Libtool build/lib/Release/libTinyXml.a normal x86_64    cd /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo    setenv MACOSX_DEPLOYMENT_TARGET 10.7    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only x86_64 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk -L/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Release -filelist /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk/deps/openni/Source/External/TinyXml/RGBDemo.build/Release/TinyXml.build/Objects-normal/x86_64/TinyXml.LinkFileList -o /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Release/libTinyXml.a36"57AE477B-251E-4C34-9D40-6B4528A2C7B8-
-
-CPhaseScriptExecution "CMake PostBuild Rules" /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk/deps/openni/Source/External/TinyXml/RGBDemo.build/Release/TinyXml.build/Script-28AB93F8ADB1465B94672A1D.sh
-s358224242.819483
-e358224243.240959
-r1
-xPhaseScriptExecution
-xCMake PostBuild Rules
-x/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk/deps/openni/Source/External/TinyXml/RGBDemo.build/Release/TinyXml.build/Script-28AB93F8ADB1465B94672A1D.sh
-oecho "Depend check for xcode"
-oDepend check for xcode
-ocd /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk/deps/openni && make -C /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk/deps/openni -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk/deps/openni/CMakeScripts/XCODE_DEPEND_HELPER.make PostBuild.TinyXml.Release
-o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Release/libnimCommon.dylib
-o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Release/libnimCodecs.dylib
-o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Release/libnimMockNodes.dylib
-o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Release/libnimRecorder.dylib
-o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/niLicense
-o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/niReg
-o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Release/libXnCore.dylib
-o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Release/libXnFormats.dylib
-o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Release/libXnDDK.dylib
-o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Release/libXnDeviceFile.dylib
-o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Release/libXnDevicesSensorV2.dylib
-o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/XnSensorServer
-o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/Sample-Players
-o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/CircleControl
-o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/Boxes
-oecho "Depend check for xcode"
-oDepend check for xcode
-ocd /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build && make -C /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/CMakeScripts/XCODE_DEPEND_HELPER.make PostBuild.TinyXml.Release
-o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Release/libnimCommon.dylib
-o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Release/libnimCodecs.dylib
-o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Release/libnimMockNodes.dylib
-o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Release/libnimRecorder.dylib
-o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/niLicense
-o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/niReg
-o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Release/libXnCore.dylib
-o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Release/libXnFormats.dylib
-o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Release/libXnDDK.dylib
-o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Release/libXnDeviceFile.dylib
-o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Release/libXnDevicesSensorV2.dylib
-o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/XnSensorServer
-o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/Sample-Players
-o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/CircleControl
-o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/Boxes
-o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/grab-mesh
-o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/handpoint-tracking
-o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/libfreenect-backend
-o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/multiple-kinects
-o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/openni-backend
-o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/skeleton-tracking
-o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/synchronized-multiple-kinects
-o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/calibrate-kinect-ir
-o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/calibrate-multiple-kinects
-o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/calibrate-openni-depth
-o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/calibrate-openni-intrinsics
-o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/calibrate-projector
-o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/rgbd-reconstructor
-o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/rgbd-people-tracker
-o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/rgbd-skeletor
-oecho "Depend check for xcode"
-oDepend check for xcode
-ocd /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk && make -C /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk/CMakeScripts/XCODE_DEPEND_HELPER.make PostBuild.TinyXml.Release
-o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Release/libnimCommon.dylib
-o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Release/libnimCodecs.dylib
-o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Release/libnimMockNodes.dylib
-o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Release/libnimRecorder.dylib
-o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/niLicense
-o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/niReg
-o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Release/libXnCore.dylib
-o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Release/libXnFormats.dylib
-o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Release/libXnDDK.dylib
-o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Release/libXnDeviceFile.dylib
-o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Release/libXnDevicesSensorV2.dylib
-o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/XnSensorServer
-o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/Sample-Players
-o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/CircleControl
-o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/Boxes
-o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/grab-mesh
-o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/handpoint-tracking
-o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/libfreenect-backend
-o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/multiple-kinects
-o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/openni-backend
-o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/skeleton-tracking
-o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/synchronized-multiple-kinects
-oecho "Depend check for xcode"
-oDepend check for xcode
-ocd /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk/deps && make -C /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk/deps -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk/deps/CMakeScripts/XCODE_DEPEND_HELPER.make PostBuild.TinyXml.Release
-o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Release/libnimCommon.dylib
-o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Release/libnimCodecs.dylib
-o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Release/libnimMockNodes.dylib
-o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Release/libnimRecorder.dylib
-o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/niLicense
-o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/niReg
-o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Release/libXnCore.dylib
-o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Release/libXnFormats.dylib
-o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Release/libXnDDK.dylib
-o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Release/libXnDeviceFile.dylib
-o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Release/libXnDevicesSensorV2.dylib
-o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/XnSensorServer
-o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/Sample-Players
-o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/CircleControl
-o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/Boxes
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection47"Run custom shell script 'CMake PostBuild Rules'4c51d272115ab541^d9d03d73115ab541^-11648"echo "Depend check for xcode"Depend check for xcodecd /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk/deps/openni && make -C /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk/deps/openni -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk/deps/openni/CMakeScripts/XCODE_DEPEND_HELPER.make PostBuild.TinyXml.Release/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Release/libnimCommon.dylib/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Release/libnimCodecs.dylib/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Release/libnimMockNodes.dylib/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Release/libnimRecorder.dylib/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/niLicense/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/niReg/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Release/libXnCore.dylib/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Release/libXnFormats.dylib/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Release/libXnDDK.dylib/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Release/libXnDeviceFile.dylib/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Release/libXnDevicesSensorV2.dylib/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/XnSensorServer/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/Sample-Players/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/CircleControl/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/Boxesecho "Depend check for xcode"Depend check for xcodecd /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build && make -C /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/CMakeScripts/XCODE_DEPEND_HELPER.make PostBuild.TinyXml.Release/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Release/libnimCommon.dylib/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Release/libnimCodecs.dylib/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Release/libnimMockNodes.dylib/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Release/libnimRecorder.dylib/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/niLicense/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/niReg/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Release/libXnCore.dylib/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Release/libXnFormats.dylib/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Release/libXnDDK.dylib/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Release/libXnDeviceFile.dylib/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Release/libXnDevicesSensorV2.dylib/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/XnSensorServer/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/Sample-Players/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/CircleControl/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/Boxes/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/grab-mesh/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/handpoint-tracking/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/libfreenect-backend/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/multiple-kinects/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/openni-backend/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/skeleton-tracking/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/synchronized-multiple-kinects/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/calibrate-kinect-ir/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/calibrate-multiple-kinects/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/calibrate-openni-depth/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/calibrate-openni-intrinsics/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/calibrate-projector/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/rgbd-reconstructor/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/rgbd-people-tracker/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/rgbd-skeletorecho "Depend check for xcode"Depend check for xcodecd /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk && make -C /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk/CMakeScripts/XCODE_DEPEND_HELPER.make PostBuild.TinyXml.Release/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Release/libnimCommon.dylib/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Release/libnimCodecs.dylib/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Release/libnimMockNodes.dylib/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Release/libnimRecorder.dylib/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/niLicense/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/niReg/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Release/libXnCore.dylib/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Release/libXnFormats.dylib/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Release/libXnDDK.dylib/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Release/libXnDeviceFile.dylib/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Release/libXnDevicesSensorV2.dylib/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/XnSensorServer/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/Sample-Players/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/CircleControl/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/Boxes/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/grab-mesh/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/handpoint-tracking/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/libfreenect-backend/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/multiple-kinects/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/openni-backend/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/skeleton-tracking/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/synchronized-multiple-kinectsecho "Depend check for xcode"Depend check for xcodecd /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk/deps && make -C /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk/deps -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk/deps/CMakeScripts/XCODE_DEPEND_HELPER.make PostBuild.TinyXml.Release/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Release/libnimCommon.dylib/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Release/libnimCodecs.dylib/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Release/libnimMockNodes.dylib/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Release/libnimRecorder.dylib/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/niLicense/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/niReg/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Release/libXnCore.dylib/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Release/libXnFormats.dylib/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Release/libXnDDK.dylib/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Release/libXnDeviceFile.dylib/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Release/libXnDevicesSensorV2.dylib/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/XnSensorServer/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/Sample-Players/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/CircleControl/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/Boxes94(21%IDEActivityLogMessage2@30"echo "Depend check for xcode"-358224242#0#30#-0#-----2@23"Depend check for xcode-358224242#30#23#-0#-----2@381"cd /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk/deps/openni && make -C /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk/deps/openni -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk/deps/openni/CMakeScripts/XCODE_DEPEND_HELPER.make PostBuild.TinyXml.Release-358224242#53#381#-0#-----2@124"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Release/libnimCommon.dylib-358224242#434#124#-0#-----2@124"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Release/libnimCodecs.dylib-358224242#558#124#-0#-----2@127"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Release/libnimMockNodes.dylib-358224242#682#127#-0#-----2@126"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Release/libnimRecorder.dylib-358224242#809#126#-0#-----2@115"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/niLicense-358224242#935#115#-0#-----2@111"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/niReg-358224242#1050#111#-0#-----2@121"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Release/libXnCore.dylib-358224242#1161#121#-0#-----2@124"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Release/libXnFormats.dylib-358224242#1282#124#-0#-----2@120"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Release/libXnDDK.dylib-358224242#1406#120#-0#-----2@127"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Release/libXnDeviceFile.dylib-358224242#1526#127#-0#-----2@132"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Release/libXnDevicesSensorV2.dylib-358224242#1653#132#-0#-----2@120"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/XnSensorServer-358224242#1785#120#-0#-----2@120"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/Sample-Players-358224242#1905#120#-0#-----2@119"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/CircleControl-358224242#2025#119#-0#-----2@111"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/Boxes-358224242#2144#111#-0#-----2@30"echo "Depend check for xcode"-358224242#2255#30#-0#-----2@23"Depend check for xcode-358224242#2285#23#-0#-----2@327"cd /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build && make -C /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/CMakeScripts/XCODE_DEPEND_HELPER.make PostBuild.TinyXml.Release-358224242#2308#327#-0#-----2@124"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Release/libnimCommon.dylib-358224243#2635#124#-0#-----2@124"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Release/libnimCodecs.dylib-358224243#2759#124#-0#-----2@127"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Release/libnimMockNodes.dylib-358224243#2883#127#-0#-----2@126"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Release/libnimRecorder.dylib-358224243#3010#126#-0#-----2@115"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/niLicense-358224243#3136#115#-0#-----2@111"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/niReg-358224243#3251#111#-0#-----2@121"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Release/libXnCore.dylib-358224243#3362#121#-0#-----2@124"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Release/libXnFormats.dylib-358224243#3483#124#-0#-----2@120"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Release/libXnDDK.dylib-358224243#3607#120#-0#-----2@127"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Release/libXnDeviceFile.dylib-358224243#3727#127#-0#-----2@132"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Release/libXnDevicesSensorV2.dylib-358224243#3854#132#-0#-----2@120"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/XnSensorServer-358224243#3986#120#-0#-----2@120"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/Sample-Players-358224243#4106#120#-0#-----2@119"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/CircleControl-358224243#4226#119#-0#-----2@111"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/Boxes-358224243#4345#111#-0#-----2@115"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/grab-mesh-358224243#4456#115#-0#-----2@124"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/handpoint-tracking-358224243#4571#124#-0#-----2@125"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/libfreenect-backend-358224243#4695#125#-0#-----2@122"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/multiple-kinects-358224243#4820#122#-0#-----2@120"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/openni-backend-358224243#4942#120#-0#-----2@123"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/skeleton-tracking-358224243#5062#123#-0#-----2@135"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/synchronized-multiple-kinects-358224243#5185#135#-0#-----2@125"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/calibrate-kinect-ir-358224243#5320#125#-0#-----2@132"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/calibrate-multiple-kinects-358224243#5445#132#-0#-----2@128"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/calibrate-openni-depth-358224243#5577#128#-0#-----2@133"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/calibrate-openni-intrinsics-358224243#5705#133#-0#-----2@125"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/calibrate-projector-358224243#5838#125#-0#-----2@124"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/rgbd-reconstructor-358224243#5963#124#-0#-----2@125"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/rgbd-people-tracker-358224243#6087#125#-0#-----2@119"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/rgbd-skeletor-358224243#6212#119#-0#-----2@30"echo "Depend check for xcode"-358224243#6331#30#-0#-----2@23"Depend check for xcode-358224243#6361#23#-0#-----2@345"cd /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk && make -C /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk/CMakeScripts/XCODE_DEPEND_HELPER.make PostBuild.TinyXml.Release-358224243#6384#345#-0#-----2@124"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Release/libnimCommon.dylib-358224243#6729#124#-0#-----2@124"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Release/libnimCodecs.dylib-358224243#6853#124#-0#-----2@127"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Release/libnimMockNodes.dylib-358224243#6977#127#-0#-----2@126"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Release/libnimRecorder.dylib-358224243#7104#126#-0#-----2@115"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/niLicense-358224243#7230#115#-0#-----2@111"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/niReg-358224243#7345#111#-0#-----2@121"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Release/libXnCore.dylib-358224243#7456#121#-0#-----2@124"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Release/libXnFormats.dylib-358224243#7577#124#-0#-----2@120"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Release/libXnDDK.dylib-358224243#7701#120#-0#-----2@127"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Release/libXnDeviceFile.dylib-358224243#7821#127#-0#-----2@132"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Release/libXnDevicesSensorV2.dylib-358224243#7948#132#-0#-----2@120"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/XnSensorServer-358224243#8080#120#-0#-----2@120"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/Sample-Players-358224243#8200#120#-0#-----2@119"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/CircleControl-358224243#8320#119#-0#-----2@111"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/Boxes-358224243#8439#111#-0#-----2@115"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/grab-mesh-358224243#8550#115#-0#-----2@124"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/handpoint-tracking-358224243#8665#124#-0#-----2@125"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/libfreenect-backend-358224243#8789#125#-0#-----2@122"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/multiple-kinects-358224243#8914#122#-0#-----2@120"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/openni-backend-358224243#9036#120#-0#-----2@123"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/skeleton-tracking-358224243#9156#123#-0#-----2@135"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/synchronized-multiple-kinects-358224243#9279#135#-0#-----2@30"echo "Depend check for xcode"-358224243#9414#30#-0#-----2@23"Depend check for xcode-358224243#9444#23#-0#-----2@360"cd /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk/deps && make -C /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk/deps -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk/deps/CMakeScripts/XCODE_DEPEND_HELPER.make PostBuild.TinyXml.Release-358224243#9467#360#-0#-----2@124"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Release/libnimCommon.dylib-358224243#9827#124#-0#-----2@124"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Release/libnimCodecs.dylib-358224243#9951#124#-0#-----2@127"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Release/libnimMockNodes.dylib-358224243#10075#127#-0#-----2@126"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Release/libnimRecorder.dylib-358224243#10202#126#-0#-----2@115"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/niLicense-358224243#10328#115#-0#-----2@111"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/niReg-358224243#10443#111#-0#-----2@121"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Release/libXnCore.dylib-358224243#10554#121#-0#-----2@124"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Release/libXnFormats.dylib-358224243#10675#124#-0#-----2@120"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Release/libXnDDK.dylib-358224243#10799#120#-0#-----2@127"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Release/libXnDeviceFile.dylib-358224243#10919#127#-0#-----2@132"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Release/libXnDevicesSensorV2.dylib-358224243#11046#132#-0#-----2@120"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/XnSensorServer-358224243#11178#120#-0#-----2@120"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/Sample-Players-358224243#11298#120#-0#-----2@119"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/CircleControl-358224243#11418#119#-0#-----2@111"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Release/Boxes-358224243#11537#111#-0#-----0#0#0#--457"PhaseScriptExecution "CMake PostBuild Rules" build/nestk/deps/openni/Source/External/TinyXml/RGBDemo.build/Release/TinyXml.build/Script-28AB93F8ADB1465B94672A1D.sh    cd /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo    /bin/sh -c /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk/deps/openni/Source/External/TinyXml/RGBDemo.build/Release/TinyXml.build/Script-28AB93F8ADB1465B94672A1D.sh36"5A989022-BDBB-47BF-9846-8220BD4449FD-
-

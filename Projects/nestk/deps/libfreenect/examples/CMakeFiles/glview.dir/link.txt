@@ -1,1 +1,0 @@
-/usr/bin/gcc  -Wall -O2 -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names -framework OpenGL -framework GLUT CMakeFiles/glview.dir/glview.c.o  -o ../../../../bin/glview  ../../../../lib/libfreenect.0.0.1.dylib ../../../../lib/libusb.dylib -framework IOKit -framework CoreFoundation 

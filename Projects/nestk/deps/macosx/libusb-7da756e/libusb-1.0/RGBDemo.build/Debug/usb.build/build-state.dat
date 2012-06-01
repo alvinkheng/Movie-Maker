@@ -1,535 +1,0 @@
-Tusb
-v5
-r1
-cCheck dependencies
-cCompileC build/nestk/deps/macosx/libusb-7da756e/libusb-1.0/RGBDemo.build/Debug/usb.build/Objects-normal/x86_64/core.o /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/macosx/libusb-7da756e/libusb-1.0/core.c normal x86_64 c com.apple.compilers.llvmgcc42
-cCompileC build/nestk/deps/macosx/libusb-7da756e/libusb-1.0/RGBDemo.build/Debug/usb.build/Objects-normal/x86_64/descriptor.o /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/macosx/libusb-7da756e/libusb-1.0/descriptor.c normal x86_64 c com.apple.compilers.llvmgcc42
-cCompileC build/nestk/deps/macosx/libusb-7da756e/libusb-1.0/RGBDemo.build/Debug/usb.build/Objects-normal/x86_64/io.o /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/macosx/libusb-7da756e/libusb-1.0/io.c normal x86_64 c com.apple.compilers.llvmgcc42
-cCompileC build/nestk/deps/macosx/libusb-7da756e/libusb-1.0/RGBDemo.build/Debug/usb.build/Objects-normal/x86_64/sync.o /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/macosx/libusb-7da756e/libusb-1.0/sync.c normal x86_64 c com.apple.compilers.llvmgcc42
-cCompileC build/nestk/deps/macosx/libusb-7da756e/libusb-1.0/RGBDemo.build/Debug/usb.build/Objects-normal/x86_64/darwin_usb.o /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/macosx/libusb-7da756e/libusb-1.0/os/darwin_usb.c normal x86_64 c com.apple.compilers.llvmgcc42
-cLd /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Debug/libusb.dylib normal x86_64
-cPhaseScriptExecution "CMake PostBuild Rules" /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk/deps/macosx/libusb-7da756e/libusb-1.0/RGBDemo.build/Debug/usb.build/Script-B96FD23834FF45F686740AD1.sh
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk
-c000000004F29C61A00000000000000EE
-t1328137754
-s238
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/IOKit.framework/Headers/IOCFBundle.h
-c000000004F6A243C00000000000005D0
-t1332356156
-s1488
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/IOKit.framework/Headers/IOCFPlugIn.h
-c000000004F6A243C00000000000008FD
-t1332356156
-s2301
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/IOKit.framework/Headers/IOTypes.h
-c000000004F6A243C00000000000016BB
-t1332356156
-s5819
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/IOKit.framework/Headers/usb/IOUSBLib.h
-c000000004F6A243C000000000002C50B
-t1332356156
-s181515
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/ctype.h
-c000000004F6A24400000000000002C18
-t1332356160
-s11288
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/dirent.h
-c000000004F6A24400000000000001707
-t1332356160
-s5895
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/errno.h
-c000000004F6A244000000000000003EB
-t1332356160
-s1003
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/fcntl.h
-c000000004F6A244000000000000003EA
-t1332356160
-s1002
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/mach/clock.h
-c000000004F6A2440000000000000147C
-t1332356160
-s5244
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/mach/clock_types.h
-c000000004F6A24400000000000001019
-t1332356160
-s4121
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/mach/mach_host.h
-c000000004F6A2440000000000000538E
-t1332356160
-s21390
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/mach/mach_port.h
-c000000004F6A244000000000000077E0
-t1332356160
-s30688
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/poll.h
-c000000004F6A244100000000000003EC
-t1332356161
-s1004
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/pthread.h
-c000000004F6A24410000000000003CF0
-t1332356161
-s15600
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/signal.h
-c000000004F6A244100000000000014F0
-t1332356161
-s5360
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/stdint.h
-c000000004F6A244100000000000018EF
-t1332356161
-s6383
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/stdio.h
-c000000004F6A24410000000000004763
-t1332356161
-s18275
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/stdlib.h
-c000000004F6A244100000000000030A7
-t1332356161
-s12455
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/string.h
-c000000004F6A24410000000000001A3A
-t1332356161
-s6714
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/sys/_types.h
-c000000004F6A24410000000000001845
-t1332356161
-s6213
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/sys/ioctl.h
-c000000004F6A2441000000000000116C
-t1332356161
-s4460
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/sys/stat.h
-c000000004F6A24410000000000004B2F
-t1332356161
-s19247
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/sys/time.h
-c000000004F6A24410000000000001E64
-t1332356161
-s7780
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/sys/types.h
-c000000004F6A24410000000000002905
-t1332356161
-s10501
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/time.h
-c000000004F6A2441000000000000178E
-t1332356161
-s6030
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/unistd.h
-c000000004F6A24410000000000006662
-t1332356161
-s26210
-
-N/Applications/Xcode.app/Contents/Developer/usr/llvm-gcc-4.2/lib/gcc/i686-apple-darwin11/4.2.1/include/limits.h
-c000000004F6A24460000000000000D03
-t1332356166
-s3331
-i"syslimits.h"
-
-N/Applications/Xcode.app/Contents/Developer/usr/llvm-gcc-4.2/lib/gcc/i686-apple-darwin11/4.2.1/include/stdarg.h
-c000000004F6A244600000000000010DD
-t1332356166
-s4317
-
-N/Applications/Xcode.app/Contents/Developer/usr/llvm-gcc-4.2/lib/gcc/i686-apple-darwin11/4.2.1/include/stddef.h
-c000000004F6A24460000000000003197
-t1332356166
-s12695
-i<machine/ansi.h>
-i<sys/_types.h>
-
-N/Applications/Xcode.app/Contents/Developer/usr/llvm-gcc-4.2/lib/gcc/i686-apple-darwin11/4.2.1/include/syslimits.h
-c000000004F6A24460000000000000155
-t1332356166
-s341
-
-N/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Debug/libusb.dylib
-t1336289504
-s94952
-
-N/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk/deps/macosx/libusb-7da756e/libusb-1.0/RGBDemo.build/Debug/usb.build/Objects-normal/x86_64/core.o
-t1336289502
-s47336
-
-N/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk/deps/macosx/libusb-7da756e/libusb-1.0/RGBDemo.build/Debug/usb.build/Objects-normal/x86_64/darwin_usb.o
-t1336289503
-s73020
-
-N/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk/deps/macosx/libusb-7da756e/libusb-1.0/RGBDemo.build/Debug/usb.build/Objects-normal/x86_64/descriptor.o
-t1336289502
-s28640
-
-N/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk/deps/macosx/libusb-7da756e/libusb-1.0/RGBDemo.build/Debug/usb.build/Objects-normal/x86_64/io.o
-t1336289502
-s38844
-
-N/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk/deps/macosx/libusb-7da756e/libusb-1.0/RGBDemo.build/Debug/usb.build/Objects-normal/x86_64/sync.o
-t1336289502
-s15716
-
-N/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk/deps/macosx/libusb-7da756e/libusb-1.0/RGBDemo.build/Debug/usb.build/Objects-normal/x86_64/usb.LinkFileList
-c000000004FA628DD00000000000003A7
-t1336289501
-s935
-
-N/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk/deps/macosx/libusb-7da756e/libusb-1.0/RGBDemo.build/Debug/usb.build/Script-B96FD23834FF45F686740AD1.sh
-c000000004FA628DD0000000000000148
-t1336289501
-s328
-
-N/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/macosx/libusb-7da756e/libusb-1.0/config.h
-c000000004FA45A750000000000000AF6
-t1336171125
-s2806
-
-N/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/macosx/libusb-7da756e/libusb-1.0/core.c
-c000000004FA45A75000000000000E9BB
-t1336171125
-s59835
-i<config.h>
-i<errno.h>
-i<stdarg.h>
-i<stdio.h>
-i<stdlib.h>
-i<string.h>
-i<sys/types.h>
-i"libusbi.h"
-
-N/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/macosx/libusb-7da756e/libusb-1.0/descriptor.c
-c000000004FA45A750000000000004C5F
-t1336171125
-s19551
-i<errno.h>
-i<stdint.h>
-i<stdlib.h>
-i<string.h>
-i"libusbi.h"
-
-N/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/macosx/libusb-7da756e/libusb-1.0/io.c
-c000000004FA45A7500000000000161F5
-t1336171125
-s90613
-i<config.h>
-i<errno.h>
-i<signal.h>
-i<stdint.h>
-i<stdlib.h>
-i<string.h>
-i<time.h>
-i<sys/time.h>
-i<sys/timerfd.h>
-i"libusbi.h"
-
-N/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/macosx/libusb-7da756e/libusb-1.0/libusb.h
-c000000004FA45A75000000000000AFE5
-t1336171125
-s45029
-i<stdint.h>
-i<sys/types.h>
-i<time.h>
-i<limits.h>
-i<sys/time.h>
-i<windows.h>
-
-N/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/macosx/libusb-7da756e/libusb-1.0/libusbi.h
-c000000004FA45A750000000000007A6E
-t1336171125
-s31342
-i<config.h>
-i<stddef.h>
-i<stdint.h>
-i<time.h>
-i<libusb.h>
-i<os/threads_posix.h>
-i<os/threads_windows.h>
-i<os/poll_posix.h>
-i<os/poll_windows.h>
-
-N/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/macosx/libusb-7da756e/libusb-1.0/os/darwin_usb.c
-c000000004FA45A75000000000000D5D8
-t1336171125
-s54744
-i<config.h>
-i<ctype.h>
-i<dirent.h>
-i<errno.h>
-i<fcntl.h>
-i<pthread.h>
-i<stdio.h>
-i<stdlib.h>
-i<string.h>
-i<sys/ioctl.h>
-i<sys/stat.h>
-i<sys/types.h>
-i<unistd.h>
-i<mach/clock.h>
-i<mach/clock_types.h>
-i<mach/mach_host.h>
-i<mach/mach_port.h>
-i<IOKit/IOCFBundle.h>
-i<IOKit/usb/IOUSBLib.h>
-i<IOKit/IOCFPlugIn.h>
-i"darwin_usb.h"
-
-N/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/macosx/libusb-7da756e/libusb-1.0/os/darwin_usb.h
-c000000004FA45A7500000000000011EF
-t1336171125
-s4591
-i"libusbi.h"
-i<IOKit/IOTypes.h>
-i<IOKit/IOCFBundle.h>
-i<IOKit/usb/IOUSBLib.h>
-i<IOKit/IOCFPlugIn.h>
-
-N/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/macosx/libusb-7da756e/libusb-1.0/os/poll_posix.h
-c000000004FA45A750000000000000104
-t1336171125
-s260
-i<unistd.h>
-i<poll.h>
-
-N/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/macosx/libusb-7da756e/libusb-1.0/os/poll_windows.h
-c000000004FA45A7500000000000010D2
-t1336171125
-s4306
-i<winsock.h>
-
-N/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/macosx/libusb-7da756e/libusb-1.0/os/threads_posix.h
-c000000004FA45A7500000000000006FF
-t1336171125
-s1791
-i<pthread.h>
-
-N/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/macosx/libusb-7da756e/libusb-1.0/os/threads_windows.h
-c000000004FA45A750000000000000A9D
-t1336171125
-s2717
-
-N/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/macosx/libusb-7da756e/libusb-1.0/sync.c
-c000000004FA45A750000000000002BDF
-t1336171125
-s11231
-i<config.h>
-i<errno.h>
-i<stdint.h>
-i<stdlib.h>
-i<string.h>
-i"libusbi.h"
-
-CBuild AST from /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/macosx/libusb-7da756e/libusb-1.0/core.c
-r0
-
-CBuild AST from /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/macosx/libusb-7da756e/libusb-1.0/descriptor.c
-r0
-
-CBuild AST from /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/macosx/libusb-7da756e/libusb-1.0/io.c
-r0
-
-CBuild AST from /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/macosx/libusb-7da756e/libusb-1.0/os/darwin_usb.c
-r0
-
-CBuild AST from /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/macosx/libusb-7da756e/libusb-1.0/sync.c
-r0
-
-CCheck dependencies
-r0
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciesd49ecedc0e5ab541^7e54cfdc0e5ab541^---0#1#0#--18"Check dependencies36"DA4F912F-0C05-4C9B-B064-3E012537065D-
-
-CCompileC build/nestk/deps/macosx/libusb-7da756e/libusb-1.0/RGBDemo.build/Debug/usb.build/Objects-normal/x86_64/core.o /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/macosx/libusb-7da756e/libusb-1.0/core.c normal x86_64 c com.apple.compilers.llvmgcc42
-s357982301.811341
-e357982302.474973
-r1
-xCompileC
-xbuild/nestk/deps/macosx/libusb-7da756e/libusb-1.0/RGBDemo.build/Debug/usb.build/Objects-normal/x86_64/core.o
-x/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/macosx/libusb-7da756e/libusb-1.0/core.c
-xnormal
-xx86_64
-xc
-xcom.apple.compilers.llvmgcc42
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection134"Compile /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/macosx/libusb-7da756e/libusb-1.0/core.c4bc8cf5d6056b541^7097795e6056b541^---0#0#0#-19%DVTDocumentLocation2@142"file://localhost/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/macosx/libusb-7da756e/libusb-1.0/core.c0000000000000000^1732"CompileC build/nestk/deps/macosx/libusb-7da756e/libusb-1.0/RGBDemo.build/Debug/usb.build/Objects-normal/x86_64/core.o nestk/deps/macosx/libusb-7da756e/libusb-1.0/core.c normal x86_64 c com.apple.compilers.llvmgcc42    cd /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 "-DCMAKE_INTDIR=\"Debug\"" -Dusb_EXPORTS -DNDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -mmacosx-version-min=10.7 -gdwarf-2 -I/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Debug/include -I/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/macosx/libusb-7da756e/libusb-1.0 -I/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk/deps/macosx/libusb-7da756e/libusb-1.0/RGBDemo.build/Debug/usb.build/DerivedSources/x86_64 -I/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk/deps/macosx/libusb-7da756e/libusb-1.0/RGBDemo.build/Debug/usb.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Debug -fPIC -c /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/macosx/libusb-7da756e/libusb-1.0/core.c -o /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk/deps/macosx/libusb-7da756e/libusb-1.0/RGBDemo.build/Debug/usb.build/Objects-normal/x86_64/core.o36"6E7A3575-43F0-4937-9B2B-ADE17382DFF4-
-
-CCompileC build/nestk/deps/macosx/libusb-7da756e/libusb-1.0/RGBDemo.build/Debug/usb.build/Objects-normal/x86_64/darwin_usb.o /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/macosx/libusb-7da756e/libusb-1.0/os/darwin_usb.c normal x86_64 c com.apple.compilers.llvmgcc42
-s357982302.932844
-e357982303.648869
-r1
-xCompileC
-xbuild/nestk/deps/macosx/libusb-7da756e/libusb-1.0/RGBDemo.build/Debug/usb.build/Objects-normal/x86_64/darwin_usb.o
-x/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/macosx/libusb-7da756e/libusb-1.0/os/darwin_usb.c
-xnormal
-xx86_64
-xc
-xcom.apple.compilers.llvmgcc42
-o/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/macosx/libusb-7da756e/libusb-1.0/os/darwin_usb.c: In function 'event_thread_main':
-o/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/macosx/libusb-7da756e/libusb-1.0/os/darwin_usb.c:289: warning: cast to pointer from integer of different size
-o/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/macosx/libusb-7da756e/libusb-1.0/os/darwin_usb.c: At top level:
-o/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/macosx/libusb-7da756e/libusb-1.0/os/darwin_usb.c:58: warning: 'darwin_error_str' defined but not used
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection143"Compile /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/macosx/libusb-7da756e/libusb-1.0/os/darwin_usb.c15e5ee5e6056b541^3e26a65f6056b541^-707"/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/macosx/libusb-7da756e/libusb-1.0/os/darwin_usb.c: In function 'event_thread_main':/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/macosx/libusb-7da756e/libusb-1.0/os/darwin_usb.c:289: warning: cast to pointer from integer of different size/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/macosx/libusb-7da756e/libusb-1.0/os/darwin_usb.c: At top level:/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/macosx/libusb-7da756e/libusb-1.0/os/darwin_usb.c:58: warning: 'darwin_error_str' defined but not used3(21%IDEActivityLogMessage2@46"Cast to pointer from integer of different size-357982303#170#197#-1#-23%DVTTextDocumentLocation3@151"file://localhost/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/macosx/libusb-7da756e/libusb-1.0/os/darwin_usb.c0000000000000000^288#18446744073709551615#288#18446744073709551615#18446744073709551615#0#46"Cast to pointer from integer of different size--32%IDEActivityLogContextInfoMessage4@13"At top level:-357982303#367#151#-0#-3@151"file://localhost/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/macosx/libusb-7da756e/libusb-1.0/os/darwin_usb.c0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#19"LLVM GCC 4.2 Notice--2@39"'darwin_error_str' defined but not used-357982303#518#189#-1#-3@151"file://localhost/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/macosx/libusb-7da756e/libusb-1.0/os/darwin_usb.c0000000000000000^57#18446744073709551615#57#18446744073709551615#18446744073709551615#0#24"'*' defined but not used--0#0#0#-19%DVTDocumentLocation5@151"file://localhost/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/macosx/libusb-7da756e/libusb-1.0/os/darwin_usb.c0000000000000000^1762"CompileC build/nestk/deps/macosx/libusb-7da756e/libusb-1.0/RGBDemo.build/Debug/usb.build/Objects-normal/x86_64/darwin_usb.o nestk/deps/macosx/libusb-7da756e/libusb-1.0/os/darwin_usb.c normal x86_64 c com.apple.compilers.llvmgcc42    cd /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 "-DCMAKE_INTDIR=\"Debug\"" -Dusb_EXPORTS -DNDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -mmacosx-version-min=10.7 -gdwarf-2 -I/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Debug/include -I/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/macosx/libusb-7da756e/libusb-1.0 -I/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk/deps/macosx/libusb-7da756e/libusb-1.0/RGBDemo.build/Debug/usb.build/DerivedSources/x86_64 -I/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk/deps/macosx/libusb-7da756e/libusb-1.0/RGBDemo.build/Debug/usb.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Debug -fPIC -c /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/macosx/libusb-7da756e/libusb-1.0/os/darwin_usb.c -o /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk/deps/macosx/libusb-7da756e/libusb-1.0/RGBDemo.build/Debug/usb.build/Objects-normal/x86_64/darwin_usb.o36"6A96C7A9-B9F0-4D26-B954-B15842459D57-
-
-CCompileC build/nestk/deps/macosx/libusb-7da756e/libusb-1.0/RGBDemo.build/Debug/usb.build/Objects-normal/x86_64/descriptor.o /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/macosx/libusb-7da756e/libusb-1.0/descriptor.c normal x86_64 c com.apple.compilers.llvmgcc42
-s357982302.476262
-e357982302.585922
-r1
-xCompileC
-xbuild/nestk/deps/macosx/libusb-7da756e/libusb-1.0/RGBDemo.build/Debug/usb.build/Objects-normal/x86_64/descriptor.o
-x/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/macosx/libusb-7da756e/libusb-1.0/descriptor.c
-xnormal
-xx86_64
-xc
-xcom.apple.compilers.llvmgcc42
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection140"Compile /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/macosx/libusb-7da756e/libusb-1.0/descriptor.c10027a5e6056b541^fa0a965e6056b541^---0#0#0#-19%DVTDocumentLocation2@148"file://localhost/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/macosx/libusb-7da756e/libusb-1.0/descriptor.c0000000000000000^1756"CompileC build/nestk/deps/macosx/libusb-7da756e/libusb-1.0/RGBDemo.build/Debug/usb.build/Objects-normal/x86_64/descriptor.o nestk/deps/macosx/libusb-7da756e/libusb-1.0/descriptor.c normal x86_64 c com.apple.compilers.llvmgcc42    cd /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 "-DCMAKE_INTDIR=\"Debug\"" -Dusb_EXPORTS -DNDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -mmacosx-version-min=10.7 -gdwarf-2 -I/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Debug/include -I/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/macosx/libusb-7da756e/libusb-1.0 -I/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk/deps/macosx/libusb-7da756e/libusb-1.0/RGBDemo.build/Debug/usb.build/DerivedSources/x86_64 -I/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk/deps/macosx/libusb-7da756e/libusb-1.0/RGBDemo.build/Debug/usb.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Debug -fPIC -c /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/macosx/libusb-7da756e/libusb-1.0/descriptor.c -o /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk/deps/macosx/libusb-7da756e/libusb-1.0/RGBDemo.build/Debug/usb.build/Objects-normal/x86_64/descriptor.o36"C1574B86-6658-40A9-80DC-FAC0F6A7873E-
-
-CCompileC build/nestk/deps/macosx/libusb-7da756e/libusb-1.0/RGBDemo.build/Debug/usb.build/Objects-normal/x86_64/io.o /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/macosx/libusb-7da756e/libusb-1.0/io.c normal x86_64 c com.apple.compilers.llvmgcc42
-s357982302.587141
-e357982302.810147
-r1
-xCompileC
-xbuild/nestk/deps/macosx/libusb-7da756e/libusb-1.0/RGBDemo.build/Debug/usb.build/Objects-normal/x86_64/io.o
-x/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/macosx/libusb-7da756e/libusb-1.0/io.c
-xnormal
-xx86_64
-xc
-xcom.apple.compilers.llvmgcc42
-o/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/macosx/libusb-7da756e/libusb-1.0/io.c:1701: warning: 'handle_timeout' defined but not used
-o/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/macosx/libusb-7da756e/libusb-1.0/io.c:1715: warning: 'handle_timeouts_locked' defined but not used
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection132"Compile /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/macosx/libusb-7da756e/libusb-1.0/io.c3562965e6056b541^5665cf5e6056b541^-364"/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/macosx/libusb-7da756e/libusb-1.0/io.c:1701: warning: 'handle_timeout' defined but not used/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/macosx/libusb-7da756e/libusb-1.0/io.c:1715: warning: 'handle_timeouts_locked' defined but not used2(21%IDEActivityLogMessage2@37"'handle_timeout' defined but not used-357982302#0#178#-1#-23%DVTTextDocumentLocation3@140"file://localhost/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/macosx/libusb-7da756e/libusb-1.0/io.c0000000000000000^1700#18446744073709551615#1700#18446744073709551615#18446744073709551615#0#24"'*' defined but not used--2@45"'handle_timeouts_locked' defined but not used-357982302#178#186#-1#-3@140"file://localhost/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/macosx/libusb-7da756e/libusb-1.0/io.c0000000000000000^1714#18446744073709551615#1714#18446744073709551615#18446744073709551615#0#24"'*' defined but not used--0#0#0#-19%DVTDocumentLocation4@140"file://localhost/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/macosx/libusb-7da756e/libusb-1.0/io.c0000000000000000^1724"CompileC build/nestk/deps/macosx/libusb-7da756e/libusb-1.0/RGBDemo.build/Debug/usb.build/Objects-normal/x86_64/io.o nestk/deps/macosx/libusb-7da756e/libusb-1.0/io.c normal x86_64 c com.apple.compilers.llvmgcc42    cd /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 "-DCMAKE_INTDIR=\"Debug\"" -Dusb_EXPORTS -DNDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -mmacosx-version-min=10.7 -gdwarf-2 -I/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Debug/include -I/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/macosx/libusb-7da756e/libusb-1.0 -I/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk/deps/macosx/libusb-7da756e/libusb-1.0/RGBDemo.build/Debug/usb.build/DerivedSources/x86_64 -I/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk/deps/macosx/libusb-7da756e/libusb-1.0/RGBDemo.build/Debug/usb.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Debug -fPIC -c /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/macosx/libusb-7da756e/libusb-1.0/io.c -o /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk/deps/macosx/libusb-7da756e/libusb-1.0/RGBDemo.build/Debug/usb.build/Objects-normal/x86_64/io.o36"2A6FBF9A-8A11-443C-A721-001241BD7641-
-
-CCompileC build/nestk/deps/macosx/libusb-7da756e/libusb-1.0/RGBDemo.build/Debug/usb.build/Objects-normal/x86_64/sync.o /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/macosx/libusb-7da756e/libusb-1.0/sync.c normal x86_64 c com.apple.compilers.llvmgcc42
-s357982302.811450
-e357982302.931584
-r1
-xCompileC
-xbuild/nestk/deps/macosx/libusb-7da756e/libusb-1.0/RGBDemo.build/Debug/usb.build/Objects-normal/x86_64/sync.o
-x/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/macosx/libusb-7da756e/libusb-1.0/sync.c
-xnormal
-xx86_64
-xc
-xcom.apple.compilers.llvmgcc42
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection134"Compile /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/macosx/libusb-7da756e/libusb-1.0/sync.cc8cecf5e6056b541^cfa2375f6056b541^---0#0#0#-19%DVTDocumentLocation2@142"file://localhost/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/macosx/libusb-7da756e/libusb-1.0/sync.c0000000000000000^1732"CompileC build/nestk/deps/macosx/libusb-7da756e/libusb-1.0/RGBDemo.build/Debug/usb.build/Objects-normal/x86_64/sync.o nestk/deps/macosx/libusb-7da756e/libusb-1.0/sync.c normal x86_64 c com.apple.compilers.llvmgcc42    cd /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 "-DCMAKE_INTDIR=\"Debug\"" -Dusb_EXPORTS -DNDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -mmacosx-version-min=10.7 -gdwarf-2 -I/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Debug/include -I/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/macosx/libusb-7da756e/libusb-1.0 -I/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk/deps/macosx/libusb-7da756e/libusb-1.0/RGBDemo.build/Debug/usb.build/DerivedSources/x86_64 -I/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk/deps/macosx/libusb-7da756e/libusb-1.0/RGBDemo.build/Debug/usb.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Debug -fPIC -c /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/nestk/deps/macosx/libusb-7da756e/libusb-1.0/sync.c -o /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk/deps/macosx/libusb-7da756e/libusb-1.0/RGBDemo.build/Debug/usb.build/Objects-normal/x86_64/sync.o36"5FAC4F01-B888-4551-AA97-A0273EE40A12-
-
-CLd /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Debug/libusb.dylib normal x86_64
-s357982303.656325
-e357982304.123450
-r1
-xLd
-x/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Debug/libusb.dylib
-xnormal
-xx86_64
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection109"Link /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Debug/libusb.dylib691ea85f6056b541^249b1f606056b541^---0#0#0#--1121"Ld build/lib/Debug/libusb.dylib normal x86_64    cd /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo    setenv MACOSX_DEPLOYMENT_TARGET 10.7    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -arch x86_64 -dynamiclib -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk -L/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Debug -F/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Debug -filelist /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk/deps/macosx/libusb-7da756e/libusb-1.0/RGBDemo.build/Debug/usb.build/Objects-normal/x86_64/usb.LinkFileList -install_name /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Debug/libusb.dylib -mmacosx-version-min=10.7 -dynamiclib -Wl,-headerpad_max_install_names -framework IOKit -framework CoreFoundation -single_module -o /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Debug/libusb.dylib36"AA086DEB-B2E8-4CA8-9C29-73F76690C23A-
-
-CPhaseScriptExecution "CMake PostBuild Rules" /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk/deps/macosx/libusb-7da756e/libusb-1.0/RGBDemo.build/Debug/usb.build/Script-B96FD23834FF45F686740AD1.sh
-s358223580.829694
-e358223581.217567
-r1
-xPhaseScriptExecution
-xCMake PostBuild Rules
-x/Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk/deps/macosx/libusb-7da756e/libusb-1.0/RGBDemo.build/Debug/usb.build/Script-B96FD23834FF45F686740AD1.sh
-oecho "Depend check for xcode"
-oDepend check for xcode
-ocd /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build && make -C /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/CMakeScripts/XCODE_DEPEND_HELPER.make PostBuild.usb.Debug
-o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Debug/glview
-o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Debug/libnimCommon.dylib
-o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Debug/libnimCodecs.dylib
-o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Debug/libnimMockNodes.dylib
-o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Debug/libnimRecorder.dylib
-o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Debug/niLicense
-o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Debug/niReg
-o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Debug/libXnCore.dylib
-o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Debug/libXnFormats.dylib
-o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Debug/libXnDDK.dylib
-o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Debug/libXnDeviceFile.dylib
-o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Debug/libXnDevicesSensorV2.dylib
-o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Debug/XnSensorServer
-o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Debug/Sample-Players
-o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Debug/CircleControl
-o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Debug/Boxes
-o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Debug/grab-mesh
-o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Debug/handpoint-tracking
-o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Debug/libfreenect-backend
-o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Debug/multiple-kinects
-o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Debug/openni-backend
-o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Debug/skeleton-tracking
-o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Debug/synchronized-multiple-kinects
-o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Debug/calibrate-kinect-ir
-o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Debug/calibrate-multiple-kinects
-o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Debug/calibrate-openni-depth
-o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Debug/calibrate-openni-intrinsics
-o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Debug/calibrate-projector
-o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Debug/rgbd-reconstructor
-o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Debug/rgbd-people-tracker
-o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Debug/rgbd-skeletor
-oecho "Depend check for xcode"
-oDepend check for xcode
-ocd /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk/deps/macosx/libusb-7da756e && make -C /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk/deps/macosx/libusb-7da756e -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk/deps/macosx/libusb-7da756e/CMakeScripts/XCODE_DEPEND_HELPER.make PostBuild.usb.Debug
-omake[1]: Nothing to be done for `PostBuild.usb.Debug'.
-oecho "Depend check for xcode"
-oDepend check for xcode
-ocd /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk && make -C /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk/CMakeScripts/XCODE_DEPEND_HELPER.make PostBuild.usb.Debug
-o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Debug/glview
-o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Debug/libnimCommon.dylib
-o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Debug/libnimCodecs.dylib
-o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Debug/libnimMockNodes.dylib
-o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Debug/libnimRecorder.dylib
-o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Debug/niLicense
-o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Debug/niReg
-o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Debug/libXnCore.dylib
-o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Debug/libXnFormats.dylib
-o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Debug/libXnDDK.dylib
-o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Debug/libXnDeviceFile.dylib
-o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Debug/libXnDevicesSensorV2.dylib
-o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Debug/XnSensorServer
-o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Debug/Sample-Players
-o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Debug/CircleControl
-o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Debug/Boxes
-o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Debug/grab-mesh
-o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Debug/handpoint-tracking
-o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Debug/libfreenect-backend
-o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Debug/multiple-kinects
-o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Debug/openni-backend
-o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Debug/skeleton-tracking
-o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Debug/synchronized-multiple-kinects
-oecho "Depend check for xcode"
-oDepend check for xcode
-ocd /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk/deps && make -C /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk/deps -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk/deps/CMakeScripts/XCODE_DEPEND_HELPER.make PostBuild.usb.Debug
-o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Debug/glview
-o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Debug/libnimCommon.dylib
-o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Debug/libnimCodecs.dylib
-o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Debug/libnimMockNodes.dylib
-o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Debug/libnimRecorder.dylib
-o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Debug/niLicense
-o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Debug/niReg
-o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Debug/libXnCore.dylib
-o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Debug/libXnFormats.dylib
-o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Debug/libXnDDK.dylib
-o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Debug/libXnDeviceFile.dylib
-o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Debug/libXnDevicesSensorV2.dylib
-o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Debug/XnSensorServer
-o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Debug/Sample-Players
-o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Debug/CircleControl
-o/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Debug/Boxes
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection47"Run custom shell script 'CMake PostBuild Rules'0ff0d4dc0e5ab541^d0d037dd0e5ab541^-10099"echo "Depend check for xcode"Depend check for xcodecd /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build && make -C /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/CMakeScripts/XCODE_DEPEND_HELPER.make PostBuild.usb.Debug/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Debug/glview/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Debug/libnimCommon.dylib/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Debug/libnimCodecs.dylib/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Debug/libnimMockNodes.dylib/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Debug/libnimRecorder.dylib/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Debug/niLicense/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Debug/niReg/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Debug/libXnCore.dylib/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Debug/libXnFormats.dylib/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Debug/libXnDDK.dylib/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Debug/libXnDeviceFile.dylib/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Debug/libXnDevicesSensorV2.dylib/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Debug/XnSensorServer/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Debug/Sample-Players/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Debug/CircleControl/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Debug/Boxes/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Debug/grab-mesh/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Debug/handpoint-tracking/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Debug/libfreenect-backend/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Debug/multiple-kinects/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Debug/openni-backend/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Debug/skeleton-tracking/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Debug/synchronized-multiple-kinects/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Debug/calibrate-kinect-ir/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Debug/calibrate-multiple-kinects/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Debug/calibrate-openni-depth/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Debug/calibrate-openni-intrinsics/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Debug/calibrate-projector/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Debug/rgbd-reconstructor/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Debug/rgbd-people-tracker/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Debug/rgbd-skeletorecho "Depend check for xcode"Depend check for xcodecd /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk/deps/macosx/libusb-7da756e && make -C /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk/deps/macosx/libusb-7da756e -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk/deps/macosx/libusb-7da756e/CMakeScripts/XCODE_DEPEND_HELPER.make PostBuild.usb.Debugmake[1]: Nothing to be done for `PostBuild.usb.Debug'.echo "Depend check for xcode"Depend check for xcodecd /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk && make -C /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk/CMakeScripts/XCODE_DEPEND_HELPER.make PostBuild.usb.Debug/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Debug/glview/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Debug/libnimCommon.dylib/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Debug/libnimCodecs.dylib/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Debug/libnimMockNodes.dylib/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Debug/libnimRecorder.dylib/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Debug/niLicense/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Debug/niReg/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Debug/libXnCore.dylib/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Debug/libXnFormats.dylib/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Debug/libXnDDK.dylib/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Debug/libXnDeviceFile.dylib/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Debug/libXnDevicesSensorV2.dylib/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Debug/XnSensorServer/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Debug/Sample-Players/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Debug/CircleControl/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Debug/Boxes/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Debug/grab-mesh/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Debug/handpoint-tracking/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Debug/libfreenect-backend/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Debug/multiple-kinects/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Debug/openni-backend/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Debug/skeleton-tracking/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Debug/synchronized-multiple-kinectsecho "Depend check for xcode"Depend check for xcodecd /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk/deps && make -C /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk/deps -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk/deps/CMakeScripts/XCODE_DEPEND_HELPER.make PostBuild.usb.Debug/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Debug/glview/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Debug/libnimCommon.dylib/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Debug/libnimCodecs.dylib/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Debug/libnimMockNodes.dylib/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Debug/libnimRecorder.dylib/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Debug/niLicense/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Debug/niReg/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Debug/libXnCore.dylib/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Debug/libXnFormats.dylib/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Debug/libXnDDK.dylib/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Debug/libXnDeviceFile.dylib/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Debug/libXnDevicesSensorV2.dylib/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Debug/XnSensorServer/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Debug/Sample-Players/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Debug/CircleControl/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Debug/Boxes83(21%IDEActivityLogMessage2@30"echo "Depend check for xcode"-358223580#0#30#-0#-----2@23"Depend check for xcode-358223580#30#23#-0#-----2@321"cd /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build && make -C /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/CMakeScripts/XCODE_DEPEND_HELPER.make PostBuild.usb.Debug-358223580#53#321#-0#-----2@110"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Debug/glview-358223580#374#110#-0#-----2@122"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Debug/libnimCommon.dylib-358223580#484#122#-0#-----2@122"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Debug/libnimCodecs.dylib-358223580#606#122#-0#-----2@125"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Debug/libnimMockNodes.dylib-358223580#728#125#-0#-----2@124"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Debug/libnimRecorder.dylib-358223580#853#124#-0#-----2@113"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Debug/niLicense-358223580#977#113#-0#-----2@109"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Debug/niReg-358223580#1090#109#-0#-----2@119"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Debug/libXnCore.dylib-358223580#1199#119#-0#-----2@122"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Debug/libXnFormats.dylib-358223580#1318#122#-0#-----2@118"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Debug/libXnDDK.dylib-358223580#1440#118#-0#-----2@125"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Debug/libXnDeviceFile.dylib-358223580#1558#125#-0#-----2@130"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Debug/libXnDevicesSensorV2.dylib-358223580#1683#130#-0#-----2@118"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Debug/XnSensorServer-358223580#1813#118#-0#-----2@118"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Debug/Sample-Players-358223580#1931#118#-0#-----2@117"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Debug/CircleControl-358223580#2049#117#-0#-----2@109"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Debug/Boxes-358223580#2166#109#-0#-----2@113"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Debug/grab-mesh-358223580#2275#113#-0#-----2@122"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Debug/handpoint-tracking-358223580#2388#122#-0#-----2@123"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Debug/libfreenect-backend-358223580#2510#123#-0#-----2@120"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Debug/multiple-kinects-358223580#2633#120#-0#-----2@118"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Debug/openni-backend-358223580#2753#118#-0#-----2@121"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Debug/skeleton-tracking-358223580#2871#121#-0#-----2@133"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Debug/synchronized-multiple-kinects-358223580#2992#133#-0#-----2@123"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Debug/calibrate-kinect-ir-358223580#3125#123#-0#-----2@130"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Debug/calibrate-multiple-kinects-358223580#3248#130#-0#-----2@126"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Debug/calibrate-openni-depth-358223580#3378#126#-0#-----2@131"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Debug/calibrate-openni-intrinsics-358223580#3504#131#-0#-----2@123"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Debug/calibrate-projector-358223580#3635#123#-0#-----2@122"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Debug/rgbd-reconstructor-358223581#3758#122#-0#-----2@123"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Debug/rgbd-people-tracker-358223581#3880#123#-0#-----2@117"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Debug/rgbd-skeletor-358223581#4003#117#-0#-----2@30"echo "Depend check for xcode"-358223581#4120#30#-0#-----2@23"Depend check for xcode-358223581#4150#23#-0#-----2@420"cd /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk/deps/macosx/libusb-7da756e && make -C /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk/deps/macosx/libusb-7da756e -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk/deps/macosx/libusb-7da756e/CMakeScripts/XCODE_DEPEND_HELPER.make PostBuild.usb.Debug-358223581#4173#420#-0#-----2@55"make[1]: Nothing to be done for `PostBuild.usb.Debug'.-358223581#4593#55#-0#-----2@30"echo "Depend check for xcode"-358223581#4648#30#-0#-----2@23"Depend check for xcode-358223581#4678#23#-0#-----2@339"cd /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk && make -C /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk/CMakeScripts/XCODE_DEPEND_HELPER.make PostBuild.usb.Debug-358223581#4701#339#-0#-----2@110"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Debug/glview-358223581#5040#110#-0#-----2@122"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Debug/libnimCommon.dylib-358223581#5150#122#-0#-----2@122"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Debug/libnimCodecs.dylib-358223581#5272#122#-0#-----2@125"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Debug/libnimMockNodes.dylib-358223581#5394#125#-0#-----2@124"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Debug/libnimRecorder.dylib-358223581#5519#124#-0#-----2@113"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Debug/niLicense-358223581#5643#113#-0#-----2@109"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Debug/niReg-358223581#5756#109#-0#-----2@119"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Debug/libXnCore.dylib-358223581#5865#119#-0#-----2@122"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Debug/libXnFormats.dylib-358223581#5984#122#-0#-----2@118"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Debug/libXnDDK.dylib-358223581#6106#118#-0#-----2@125"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Debug/libXnDeviceFile.dylib-358223581#6224#125#-0#-----2@130"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Debug/libXnDevicesSensorV2.dylib-358223581#6349#130#-0#-----2@118"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Debug/XnSensorServer-358223581#6479#118#-0#-----2@118"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Debug/Sample-Players-358223581#6597#118#-0#-----2@117"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Debug/CircleControl-358223581#6715#117#-0#-----2@109"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Debug/Boxes-358223581#6832#109#-0#-----2@113"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Debug/grab-mesh-358223581#6941#113#-0#-----2@122"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Debug/handpoint-tracking-358223581#7054#122#-0#-----2@123"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Debug/libfreenect-backend-358223581#7176#123#-0#-----2@120"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Debug/multiple-kinects-358223581#7299#120#-0#-----2@118"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Debug/openni-backend-358223581#7419#118#-0#-----2@121"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Debug/skeleton-tracking-358223581#7537#121#-0#-----2@133"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Debug/synchronized-multiple-kinects-358223581#7658#133#-0#-----2@30"echo "Depend check for xcode"-358223581#7791#30#-0#-----2@23"Depend check for xcode-358223581#7821#23#-0#-----2@354"cd /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk/deps && make -C /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk/deps -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk/deps/CMakeScripts/XCODE_DEPEND_HELPER.make PostBuild.usb.Debug-358223581#7844#354#-0#-----2@110"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Debug/glview-358223581#8198#110#-0#-----2@122"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Debug/libnimCommon.dylib-358223581#8308#122#-0#-----2@122"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Debug/libnimCodecs.dylib-358223581#8430#122#-0#-----2@125"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Debug/libnimMockNodes.dylib-358223581#8552#125#-0#-----2@124"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Debug/libnimRecorder.dylib-358223581#8677#124#-0#-----2@113"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Debug/niLicense-358223581#8801#113#-0#-----2@109"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Debug/niReg-358223581#8914#109#-0#-----2@119"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Debug/libXnCore.dylib-358223581#9023#119#-0#-----2@122"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Debug/libXnFormats.dylib-358223581#9142#122#-0#-----2@118"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Debug/libXnDDK.dylib-358223581#9264#118#-0#-----2@125"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Debug/libXnDeviceFile.dylib-358223581#9382#125#-0#-----2@130"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/lib/Debug/libXnDevicesSensorV2.dylib-358223581#9507#130#-0#-----2@118"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Debug/XnSensorServer-358223581#9637#118#-0#-----2@118"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Debug/Sample-Players-358223581#9755#118#-0#-----2@117"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Debug/CircleControl-358223581#9873#117#-0#-----2@109"/bin/rm -f /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/bin/Debug/Boxes-358223581#9990#109#-0#-----0#0#0#--449"PhaseScriptExecution "CMake PostBuild Rules" build/nestk/deps/macosx/libusb-7da756e/libusb-1.0/RGBDemo.build/Debug/usb.build/Script-B96FD23834FF45F686740AD1.sh    cd /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo    /bin/sh -c /Users/localaheng/Documents/Classes/CS194/Projects/Movie-Maker-rgbd/rgbdemo/build/nestk/deps/macosx/libusb-7da756e/libusb-1.0/RGBDemo.build/Debug/usb.build/Script-B96FD23834FF45F686740AD1.sh36"6BE7DCBC-8B8F-4C5D-A2DA-7CCF0AB8600B-
-
