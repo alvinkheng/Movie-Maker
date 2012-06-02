@@ -168,7 +168,7 @@ enum PatternType
 };
 
 /*! Extract chessboard position using OpenCV. */
-void calibrationCorners(const std::string& image_name,
+bool calibrationCorners(const std::string& image_name,
                         const std::string& window_name,
                         int pattern_width, int pattern_height,
                         std::vector<cv::Point2f>& corners,

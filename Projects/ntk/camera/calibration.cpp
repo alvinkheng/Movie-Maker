@@ -262,7 +262,7 @@ void RGBDCalibration :: saveToFile(const char* filename) const
 namespace ntk
 {
 
-void calibrationCorners(const std::string& image_name,
+bool calibrationCorners(const std::string& image_name,
                         const std::string& window_name,
                         int pattern_width, int pattern_height,
                         std::vector<Point2f>& corners,
@@ -345,6 +345,14 @@ void calibrationCorners(const std::string& image_name,
 
     cv::Mat gray_image;
     cvtColor(image, gray_image, CV_BGR2GRAY);
+    
+    
+    //Couldn't find corners
+    if (!ok) {
+        return false;
+    }
+    
+    
     if (pattern == PatternChessboard)
     {
         cornerSubPix(gray_image, corners, Size(5,5), Size(-1,-1),
@@ -389,8 +397,9 @@ void calibrationCorners(const std::string& image_name,
     if (!ok)
     {
         corners.clear();
-        return;
+        return false;
     }
+    return true;
 }
 
 void crop_image(cv::Mat& image, cv::Size s)

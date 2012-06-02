@@ -349,13 +349,17 @@ void GuiMultiKinectController::addCheckboardImage()
 
     std::vector<cv::Point2f> corners;
     cv::Mat3b checkerboard_image;
-    calibrationCorners("checkboard", "",
+    if (!calibrationCorners("checkboard", "",
                        pattern_width, pattern_height,
                        corners,
                        frame->images[0]->rgb(),
                        1.0,
                        PatternChessboard,
-                       &checkerboard_image);
+                           &checkerboard_image)) {
+        
+        m_view3d_window->ui->labelCheckboard->setText("Failed to find corners\n");
+        return;
+    } 
     m_view3d_window->ui->checkerboard_view->setImage(checkerboard_image);
     m_checkerboard_frames->frames.push_back(frame);
     m_view3d_window->ui->labelCheckboard->setText(QString("%1 images").arg(m_checkerboard_frames->frames.size()));
