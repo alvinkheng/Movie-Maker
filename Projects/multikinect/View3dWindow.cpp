@@ -202,14 +202,17 @@ void View3DWindow::on_resetCheckerboardImages_clicked()
 
 void View3DWindow::on_sceneViewButton_clicked() {
     printf("sceneView\n");
+    ui->mesh_view->toggleViews(0);
 }
 
 void View3DWindow::on_camViewButton_clicked() {
     printf("camView\n");
+    ui->mesh_view->toggleViews(1);
 }
 
 void View3DWindow::on_dualViewButton_clicked() {
     printf("dualView\n");
+    ui->mesh_view->toggleViews(2);
 }
 
 void View3DWindow::on_firstFrameButton_clicked() {
@@ -248,5 +251,12 @@ void View3DWindow::on_addCamera_clicked() {
 	printf("new camera\n");
 	ui->mesh_view->newCameraView();
 	ui->camera_selector->addItem(ui->camera_name->text(), QVariant::Char);
+    ui->camera_selector->setCurrentIndex(ui->camera_selector->count()-1);
+}
+
+void View3DWindow::on_camera_selector_currentIndexChanged(int index) {
+    printf("value changed\n");
+    ui->mesh_view->activeCamera(index);
+    ui->mesh_view->setCameraView(index);
 }
 

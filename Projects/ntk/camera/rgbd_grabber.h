@@ -150,7 +150,7 @@ public:
     virtual bool incrementCurrentImageIndex() {return false;}
     virtual void setFilePath(QDir path) { }
     virtual int getImageListSize() {return 0;}
-    virtual int getCurrentImageIndex() { } 
+    virtual int getCurrentImageIndex() {return 0;} 
 
 protected:
   void advertiseNewFrame();

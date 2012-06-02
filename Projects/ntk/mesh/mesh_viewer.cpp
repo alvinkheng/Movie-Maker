@@ -59,6 +59,7 @@ namespace ntk
         glShadeModel(GL_SMOOTH);
         glEnable (GL_BLEND);
         glBlendFunc (GL_SRC_ALPHA, GL_ONE_MINUS_SRC_ALPHA);
+        //SIZE OF POINT CLOUD
         glPointSize(1.0);
         updateBackgroundColor();
         resetCamera();
@@ -362,7 +363,8 @@ namespace ntk
         viewMatrix matrix;
         glMatrixMode(GL_MODELVIEW);
         glGetDoublev(GL_MODELVIEW_MATRIX, matrix.m);
-        m_camera_views.push_back(matrix);
+        //m_camera_views.push_back(matrix);
+        m_virtualCameras.push_back(VirtualCamera(matrix, m_lookat_eye, m_lookat_center, m_lookat_up));
     }
     
     void MeshViewer :: setDefaultCameraLookat(const cv::Vec3f& eye,
@@ -383,13 +385,21 @@ namespace ntk
         glMatrixMode(GL_MODELVIEW);
         glGetDoublev(GL_MODELVIEW_MATRIX, matrix.m);
         
+        if (m_virtualCameras.size() == 0) {
+            m_virtualCameras.push_back(VirtualCamera(matrix, m_lookat_eye, m_lookat_center, m_lookat_up));
+        } else {
+            m_virtualCameras[cameraIndex] = VirtualCamera(matrix, m_lookat_eye, m_lookat_center, m_lookat_up);
+//            m_virtualCameras.erase(m_virtualCameras.begin() + cameraIndex);
+//            m_virtualCameras.insert(m_virtualCameras.begin() + cameraIndex, VirtualCamera(matrix, m_lookat_eye, m_lookat_center, m_lookat_up));
+        }
+        /*
         if (m_camera_views.size() == 0) 
         {
             m_camera_views.push_back(matrix);
         } else {
             m_camera_views.erase(m_camera_views.begin() + cameraIndex);
             m_camera_views.insert(m_camera_views.begin() + cameraIndex, matrix);
-        }
+        }*/
     }
     
     // Added by Tatiana Iskandar; Sets the current view matrix to the camera at cameraIndex
@@ -398,7 +408,8 @@ namespace ntk
         makeCurrent();
         glMatrixMode(GL_MODELVIEW);
         glLoadIdentity();
-        glMultMatrixd( m_camera_views[cameraIndex].m);
+        //glMultMatrixd( m_camera_views[cameraIndex].m);
+        glMultMatrixd(m_virtualCameras[cameraIndex].view.m);
         
         updateDisplayCenter();
         updateGL();
@@ -412,7 +423,8 @@ namespace ntk
         glMatrixMode(GL_MODELVIEW);
         glGetDoublev(GL_MODELVIEW_MATRIX, matrix.m);
         
-        m_camera_views.push_back(matrix);
+        //m_camera_views.push_back(matrix);
+        m_virtualCameras.push_back(VirtualCamera(matrix, m_lookat_eye, m_lookat_center, m_lookat_up));
     }
     
     void MeshViewer :: setCameraLookat(const cv::Vec3f& eye,
@@ -461,6 +473,8 @@ namespace ntk
         glRotatef(rotation[1], 1,0,0);
         glTranslatef(-m_display_center.x,-m_display_center.y,-m_display_center.z);
         glMultMatrixd(m);
+        
+        m_virtualCameras.at(m_activeCamera).eye -= translation;        
     }
     
     bool MeshViewer :: estimatePickingPoint(cv::Point3f& p, int mouse_x, int mouse_y)
@@ -701,6 +715,11 @@ namespace ntk
             glFlush();
         }
         
+        if (m_sceneView && m_virtualCameras.size() > 1) {
+            drawVirtualCameras();
+        }
+        
+        
         unsigned long end = ntk::Time::getMillisecondCounter();
         // ntk_dbg_print((end-start) / 1000., 1);
     }
@@ -727,6 +746,44 @@ namespace ntk
         }
         glEnd();
         glLineWidth(1.0);
+    }
+    
+    void MeshViewer::toggleViews(int view) {
+        m_sceneView = false;
+        m_camView = false;
+        m_dualView = false;
+        switch(view) {
+            case 0: //Scene View
+                m_sceneView = true;
+                break;
+            case 1: //Cam View
+                m_camView = true;
+                break;
+            case 2: //DualView
+                m_dualView = true;
+                break;
+            default:
+                break;
+        }
+    }
+    
+    void MeshViewer::activeCamera(int index) {
+        m_activeCamera = index;
+    }
+    
+    void MeshViewer::drawVirtualCameras() {
+       /* for (int i = 1; i < m_virtualCameras.size(); i++) {
+            VirtualCamera camera = m_virtualCameras.at(i);
+            glColor3f(1.0f, 1.0f, 1.0f);
+            glBegin(GL_TRIANGLES);
+            glPushMatrix();
+            glTranslatef(camera.eye[0], camera.eye[1], camera.eye[2]);
+            glVertex3f(0, 0, 0);
+            glVertex3f(1, 0, 0);
+            glVertex3f(1, 1, 0);
+            glPopMatrix();
+            glEnd();
+        }*/
     }
     
 } // ntk

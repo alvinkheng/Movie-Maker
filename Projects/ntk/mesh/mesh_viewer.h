@@ -63,7 +63,11 @@ namespace ntk
         m_lookat_up(0, 1, 0),
         m_clear_color(0.f, 0.f, 0.2f, 1.f),
         m_use_vertex_buffer_object(false),
-        m_show_grid(false)
+        m_show_grid(false),
+        m_sceneView(true),
+        m_camView(false),
+        m_dualView(false),
+        m_activeCamera(0)
         {
             cv::setIdentity(m_glcam_transform);
         }
@@ -93,6 +97,10 @@ namespace ntk
         void setBackgroundColor(const cv::Vec4f& color);
         
         void enableLighting();
+        
+        //New public
+        void toggleViews(int view);
+        void activeCamera(int index);
         
     protected:
         virtual void initializeGL();
@@ -136,6 +144,9 @@ namespace ntk
         void enableVertexBufferObject(VertexBufferObject& obj, int index);
         void disableVertexBufferObject(VertexBufferObject& obj);
         
+        //New privates
+        void drawVirtualCameras();
+        
     protected:
         QPoint m_last_mouse_pos;
         std::vector<VertexBufferObject> m_vertex_buffer_objects;
@@ -152,9 +163,32 @@ namespace ntk
         cv::Vec3f m_lookat_center;
         cv::Vec3f m_lookat_up;
         cv::Vec4f m_clear_color;
-        std::vector<viewMatrix> m_camera_views;
         bool m_use_vertex_buffer_object;
         bool m_show_grid;
+        
+        //New Privates
+        //New Struct
+        
+        struct VirtualCamera {
+            VirtualCamera() {}
+            VirtualCamera(viewMatrix _view, cv::Vec3f _eye, cv::Vec3f _lookat, cv::Vec3f _up) {
+                view = _view;
+                eye = _eye;
+                lookat = _lookat;
+                up = _up;
+            }
+            viewMatrix view;
+            cv::Vec3f eye;
+            cv::Vec3f lookat;
+            cv::Vec3f up;
+        };
+        
+        int m_activeCamera;
+        bool m_sceneView;
+        bool m_camView;
+        bool m_dualView;
+        std::vector<viewMatrix> m_camera_views;
+        std::vector<VirtualCamera> m_virtualCameras;
     };
     
 } // ntk

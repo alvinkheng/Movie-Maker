@@ -105,6 +105,7 @@ private slots:
     void on_playButton_clicked();
     void on_pauseButton_clicked();
     void on_timeSlider_valueChanged(int value);
+    void on_camera_selector_currentIndexChanged(int index);
 
     friend class GuiMultiKinectController;
     friend class CalibrationMeshViewer;
