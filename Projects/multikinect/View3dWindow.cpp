@@ -232,7 +232,9 @@ void View3DWindow::on_pauseButton_clicked() {
 }
 
 void View3DWindow::on_timeSlider_valueChanged(int value) {
-    m_controller.replayScanner().setCurrentReplayFrame(value * m_controller.replayScanner().getNumRecordedFrames() / 100);
+    if (!m_controller.replayScanner().isReplaying()) {
+        m_controller.replayScanner().setCurrentReplayFrame(value * m_controller.replayScanner().getNumRecordedFrames() / 100);
+    }
 }
 
 void View3DWindow::on_setCamera_clicked() {

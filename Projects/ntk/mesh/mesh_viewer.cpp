@@ -389,8 +389,6 @@ namespace ntk
             m_virtualCameras.push_back(VirtualCamera(matrix, m_lookat_eye, m_lookat_center, m_lookat_up));
         } else {
             m_virtualCameras[cameraIndex] = VirtualCamera(matrix, m_lookat_eye, m_lookat_center, m_lookat_up);
-//            m_virtualCameras.erase(m_virtualCameras.begin() + cameraIndex);
-//            m_virtualCameras.insert(m_virtualCameras.begin() + cameraIndex, VirtualCamera(matrix, m_lookat_eye, m_lookat_center, m_lookat_up));
         }
         /*
         if (m_camera_views.size() == 0) 

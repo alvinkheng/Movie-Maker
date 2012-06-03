@@ -75,6 +75,7 @@ public:
     bool setCurrentReplayFrame(int frame);
     void changeRecordingDirectory(std::string newDir);
     int getNumRecordedFrames();
+    bool isReplaying() {return m_replaying;}
 
 protected:
     void processLastImageFromGrabber(ntk::RGBDGrabber& grabber);

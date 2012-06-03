@@ -62,11 +62,12 @@ public:
         m_path = path;
         m_image_list = m_path.entryList(QStringList("view????*"), QDir::Dirs, QDir::Name);
         ntk_ensure(!m_image_list.empty(), "No view???? images in given directory.");
+        m_image_list_size = m_image_list.size();
 
     }
     
     int getImageListSize() {
-        return m_image_list.size();
+        return m_image_list_size;
     }
     
     int getCurrentImageIndex() {
@@ -83,6 +84,7 @@ private:
   int m_current_image_index;
   bool m_is_directory;
     uint64 m_prevFrameStartTime;
+    int m_image_list_size;
 };
 
 } // ntk

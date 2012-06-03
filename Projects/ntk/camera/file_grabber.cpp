@@ -40,6 +40,7 @@ FileGrabber::FileGrabber(const std::string& path, bool is_directory)
     {
         m_image_list = m_path.entryList(QStringList("view????*"), QDir::Dirs, QDir::Name);
         ntk_ensure(!m_image_list.empty(), "No view???? images in given directory.");
+        m_image_list_size = m_image_list.size();
     }
 
     setCameraSerial(QDir(path.c_str()).dirName().toStdString());
