@@ -92,7 +92,7 @@ public slots:
 
 private slots:
     void on_saveCamera_clicked();
-	void on_viewCamera_clicked();
+	//void on_viewCamera_clicked();
 	void on_addCamera_clicked();
     
     void on_trianglePushButton_clicked();

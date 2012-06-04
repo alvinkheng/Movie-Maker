@@ -118,6 +118,7 @@ public: // modifiers
     
     virtual MultiKinectScanner& replayScanner() {return *m_scanner;}
     virtual void setSliderPosition(int value) {}
+    virtual void setReplayFrameLabel(int value) {}
 
 public: // callbacks
     virtual void onScannerInitialized() {}

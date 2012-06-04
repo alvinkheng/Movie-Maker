@@ -410,6 +410,10 @@ void GuiMultiKinectController::toggleReplay() {
         m_replay_scanner.setPaused(false);
         m_replay_scanner.setCurrentReplayFrame(0);
         m_view3d_window->ui->timeSlider->setValue(0);
+        _numRecordedFrames = m_replay_scanner.getNumRecordedFrames();
+        QString s = QString("Frame %1/%2")
+        .arg(0).arg(_numRecordedFrames-1);
+        m_view3d_window->ui->replayFrameLabel->setText(s);
         toggleView3d(true);
     }
 }
@@ -429,4 +433,10 @@ std::string GuiMultiKinectController::getRecordingDirectory() {
 
 void GuiMultiKinectController::setSliderPosition(int value) {
     m_view3d_window->ui->timeSlider->setValue(value);
+}
+
+void GuiMultiKinectController::setReplayFrameLabel(int value) {
+    QString s = QString("Frame %1/%2")
+    .arg(value).arg(_numRecordedFrames-1);
+    m_view3d_window->ui->replayFrameLabel->setText(s);
 }

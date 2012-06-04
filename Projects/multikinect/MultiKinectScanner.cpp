@@ -187,7 +187,9 @@ void MultiKinectScanner::run()
                     m_replaying = false;
                     m_controller->setSliderPosition(100);
                 } else {
-                    m_controller->setSliderPosition(100 * grabber->getCurrentImageIndex() / grabber->getImageListSize());
+                    int imageIndex = grabber->getCurrentImageIndex();
+                    m_controller->setSliderPosition(100 * imageIndex / grabber->getImageListSize());
+                    m_controller->setReplayFrameLabel(imageIndex);
                 }
             }
             

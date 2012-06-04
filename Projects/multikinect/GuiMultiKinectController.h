@@ -60,6 +60,8 @@ public:
     void saveAllMeshes();
     std::string getRecordingDirectory();
     void setSliderPosition(int value);
+    void setReplayFrameLabel(int value);
+    int getNumRecordedFrames() {return _numRecordedFrames;}
     
 
 public slots:

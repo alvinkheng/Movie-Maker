@@ -273,7 +273,7 @@ void View3DWindow::setCameraForFrame(int frameIndex) {
 	// TODO: change by case of transition
 	int cameraIndex = currentTransition->cameraIndex;
 	if (currentTransition->transition == STILL_CAMERA) {
-		printf("Static Camera\n");
+		//printf("Static Camera\n");
 		ui->camera_selector->setCurrentIndex(cameraIndex);
 		ui->mesh_view->activeCamera(cameraIndex);
 		ui->mesh_view->setCameraView(cameraIndex);
@@ -291,9 +291,13 @@ void View3DWindow::setCameraForFrame(int frameIndex) {
 }
 
 void View3DWindow::on_timeSlider_valueChanged(int value) {
-	int currentFrameIndex = value * m_controller.replayScanner().getNumRecordedFrames() / 100;
+    int numFrames = m_controller.getNumRecordedFrames();
+	int currentFrameIndex = value * numFrames / 100;
 	if (!m_controller.replayScanner().isReplaying()) {
         m_controller.replayScanner().setCurrentReplayFrame(currentFrameIndex);
+        QString s = QString("Frame %1/%2")
+        .arg(currentFrameIndex).arg(numFrames-1);
+        ui->replayFrameLabel->setText(s);
     }
 	setCameraForFrame(currentFrameIndex);
 }
@@ -330,11 +334,11 @@ void View3DWindow::on_saveCamera_clicked() {
 	ui->mesh_view->saveCameraView(cameraIndex);
 }
 
-void View3DWindow::on_viewCamera_clicked() {
+/*void View3DWindow::on_viewCamera_clicked() {
 	printf("view camera\n");
 	int cameraIndex = ui->camera_selector->currentIndex();
 	ui->mesh_view->setCameraView(cameraIndex);
-}
+}*/
 
 void View3DWindow::on_addCamera_clicked() {
 	printf("new camera\n");
