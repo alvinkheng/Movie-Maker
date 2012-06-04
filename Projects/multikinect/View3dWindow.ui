@@ -1,683 +1,855 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ui version="4.0">
- <class>View3DWindow</class>
- <widget class="QMainWindow" name="View3DWindow">
-  <property name="geometry">
-   <rect>
-    <x>0</x>
-    <y>0</y>
-    <width>1092</width>
-    <height>596</height>
-   </rect>
-  </property>
-  <property name="windowTitle">
-   <string>3D View</string>
-  </property>
-  <widget class="QWidget" name="centralwidget">
-   <layout class="QVBoxLayout" name="verticalLayout">
-       
-       <item>
-           <widget class="QFrame" name="frame_6">
-               <property name="sizePolicy">
-                   <sizepolicy hsizetype="Preferred" vsizetype="Fixed">
-                       <horstretch>0</horstretch>
-                       <verstretch>0</verstretch>
-                   </sizepolicy>
-               </property>
-               <property name="frameShape">
-                   <enum>QFrame::StyledPanel</enum>
-               </property>
-               <property name="frameShadow">
-                   <enum>QFrame::Raised</enum>
-               </property>
-               <layout class="QHBoxLayout" name="horizontalLayout0">
-                   <item>
-                       <widget class="QLabel" name="label">
-                           <property name="text">
-                               <string>New Camera:</string>
-                           </property>
-                       </widget>
-                   </item>
-                   <item>
-                       <widget class="QLineEdit" name="camera_name">
-                           <property name="minimumSize">
-                               <size>
-                                   <width>70</width>
-                                   <height>0</height>
-                               </size>
-                           </property>
-                           <property name="focusPolicy">
-                               <enum>Qt::ClickFocus</enum>
-                           </property>
-                           <property name="text">
-                               <string>Camera Label</string>
-                           </property>
-                       </widget>
-                   </item>
-                   <item>
-                       <widget class="QPushButton" name="addCamera">
-                           <property name="text">
-                               <string>Add Camera</string>
-                           </property>
-                       </widget>
-                   </item>
-                   <item>
-                       <widget class="QComboBox" name="camera_selector">
-                           <item>
-                               <property name="text">
-                                   <string>Default Camera</string>
-                               </property>
-                           </item>
-                       </widget>
-                   </item>
-                   <item>
-                       <layout class="QHBoxLayout" name="horizontalLayout_camera1">
-                           <item>
-                               <widget class="QPushButton" name="setCamera">
-                                   <property name="text">
-                                       <string>Save</string>
-                                   </property>
-                               </widget>
-                           </item>
-                           <item>
-                               <widget class="QPushButton" name="viewCamera">
-                                   <property name="text">
-                                       <string>View</string>
-                                   </property>
-                               </widget>
-                           </item>
-                       </layout>
-                   </item>
-                   <item>
-                       <spacer name="horizontalSpacer">
-                           <property name="orientation">
-                               <enum>Qt::Horizontal</enum>
-                           </property>
-                           <property name="sizeHint" stdset="0">
-                               <size>
-                                   <width>40</width>
-                                   <height>20</height>
-                               </size>
-                           </property>
-                       </spacer>
-                   </item>
-               </layout>
-           </widget>
-       </item>
-       
-       <item>
-           <widget class="QFrame" name="frame0">
-               <property name="sizePolicy">
-                   <sizepolicy hsizetype="Preferred" vsizetype="Fixed">
-                       <horstretch>0</horstretch>
-                       <verstretch>0</verstretch>
-                   </sizepolicy>
-               </property>
-               <property name="frameShape">
-                   <enum>QFrame::StyledPanel</enum>
-               </property>
-               <property name="frameShadow">
-                   <enum>QFrame::Raised</enum>
-               </property>
-               <layout class="QHBoxLayout" name="horizontalLayout0">
-                    <item>
-                       <widget class="QPushButton" name="sceneViewButton">
-                           <property name="text">
-                               <string>Scene View</string>
-                           </property>
-                       </widget>
-                   </item>
-                   <item>
-                       <widget class="QPushButton" name="camViewButton">
-                           <property name="text">
-                               <string>Cam View</string>
-                           </property>
-                       </widget>
-                   </item>
-                   <item>
-                       <widget class="QPushButton" name="dualViewButton">
-                           <property name="text">
-                               <string>Dual View</string>
-                           </property>
-                       </widget>
-                   </item>
-                   <item>
-                       <spacer name="horizontalSpacer">
-                           <property name="orientation">
-                               <enum>Qt::Horizontal</enum>
-                           </property>
-                           <property name="sizeHint" stdset="0">
-                               <size>
-                                   <width>40</width>
-                                   <height>20</height>
-                               </size>
-                           </property>
-                       </spacer>
-                   </item>
-               </layout>
-           </widget>
-       </item>
-       
-       
-       
-       
-       
-       
-    <item>
-     <widget class="QFrame" name="frame">
-      <property name="sizePolicy">
-       <sizepolicy hsizetype="Preferred" vsizetype="Fixed">
-        <horstretch>0</horstretch>
-        <verstretch>0</verstretch>
-       </sizepolicy>
-      </property>
-      <property name="frameShape">
-       <enum>QFrame::StyledPanel</enum>
-      </property>
-      <property name="frameShadow">
-       <enum>QFrame::Raised</enum>
-      </property>
-      <layout class="QHBoxLayout" name="horizontalLayout">
-       <item>
-        <widget class="QCheckBox" name="colorMappingCheckBox">
-         <property name="text">
-          <string>Color</string>
-         </property>
-         <property name="checked">
-          <bool>true</bool>
-         </property>
-        </widget>
-       </item>
-       <item>
-        <widget class="QPushButton" name="saveMeshesPushButton">
-         <property name="text">
-          <string>SaveMeshes</string>
-         </property>
-        </widget>
-       </item>
-       <item>
-        <widget class="QPushButton" name="pointCloudPushButton">
-         <property name="text">
-          <string>PointCloud</string>
-         </property>
-        </widget>
-       </item>
-       <item>
-        <widget class="QPushButton" name="surfelsPushButton">
-         <property name="text">
-          <string>Surfels</string>
-         </property>
-        </widget>
-       </item>
-       <item>
-        <widget class="QPushButton" name="trianglePushButton">
-         <property name="text">
-          <string>Triangles</string>
-         </property>
-        </widget>
-       </item>
-       <item>
-        <widget class="QCheckBox" name="mergeViewsCheckBox">
-         <property name="text">
-          <string>Merge views</string>
-         </property>
-         <property name="checked">
-          <bool>true</bool>
-         </property>
-        </widget>
-       </item>
-       <item>
-        <widget class="QCheckBox" name="calibrationModeCheckBox">
-         <property name="text">
-          <string>Calibration mode</string>
-         </property>
-        </widget>
-       </item>
-       <item>
-        <spacer name="horizontalSpacer">
-         <property name="orientation">
-          <enum>Qt::Horizontal</enum>
-         </property>
-         <property name="sizeHint" stdset="0">
-          <size>
-           <width>40</width>
-           <height>20</height>
-          </size>
-         </property>
-        </spacer>
-       </item>
-       <item>
-        <widget class="QLabel" name="label">
-         <property name="text">
-          <string>Resolution factor</string>
-         </property>
-        </widget>
-       </item>
-       <item>
-        <widget class="QDoubleSpinBox" name="resolutionFactorSpinBox">
-         <property name="minimum">
-          <double>0.100000000000000</double>
-         </property>
-         <property name="maximum">
-          <double>4.000000000000000</double>
-         </property>
-         <property name="singleStep">
-          <double>0.100000000000000</double>
-         </property>
-         <property name="value">
-          <double>1.000000000000000</double>
-         </property>
-        </widget>
-       </item>
-       <item>
-        <widget class="QPushButton" name="resetCamera">
-         <property name="text">
-          <string>Reset camera</string>
-         </property>
-        </widget>
-       </item>
-      </layout>
-     </widget>
-    </item>
-    <item>
-     <widget class="QFrame" name="frame_3">
-      <property name="sizePolicy">
-       <sizepolicy hsizetype="Preferred" vsizetype="Fixed">
-        <horstretch>0</horstretch>
-        <verstretch>0</verstretch>
-       </sizepolicy>
-      </property>
-      <property name="frameShape">
-       <enum>QFrame::StyledPanel</enum>
-      </property>
-      <property name="frameShadow">
-       <enum>QFrame::Raised</enum>
-      </property>
-      <layout class="QHBoxLayout" name="horizontalLayout_3">
-       <item>
-        <widget class="QLabel" name="label_2">
-         <property name="text">
-          <string>Tx</string>
-         </property>
-        </widget>
-       </item>
-       <item>
-        <widget class="QDoubleSpinBox" name="txValue">
-         <property name="decimals">
-          <number>3</number>
-         </property>
-         <property name="minimum">
-          <double>-10.000000000000000</double>
-         </property>
-         <property name="maximum">
-          <double>10.000000000000000</double>
-         </property>
-        </widget>
-       </item>
-       <item>
-        <widget class="QLabel" name="label_3">
-         <property name="text">
-          <string>Ty</string>
-         </property>
-        </widget>
-       </item>
-       <item>
-        <widget class="QDoubleSpinBox" name="tyValue">
-         <property name="decimals">
-          <number>3</number>
-         </property>
-         <property name="minimum">
-          <double>-10.000000000000000</double>
-         </property>
-         <property name="maximum">
-          <double>10.000000000000000</double>
-         </property>
-        </widget>
-       </item>
-       <item>
-        <widget class="QLabel" name="label_4">
-         <property name="text">
-          <string>Tz</string>
-         </property>
-        </widget>
-       </item>
-       <item>
-        <widget class="QDoubleSpinBox" name="tzValue">
-         <property name="decimals">
-          <number>3</number>
-         </property>
-         <property name="minimum">
-          <double>-10.000000000000000</double>
-         </property>
-         <property name="maximum">
-          <double>10.000000000000000</double>
-         </property>
-        </widget>
-       </item>
-       <item>
-        <widget class="QLabel" name="label_5">
-         <property name="text">
-          <string>Rx</string>
-         </property>
-        </widget>
-       </item>
-       <item>
-        <widget class="QDoubleSpinBox" name="rxValue">
-         <property name="decimals">
-          <number>3</number>
-         </property>
-         <property name="minimum">
-          <double>-360.000000000000000</double>
-         </property>
-         <property name="maximum">
-          <double>360.000000000000000</double>
-         </property>
-        </widget>
-       </item>
-       <item>
-        <widget class="QLabel" name="label_6">
-         <property name="text">
-          <string>Ry</string>
-         </property>
-        </widget>
-       </item>
-       <item>
-        <widget class="QDoubleSpinBox" name="ryValue">
-         <property name="decimals">
-          <number>3</number>
-         </property>
-         <property name="minimum">
-          <double>-360.000000000000000</double>
-         </property>
-         <property name="maximum">
-          <double>360.000000000000000</double>
-         </property>
-        </widget>
-       </item>
-       <item>
-        <widget class="QLabel" name="label_7">
-         <property name="text">
-          <string>Rz</string>
-         </property>
-        </widget>
-       </item>
-       <item>
-        <widget class="QDoubleSpinBox" name="rzValue">
-         <property name="decimals">
-          <number>3</number>
-         </property>
-         <property name="minimum">
-          <double>-360.000000000000000</double>
-         </property>
-         <property name="maximum">
-          <double>360.000000000000000</double>
-         </property>
-        </widget>
-       </item>
-       <item>
-        <widget class="QPushButton" name="refineWithICPButton">
-         <property name="text">
-          <string>Refine with ICP</string>
-         </property>
-        </widget>
-       </item>
-       <item>
-        <spacer name="horizontalSpacer_2">
-         <property name="orientation">
-          <enum>Qt::Horizontal</enum>
-         </property>
-         <property name="sizeHint" stdset="0">
-          <size>
-           <width>40</width>
-           <height>20</height>
-          </size>
-         </property>
-        </spacer>
-       </item>
-      </layout>
-     </widget>
-    </item>
-    <item>
-     <widget class="QFrame" name="frame_2">
-      <property name="frameShape">
-       <enum>QFrame::StyledPanel</enum>
-      </property>
-      <property name="frameShadow">
-       <enum>QFrame::Raised</enum>
-      </property>
-      <layout class="QHBoxLayout" name="horizontalLayout_2">
-       <item>
-        <widget class="CalibrationMeshViewer" name="mesh_view" native="true"/>
-       </item>
-       <item>
-        <widget class="QGroupBox" name="groupBox">
-         <property name="sizePolicy">
-          <sizepolicy hsizetype="Fixed" vsizetype="Expanding">
-           <horstretch>0</horstretch>
-           <verstretch>0</verstretch>
-          </sizepolicy>
-         </property>
-         <property name="minimumSize">
-          <size>
-           <width>150</width>
-           <height>0</height>
-          </size>
-         </property>
-         <property name="title">
-          <string>Checkerboard</string>
-         </property>
-         <layout class="QVBoxLayout" name="verticalLayout_2">
-          <item>
-           <widget class="QGroupBox" name="groupBox_2">
-            <property name="title">
-             <string> Cols/Rows/Size (m)</string>
-            </property>
-            <layout class="QHBoxLayout" name="horizontalLayout_4">
-             <item>
-              <widget class="QSpinBox" name="patternWidthSpinBox">
-               <property name="value">
-                <number>10</number>
-               </property>
-              </widget>
-             </item>
-             <item>
-              <widget class="QSpinBox" name="patternHeightSpinBox">
-               <property name="value">
-                <number>7</number>
-               </property>
-              </widget>
-             </item>
-             <item>
-              <widget class="QDoubleSpinBox" name="patternSizeSpinBox">
-               <property name="decimals">
-                <number>3</number>
-               </property>
-               <property name="maximum">
-                <double>1.000000000000000</double>
-               </property>
-               <property name="singleStep">
-                <double>0.001000000000000</double>
-               </property>
-               <property name="value">
-                <double>0.025000000000000</double>
-               </property>
-              </widget>
-             </item>
+    <class>View3DWindow</class>
+    <widget class="QMainWindow" name="View3DWindow">
+        <property name="geometry">
+            <rect>
+                <x>0</x>
+                <y>0</y>
+                <width>1092</width>
+                <height>596</height>
+            </rect>
+        </property>
+        <property name="windowTitle">
+            <string>3D View</string>
+        </property>
+        <widget class="QWidget" name="centralwidget">
+            <layout class="QVBoxLayout" name="verticalLayout">
+                
+                <item>
+                    <widget class="QFrame" name="frame_6">
+                        <property name="sizePolicy">
+                            <sizepolicy hsizetype="Preferred" vsizetype="Fixed">
+                                <horstretch>0</horstretch>
+                                <verstretch>0</verstretch>
+                            </sizepolicy>
+                        </property>
+                        <property name="frameShape">
+                            <enum>QFrame::StyledPanel</enum>
+                        </property>
+                        <property name="frameShadow">
+                            <enum>QFrame::Raised</enum>
+                        </property>
+                        <layout class="QHBoxLayout" name="horizontalLayout0">
+                            <item>
+                                <widget class="QLabel" name="label">
+                                    <property name="text">
+                                        <string>New Camera:</string>
+                                    </property>
+                                </widget>
+                            </item>
+                            <item>
+                                <widget class="QLineEdit" name="camera_name">
+                                    <property name="minimumSize">
+                                        <size>
+                                            <width>70</width>
+                                            <height>0</height>
+                                        </size>
+                                    </property>
+                                    <property name="focusPolicy">
+                                        <enum>Qt::ClickFocus</enum>
+                                    </property>
+                                    <property name="text">
+                                        <string>Camera Label</string>
+                                    </property>
+                                </widget>
+                            </item>
+                            <item>
+                                <widget class="QPushButton" name="addCamera">
+                                    <property name="text">
+                                        <string>Add Camera</string>
+                                    </property>
+                                </widget>
+                            </item>
+                            <item>
+                                <widget class="QComboBox" name="camera_selector">
+                                    <item>
+                                        <property name="text">
+                                            <string>Default Camera</string>
+                                        </property>
+                                    </item>
+                                </widget>
+                            </item>
+                            <item>
+                                <layout class="QHBoxLayout" name="horizontalLayout_camera1">
+                                    <item>
+                                        <widget class="QPushButton" name="saveCamera">
+                                            <property name="text">
+                                                <string>Save</string>
+                                            </property>
+                                        </widget>
+                                    </item>
+                                </layout>
+                            </item>
+                            <item>
+                                <spacer name="horizontalSpacer">
+                                    <property name="orientation">
+                                        <enum>Qt::Horizontal</enum>
+                                    </property>
+                                    <property name="sizeHint" stdset="0">
+                                        <size>
+                                            <width>40</width>
+                                            <height>20</height>
+                                        </size>
+                                    </property>
+                                </spacer>
+                            </item>
+                        </layout>
+                    </widget>
+                </item>
+                
+                <item>
+                    <widget class="QFrame" name="frame0">
+                        <property name="sizePolicy">
+                            <sizepolicy hsizetype="Preferred" vsizetype="Fixed">
+                                <horstretch>0</horstretch>
+                                <verstretch>0</verstretch>
+                            </sizepolicy>
+                        </property>
+                        <property name="frameShape">
+                            <enum>QFrame::StyledPanel</enum>
+                        </property>
+                        <property name="frameShadow">
+                            <enum>QFrame::Raised</enum>
+                        </property>
+                        <layout class="QHBoxLayout" name="horizontalLayout0">
+                            <item>
+                                <widget class="QPushButton" name="sceneViewButton">
+                                    <property name="text">
+                                        <string>Scene View</string>
+                                    </property>
+                                </widget>
+                            </item>
+                            <item>
+                                <widget class="QPushButton" name="camViewButton">
+                                    <property name="text">
+                                        <string>Cam View</string>
+                                    </property>
+                                </widget>
+                            </item>
+                            <item>
+                                <widget class="QPushButton" name="dualViewButton">
+                                    <property name="text">
+                                        <string>Dual View</string>
+                                    </property>
+                                </widget>
+                            </item>
+                            <item>
+                                <spacer name="horizontalSpacer">
+                                    <property name="orientation">
+                                        <enum>Qt::Horizontal</enum>
+                                    </property>
+                                    <property name="sizeHint" stdset="0">
+                                        <size>
+                                            <width>40</width>
+                                            <height>20</height>
+                                        </size>
+                                    </property>
+                                </spacer>
+                            </item>
+                        </layout>
+                    </widget>
+                </item>
+                
+                
+                
+                
+                
+                
+                <item>
+                    <widget class="QFrame" name="frame">
+                        <property name="sizePolicy">
+                            <sizepolicy hsizetype="Preferred" vsizetype="Fixed">
+                                <horstretch>0</horstretch>
+                                <verstretch>0</verstretch>
+                            </sizepolicy>
+                        </property>
+                        <property name="frameShape">
+                            <enum>QFrame::StyledPanel</enum>
+                        </property>
+                        <property name="frameShadow">
+                            <enum>QFrame::Raised</enum>
+                        </property>
+                        <layout class="QHBoxLayout" name="horizontalLayout">
+                            <item>
+                                <widget class="QCheckBox" name="colorMappingCheckBox">
+                                    <property name="text">
+                                        <string>Color</string>
+                                    </property>
+                                    <property name="checked">
+                                        <bool>true</bool>
+                                    </property>
+                                </widget>
+                            </item>
+                            <item>
+                                <widget class="QPushButton" name="saveMeshesPushButton">
+                                    <property name="text">
+                                        <string>SaveMeshes</string>
+                                    </property>
+                                </widget>
+                            </item>
+                            <item>
+                                <widget class="QPushButton" name="pointCloudPushButton">
+                                    <property name="text">
+                                        <string>PointCloud</string>
+                                    </property>
+                                </widget>
+                            </item>
+                            <item>
+                                <widget class="QPushButton" name="surfelsPushButton">
+                                    <property name="text">
+                                        <string>Surfels</string>
+                                    </property>
+                                </widget>
+                            </item>
+                            <item>
+                                <widget class="QPushButton" name="trianglePushButton">
+                                    <property name="text">
+                                        <string>Triangles</string>
+                                    </property>
+                                </widget>
+                            </item>
+                            <item>
+                                <widget class="QCheckBox" name="mergeViewsCheckBox">
+                                    <property name="text">
+                                        <string>Merge views</string>
+                                    </property>
+                                    <property name="checked">
+                                        <bool>true</bool>
+                                    </property>
+                                </widget>
+                            </item>
+                            <item>
+                                <widget class="QCheckBox" name="calibrationModeCheckBox">
+                                    <property name="text">
+                                        <string>Calibration mode</string>
+                                    </property>
+                                </widget>
+                            </item>
+                            <item>
+                                <spacer name="horizontalSpacer">
+                                    <property name="orientation">
+                                        <enum>Qt::Horizontal</enum>
+                                    </property>
+                                    <property name="sizeHint" stdset="0">
+                                        <size>
+                                            <width>40</width>
+                                            <height>20</height>
+                                        </size>
+                                    </property>
+                                </spacer>
+                            </item>
+                            <item>
+                                <widget class="QLabel" name="label">
+                                    <property name="text">
+                                        <string>Resolution factor</string>
+                                    </property>
+                                </widget>
+                            </item>
+                            <item>
+                                <widget class="QDoubleSpinBox" name="resolutionFactorSpinBox">
+                                    <property name="minimum">
+                                        <double>0.100000000000000</double>
+                                    </property>
+                                    <property name="maximum">
+                                        <double>4.000000000000000</double>
+                                    </property>
+                                    <property name="singleStep">
+                                        <double>0.100000000000000</double>
+                                    </property>
+                                    <property name="value">
+                                        <double>1.000000000000000</double>
+                                    </property>
+                                </widget>
+                            </item>
+                            <item>
+                                <widget class="QPushButton" name="resetCamera">
+                                    <property name="text">
+                                        <string>Reset camera</string>
+                                    </property>
+                                </widget>
+                            </item>
+                        </layout>
+                    </widget>
+                </item>
+                <item>
+                    <widget class="QFrame" name="frame_3">
+                        <property name="sizePolicy">
+                            <sizepolicy hsizetype="Preferred" vsizetype="Fixed">
+                                <horstretch>0</horstretch>
+                                <verstretch>0</verstretch>
+                            </sizepolicy>
+                        </property>
+                        <property name="frameShape">
+                            <enum>QFrame::StyledPanel</enum>
+                        </property>
+                        <property name="frameShadow">
+                            <enum>QFrame::Raised</enum>
+                        </property>
+                        <layout class="QHBoxLayout" name="horizontalLayout_3">
+                            <item>
+                                <widget class="QLabel" name="label_2">
+                                    <property name="text">
+                                        <string>Tx</string>
+                                    </property>
+                                </widget>
+                            </item>
+                            <item>
+                                <widget class="QDoubleSpinBox" name="txValue">
+                                    <property name="decimals">
+                                        <number>3</number>
+                                    </property>
+                                    <property name="minimum">
+                                        <double>-10.000000000000000</double>
+                                    </property>
+                                    <property name="maximum">
+                                        <double>10.000000000000000</double>
+                                    </property>
+                                </widget>
+                            </item>
+                            <item>
+                                <widget class="QLabel" name="label_3">
+                                    <property name="text">
+                                        <string>Ty</string>
+                                    </property>
+                                </widget>
+                            </item>
+                            <item>
+                                <widget class="QDoubleSpinBox" name="tyValue">
+                                    <property name="decimals">
+                                        <number>3</number>
+                                    </property>
+                                    <property name="minimum">
+                                        <double>-10.000000000000000</double>
+                                    </property>
+                                    <property name="maximum">
+                                        <double>10.000000000000000</double>
+                                    </property>
+                                </widget>
+                            </item>
+                            <item>
+                                <widget class="QLabel" name="label_4">
+                                    <property name="text">
+                                        <string>Tz</string>
+                                    </property>
+                                </widget>
+                            </item>
+                            <item>
+                                <widget class="QDoubleSpinBox" name="tzValue">
+                                    <property name="decimals">
+                                        <number>3</number>
+                                    </property>
+                                    <property name="minimum">
+                                        <double>-10.000000000000000</double>
+                                    </property>
+                                    <property name="maximum">
+                                        <double>10.000000000000000</double>
+                                    </property>
+                                </widget>
+                            </item>
+                            <item>
+                                <widget class="QLabel" name="label_5">
+                                    <property name="text">
+                                        <string>Rx</string>
+                                    </property>
+                                </widget>
+                            </item>
+                            <item>
+                                <widget class="QDoubleSpinBox" name="rxValue">
+                                    <property name="decimals">
+                                        <number>3</number>
+                                    </property>
+                                    <property name="minimum">
+                                        <double>-360.000000000000000</double>
+                                    </property>
+                                    <property name="maximum">
+                                        <double>360.000000000000000</double>
+                                    </property>
+                                </widget>
+                            </item>
+                            <item>
+                                <widget class="QLabel" name="label_6">
+                                    <property name="text">
+                                        <string>Ry</string>
+                                    </property>
+                                </widget>
+                            </item>
+                            <item>
+                                <widget class="QDoubleSpinBox" name="ryValue">
+                                    <property name="decimals">
+                                        <number>3</number>
+                                    </property>
+                                    <property name="minimum">
+                                        <double>-360.000000000000000</double>
+                                    </property>
+                                    <property name="maximum">
+                                        <double>360.000000000000000</double>
+                                    </property>
+                                </widget>
+                            </item>
+                            <item>
+                                <widget class="QLabel" name="label_7">
+                                    <property name="text">
+                                        <string>Rz</string>
+                                    </property>
+                                </widget>
+                            </item>
+                            <item>
+                                <widget class="QDoubleSpinBox" name="rzValue">
+                                    <property name="decimals">
+                                        <number>3</number>
+                                    </property>
+                                    <property name="minimum">
+                                        <double>-360.000000000000000</double>
+                                    </property>
+                                    <property name="maximum">
+                                        <double>360.000000000000000</double>
+                                    </property>
+                                </widget>
+                            </item>
+                            <item>
+                                <widget class="QPushButton" name="refineWithICPButton">
+                                    <property name="text">
+                                        <string>Refine with ICP</string>
+                                    </property>
+                                </widget>
+                            </item>
+                            <item>
+                                <spacer name="horizontalSpacer_2">
+                                    <property name="orientation">
+                                        <enum>Qt::Horizontal</enum>
+                                    </property>
+                                    <property name="sizeHint" stdset="0">
+                                        <size>
+                                            <width>40</width>
+                                            <height>20</height>
+                                        </size>
+                                    </property>
+                                </spacer>
+                            </item>
+                        </layout>
+                    </widget>
+                </item>
+                <item>
+                    <widget class="QFrame" name="frame_2">
+                        <property name="frameShape">
+                            <enum>QFrame::StyledPanel</enum>
+                        </property>
+                        <property name="frameShadow">
+                            <enum>QFrame::Raised</enum>
+                        </property>
+                        <layout class="QHBoxLayout" name="horizontalLayout_2">
+                            <item>
+                                <widget class="CalibrationMeshViewer" name="mesh_view" native="true"/>
+                            </item>
+                            <item>
+                                <widget class="QGroupBox" name="groupBox">
+                                    <property name="sizePolicy">
+                                        <sizepolicy hsizetype="Fixed" vsizetype="Expanding">
+                                            <horstretch>0</horstretch>
+                                            <verstretch>0</verstretch>
+                                        </sizepolicy>
+                                    </property>
+                                    <property name="minimumSize">
+                                        <size>
+                                            <width>150</width>
+                                            <height>0</height>
+                                        </size>
+                                    </property>
+                                    <property name="title">
+                                        <string>Checkerboard</string>
+                                    </property>
+                                    <layout class="QVBoxLayout" name="verticalLayout_2">
+                                        <item>
+                                            <widget class="QGroupBox" name="groupBox_2">
+                                                <property name="title">
+                                                    <string> Cols/Rows/Size (m)</string>
+                                                </property>
+                                                <layout class="QHBoxLayout" name="horizontalLayout_4">
+                                                    <item>
+                                                        <widget class="QSpinBox" name="patternWidthSpinBox">
+                                                            <property name="value">
+                                                                <number>10</number>
+                                                            </property>
+                                                        </widget>
+                                                    </item>
+                                                    <item>
+                                                        <widget class="QSpinBox" name="patternHeightSpinBox">
+                                                            <property name="value">
+                                                                <number>7</number>
+                                                            </property>
+                                                        </widget>
+                                                    </item>
+                                                    <item>
+                                                        <widget class="QDoubleSpinBox" name="patternSizeSpinBox">
+                                                            <property name="decimals">
+                                                                <number>3</number>
+                                                            </property>
+                                                            <property name="maximum">
+                                                                <double>1.000000000000000</double>
+                                                            </property>
+                                                            <property name="singleStep">
+                                                                <double>0.001000000000000</double>
+                                                            </property>
+                                                            <property name="value">
+                                                                <double>0.025000000000000</double>
+                                                            </property>
+                                                        </widget>
+                                                    </item>
+                                                </layout>
+                                            </widget>
+                                        </item>
+                                        <item>
+                                            <widget class="QPushButton" name="addCheckerboardImageButton">
+                                                <property name="text">
+                                                    <string>Add image</string>
+                                                </property>
+                                            </widget>
+                                        </item>
+                                        <item>
+                                            <widget class="QPushButton" name="calibrateWithCheckerboardButton">
+                                                <property name="text">
+                                                    <string>Calibrate</string>
+                                                </property>
+                                            </widget>
+                                        </item>
+                                        <item>
+                                            <widget class="QPushButton" name="resetCheckerboardImages">
+                                                <property name="text">
+                                                    <string>Reset Images</string>
+                                                </property>
+                                            </widget>
+                                        </item>
+                                        <item>
+                                            <widget class="QFrame" name="frame_4">
+                                                <property name="sizePolicy">
+                                                    <sizepolicy hsizetype="Preferred" vsizetype="Expanding">
+                                                        <horstretch>0</horstretch>
+                                                        <verstretch>0</verstretch>
+                                                    </sizepolicy>
+                                                </property>
+                                                <property name="minimumSize">
+                                                    <size>
+                                                        <width>0</width>
+                                                        <height>0</height>
+                                                    </size>
+                                                </property>
+                                                <property name="frameShape">
+                                                    <enum>QFrame::StyledPanel</enum>
+                                                </property>
+                                                <property name="frameShadow">
+                                                    <enum>QFrame::Raised</enum>
+                                                </property>
+                                                <layout class="QVBoxLayout" name="verticalLayout_3">
+                                                    <item>
+                                                        <widget class="ntk::ImageWidget" name="checkerboard_view" native="true">
+                                                            <property name="sizePolicy">
+                                                                <sizepolicy hsizetype="Preferred" vsizetype="Preferred">
+                                                                    <horstretch>0</horstretch>
+                                                                    <verstretch>0</verstretch>
+                                                                </sizepolicy>
+                                                            </property>
+                                                        </widget>
+                                                    </item>
+                                                </layout>
+                                            </widget>
+                                        </item>
+                                        <item>
+                                            <widget class="QLabel" name="labelCheckboard">
+                                                <property name="text">
+                                                    <string>0 images</string>
+                                                </property>
+                                                <property name="alignment">
+                                                    <set>Qt::AlignCenter</set>
+                                                </property>
+                                            </widget>
+                                        </item>
+                                    </layout>
+                                </widget>
+                            </item>
+                        </layout>
+                    </widget>
+                </item>
+                
+                
+                
+                <item>
+                    <widget class="QFrame" name="frame5">
+                        <property name="sizePolicy">
+                            <sizepolicy hsizetype="Preferred" vsizetype="Fixed">
+                                <horstretch>0</horstretch>
+                                <verstretch>0</verstretch>
+                            </sizepolicy>
+                        </property>
+                        <property name="frameShape">
+                            <enum>QFrame::StyledPanel</enum>
+                        </property>
+                        <property name="frameShadow">
+                            <enum>QFrame::Raised</enum>
+                        </property>
+                        <layout class="QHBoxLayout" name="horizontalLayout5">
+                            <item>
+                                <widget class="QPushButton" name="firstFrameButton">
+                                    <property name="text">
+                                        <string>First Frame</string>
+                                    </property>
+                                </widget>
+                            </item>
+                            <item>
+                                <widget class="QPushButton" name="playButton">
+                                    <property name="text">
+                                        <string>Play</string>
+                                    </property>
+                                </widget>
+                            </item>
+                            <item>
+                                <widget class="QPushButton" name="pauseButton">
+                                    <property name="text">
+                                        <string>Pause</string>
+                                    </property>
+                                </widget>
+                            </item>
+                            <item>
+                                <widget class="QSlider" name="timeSlider">
+                                    <property name="orientation">
+                                        <enum>Qt::Horizontal</enum>
+                                    </property>
+                                </widget>
+                            </item>
+                            <item>
+                                <spacer name="horizontalSpacer">
+                                    <property name="orientation">
+                                        <enum>Qt::Horizontal</enum>
+                                    </property>
+                                    <property name="sizeHint" stdset="0">
+                                        <size>
+                                            <width>40</width>
+                                            <height>20</height>
+                                        </size>
+                                    </property>
+                                </spacer>
+                            </item>
+                        </layout>
+                    </widget>
+                </item>
+                
+                
+                <item>
+                    <widget class="QFrame" name="frame6">
+                        <property name="sizePolicy">
+                            <sizepolicy hsizetype="Preferred" vsizetype="Fixed">
+                                <horstretch>0</horstretch>
+                                <verstretch>0</verstretch>
+                            </sizepolicy>
+                        </property>
+                        <property name="frameShape">
+                            <enum>QFrame::StyledPanel</enum>
+                        </property>
+                        <property name="frameShadow">
+                            <enum>QFrame::Raised</enum>
+                        </property>
+                        <layout class="QHBoxLayout" name="horizontalLayout6">
+                            <item>
+                                <widget class="QComboBox" name="camera_style_selector">
+                                    <item>
+                                        <property name="text">
+                                            <string>Static Camera</string>
+                                        </property>
+                                    </item>
+                                    <item>
+                                        <property name="text">
+                                            <string>Panning Camera</string>
+                                        </property>
+                                    </item>
+                                    <item>
+                                        <property name="text">
+                                            <string>Omit Camera</string>s
+                                        </property>
+                                    </item>
+                                </widget>
+                            </item>
+                            <item>
+                                <widget class="QLabel" name="label_8">
+                                    <property name="text">
+                                        <string>Tx</string>
+                                    </property>
+                                </widget>
+                            </item>
+                            <item>
+                                <widget class="QDoubleSpinBox" name="txCamValue">
+                                    <property name="decimals">
+                                        <number>3</number>
+                                    </property>
+                                    <property name="minimum">
+                                        <double>-10.000000000000000</double>
+                                    </property>
+                                    <property name="maximum">
+                                        <double>10.000000000000000</double>
+                                    </property>
+                                </widget>
+                            </item>
+                            <item>
+                                <widget class="QLabel" name="label_9">
+                                    <property name="text">
+                                        <string>Ty</string>
+                                    </property>
+                                </widget>
+                            </item>
+                            <item>
+                                <widget class="QDoubleSpinBox" name="tyCamValue">
+                                    <property name="decimals">
+                                        <number>3</number>
+                                    </property>
+                                    <property name="minimum">
+                                        <double>-10.000000000000000</double>
+                                    </property>
+                                    <property name="maximum">
+                                        <double>10.000000000000000</double>
+                                    </property>
+                                </widget>
+                            </item>
+                            <item>
+                                <widget class="QLabel" name="label_10">
+                                    <property name="text">
+                                        <string>Tz</string>
+                                    </property>
+                                </widget>
+                            </item>
+                            <item>
+                                <widget class="QDoubleSpinBox" name="tzCamValue">
+                                    <property name="decimals">
+                                        <number>3</number>
+                                    </property>
+                                    <property name="minimum">
+                                        <double>-10.000000000000000</double>
+                                    </property>
+                                    <property name="maximum">
+                                        <double>10.000000000000000</double>
+                                    </property>
+                                </widget>
+                            </item>
+                            <item>
+                                <widget class="QLabel" name="label_11">
+                                    <property name="text">
+                                        <string>Rx</string>
+                                    </property>
+                                </widget>
+                            </item>
+                            <item>
+                                <widget class="QDoubleSpinBox" name="rxCamValue">
+                                    <property name="decimals">
+                                        <number>3</number>
+                                    </property>
+                                    <property name="minimum">
+                                        <double>-10.000000000000000</double>
+                                    </property>
+                                    <property name="maximum">
+                                        <double>10.000000000000000</double>
+                                    </property>
+                                </widget>
+                            </item>
+                            <item>
+                                <widget class="QLabel" name="label_12">
+                                    <property name="text">
+                                        <string>Ry</string>
+                                    </property>
+                                </widget>
+                            </item>
+                            <item>
+                                <widget class="QDoubleSpinBox" name="ryCamValue">
+                                    <property name="decimals">
+                                        <number>3</number>
+                                    </property>
+                                    <property name="minimum">
+                                        <double>-10.000000000000000</double>
+                                    </property>
+                                    <property name="maximum">
+                                        <double>10.000000000000000</double>
+                                    </property>
+                                </widget>
+                            </item>
+                            <item>
+                                <widget class="QLabel" name="label_13">
+                                    <property name="text">
+                                        <string>Rz</string>
+                                    </property>
+                                </widget>
+                            </item>
+                            <item>
+                                <widget class="QDoubleSpinBox" name="rzCamValue">
+                                    <property name="decimals">
+                                        <number>3</number>
+                                    </property>
+                                    <property name="minimum">
+                                        <double>-10.000000000000000</double>
+                                    </property>
+                                    <property name="maximum">
+                                        <double>10.000000000000000</double>
+                                    </property>
+                                </widget>
+                            </item>
+                            <item>
+                                <widget class="QPushButton" name="setCamera">
+                                    <property name="text">
+                                        <string>Set Camera</string>
+                                    </property>
+                                </widget>
+                            </item>
+                            
+                            <item>
+                                <spacer name="horizontalSpacer">
+                                    <property name="orientation">
+                                        <enum>Qt::Horizontal</enum>
+                                    </property>
+                                    <property name="sizeHint" stdset="0">
+                                        <size>
+                                            <width>40</width>
+                                            <height>20</height>
+                                        </size>
+                                    </property>
+                                </spacer>
+                            </item>
+                        </layout>
+                    </widget>
+                </item>
+                
+                
+                
+                
             </layout>
-           </widget>
-          </item>
-          <item>
-           <widget class="QPushButton" name="addCheckerboardImageButton">
-            <property name="text">
-             <string>Add image</string>
-            </property>
-           </widget>
-          </item>
-          <item>
-           <widget class="QPushButton" name="calibrateWithCheckerboardButton">
-            <property name="text">
-             <string>Calibrate</string>
-            </property>
-           </widget>
-          </item>
-          <item>
-           <widget class="QPushButton" name="resetCheckerboardImages">
-            <property name="text">
-             <string>Reset Images</string>
-            </property>
-           </widget>
-          </item>
-          <item>
-           <widget class="QFrame" name="frame_4">
-            <property name="sizePolicy">
-             <sizepolicy hsizetype="Preferred" vsizetype="Expanding">
-              <horstretch>0</horstretch>
-              <verstretch>0</verstretch>
-             </sizepolicy>
-            </property>
-            <property name="minimumSize">
-             <size>
-              <width>0</width>
-              <height>0</height>
-             </size>
-            </property>
-            <property name="frameShape">
-             <enum>QFrame::StyledPanel</enum>
-            </property>
-            <property name="frameShadow">
-             <enum>QFrame::Raised</enum>
-            </property>
-            <layout class="QVBoxLayout" name="verticalLayout_3">
-             <item>
-              <widget class="ntk::ImageWidget" name="checkerboard_view" native="true">
-               <property name="sizePolicy">
-                <sizepolicy hsizetype="Preferred" vsizetype="Preferred">
-                 <horstretch>0</horstretch>
-                 <verstretch>0</verstretch>
-                </sizepolicy>
-               </property>
-              </widget>
-             </item>
-            </layout>
-           </widget>
-          </item>
-          <item>
-           <widget class="QLabel" name="labelCheckboard">
-            <property name="text">
-             <string>0 images</string>
-            </property>
-            <property name="alignment">
-             <set>Qt::AlignCenter</set>
-            </property>
-           </widget>
-          </item>
-         </layout>
         </widget>
-       </item>
-      </layout>
-     </widget>
-    </item>
-       
-       
-       
-       <item>
-           <widget class="QFrame" name="frame5">
-               <property name="sizePolicy">
-                   <sizepolicy hsizetype="Preferred" vsizetype="Fixed">
-                       <horstretch>0</horstretch>
-                       <verstretch>0</verstretch>
-                   </sizepolicy>
-               </property>
-               <property name="frameShape">
-                   <enum>QFrame::StyledPanel</enum>
-               </property>
-               <property name="frameShadow">
-                   <enum>QFrame::Raised</enum>
-               </property>
-               <layout class="QHBoxLayout" name="horizontalLayout5">
-                   <item>
-                       <widget class="QPushButton" name="firstFrameButton">
-                           <property name="text">
-                               <string>First Frame</string>
-                           </property>
-                       </widget>
-                   </item>
-                   <item>
-                       <widget class="QPushButton" name="playButton">
-                           <property name="text">
-                               <string>Play</string>
-                           </property>
-                       </widget>
-                   </item>
-                   <item>
-                       <widget class="QPushButton" name="pauseButton">
-                           <property name="text">
-                               <string>Pause</string>
-                           </property>
-                       </widget>
-                   </item>
-                   <item>
-                       <widget class="QSlider" name="timeSlider">
-                           <property name="orientation">
-                               <enum>Qt::Horizontal</enum>
-                           </property>
-                       </widget>
-                   </item>
-
-                   <item>
-                       <spacer name="horizontalSpacer">
-                           <property name="orientation">
-                               <enum>Qt::Horizontal</enum>
-                           </property>
-                           <property name="sizeHint" stdset="0">
-                               <size>
-                                   <width>40</width>
-                                   <height>20</height>
-                               </size>
-                           </property>
-                       </spacer>
-                   </item>
-               </layout>
-           </widget>
-       </item>
-       
-       
-       
-       
-   </layout>
-  </widget>
-  <widget class="QMenuBar" name="menubar">
-   <property name="geometry">
-    <rect>
-     <x>0</x>
-     <y>0</y>
-     <width>1092</width>
-     <height>26</height>
-    </rect>
-   </property>
-   <widget class="QMenu" name="menu_File">
-    <property name="title">
-     <string>&amp;File</string>
-    </property>
-   </widget>
-   <addaction name="menu_File"/>
-  </widget>
-  <widget class="QStatusBar" name="statusbar"/>
- </widget>
- <customwidgets>
-  <customwidget>
-   <class>CalibrationMeshViewer</class>
-   <extends>QWidget</extends>
-   <header>View3dWindow.h</header>
-   <container>1</container>
-  </customwidget>
-  <customwidget>
-   <class>ntk::ImageWidget</class>
-   <extends>QWidget</extends>
-   <header location="global">ntk/gui/image_widget.h</header>
-   <container>1</container>
-  </customwidget>
- </customwidgets>
- <resources/>
- <connections/>
+        <widget class="QMenuBar" name="menubar">
+            <property name="geometry">
+                <rect>
+                    <x>0</x>
+                    <y>0</y>
+                    <width>1092</width>
+                    <height>26</height>
+                </rect>
+            </property>
+            <widget class="QMenu" name="menu_File">
+                <property name="title">
+                    <string>&amp;File</string>
+                </property>
+            </widget>
+            <addaction name="menu_File"/>
+        </widget>
+        <widget class="QStatusBar" name="statusbar"/>
+    </widget>
+    <customwidgets>
+        <customwidget>
+            <class>CalibrationMeshViewer</class>
+            <extends>QWidget</extends>
+            <header>View3dWindow.h</header>
+            <container>1</container>
+        </customwidget>
+        <customwidget>
+            <class>ntk::ImageWidget</class>
+            <extends>QWidget</extends>
+            <header location="global">ntk/gui/image_widget.h</header>
+            <container>1</container>
+        </customwidget>
+    </customwidgets>
+    <resources/>
+    <connections/>
 </ui>

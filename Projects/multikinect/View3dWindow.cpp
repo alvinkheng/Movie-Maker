@@ -24,6 +24,8 @@
 
 #include <ntk/mesh/mesh_generator.h>
 
+#define END_FRAME 73737373
+
 using namespace cv;
 using namespace ntk;
 
@@ -36,6 +38,13 @@ View3DWindow::View3DWindow(GuiMultiKinectController& controller, QWidget *parent
     ui->mesh_view->window = this;
     ui->mesh_view->enableLighting();
 	ui->mesh_view->initializeCameraView();
+	Transition *initTransition = new Transition();
+	initTransition->cameraIndex = 0;
+	initTransition->startFrame = 0;
+	initTransition->endFrame =  END_FRAME;  // FIXME
+	initTransition->transition = STILL_CAMERA;
+	transitions = initTransition;
+	currentTransition = initTransition;
 }
 
 View3DWindow::~View3DWindow()
@@ -231,14 +240,92 @@ void View3DWindow::on_pauseButton_clicked() {
     m_controller.replayScanner().togglePlay(false);
 }
 
+void View3DWindow::panCamera(int cameraIndex, int frameIndex)
+{
+	int endFrame = currentTransition->endFrame;
+	if (endFrame == END_FRAME)
+		endFrame = m_controller.replayScanner().getNumRecordedFrames();
+	int numFrames = endFrame - currentTransition->startFrame;
+	float percentComplete = (float)(frameIndex - currentTransition->startFrame) / (float)numFrames;
+    
+	Vec3f translation(currentTransition->tx*percentComplete, 
+					  currentTransition->ty*percentComplete,  
+					  currentTransition->tz*percentComplete);
+    Vec3f rotation(currentTransition->rx*percentComplete, 
+				   currentTransition->ry*percentComplete,
+				   currentTransition->rz*percentComplete);
+	translation[0] = translation[0] * percentComplete;
+	translation[1] = translation[1] * percentComplete;
+	ui->mesh_view->panCamera(cameraIndex, translation, rotation);
+}
+
+void View3DWindow::setCameraForFrame(int frameIndex) {
+	if (frameIndex < currentTransition->startFrame || frameIndex > currentTransition->endFrame) { // Not contained in currentTransition
+		currentTransition = transitions;
+	}
+	while (frameIndex < currentTransition->startFrame || frameIndex > currentTransition->endFrame) {  
+		if (!currentTransition->next) {
+			printf("ERROR: Could not find camera for frame %i in range %i to %i\n", frameIndex, currentTransition->startFrame, currentTransition->endFrame);
+			return;
+		}
+		currentTransition = currentTransition->next;
+	} 
+	// TODO: change by case of transition
+	int cameraIndex = currentTransition->cameraIndex;
+	if (currentTransition->transition == STILL_CAMERA) {
+		printf("Static Camera\n");
+		ui->camera_selector->setCurrentIndex(cameraIndex);
+		ui->mesh_view->activeCamera(cameraIndex);
+		ui->mesh_view->setCameraView(cameraIndex);
+		return;
+	}
+	if (currentTransition->transition == PAN_TRANSITION) {
+		printf("Pan Camera\n");
+		panCamera(cameraIndex, frameIndex);
+	}
+	if (currentTransition->transition == OMIT_FRAMES) {
+		printf("Omit Frames\n");
+		// set current frame to end frame + 1 (make sure not out of range)
+		// update currentTransition pointer
+	}
+}
+
 void View3DWindow::on_timeSlider_valueChanged(int value) {
-    if (!m_controller.replayScanner().isReplaying()) {
-        m_controller.replayScanner().setCurrentReplayFrame(value * m_controller.replayScanner().getNumRecordedFrames() / 100);
+	int currentFrameIndex = value * m_controller.replayScanner().getNumRecordedFrames() / 100;
+	if (!m_controller.replayScanner().isReplaying()) {
+        m_controller.replayScanner().setCurrentReplayFrame(currentFrameIndex);
     }
+	setCameraForFrame(currentFrameIndex);
 }
 
 void View3DWindow::on_setCamera_clicked() {
-	printf("set camera\n");
+	printf("setCamera\n");
+    
+	int currentFrame = ui->timeSlider->value() * m_controller.replayScanner().getNumRecordedFrames() / 100;
+	printf("frame:%i\n", currentFrame);
+	if (currentFrame > currentTransition->startFrame) {
+		Transition *newTransition = new Transition();
+		newTransition->startFrame = currentFrame;
+		newTransition->endFrame = currentTransition->endFrame;
+		newTransition->next = currentTransition->next;
+        
+		currentTransition->endFrame = currentFrame - 1;
+		currentTransition->next = newTransition;
+		currentTransition = newTransition;
+	}
+    
+	currentTransition->transition = ui->camera_style_selector->currentIndex();
+	currentTransition->tx = -1 * ui->txCamValue->value();
+	currentTransition->ty = -1 * ui->tyCamValue->value();
+	currentTransition->tz = ui->tzCamValue->value();
+	currentTransition->rx = ui->rxCamValue->value();
+	currentTransition->ry = ui->ryCamValue->value();
+	currentTransition->rz = ui->rzCamValue->value();
+	currentTransition->cameraIndex = ui->camera_selector->currentIndex();
+}
+
+void View3DWindow::on_saveCamera_clicked() {
+	printf("save camera\n");
 	int cameraIndex = ui->camera_selector->currentIndex();
 	ui->mesh_view->saveCameraView(cameraIndex);
 }
@@ -261,4 +348,5 @@ void View3DWindow::on_camera_selector_currentIndexChanged(int index) {
     ui->mesh_view->activeCamera(index);
     ui->mesh_view->setCameraView(index);
 }
+
 

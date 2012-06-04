@@ -81,6 +81,7 @@ namespace ntk
         
         void resetCamera();
         void initializeCameraView();
+		void panCamera(int cameraIndex, const cv::Vec3f& translation,const cv::Vec3f& rotation);
         void rotateCamera(const cv::Vec3f& axis,
                           double angle);
         void saveCameraView(int cameraIndex);

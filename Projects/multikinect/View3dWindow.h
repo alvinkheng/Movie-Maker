@@ -54,6 +54,22 @@ class View3DWindow : public QMainWindow
 {
     Q_OBJECT
 
+	enum transitionType {
+		STILL_CAMERA = 0,
+		PAN_TRANSITION,
+		OMIT_FRAMES
+	};
+    
+	struct Transition{
+		int cameraIndex;
+		int startFrame;
+		int endFrame;
+		int transition;
+		int tx, ty, tz;
+		int rx, ry, rz;
+		Transition *next;
+	};
+    
 public:
     explicit View3DWindow(GuiMultiKinectController& controller, QWidget *parent = 0);
     ~View3DWindow();
@@ -66,12 +82,16 @@ public:
 private:
     Ui::View3DWindow *ui;
     GuiMultiKinectController& m_controller;
+	Transition *transitions;
+	Transition *currentTransition;
+	void panCamera(int cameraIndex, int frameIndex);
+	void setCameraForFrame(int frameIndex);
 
 public slots:
     void closeEvent(QCloseEvent *event);
 
 private slots:
-    void on_setCamera_clicked();
+    void on_saveCamera_clicked();
 	void on_viewCamera_clicked();
 	void on_addCamera_clicked();
     
@@ -106,6 +126,7 @@ private slots:
     void on_pauseButton_clicked();
     void on_timeSlider_valueChanged(int value);
     void on_camera_selector_currentIndexChanged(int index);
+	void on_setCamera_clicked();
 
     friend class GuiMultiKinectController;
     friend class CalibrationMeshViewer;

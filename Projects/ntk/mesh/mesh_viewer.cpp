@@ -443,6 +443,17 @@ namespace ntk
         m_last_mouse_pos = event->pos();
     }
     
+	void MeshViewer :: panCamera(int cameraIndex, const cv::Vec3f& translation, const cv::Vec3f& rotation)
+	{
+		makeCurrent();
+        glMatrixMode(GL_MODELVIEW);
+        glLoadIdentity();
+        glMultMatrixd(m_virtualCameras[cameraIndex].view.m);
+		onCameraPositionUpdate(translation, rotation);
+        updateDisplayCenter();
+        updateGL();
+	}
+    
     void MeshViewer :: rotateCamera(const cv::Vec3f& axis,
                                     double angle)
     {
@@ -770,18 +781,18 @@ namespace ntk
     }
     
     void MeshViewer::drawVirtualCameras() {
-       /* for (int i = 1; i < m_virtualCameras.size(); i++) {
-            VirtualCamera camera = m_virtualCameras.at(i);
-            glColor3f(1.0f, 1.0f, 1.0f);
-            glBegin(GL_TRIANGLES);
-            glPushMatrix();
-            glTranslatef(camera.eye[0], camera.eye[1], camera.eye[2]);
-            glVertex3f(0, 0, 0);
-            glVertex3f(1, 0, 0);
-            glVertex3f(1, 1, 0);
-            glPopMatrix();
-            glEnd();
-        }*/
+        /* for (int i = 1; i < m_virtualCameras.size(); i++) {
+         VirtualCamera camera = m_virtualCameras.at(i);
+         glColor3f(1.0f, 1.0f, 1.0f);
+         glBegin(GL_TRIANGLES);
+         glPushMatrix();
+         glTranslatef(camera.eye[0], camera.eye[1], camera.eye[2]);
+         glVertex3f(0, 0, 0);
+         glVertex3f(1, 0, 0);
+         glVertex3f(1, 1, 0);
+         glPopMatrix();
+         glEnd();
+         }*/
     }
     
 } // ntk
