@@ -122,6 +122,7 @@ private:
     std::set<std::string> m_devices_serial_to_wait;
     typedef std::map<std::string, ntk::RGBDImagePtr> image_map_type;
     image_map_type m_updated_images;
+    uint64 m_prevFrameStartTime; //FB011
 };
 
 class MeshGeneratorBlock : public ScannerBlock

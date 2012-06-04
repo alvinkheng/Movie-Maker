@@ -89,6 +89,16 @@ namespace ntk
       }
       ++m_frame_index;
   }
+    
+    void RGBDFrameRecorder :: saveCurrentFrames(const std::vector<ntk::RGBDImagePtr>& images) //FB011
+    {
+        for (int image_i = 0; image_i < images.size(); ++image_i)
+        {
+            std::string frame_dir = getNextFrameDirectory(*images[image_i]);
+            writeFrame(*images[image_i], frame_dir);
+        }
+        ++m_frame_index;
+    }
 
   void RGBDFrameRecorder :: saveCurrentFrame(const RGBDImage& image)
   {

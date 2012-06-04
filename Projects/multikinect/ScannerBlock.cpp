@@ -23,7 +23,7 @@ void RecorderBlock::setOutputDirectoryPrefix(const std::string &dir)
     m_recorder->setDirectory(dir);
 }
 
-void RecorderBlock::run()
+void RecorderBlock::run() //FB011
 {
     while (!threadShouldExit())
     {
@@ -32,13 +32,21 @@ void RecorderBlock::run()
             continue;
 
         RGBDImagePtr image = dynamic_Ptr_cast<RGBDImage>(event.data);
-        ntk_assert(image, "No image!");
-
+        if (image)
         {
             QMutexLocker _(&m_recorder_mutex);
             m_recorder->saveCurrentFrame(*image);
         }
-
+		else
+		{
+			FrameVectorPtr frames = dynamic_Ptr_cast<FrameVector>(event.data);
+			if (frames)
+			{
+	     		QMutexLocker _(&m_recorder_mutex);
+				m_recorder->saveCurrentFrames(frames->images);
+			}
+		}
+        
         reportNewEventProcessed();
     }
 }
@@ -69,7 +77,7 @@ void RGBDProcessorBlock::run()
         }
         broadcastEvent(data);
         // FIXME: make this configurable.
-        ntk::sleep(50);
+        //ntk::sleep(50); //FB011
 
         reportNewEventProcessed();
     }
@@ -110,6 +118,19 @@ void FrameSynchronizerBlock::run()
 
         ntk_dbg(2) << "[FrameSync] All images updated, sending new event!";
 
+		//ntk::sleep(500); //FB011
+		//Force FPS
+		if (m_prevFrameStartTime > 100000000) {
+			m_prevFrameStartTime = ntk::Time::getMillisecondCounter();
+		}
+        uint64 frameDuration = (ntk::Time::getMillisecondCounter() - m_prevFrameStartTime)/1000;
+        int sleepTime = 1000/_FPS - frameDuration;
+        if (sleepTime > 0.0f) {
+            ntk::sleep(sleepTime);
+        }
+		//std::cerr << "m_prevFrameStartTime: " << m_prevFrameStartTime << std::endl;
+        m_prevFrameStartTime = ntk::Time::getMillisecondCounter();
+        
         // Reset images.
         m_updated_images.clear();
 

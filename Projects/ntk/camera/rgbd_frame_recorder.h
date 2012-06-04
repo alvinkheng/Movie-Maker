@@ -43,6 +43,9 @@ public:
 
   /*! Save a vector of images, automatically appending a suffix. */
   void saveCurrentFrames(const std::vector<RGBDImage>& image);
+    
+    /*! Save a vector of images, automatically appending a suffix. */ //FB011
+    void saveCurrentFrames(const std::vector<ntk::RGBDImagePtr>& images);
 
   /*! Returns the name of directory where the next frame will be written. */
   std::string getNextFrameDirectory(const RGBDImage& image) const;

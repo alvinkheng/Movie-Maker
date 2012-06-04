@@ -739,14 +739,17 @@ void OpenniGrabber :: run()
             QWriteLocker locker(&m_lock);
             m_current_image.swap(m_rgbd_image);
         }
+#if 0 //FB011
         //Force FPS
         uint64 frameDuration = (ntk::Time::getMillisecondCounter() - m_prevFrameStartTime);
         int sleepTime = 1000/_FPS - frameDuration;
         if (sleepTime > 0.0f) {
             msleep(sleepTime);
         }
-        
+#endif
         m_prevFrameStartTime = ntk::Time::getMillisecondCounter();
+        
+        //std::cerr << "Framerate OpenNI: " << this->frameRate() << std::endl;
 
         advertiseNewFrame();
     }

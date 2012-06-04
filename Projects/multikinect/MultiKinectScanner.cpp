@@ -108,7 +108,7 @@ void MultiKinectScanner::processLastImageFromGrabber(RGBDGrabber& grabber)
     RGBDImagePtr image (new RGBDImage());
     grabber.copyImageTo(*image);
 
-    m_recorder_block.newEvent(this, EventDataPtr(image));
+    //m_recorder_block.newEvent(this, EventDataPtr(image)); //FB011
     m_frame_synchronizer_block.newEvent(this, (EventDataPtr)image);
 }
 
@@ -208,6 +208,7 @@ void MultiKinectScanner::run()
         {
             FrameVectorPtr data = dynamic_Ptr_cast<FrameVector>(event.data);
             ntk_assert(data, "Inconsistent data type");
+			m_recorder_block.newEvent(this, data); //FB011
             m_processor_block.newEvent(this, data);
         }
 
