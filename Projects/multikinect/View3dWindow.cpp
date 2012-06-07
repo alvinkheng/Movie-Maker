@@ -209,6 +209,7 @@ void View3DWindow::on_resetCheckerboardImages_clicked()
     m_controller.resetCheckboardImages();
 }
 
+/*
 void View3DWindow::on_sceneViewButton_clicked() {
     printf("sceneView\n");
     ui->mesh_view->toggleViews(0);
@@ -223,6 +224,7 @@ void View3DWindow::on_dualViewButton_clicked() {
     printf("dualView\n");
     ui->mesh_view->toggleViews(2);
 }
+*/
 
 void View3DWindow::on_firstFrameButton_clicked() {
     printf("First frame\n");
@@ -351,6 +353,10 @@ void View3DWindow::on_camera_selector_currentIndexChanged(int index) {
     printf("value changed\n");
     ui->mesh_view->activeCamera(index);
     ui->mesh_view->setCameraView(index);
+}
+
+void View3DWindow::on_pointCloudSpinBox_valueChanged(double value) {
+    ui->mesh_view->changePointCloudSize(value);
 }
 
 

@@ -1,7 +1,7 @@
 /********************************************************************************
 ** Form generated from reading UI file 'RawImagesWindow.ui'
 **
-** Created: Thu Jun 7 00:12:15 2012
+** Created: Thu Jun 7 00:18:31 2012
 **      by: Qt User Interface Compiler version 4.8.1
 **
 ** WARNING! All changes made in this file will be lost when recompiling UI file!

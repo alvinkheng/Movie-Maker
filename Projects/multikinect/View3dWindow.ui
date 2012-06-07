@@ -82,6 +82,29 @@
                                 </layout>
                             </item>
                             <item>
+                                <widget class="QDoubleSpinBox" name="pointCloudSpinBox">
+                                    <property name="minimum">
+                                        <double>1.0</double>
+                                    </property>
+                                    <property name="maximum">
+                                        <double>5.0</double>
+                                    </property>
+                                    <property name="singleStep">
+                                        <double>0.1</double>
+                                    </property>
+                                    <property name="value">
+                                        <double>1.0</double>
+                                    </property>
+                                </widget>
+                            </item>
+                            <item>
+                                <widget class="QLabel" name="pointCloudSizeLabel">
+                                    <property name="text">
+                                        <string>Point Cloud Size</string>
+                                    </property>
+                                </widget>
+                            </item>
+                            <item>
                                 <spacer name="horizontalSpacer">
                                     <property name="orientation">
                                         <enum>Qt::Horizontal</enum>
@@ -98,6 +121,8 @@
                     </widget>
                 </item>
                 
+                
+                <!--
                 <item>
                     <widget class="QFrame" name="frame0">
                         <property name="sizePolicy">
@@ -150,7 +175,7 @@
                         </layout>
                     </widget>
                 </item>
-                
+                -->
                 
                 
                 

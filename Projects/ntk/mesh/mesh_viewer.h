@@ -102,6 +102,7 @@ namespace ntk
         //New public
         void toggleViews(int view);
         void activeCamera(int index);
+        void changePointCloudSize(double value);
         
     protected:
         virtual void initializeGL();

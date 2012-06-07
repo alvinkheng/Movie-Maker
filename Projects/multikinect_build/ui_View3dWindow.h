@@ -1,7 +1,7 @@
 /********************************************************************************
 ** Form generated from reading UI file 'View3dWindow.ui'
 **
-** Created: Mon Jun 4 02:23:10 2012
+** Created: Thu Jun 7 02:24:57 2012
 **      by: Qt User Interface Compiler version 4.8.1
 **
 ** WARNING! All changes made in this file will be lost when recompiling UI file!
@@ -51,13 +51,9 @@ public:
     QComboBox *camera_selector;
     QHBoxLayout *horizontalLayout_camera1;
     QPushButton *saveCamera;
+    QDoubleSpinBox *pointCloudSpinBox;
+    QLabel *pointCloudSizeLabel;
     QSpacerItem *horizontalSpacer;
-    QFrame *frame0;
-    QHBoxLayout *horizontalLayout01;
-    QPushButton *sceneViewButton;
-    QPushButton *camViewButton;
-    QPushButton *dualViewButton;
-    QSpacerItem *horizontalSpacer1;
     QFrame *frame;
     QHBoxLayout *horizontalLayout;
     QCheckBox *colorMappingCheckBox;
@@ -67,7 +63,7 @@ public:
     QPushButton *trianglePushButton;
     QCheckBox *mergeViewsCheckBox;
     QCheckBox *calibrationModeCheckBox;
-    QSpacerItem *horizontalSpacer2;
+    QSpacerItem *horizontalSpacer1;
     QLabel *label1;
     QDoubleSpinBox *resolutionFactorSpinBox;
     QPushButton *resetCamera;
@@ -111,7 +107,7 @@ public:
     QPushButton *pauseButton;
     QSlider *timeSlider;
     QLabel *replayFrameLabel;
-    QSpacerItem *horizontalSpacer3;
+    QSpacerItem *horizontalSpacer2;
     QFrame *frame6;
     QHBoxLayout *horizontalLayout6;
     QComboBox *camera_style_selector;
@@ -128,7 +124,7 @@ public:
     QLabel *label_13;
     QDoubleSpinBox *rzCamValue;
     QPushButton *setCamera;
-    QSpacerItem *horizontalSpacer4;
+    QSpacerItem *horizontalSpacer3;
     QMenuBar *menubar;
     QMenu *menu_File;
     QStatusBar *statusbar;
@@ -185,42 +181,26 @@ public:
 
         horizontalLayout0->addLayout(horizontalLayout_camera1);
 
+        pointCloudSpinBox = new QDoubleSpinBox(frame_6);
+        pointCloudSpinBox->setObjectName(QString::fromUtf8("pointCloudSpinBox"));
+        pointCloudSpinBox->setMinimum(1);
+        pointCloudSpinBox->setMaximum(5);
+        pointCloudSpinBox->setSingleStep(0.1);
+        pointCloudSpinBox->setValue(1);
+
+        horizontalLayout0->addWidget(pointCloudSpinBox);
+
+        pointCloudSizeLabel = new QLabel(frame_6);
+        pointCloudSizeLabel->setObjectName(QString::fromUtf8("pointCloudSizeLabel"));
+
+        horizontalLayout0->addWidget(pointCloudSizeLabel);
+
         horizontalSpacer = new QSpacerItem(40, 20, QSizePolicy::Expanding, QSizePolicy::Minimum);
 
         horizontalLayout0->addItem(horizontalSpacer);
 
 
         verticalLayout->addWidget(frame_6);
-
-        frame0 = new QFrame(centralwidget);
-        frame0->setObjectName(QString::fromUtf8("frame0"));
-        sizePolicy.setHeightForWidth(frame0->sizePolicy().hasHeightForWidth());
-        frame0->setSizePolicy(sizePolicy);
-        frame0->setFrameShape(QFrame::StyledPanel);
-        frame0->setFrameShadow(QFrame::Raised);
-        horizontalLayout01 = new QHBoxLayout(frame0);
-        horizontalLayout01->setObjectName(QString::fromUtf8("horizontalLayout01"));
-        sceneViewButton = new QPushButton(frame0);
-        sceneViewButton->setObjectName(QString::fromUtf8("sceneViewButton"));
-
-        horizontalLayout01->addWidget(sceneViewButton);
-
-        camViewButton = new QPushButton(frame0);
-        camViewButton->setObjectName(QString::fromUtf8("camViewButton"));
-
-        horizontalLayout01->addWidget(camViewButton);
-
-        dualViewButton = new QPushButton(frame0);
-        dualViewButton->setObjectName(QString::fromUtf8("dualViewButton"));
-
-        horizontalLayout01->addWidget(dualViewButton);
-
-        horizontalSpacer1 = new QSpacerItem(40, 20, QSizePolicy::Expanding, QSizePolicy::Minimum);
-
-        horizontalLayout01->addItem(horizontalSpacer1);
-
-
-        verticalLayout->addWidget(frame0);
 
         frame = new QFrame(centralwidget);
         frame->setObjectName(QString::fromUtf8("frame"));
@@ -267,9 +247,9 @@ public:
 
         horizontalLayout->addWidget(calibrationModeCheckBox);
 
-        horizontalSpacer2 = new QSpacerItem(40, 20, QSizePolicy::Expanding, QSizePolicy::Minimum);
+        horizontalSpacer1 = new QSpacerItem(40, 20, QSizePolicy::Expanding, QSizePolicy::Minimum);
 
-        horizontalLayout->addItem(horizontalSpacer2);
+        horizontalLayout->addItem(horizontalSpacer1);
 
         label1 = new QLabel(frame);
         label1->setObjectName(QString::fromUtf8("label1"));
@@ -526,9 +506,9 @@ public:
 
         horizontalLayout5->addWidget(replayFrameLabel);
 
-        horizontalSpacer3 = new QSpacerItem(40, 20, QSizePolicy::Expanding, QSizePolicy::Minimum);
+        horizontalSpacer2 = new QSpacerItem(40, 20, QSizePolicy::Expanding, QSizePolicy::Minimum);
 
-        horizontalLayout5->addItem(horizontalSpacer3);
+        horizontalLayout5->addItem(horizontalSpacer2);
 
 
         verticalLayout->addWidget(frame5);
@@ -629,9 +609,9 @@ public:
 
         horizontalLayout6->addWidget(setCamera);
 
-        horizontalSpacer4 = new QSpacerItem(40, 20, QSizePolicy::Expanding, QSizePolicy::Minimum);
+        horizontalSpacer3 = new QSpacerItem(40, 20, QSizePolicy::Expanding, QSizePolicy::Minimum);
 
-        horizontalLayout6->addItem(horizontalSpacer4);
+        horizontalLayout6->addItem(horizontalSpacer3);
 
 
         verticalLayout->addWidget(frame6);
@@ -665,9 +645,7 @@ public:
          << QApplication::translate("View3DWindow", "Default Camera", 0, QApplication::UnicodeUTF8)
         );
         saveCamera->setText(QApplication::translate("View3DWindow", "Save", 0, QApplication::UnicodeUTF8));
-        sceneViewButton->setText(QApplication::translate("View3DWindow", "Scene View", 0, QApplication::UnicodeUTF8));
-        camViewButton->setText(QApplication::translate("View3DWindow", "Cam View", 0, QApplication::UnicodeUTF8));
-        dualViewButton->setText(QApplication::translate("View3DWindow", "Dual View", 0, QApplication::UnicodeUTF8));
+        pointCloudSizeLabel->setText(QApplication::translate("View3DWindow", "Point Cloud Size", 0, QApplication::UnicodeUTF8));
         colorMappingCheckBox->setText(QApplication::translate("View3DWindow", "Color", 0, QApplication::UnicodeUTF8));
         saveMeshesPushButton->setText(QApplication::translate("View3DWindow", "SaveMeshes", 0, QApplication::UnicodeUTF8));
         pointCloudPushButton->setText(QApplication::translate("View3DWindow", "PointCloud", 0, QApplication::UnicodeUTF8));

@@ -117,9 +117,11 @@ private slots:
     void on_calibrateWithCheckerboardButton_clicked();
     void on_resetCheckerboardImages_clicked();
     
+    /*
     void on_sceneViewButton_clicked();
     void on_camViewButton_clicked();
     void on_dualViewButton_clicked();
+     */
     
     void on_firstFrameButton_clicked();
     void on_playButton_clicked();
@@ -127,6 +129,7 @@ private slots:
     void on_timeSlider_valueChanged(int value);
     void on_camera_selector_currentIndexChanged(int index);
 	void on_setCamera_clicked();
+    void on_pointCloudSpinBox_valueChanged(double value);
 
     friend class GuiMultiKinectController;
     friend class CalibrationMeshViewer;

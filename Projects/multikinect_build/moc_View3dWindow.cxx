@@ -1,7 +1,7 @@
 /****************************************************************************
 ** Meta object code from reading C++ file 'View3dWindow.h'
 **
-** Created: Mon Jun 4 02:23:10 2012
+** Created: Thu Jun 7 02:24:57 2012
 **      by: The Qt Meta Object Compiler version 63 (Qt 4.8.1)
 **
 ** WARNING! All changes made in this file will be lost!
@@ -23,7 +23,7 @@ static const uint qt_meta_data_View3DWindow[] = {
        6,       // revision
        0,       // classname
        0,    0, // classinfo
-      31,   14, // methods
+      29,   14, // methods
        0,    0, // properties
        0,    0, // enums/sets
        0,    0, // constructors
@@ -54,14 +54,12 @@ static const uint qt_meta_data_View3DWindow[] = {
      672,   13,   13,   13, 0x08,
      717,   13,   13,   13, 0x08,
      754,   13,   13,   13, 0x08,
-     783,   13,   13,   13, 0x08,
-     810,   13,   13,   13, 0x08,
-     838,   13,   13,   13, 0x08,
-     868,   13,   13,   13, 0x08,
-     892,   13,   13,   13, 0x08,
-     917,  330,   13,   13, 0x08,
-     955,  949,   13,   13, 0x08,
-     999,   13,   13,   13, 0x08,
+     784,   13,   13,   13, 0x08,
+     808,   13,   13,   13, 0x08,
+     833,  330,   13,   13, 0x08,
+     871,  865,   13,   13, 0x08,
+     915,   13,   13,   13, 0x08,
+     938,  330,   13,   13, 0x08,
 
        0        // eod
 };
@@ -88,15 +86,13 @@ static const char qt_meta_stringdata_View3DWindow[] = {
     "on_addCheckerboardImageButton_clicked()\0"
     "on_calibrateWithCheckerboardButton_clicked()\0"
     "on_resetCheckerboardImages_clicked()\0"
-    "on_sceneViewButton_clicked()\0"
-    "on_camViewButton_clicked()\0"
-    "on_dualViewButton_clicked()\0"
     "on_firstFrameButton_clicked()\0"
     "on_playButton_clicked()\0"
     "on_pauseButton_clicked()\0"
     "on_timeSlider_valueChanged(int)\0index\0"
     "on_camera_selector_currentIndexChanged(int)\0"
     "on_setCamera_clicked()\0"
+    "on_pointCloudSpinBox_valueChanged(double)\0"
 };
 
 void View3DWindow::qt_static_metacall(QObject *_o, QMetaObject::Call _c, int _id, void **_a)
@@ -127,15 +123,13 @@ void View3DWindow::qt_static_metacall(QObject *_o, QMetaObject::Call _c, int _id
         case 19: _t->on_addCheckerboardImageButton_clicked(); break;
         case 20: _t->on_calibrateWithCheckerboardButton_clicked(); break;
         case 21: _t->on_resetCheckerboardImages_clicked(); break;
-        case 22: _t->on_sceneViewButton_clicked(); break;
-        case 23: _t->on_camViewButton_clicked(); break;
-        case 24: _t->on_dualViewButton_clicked(); break;
-        case 25: _t->on_firstFrameButton_clicked(); break;
-        case 26: _t->on_playButton_clicked(); break;
-        case 27: _t->on_pauseButton_clicked(); break;
-        case 28: _t->on_timeSlider_valueChanged((*reinterpret_cast< int(*)>(_a[1]))); break;
-        case 29: _t->on_camera_selector_currentIndexChanged((*reinterpret_cast< int(*)>(_a[1]))); break;
-        case 30: _t->on_setCamera_clicked(); break;
+        case 22: _t->on_firstFrameButton_clicked(); break;
+        case 23: _t->on_playButton_clicked(); break;
+        case 24: _t->on_pauseButton_clicked(); break;
+        case 25: _t->on_timeSlider_valueChanged((*reinterpret_cast< int(*)>(_a[1]))); break;
+        case 26: _t->on_camera_selector_currentIndexChanged((*reinterpret_cast< int(*)>(_a[1]))); break;
+        case 27: _t->on_setCamera_clicked(); break;
+        case 28: _t->on_pointCloudSpinBox_valueChanged((*reinterpret_cast< double(*)>(_a[1]))); break;
         default: ;
         }
     }
@@ -173,9 +167,9 @@ int View3DWindow::qt_metacall(QMetaObject::Call _c, int _id, void **_a)
     if (_id < 0)
         return _id;
     if (_c == QMetaObject::InvokeMetaMethod) {
-        if (_id < 31)
+        if (_id < 29)
             qt_static_metacall(this, _c, _id, _a);
-        _id -= 31;
+        _id -= 29;
     }
     return _id;
 }

@@ -798,4 +798,9 @@ namespace ntk
          }*/
     }
     
+    void MeshViewer::changePointCloudSize(double value) {
+        printf("changing point size");
+        glPointSize(value);
+    }
+    
 } // ntk
