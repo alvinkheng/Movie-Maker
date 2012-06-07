@@ -1,7 +1,7 @@
 /********************************************************************************
 ** Form generated from reading UI file 'RawImagesWindow.ui'
 **
-** Created: Sun May 20 00:11:07 2012
+** Created: Wed Jun 6 21:55:06 2012
 **      by: Qt User Interface Compiler version 4.8.1
 **
 ** WARNING! All changes made in this file will be lost when recompiling UI file!
@@ -15,6 +15,7 @@
 #include <QtGui/QApplication>
 #include <QtGui/QButtonGroup>
 #include <QtGui/QCheckBox>
+#include <QtGui/QComboBox>
 #include <QtGui/QDockWidget>
 #include <QtGui/QFrame>
 #include <QtGui/QHBoxLayout>
@@ -89,6 +90,7 @@ public:
     QHBoxLayout *horizontalLayout_7;
     QFrame *line_3;
     QLineEdit *outputDirText;
+    QComboBox *loadSequence;
     QLabel *label;
     QFrame *line_2;
     QCheckBox *syncMode;
@@ -293,6 +295,11 @@ public:
 
         horizontalLayout_7->addWidget(outputDirText);
 
+        loadSequence = new QComboBox(frame);
+        loadSequence->setObjectName(QString::fromUtf8("loadSequence"));
+
+        horizontalLayout_7->addWidget(loadSequence);
+
         label = new QLabel(frame);
         label->setObjectName(QString::fromUtf8("label"));
 
@@ -421,7 +428,7 @@ public:
         dockWidget_3->setWindowTitle(QApplication::translate("RawImagesWindow", "Amplitude image", 0, QApplication::UnicodeUTF8));
         dockWidget_4->setWindowTitle(QApplication::translate("RawImagesWindow", "Options", 0, QApplication::UnicodeUTF8));
         outputDirText->setText(QApplication::translate("RawImagesWindow", "calibration", 0, QApplication::UnicodeUTF8));
-        label->setText(QApplication::translate("RawImagesWindow", "Output dir.", 0, QApplication::UnicodeUTF8));
+        label->setText(QString());
         syncMode->setText(QApplication::translate("RawImagesWindow", "Sync", 0, QApplication::UnicodeUTF8));
         distanceLabel->setText(QApplication::translate("RawImagesWindow", "D at (x,y) = 0 m ", 0, QApplication::UnicodeUTF8));
         startRecordingPushButton->setText(QApplication::translate("RawImagesWindow", "StartRecording", 0, QApplication::UnicodeUTF8));

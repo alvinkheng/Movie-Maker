@@ -376,7 +376,7 @@ void GuiMultiKinectController::toggleRecording(bool active) {
         m_grabbing = active;
         scanner().recorderBlock().setConnected(active);
         if (m_grabbing) {
-            scanner().recorderBlock().setOutputDirectoryPrefix(m_raw_images_window->ui->outputDirText->text().toStdString());
+            scanner().recorderBlock().setOutputDirectoryPrefix("seq_" + m_raw_images_window->ui->outputDirText->text().toStdString());
             _numRecordedFrames = 0;
             _recordingStartTime = ntk::Time::getMillisecondCounter();
         } else {
@@ -393,7 +393,7 @@ void GuiMultiKinectController::toggleReplay() {
             m_lastReplayDirectory = getRecordingDirectory();
             for (int i = 0; i < scanner().numDevices(); i++) {
                 std::string deviceSerial = scanner().getDeviceInfo(i).serial;
-                FileGrabber *fileGrabber = new FileGrabber(m_lastReplayDirectory + "/" + deviceSerial, true);
+                FileGrabber *fileGrabber = new FileGrabber("seq_" + m_lastReplayDirectory + "/" + deviceSerial, true);
                 ntk::RGBDCalibration* calib_data = new RGBDCalibration();
                 std::string calibration = m_lastReplayDirectory + "-" + deviceSerial + ".yml";
                 calib_data->loadFromFile(calibration.c_str());
@@ -428,7 +428,7 @@ void GuiMultiKinectController::saveAllMeshes() {
 }
 
 std::string GuiMultiKinectController::getRecordingDirectory() {
-    return m_raw_images_window->ui->outputDirText->text().toStdString(); 
+    return m_raw_images_window->ui->loadSequence->currentText().toStdString(); 
 }
 
 void GuiMultiKinectController::setSliderPosition(int value) {

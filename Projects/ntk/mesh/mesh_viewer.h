@@ -178,6 +178,11 @@ namespace ntk
                 lookat = _lookat;
                 up = _up;
             }
+            
+            cv::Vec3f getTranslaton() {
+                return cv::Vec3f(view.m[12], view.m[13], view.m[14]);
+            }
+            
             viewMatrix view;
             cv::Vec3f eye;
             cv::Vec3f lookat;

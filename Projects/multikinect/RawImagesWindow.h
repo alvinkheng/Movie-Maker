@@ -44,6 +44,7 @@ public:
 private:
     Ui::RawImagesWindow *ui;
     GuiMultiKinectController& m_controller;
+    void addSavedSequencesToLoader();
 
   public slots:
     void closeEvent(QCloseEvent *event);

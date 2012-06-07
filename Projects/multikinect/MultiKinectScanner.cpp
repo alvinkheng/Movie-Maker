@@ -280,7 +280,7 @@ bool MultiKinectScanner::setCurrentReplayFrame(int frame) {
 void MultiKinectScanner::changeRecordingDirectory(std::string newDir) {
     foreach_const_it(it, m_grabbers, std::set<ntk::RGBDGrabber*>)
     {
-        (*it)->setFilePath((QDir)(newDir + "/" + (*it)->cameraSerial()).c_str());
+        (*it)->setFilePath((QDir)("seq_" + newDir + "/" + (*it)->cameraSerial()).c_str());
         (*it)->calibrationData()->loadFromFile((newDir + "-" + (*it)->cameraSerial() + ".yml").c_str());
     }
 }

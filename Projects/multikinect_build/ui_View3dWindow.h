@@ -1,7 +1,7 @@
 /********************************************************************************
 ** Form generated from reading UI file 'View3dWindow.ui'
 **
-** Created: Thu May 31 02:47:23 2012
+** Created: Mon Jun 4 02:23:10 2012
 **      by: Qt User Interface Compiler version 4.8.1
 **
 ** WARNING! All changes made in this file will be lost when recompiling UI file!
@@ -50,8 +50,7 @@ public:
     QPushButton *addCamera;
     QComboBox *camera_selector;
     QHBoxLayout *horizontalLayout_camera1;
-    QPushButton *setCamera;
-    QPushButton *viewCamera;
+    QPushButton *saveCamera;
     QSpacerItem *horizontalSpacer;
     QFrame *frame0;
     QHBoxLayout *horizontalLayout01;
@@ -111,7 +110,25 @@ public:
     QPushButton *playButton;
     QPushButton *pauseButton;
     QSlider *timeSlider;
+    QLabel *replayFrameLabel;
     QSpacerItem *horizontalSpacer3;
+    QFrame *frame6;
+    QHBoxLayout *horizontalLayout6;
+    QComboBox *camera_style_selector;
+    QLabel *label_8;
+    QDoubleSpinBox *txCamValue;
+    QLabel *label_9;
+    QDoubleSpinBox *tyCamValue;
+    QLabel *label_10;
+    QDoubleSpinBox *tzCamValue;
+    QLabel *label_11;
+    QDoubleSpinBox *rxCamValue;
+    QLabel *label_12;
+    QDoubleSpinBox *ryCamValue;
+    QLabel *label_13;
+    QDoubleSpinBox *rzCamValue;
+    QPushButton *setCamera;
+    QSpacerItem *horizontalSpacer4;
     QMenuBar *menubar;
     QMenu *menu_File;
     QStatusBar *statusbar;
@@ -160,15 +177,10 @@ public:
 
         horizontalLayout_camera1 = new QHBoxLayout();
         horizontalLayout_camera1->setObjectName(QString::fromUtf8("horizontalLayout_camera1"));
-        setCamera = new QPushButton(frame_6);
-        setCamera->setObjectName(QString::fromUtf8("setCamera"));
+        saveCamera = new QPushButton(frame_6);
+        saveCamera->setObjectName(QString::fromUtf8("saveCamera"));
 
-        horizontalLayout_camera1->addWidget(setCamera);
-
-        viewCamera = new QPushButton(frame_6);
-        viewCamera->setObjectName(QString::fromUtf8("viewCamera"));
-
-        horizontalLayout_camera1->addWidget(viewCamera);
+        horizontalLayout_camera1->addWidget(saveCamera);
 
 
         horizontalLayout0->addLayout(horizontalLayout_camera1);
@@ -509,12 +521,120 @@ public:
 
         horizontalLayout5->addWidget(timeSlider);
 
+        replayFrameLabel = new QLabel(frame5);
+        replayFrameLabel->setObjectName(QString::fromUtf8("replayFrameLabel"));
+
+        horizontalLayout5->addWidget(replayFrameLabel);
+
         horizontalSpacer3 = new QSpacerItem(40, 20, QSizePolicy::Expanding, QSizePolicy::Minimum);
 
         horizontalLayout5->addItem(horizontalSpacer3);
 
 
         verticalLayout->addWidget(frame5);
+
+        frame6 = new QFrame(centralwidget);
+        frame6->setObjectName(QString::fromUtf8("frame6"));
+        sizePolicy.setHeightForWidth(frame6->sizePolicy().hasHeightForWidth());
+        frame6->setSizePolicy(sizePolicy);
+        frame6->setFrameShape(QFrame::StyledPanel);
+        frame6->setFrameShadow(QFrame::Raised);
+        horizontalLayout6 = new QHBoxLayout(frame6);
+        horizontalLayout6->setObjectName(QString::fromUtf8("horizontalLayout6"));
+        camera_style_selector = new QComboBox(frame6);
+        camera_style_selector->setObjectName(QString::fromUtf8("camera_style_selector"));
+
+        horizontalLayout6->addWidget(camera_style_selector);
+
+        label_8 = new QLabel(frame6);
+        label_8->setObjectName(QString::fromUtf8("label_8"));
+
+        horizontalLayout6->addWidget(label_8);
+
+        txCamValue = new QDoubleSpinBox(frame6);
+        txCamValue->setObjectName(QString::fromUtf8("txCamValue"));
+        txCamValue->setDecimals(3);
+        txCamValue->setMinimum(-10);
+        txCamValue->setMaximum(10);
+
+        horizontalLayout6->addWidget(txCamValue);
+
+        label_9 = new QLabel(frame6);
+        label_9->setObjectName(QString::fromUtf8("label_9"));
+
+        horizontalLayout6->addWidget(label_9);
+
+        tyCamValue = new QDoubleSpinBox(frame6);
+        tyCamValue->setObjectName(QString::fromUtf8("tyCamValue"));
+        tyCamValue->setDecimals(3);
+        tyCamValue->setMinimum(-10);
+        tyCamValue->setMaximum(10);
+
+        horizontalLayout6->addWidget(tyCamValue);
+
+        label_10 = new QLabel(frame6);
+        label_10->setObjectName(QString::fromUtf8("label_10"));
+
+        horizontalLayout6->addWidget(label_10);
+
+        tzCamValue = new QDoubleSpinBox(frame6);
+        tzCamValue->setObjectName(QString::fromUtf8("tzCamValue"));
+        tzCamValue->setDecimals(3);
+        tzCamValue->setMinimum(-10);
+        tzCamValue->setMaximum(10);
+
+        horizontalLayout6->addWidget(tzCamValue);
+
+        label_11 = new QLabel(frame6);
+        label_11->setObjectName(QString::fromUtf8("label_11"));
+
+        horizontalLayout6->addWidget(label_11);
+
+        rxCamValue = new QDoubleSpinBox(frame6);
+        rxCamValue->setObjectName(QString::fromUtf8("rxCamValue"));
+        rxCamValue->setDecimals(3);
+        rxCamValue->setMinimum(-10);
+        rxCamValue->setMaximum(10);
+
+        horizontalLayout6->addWidget(rxCamValue);
+
+        label_12 = new QLabel(frame6);
+        label_12->setObjectName(QString::fromUtf8("label_12"));
+
+        horizontalLayout6->addWidget(label_12);
+
+        ryCamValue = new QDoubleSpinBox(frame6);
+        ryCamValue->setObjectName(QString::fromUtf8("ryCamValue"));
+        ryCamValue->setDecimals(3);
+        ryCamValue->setMinimum(-10);
+        ryCamValue->setMaximum(10);
+
+        horizontalLayout6->addWidget(ryCamValue);
+
+        label_13 = new QLabel(frame6);
+        label_13->setObjectName(QString::fromUtf8("label_13"));
+
+        horizontalLayout6->addWidget(label_13);
+
+        rzCamValue = new QDoubleSpinBox(frame6);
+        rzCamValue->setObjectName(QString::fromUtf8("rzCamValue"));
+        rzCamValue->setDecimals(3);
+        rzCamValue->setMinimum(-10);
+        rzCamValue->setMaximum(10);
+
+        horizontalLayout6->addWidget(rzCamValue);
+
+        setCamera = new QPushButton(frame6);
+        setCamera->setObjectName(QString::fromUtf8("setCamera"));
+
+        horizontalLayout6->addWidget(setCamera);
+
+        horizontalSpacer4 = new QSpacerItem(40, 20, QSizePolicy::Expanding, QSizePolicy::Minimum);
+
+        horizontalLayout6->addItem(horizontalSpacer4);
+
+
+        verticalLayout->addWidget(frame6);
 
         View3DWindow->setCentralWidget(centralwidget);
         menubar = new QMenuBar(View3DWindow);
@@ -544,8 +664,7 @@ public:
         camera_selector->insertItems(0, QStringList()
          << QApplication::translate("View3DWindow", "Default Camera", 0, QApplication::UnicodeUTF8)
         );
-        setCamera->setText(QApplication::translate("View3DWindow", "Save", 0, QApplication::UnicodeUTF8));
-        viewCamera->setText(QApplication::translate("View3DWindow", "View", 0, QApplication::UnicodeUTF8));
+        saveCamera->setText(QApplication::translate("View3DWindow", "Save", 0, QApplication::UnicodeUTF8));
         sceneViewButton->setText(QApplication::translate("View3DWindow", "Scene View", 0, QApplication::UnicodeUTF8));
         camViewButton->setText(QApplication::translate("View3DWindow", "Cam View", 0, QApplication::UnicodeUTF8));
         dualViewButton->setText(QApplication::translate("View3DWindow", "Dual View", 0, QApplication::UnicodeUTF8));
@@ -574,6 +693,20 @@ public:
         firstFrameButton->setText(QApplication::translate("View3DWindow", "First Frame", 0, QApplication::UnicodeUTF8));
         playButton->setText(QApplication::translate("View3DWindow", "Play", 0, QApplication::UnicodeUTF8));
         pauseButton->setText(QApplication::translate("View3DWindow", "Pause", 0, QApplication::UnicodeUTF8));
+        replayFrameLabel->setText(QApplication::translate("View3DWindow", "Frame x/y ", 0, QApplication::UnicodeUTF8));
+        camera_style_selector->clear();
+        camera_style_selector->insertItems(0, QStringList()
+         << QApplication::translate("View3DWindow", "Static Camera", 0, QApplication::UnicodeUTF8)
+         << QApplication::translate("View3DWindow", "Panning Camera", 0, QApplication::UnicodeUTF8)
+         << QApplication::translate("View3DWindow", "Omit Camera", 0, QApplication::UnicodeUTF8)
+        );
+        label_8->setText(QApplication::translate("View3DWindow", "Tx", 0, QApplication::UnicodeUTF8));
+        label_9->setText(QApplication::translate("View3DWindow", "Ty", 0, QApplication::UnicodeUTF8));
+        label_10->setText(QApplication::translate("View3DWindow", "Tz", 0, QApplication::UnicodeUTF8));
+        label_11->setText(QApplication::translate("View3DWindow", "Rx", 0, QApplication::UnicodeUTF8));
+        label_12->setText(QApplication::translate("View3DWindow", "Ry", 0, QApplication::UnicodeUTF8));
+        label_13->setText(QApplication::translate("View3DWindow", "Rz", 0, QApplication::UnicodeUTF8));
+        setCamera->setText(QApplication::translate("View3DWindow", "Set Camera", 0, QApplication::UnicodeUTF8));
         menu_File->setTitle(QApplication::translate("View3DWindow", "&File", 0, QApplication::UnicodeUTF8));
     } // retranslateUi
 

@@ -53,6 +53,20 @@ RawImagesWindow::RawImagesWindow(GuiMultiKinectController& controller, QWidget *
         ui->syncMode->setChecked(true);
 
     on_outputDirText_editingFinished();
+    
+
+    addSavedSequencesToLoader();   
+}
+
+void RawImagesWindow::addSavedSequencesToLoader() {
+    QDir directory("./");
+    for (int i = 0; i < directory.entryList().size(); i++) {
+        QString dir = directory.entryList().at(i);
+        if (dir.indexOf("seq_") == 0) {
+            dir = QString::fromStdString(dir.toStdString().substr(4));
+            ui->loadSequence->addItem(dir);
+        }
+    }    
 }
 
 RawImagesWindow::~RawImagesWindow()
@@ -220,9 +234,18 @@ void RawImagesWindow::on_actionGrab_one_frame_triggered()
 }
 
 void RawImagesWindow::on_startRecordingPushButton_clicked() {
-    printf("Start Recording\n");
-    m_controller.scanner().saveGrabbersCalibration(m_controller.getRecordingDirectory()); //Gets set to whatever's displayed in the text field
-    m_controller.toggleRecording(true);
+    QString output = ui->outputDirText->text();
+    if (ui->loadSequence->findText(output) == -1) {
+        printf("Start Recording\n");
+        m_controller.scanner().saveGrabbersCalibration(output.toStdString()); //Gets set to whatever's displayed in the text field
+        m_controller.toggleRecording(true);
+        ui->label->setText("Recording");
+        ui->loadSequence->addItem(output);
+        ui->loadSequence->setCurrentIndex(ui->loadSequence->count()-1);
+    } else {
+        ui->label->setText("This file already exists");
+    }
+    
 }
 
 void RawImagesWindow::on_stopRecordingPushButton_clicked() {
@@ -232,6 +255,9 @@ void RawImagesWindow::on_stopRecordingPushButton_clicked() {
 }
 
 void RawImagesWindow::on_replayPushButton_clicked() {
-    m_controller.toggleReplay();
+    if (ui->loadSequence->count() == 0) {
+        ui->label->setText("Please record first");
+    } else {
+        m_controller.toggleReplay();
+    }
 }
-

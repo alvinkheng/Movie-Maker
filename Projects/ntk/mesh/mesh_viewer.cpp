@@ -390,6 +390,9 @@ namespace ntk
         } else {
             m_virtualCameras[cameraIndex] = VirtualCamera(matrix, m_lookat_eye, m_lookat_center, m_lookat_up);
         }
+        cv::Vec3f cam1 = m_virtualCameras.at(0).getTranslaton();
+        printf("trans: %f, %f, %f\n", cam1[0], cam1[1], cam1[2]);
+        
         /*
         if (m_camera_views.size() == 0) 
         {
@@ -483,7 +486,7 @@ namespace ntk
         glTranslatef(-m_display_center.x,-m_display_center.y,-m_display_center.z);
         glMultMatrixd(m);
         
-        m_virtualCameras.at(m_activeCamera).eye -= translation;        
+        printf("manual translation: %f, %f, %f\n", translation[0],translation[1],translation[2]);
     }
     
     bool MeshViewer :: estimatePickingPoint(cv::Point3f& p, int mouse_x, int mouse_y)

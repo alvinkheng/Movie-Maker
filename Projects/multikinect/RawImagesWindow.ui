@@ -234,9 +234,13 @@
          </widget>
         </item>
         <item>
+         <widget class="QComboBox" name="loadSequence">
+         </widget>
+        </item>                   
+        <item>
          <widget class="QLabel" name="label">
           <property name="text">
-           <string>Output dir.</string>
+           <string></string>
           </property>
          </widget>
         </item>
