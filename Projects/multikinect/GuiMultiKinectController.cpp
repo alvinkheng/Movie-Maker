@@ -163,11 +163,11 @@ void GuiMultiKinectController::processNewSynchronizedMeshes(MeshVectorPtr mesh_v
 
 void GuiMultiKinectController :: on_depth_mouse_moved(int x, int y)
 {
-    if (!m_last_image.depth().data || x < 0 || y < 0)
-        return;
-    QString s = QString("Distance at (%1,%2) = %3 m")
-            .arg(x).arg(y).arg(m_last_image.depth()(y,x), 0, 'f', 3);
-    m_raw_images_window->ui->distanceLabel->setText(s);
+//    if (!m_last_image.depth().data || x < 0 || y < 0)
+//        return;
+//    QString s = QString("Distance at (%1,%2) = %3 m")
+//            .arg(x).arg(y).arg(m_last_image.depth()(y,x), 0, 'f', 3);
+//    m_raw_images_window->ui->distanceLabel->setText(s);
 }
 
 void GuiMultiKinectController::setActiveDevice(int device)

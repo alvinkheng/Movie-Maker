@@ -78,7 +78,6 @@ private slots:
 private slots:
     void on_actionGrab_one_frame_triggered();
     void on_startRecordingPushButton_clicked();
-    void on_stopRecordingPushButton_clicked();
     void on_replayPushButton_clicked();
 };
 

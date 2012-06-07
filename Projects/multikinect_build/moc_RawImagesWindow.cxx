@@ -1,7 +1,7 @@
 /****************************************************************************
 ** Meta object code from reading C++ file 'RawImagesWindow.h'
 **
-** Created: Wed Jun 6 22:00:40 2012
+** Created: Wed Jun 6 23:15:06 2012
 **      by: The Qt Meta Object Compiler version 63 (Qt 4.8.1)
 **
 ** WARNING! All changes made in this file will be lost!
@@ -23,7 +23,7 @@ static const uint qt_meta_data_RawImagesWindow[] = {
        6,       // revision
        0,       // classname
        0,    0, // classinfo
-      18,   14, // methods
+      17,   14, // methods
        0,    0, // properties
        0,    0, // enums/sets
        0,    0, // constructors
@@ -48,7 +48,6 @@ static const uint qt_meta_data_RawImagesWindow[] = {
      473,   16,   16,   16, 0x08,
      509,   16,   16,   16, 0x08,
      547,   16,   16,   16, 0x08,
-     584,   16,   16,   16, 0x08,
 
        0        // eod
 };
@@ -70,7 +69,6 @@ static const char qt_meta_stringdata_RawImagesWindow[] = {
     "on_action_3D_View_toggled(bool)\0"
     "on_actionGrab_one_frame_triggered()\0"
     "on_startRecordingPushButton_clicked()\0"
-    "on_stopRecordingPushButton_clicked()\0"
     "on_replayPushButton_clicked()\0"
 };
 
@@ -96,8 +94,7 @@ void RawImagesWindow::qt_static_metacall(QObject *_o, QMetaObject::Call _c, int 
         case 13: _t->on_action_3D_View_toggled((*reinterpret_cast< bool(*)>(_a[1]))); break;
         case 14: _t->on_actionGrab_one_frame_triggered(); break;
         case 15: _t->on_startRecordingPushButton_clicked(); break;
-        case 16: _t->on_stopRecordingPushButton_clicked(); break;
-        case 17: _t->on_replayPushButton_clicked(); break;
+        case 16: _t->on_replayPushButton_clicked(); break;
         default: ;
         }
     }
@@ -135,9 +132,9 @@ int RawImagesWindow::qt_metacall(QMetaObject::Call _c, int _id, void **_a)
     if (_id < 0)
         return _id;
     if (_c == QMetaObject::InvokeMetaMethod) {
-        if (_id < 18)
+        if (_id < 17)
             qt_static_metacall(this, _c, _id, _a);
-        _id -= 18;
+        _id -= 17;
     }
     return _id;
 }

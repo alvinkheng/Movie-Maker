@@ -1,7 +1,7 @@
 /********************************************************************************
 ** Form generated from reading UI file 'RawImagesWindow.ui'
 **
-** Created: Wed Jun 6 21:55:06 2012
+** Created: Thu Jun 7 00:12:15 2012
 **      by: Qt User Interface Compiler version 4.8.1
 **
 ** WARNING! All changes made in this file will be lost when recompiling UI file!
@@ -26,7 +26,6 @@
 #include <QtGui/QMenu>
 #include <QtGui/QMenuBar>
 #include <QtGui/QPushButton>
-#include <QtGui/QSpacerItem>
 #include <QtGui/QStatusBar>
 #include <QtGui/QWidget>
 #include <ntk/gui/image_widget.h>
@@ -71,18 +70,6 @@ public:
     QMenu *menuCapture;
     QMenu *menuDevices;
     QStatusBar *statusbar;
-    QDockWidget *dockWidget;
-    QWidget *dockWidgetContents;
-    QHBoxLayout *horizontalLayout_3;
-    ntk::ImageWidget *depthView;
-    QDockWidget *dockWidget_2;
-    QWidget *dockWidgetContents_2;
-    QHBoxLayout *horizontalLayout_4;
-    ntk::ImageWidget *intensityView;
-    QDockWidget *dockWidget_3;
-    QWidget *dockWidgetContents_3;
-    QHBoxLayout *horizontalLayout_5;
-    ntk::ImageWidget *amplitudeView;
     QDockWidget *dockWidget_4;
     QWidget *dockWidgetContents_4;
     QHBoxLayout *horizontalLayout_6;
@@ -90,15 +77,11 @@ public:
     QHBoxLayout *horizontalLayout_7;
     QFrame *line_3;
     QLineEdit *outputDirText;
-    QComboBox *loadSequence;
+    QPushButton *startRecordingPushButton;
     QLabel *label;
     QFrame *line_2;
     QCheckBox *syncMode;
-    QFrame *line;
-    QSpacerItem *horizontalSpacer;
-    QLabel *distanceLabel;
-    QPushButton *startRecordingPushButton;
-    QPushButton *stopRecordingPushButton;
+    QComboBox *loadSequence;
     QPushButton *replayPushButton;
 
     void setupUi(QMainWindow *RawImagesWindow)
@@ -214,68 +197,23 @@ public:
         statusbar = new QStatusBar(RawImagesWindow);
         statusbar->setObjectName(QString::fromUtf8("statusbar"));
         RawImagesWindow->setStatusBar(statusbar);
-        dockWidget = new QDockWidget(RawImagesWindow);
-        dockWidget->setObjectName(QString::fromUtf8("dockWidget"));
-        dockWidgetContents = new QWidget();
-        dockWidgetContents->setObjectName(QString::fromUtf8("dockWidgetContents"));
-        dockWidgetContents->setMinimumSize(QSize(160, 120));
-        horizontalLayout_3 = new QHBoxLayout(dockWidgetContents);
-        horizontalLayout_3->setObjectName(QString::fromUtf8("horizontalLayout_3"));
-        depthView = new ntk::ImageWidget(dockWidgetContents);
-        depthView->setObjectName(QString::fromUtf8("depthView"));
-        QSizePolicy sizePolicy1(QSizePolicy::Preferred, QSizePolicy::Preferred);
-        sizePolicy1.setHorizontalStretch(0);
-        sizePolicy1.setVerticalStretch(0);
-        sizePolicy1.setHeightForWidth(depthView->sizePolicy().hasHeightForWidth());
-        depthView->setSizePolicy(sizePolicy1);
-
-        horizontalLayout_3->addWidget(depthView);
-
-        dockWidget->setWidget(dockWidgetContents);
-        RawImagesWindow->addDockWidget(static_cast<Qt::DockWidgetArea>(2), dockWidget);
-        dockWidget_2 = new QDockWidget(RawImagesWindow);
-        dockWidget_2->setObjectName(QString::fromUtf8("dockWidget_2"));
-        dockWidgetContents_2 = new QWidget();
-        dockWidgetContents_2->setObjectName(QString::fromUtf8("dockWidgetContents_2"));
-        dockWidgetContents_2->setMinimumSize(QSize(160, 120));
-        horizontalLayout_4 = new QHBoxLayout(dockWidgetContents_2);
-        horizontalLayout_4->setObjectName(QString::fromUtf8("horizontalLayout_4"));
-        intensityView = new ntk::ImageWidget(dockWidgetContents_2);
-        intensityView->setObjectName(QString::fromUtf8("intensityView"));
-
-        horizontalLayout_4->addWidget(intensityView);
-
-        dockWidget_2->setWidget(dockWidgetContents_2);
-        RawImagesWindow->addDockWidget(static_cast<Qt::DockWidgetArea>(2), dockWidget_2);
-        dockWidget_3 = new QDockWidget(RawImagesWindow);
-        dockWidget_3->setObjectName(QString::fromUtf8("dockWidget_3"));
-        dockWidgetContents_3 = new QWidget();
-        dockWidgetContents_3->setObjectName(QString::fromUtf8("dockWidgetContents_3"));
-        dockWidgetContents_3->setMinimumSize(QSize(160, 120));
-        horizontalLayout_5 = new QHBoxLayout(dockWidgetContents_3);
-        horizontalLayout_5->setObjectName(QString::fromUtf8("horizontalLayout_5"));
-        amplitudeView = new ntk::ImageWidget(dockWidgetContents_3);
-        amplitudeView->setObjectName(QString::fromUtf8("amplitudeView"));
-
-        horizontalLayout_5->addWidget(amplitudeView);
-
-        dockWidget_3->setWidget(dockWidgetContents_3);
-        RawImagesWindow->addDockWidget(static_cast<Qt::DockWidgetArea>(2), dockWidget_3);
         dockWidget_4 = new QDockWidget(RawImagesWindow);
         dockWidget_4->setObjectName(QString::fromUtf8("dockWidget_4"));
+        dockWidget_4->setMinimumWidth(952);
         dockWidgetContents_4 = new QWidget();
         dockWidgetContents_4->setObjectName(QString::fromUtf8("dockWidgetContents_4"));
-        QSizePolicy sizePolicy2(QSizePolicy::Fixed, QSizePolicy::Fixed);
-        sizePolicy2.setHorizontalStretch(0);
-        sizePolicy2.setVerticalStretch(0);
-        sizePolicy2.setHeightForWidth(dockWidgetContents_4->sizePolicy().hasHeightForWidth());
-        dockWidgetContents_4->setSizePolicy(sizePolicy2);
+        QSizePolicy sizePolicy1(QSizePolicy::Fixed, QSizePolicy::Fixed);
+        sizePolicy1.setHorizontalStretch(0);
+        sizePolicy1.setVerticalStretch(0);
+        sizePolicy1.setHeightForWidth(dockWidgetContents_4->sizePolicy().hasHeightForWidth());
+        dockWidgetContents_4->setSizePolicy(sizePolicy1);
         horizontalLayout_6 = new QHBoxLayout(dockWidgetContents_4);
         horizontalLayout_6->setObjectName(QString::fromUtf8("horizontalLayout_6"));
         frame = new QFrame(dockWidgetContents_4);
         frame->setObjectName(QString::fromUtf8("frame"));
-        sizePolicy2.setHeightForWidth(frame->sizePolicy().hasHeightForWidth());
-        frame->setSizePolicy(sizePolicy2);
+        frame->setMinimumWidth(930);
+        sizePolicy1.setHeightForWidth(frame->sizePolicy().hasHeightForWidth());
+        frame->setSizePolicy(sizePolicy1);
         frame->setFrameShape(QFrame::Panel);
         frame->setFrameShadow(QFrame::Raised);
         frame->setLineWidth(1);
@@ -290,18 +228,19 @@ public:
 
         outputDirText = new QLineEdit(frame);
         outputDirText->setObjectName(QString::fromUtf8("outputDirText"));
-        outputDirText->setMinimumSize(QSize(100, 0));
+        outputDirText->setMinimumSize(QSize(75, 10));
         outputDirText->setFocusPolicy(Qt::ClickFocus);
 
         horizontalLayout_7->addWidget(outputDirText);
 
-        loadSequence = new QComboBox(frame);
-        loadSequence->setObjectName(QString::fromUtf8("loadSequence"));
+        startRecordingPushButton = new QPushButton(frame);
+        startRecordingPushButton->setObjectName(QString::fromUtf8("startRecordingPushButton"));
 
-        horizontalLayout_7->addWidget(loadSequence);
+        horizontalLayout_7->addWidget(startRecordingPushButton);
 
         label = new QLabel(frame);
         label->setObjectName(QString::fromUtf8("label"));
+        label->setMinimumWidth(50);
 
         horizontalLayout_7->addWidget(label);
 
@@ -318,31 +257,10 @@ public:
 
         horizontalLayout_7->addWidget(syncMode);
 
-        line = new QFrame(frame);
-        line->setObjectName(QString::fromUtf8("line"));
-        line->setFrameShape(QFrame::HLine);
-        line->setFrameShadow(QFrame::Sunken);
+        loadSequence = new QComboBox(frame);
+        loadSequence->setObjectName(QString::fromUtf8("loadSequence"));
 
-        horizontalLayout_7->addWidget(line);
-
-        horizontalSpacer = new QSpacerItem(10, 20, QSizePolicy::Expanding, QSizePolicy::Minimum);
-
-        horizontalLayout_7->addItem(horizontalSpacer);
-
-        distanceLabel = new QLabel(frame);
-        distanceLabel->setObjectName(QString::fromUtf8("distanceLabel"));
-
-        horizontalLayout_7->addWidget(distanceLabel);
-
-        startRecordingPushButton = new QPushButton(frame);
-        startRecordingPushButton->setObjectName(QString::fromUtf8("startRecordingPushButton"));
-
-        horizontalLayout_7->addWidget(startRecordingPushButton);
-
-        stopRecordingPushButton = new QPushButton(frame);
-        stopRecordingPushButton->setObjectName(QString::fromUtf8("stopRecordingPushButton"));
-
-        horizontalLayout_7->addWidget(stopRecordingPushButton);
+        horizontalLayout_7->addWidget(loadSequence);
 
         replayPushButton = new QPushButton(frame);
         replayPushButton->setObjectName(QString::fromUtf8("replayPushButton"));
@@ -423,16 +341,11 @@ public:
         menuFile->setTitle(QApplication::translate("RawImagesWindow", "&File", 0, QApplication::UnicodeUTF8));
         menuCapture->setTitle(QApplication::translate("RawImagesWindow", "Capture", 0, QApplication::UnicodeUTF8));
         menuDevices->setTitle(QApplication::translate("RawImagesWindow", "Devices", 0, QApplication::UnicodeUTF8));
-        dockWidget->setWindowTitle(QApplication::translate("RawImagesWindow", "Depth Image", 0, QApplication::UnicodeUTF8));
-        dockWidget_2->setWindowTitle(QApplication::translate("RawImagesWindow", "Intensity Image (IR)", 0, QApplication::UnicodeUTF8));
-        dockWidget_3->setWindowTitle(QApplication::translate("RawImagesWindow", "Amplitude image", 0, QApplication::UnicodeUTF8));
         dockWidget_4->setWindowTitle(QApplication::translate("RawImagesWindow", "Options", 0, QApplication::UnicodeUTF8));
         outputDirText->setText(QApplication::translate("RawImagesWindow", "calibration", 0, QApplication::UnicodeUTF8));
+        startRecordingPushButton->setText(QApplication::translate("RawImagesWindow", "Start Recording", 0, QApplication::UnicodeUTF8));
         label->setText(QString());
         syncMode->setText(QApplication::translate("RawImagesWindow", "Sync", 0, QApplication::UnicodeUTF8));
-        distanceLabel->setText(QApplication::translate("RawImagesWindow", "D at (x,y) = 0 m ", 0, QApplication::UnicodeUTF8));
-        startRecordingPushButton->setText(QApplication::translate("RawImagesWindow", "StartRecording", 0, QApplication::UnicodeUTF8));
-        stopRecordingPushButton->setText(QApplication::translate("RawImagesWindow", "StopRecording", 0, QApplication::UnicodeUTF8));
         replayPushButton->setText(QApplication::translate("RawImagesWindow", "Replay", 0, QApplication::UnicodeUTF8));
     } // retranslateUi
 

@@ -42,9 +42,9 @@ RawImagesWindow::RawImagesWindow(GuiMultiKinectController& controller, QWidget *
 {
     ui->setupUi(this);
 
-    connect(ui->depthView, SIGNAL(mouseMoved(int,int)),
+    /*connect(ui->depthView, SIGNAL(mouseMoved(int,int)),
             &m_controller, SLOT(on_depth_mouse_moved(int,int)));
-    ui->depthView->setMouseTracking(true);
+    ui->depthView->setMouseTracking(true);*/
 
     ui->action_Show_Object_Detector->setDisabled(true);
     ui->action_3D_View->setDisabled(true);
@@ -78,6 +78,7 @@ void RawImagesWindow :: update(const ntk::RGBDImage& image)
 {
     if (ui->colorView->isVisible())
         ui->colorView->setImage(image.rgb());
+   /*
     if (ui->depthView->isVisible())
     {
         double min_dist = m_controller.scanner().processorBlock().minDepth();
@@ -99,6 +100,7 @@ void RawImagesWindow :: update(const ntk::RGBDImage& image)
     int x,y;
     ui->depthView->getLastMousePos(x,y);
     m_controller.on_depth_mouse_moved(x,y);
+    */
 }
 
 void RawImagesWindow::closeEvent(QCloseEvent *event)
@@ -234,24 +236,25 @@ void RawImagesWindow::on_actionGrab_one_frame_triggered()
 }
 
 void RawImagesWindow::on_startRecordingPushButton_clicked() {
-    QString output = ui->outputDirText->text();
-    if (ui->loadSequence->findText(output) == -1) {
-        printf("Start Recording\n");
-        m_controller.scanner().saveGrabbersCalibration(output.toStdString()); //Gets set to whatever's displayed in the text field
-        m_controller.toggleRecording(true);
-        ui->label->setText("Recording");
-        ui->loadSequence->addItem(output);
-        ui->loadSequence->setCurrentIndex(ui->loadSequence->count()-1);
+    if (ui->startRecordingPushButton->text() == "Start Recording") {
+        QString output = ui->outputDirText->text();
+        if (ui->loadSequence->findText(output) == -1) {
+            printf("Start Recording\n");
+            m_controller.scanner().saveGrabbersCalibration(output.toStdString()); //Gets set to whatever's displayed in the text field
+            m_controller.toggleRecording(true);
+            ui->label->setText("Recording");
+            ui->loadSequence->addItem(output);
+            ui->loadSequence->setCurrentIndex(ui->loadSequence->count()-1);
+            ui->startRecordingPushButton->setText("Stop Recording");
+        } else {
+            printf("this file already exisits\n");
+            ui->label->setText("This file already exists");
+        }
     } else {
-        ui->label->setText("This file already exists");
+        printf("Stop Recording\n");
+        m_controller.toggleRecording(false);
+        ui->startRecordingPushButton->setText("Start Recording");
     }
-    
-}
-
-void RawImagesWindow::on_stopRecordingPushButton_clicked() {
-    printf("Stop Recording\n");
-    m_controller.toggleRecording(false);
-    //m_controller.replay(false);
 }
 
 void RawImagesWindow::on_replayPushButton_clicked() {
