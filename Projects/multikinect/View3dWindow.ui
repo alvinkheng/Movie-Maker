@@ -82,29 +82,6 @@
                                 </layout>
                             </item>
                             <item>
-                                <widget class="QDoubleSpinBox" name="pointCloudSpinBox">
-                                    <property name="minimum">
-                                        <double>1.0</double>
-                                    </property>
-                                    <property name="maximum">
-                                        <double>5.0</double>
-                                    </property>
-                                    <property name="singleStep">
-                                        <double>0.1</double>
-                                    </property>
-                                    <property name="value">
-                                        <double>1.0</double>
-                                    </property>
-                                </widget>
-                            </item>
-                            <item>
-                                <widget class="QLabel" name="pointCloudSizeLabel">
-                                    <property name="text">
-                                        <string>Point Cloud Size</string>
-                                    </property>
-                                </widget>
-                            </item>
-                            <item>
                                 <spacer name="horizontalSpacer">
                                     <property name="orientation">
                                         <enum>Qt::Horizontal</enum>
@@ -123,59 +100,59 @@
                 
                 
                 <!--
-                <item>
-                    <widget class="QFrame" name="frame0">
-                        <property name="sizePolicy">
-                            <sizepolicy hsizetype="Preferred" vsizetype="Fixed">
-                                <horstretch>0</horstretch>
-                                <verstretch>0</verstretch>
-                            </sizepolicy>
-                        </property>
-                        <property name="frameShape">
-                            <enum>QFrame::StyledPanel</enum>
-                        </property>
-                        <property name="frameShadow">
-                            <enum>QFrame::Raised</enum>
-                        </property>
-                        <layout class="QHBoxLayout" name="horizontalLayout0">
-                            <item>
-                                <widget class="QPushButton" name="sceneViewButton">
-                                    <property name="text">
-                                        <string>Scene View</string>
-                                    </property>
-                                </widget>
-                            </item>
-                            <item>
-                                <widget class="QPushButton" name="camViewButton">
-                                    <property name="text">
-                                        <string>Cam View</string>
-                                    </property>
-                                </widget>
-                            </item>
-                            <item>
-                                <widget class="QPushButton" name="dualViewButton">
-                                    <property name="text">
-                                        <string>Dual View</string>
-                                    </property>
-                                </widget>
-                            </item>
-                            <item>
-                                <spacer name="horizontalSpacer">
-                                    <property name="orientation">
-                                        <enum>Qt::Horizontal</enum>
-                                    </property>
-                                    <property name="sizeHint" stdset="0">
-                                        <size>
-                                            <width>40</width>
-                                            <height>20</height>
-                                        </size>
-                                    </property>
-                                </spacer>
-                            </item>
-                        </layout>
-                    </widget>
-                </item>
-                -->
+                 <item>
+                 <widget class="QFrame" name="frame0">
+                 <property name="sizePolicy">
+                 <sizepolicy hsizetype="Preferred" vsizetype="Fixed">
+                 <horstretch>0</horstretch>
+                 <verstretch>0</verstretch>
+                 </sizepolicy>
+                 </property>
+                 <property name="frameShape">
+                 <enum>QFrame::StyledPanel</enum>
+                 </property>
+                 <property name="frameShadow">
+                 <enum>QFrame::Raised</enum>
+                 </property>
+                 <layout class="QHBoxLayout" name="horizontalLayout0">
+                 <item>
+                 <widget class="QPushButton" name="sceneViewButton">
+                 <property name="text">
+                 <string>Scene View</string>
+                 </property>
+                 </widget>
+                 </item>
+                 <item>
+                 <widget class="QPushButton" name="camViewButton">
+                 <property name="text">
+                 <string>Cam View</string>
+                 </property>
+                 </widget>
+                 </item>
+                 <item>
+                 <widget class="QPushButton" name="dualViewButton">
+                 <property name="text">
+                 <string>Dual View</string>
+                 </property>
+                 </widget>
+                 </item>
+                 <item>
+                 <spacer name="horizontalSpacer">
+                 <property name="orientation">
+                 <enum>Qt::Horizontal</enum>
+                 </property>
+                 <property name="sizeHint" stdset="0">
+                 <size>
+                 <width>40</width>
+                 <height>20</height>
+                 </size>
+                 </property>
+                 </spacer>
+                 </item>
+                 </layout>
+                 </widget>
+                 </item>
+                 -->
                 
                 
                 
@@ -214,27 +191,6 @@
                                 </widget>
                             </item>
                             <item>
-                                <widget class="QPushButton" name="pointCloudPushButton">
-                                    <property name="text">
-                                        <string>PointCloud</string>
-                                    </property>
-                                </widget>
-                            </item>
-                            <item>
-                                <widget class="QPushButton" name="surfelsPushButton">
-                                    <property name="text">
-                                        <string>Surfels</string>
-                                    </property>
-                                </widget>
-                            </item>
-                            <item>
-                                <widget class="QPushButton" name="trianglePushButton">
-                                    <property name="text">
-                                        <string>Triangles</string>
-                                    </property>
-                                </widget>
-                            </item>
-                            <item>
                                 <widget class="QCheckBox" name="mergeViewsCheckBox">
                                     <property name="text">
                                         <string>Merge views</string>
@@ -251,67 +207,6 @@
                                     </property>
                                 </widget>
                             </item>
-                            <item>
-                                <spacer name="horizontalSpacer">
-                                    <property name="orientation">
-                                        <enum>Qt::Horizontal</enum>
-                                    </property>
-                                    <property name="sizeHint" stdset="0">
-                                        <size>
-                                            <width>40</width>
-                                            <height>20</height>
-                                        </size>
-                                    </property>
-                                </spacer>
-                            </item>
-                            <item>
-                                <widget class="QLabel" name="label">
-                                    <property name="text">
-                                        <string>Resolution factor</string>
-                                    </property>
-                                </widget>
-                            </item>
-                            <item>
-                                <widget class="QDoubleSpinBox" name="resolutionFactorSpinBox">
-                                    <property name="minimum">
-                                        <double>0.100000000000000</double>
-                                    </property>
-                                    <property name="maximum">
-                                        <double>4.000000000000000</double>
-                                    </property>
-                                    <property name="singleStep">
-                                        <double>0.100000000000000</double>
-                                    </property>
-                                    <property name="value">
-                                        <double>1.000000000000000</double>
-                                    </property>
-                                </widget>
-                            </item>
-                            <item>
-                                <widget class="QPushButton" name="resetCamera">
-                                    <property name="text">
-                                        <string>Reset camera</string>
-                                    </property>
-                                </widget>
-                            </item>
-                        </layout>
-                    </widget>
-                </item>
-                <item>
-                    <widget class="QFrame" name="frame_3">
-                        <property name="sizePolicy">
-                            <sizepolicy hsizetype="Preferred" vsizetype="Fixed">
-                                <horstretch>0</horstretch>
-                                <verstretch>0</verstretch>
-                            </sizepolicy>
-                        </property>
-                        <property name="frameShape">
-                            <enum>QFrame::StyledPanel</enum>
-                        </property>
-                        <property name="frameShadow">
-                            <enum>QFrame::Raised</enum>
-                        </property>
-                        <layout class="QHBoxLayout" name="horizontalLayout_3">
                             <item>
                                 <widget class="QLabel" name="label_2">
                                     <property name="text">
@@ -433,14 +328,7 @@
                                 </widget>
                             </item>
                             <item>
-                                <widget class="QPushButton" name="refineWithICPButton">
-                                    <property name="text">
-                                        <string>Refine with ICP</string>
-                                    </property>
-                                </widget>
-                            </item>
-                            <item>
-                                <spacer name="horizontalSpacer_2">
+                                <spacer name="horizontalSpacer">
                                     <property name="orientation">
                                         <enum>Qt::Horizontal</enum>
                                     </property>
@@ -451,6 +339,43 @@
                                         </size>
                                     </property>
                                 </spacer>
+                            </item>
+                            <item>
+                                <widget class="QLabel" name="pointCloudSizeLabel">
+                                    <property name="text">
+                                        <string>Point Cloud Size</string>
+                                    </property>
+                                </widget>
+                            </item>
+                            <item>
+                                <widget class="QDoubleSpinBox" name="pointCloudSpinBox">
+                                    <property name="minimum">
+                                        <double>1.0</double>
+                                    </property>
+                                    <property name="maximum">
+                                        <double>5.0</double>
+                                    </property>
+                                    <property name="singleStep">
+                                        <double>0.1</double>
+                                    </property>
+                                    <property name="value">
+                                        <double>1.0</double>
+                                    </property>
+                                </widget>
+                            </item>
+                            <item>
+                                <widget class="QPushButton" name="refineWithICPButton">
+                                    <property name="text">
+                                        <string>Refine with ICP</string>
+                                    </property>
+                                </widget>
+                            </item>
+                            <item>
+                                <widget class="QPushButton" name="resetCamera">
+                                    <property name="text">
+                                        <string>Reset camera</string>
+                                    </property>
+                                </widget>
                             </item>
                         </layout>
                     </widget>
@@ -773,10 +698,10 @@
                                         <number>3</number>
                                     </property>
                                     <property name="minimum">
-                                        <double>-10.000000000000000</double>
+                                        <double>-360.000000000000000</double>
                                     </property>
                                     <property name="maximum">
-                                        <double>10.000000000000000</double>
+                                        <double>360.000000000000000</double>
                                     </property>
                                 </widget>
                             </item>
@@ -793,10 +718,10 @@
                                         <number>3</number>
                                     </property>
                                     <property name="minimum">
-                                        <double>-10.000000000000000</double>
+                                        <double>-360.000000000000000</double>
                                     </property>
                                     <property name="maximum">
-                                        <double>10.000000000000000</double>
+                                        <double>360.000000000000000</double>
                                     </property>
                                 </widget>
                             </item>
@@ -813,17 +738,17 @@
                                         <number>3</number>
                                     </property>
                                     <property name="minimum">
-                                        <double>-10.000000000000000</double>
+                                        <double>-360.000000000000000</double>
                                     </property>
                                     <property name="maximum">
-                                        <double>10.000000000000000</double>
+                                        <double>360.000000000000000</double>
                                     </property>
                                 </widget>
                             </item>
                             <item>
                                 <widget class="QPushButton" name="setCamera">
                                     <property name="text">
-                                        <string>Set Camera</string>
+                                        <string>Add Keyframe</string>
                                     </property>
                                 </widget>
                             </item>

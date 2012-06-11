@@ -391,7 +391,21 @@ void GuiMultiKinectController::toggleReplay() {
         scanner().setPaused(true);
         if (!m_replay_scanner.isPaused()) { //Hasn't been started yet    
             m_lastReplayDirectory = getRecordingDirectory();
-            for (int i = 0; i < scanner().numDevices(); i++) {
+            
+            QDir directory(("seq_" + m_lastReplayDirectory + "/").c_str());
+            for (int i = 0; i < directory.entryList().size(); i++) {
+                std::string deviceSerial = directory.entryList().at(i).toStdString();
+                if (deviceSerial.at(0) != '.') {
+                    FileGrabber *fileGrabber = new FileGrabber("seq_" + m_lastReplayDirectory + "/" + deviceSerial, true);
+                    ntk::RGBDCalibration* calib_data = new RGBDCalibration();
+                    std::string calibration = m_lastReplayDirectory + "-" + deviceSerial + ".yml";
+                    calib_data->loadFromFile(calibration.c_str());
+                    fileGrabber->setCalibrationData(*calib_data);
+                    m_replay_scanner.addGrabber(fileGrabber);
+                }
+            }
+            
+            /*for (int i = 0; i < scanner().numDevices(); i++) {
                 std::string deviceSerial = scanner().getDeviceInfo(i).serial;
                 FileGrabber *fileGrabber = new FileGrabber("seq_" + m_lastReplayDirectory + "/" + deviceSerial, true);
                 ntk::RGBDCalibration* calib_data = new RGBDCalibration();
@@ -399,7 +413,7 @@ void GuiMultiKinectController::toggleReplay() {
                 calib_data->loadFromFile(calibration.c_str());
                 fileGrabber->setCalibrationData(*calib_data);
                 m_replay_scanner.addGrabber(fileGrabber);
-            }        
+            }    */    
             m_replay_scanner.start();
             m_replay_scanner.setConnected(true);
             m_replay_scanner.meshGeneratorBlock().setConnected(true);
